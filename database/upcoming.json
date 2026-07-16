@@ -1,5 +1,90 @@
 [
   {
+    "id": 214070,
+    "id_mal": null,
+    "url": "https://anilist.co/anime/214070",
+    "title": {
+      "english": "Dust of the Simulacrum",
+      "romaji": "Sazin no Nakade",
+      "native": "砂塵ノ中デ"
+    },
+    "description": "A young girl arrives of the surface of a harsh and dangerous world. There she meets a boy prepared to confront those dangers. Each is there with a purpose, as the world around them gradually falls apart, atom by atom—or rather, datum by datum.<br><br>\n(Source: Fantasia Festival)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx214070-DvLRZXO5xGo6.png",
+    "banner_url": "",
+    "schedule": "Episode 1 tayang pada 19/7/2026, 02.00.00 WIB",
+    "next_episode": 1,
+    "next_airing_timestamp": 1784401200,
+    "season": "SUMMER",
+    "year": 2026,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 21,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Action",
+      "Sci-Fi"
+    ],
+    "updated_at": 1784242996
+  },
+  {
+    "id": 214068,
+    "id_mal": 63739,
+    "url": "https://anilist.co/anime/214068",
+    "title": {
+      "english": "Echo",
+      "romaji": "Moshi, Korekara Umarerunonara",
+      "native": "もし、これから生まれるのなら"
+    },
+    "description": "Among a primordial ocean of stars, two innocent, identical children share a vessel. It comes to ground on a strange, liminal world, where a mischievous spirit appears, announcing itself as their guide on the nine-month journey ahead of them. Here in the world we know, meanwhile, a bereaved and pregnant woman struggles with grief and terrible uncertainty.<br><br>\n(Source: Fantasia Festival)<br><br>\n<i>Note: Originally released on March 6, 2026 as a part of \"Gemnibus Vol. 2\" anthology, however was also simultaneously selected to screen, and then later premiered at Fantasia International Film Festival.</i>",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx214068-th35W8qQmycd.png",
+    "banner_url": "",
+    "schedule": "Episode 1 tayang pada 19/7/2026, 02.00.00 WIB",
+    "next_episode": 1,
+    "next_airing_timestamp": 1784401200,
+    "season": "SUMMER",
+    "year": 2026,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 20,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Drama",
+      "Fantasy"
+    ],
+    "updated_at": 1784242996
+  },
+  {
+    "id": 214067,
+    "id_mal": null,
+    "url": "https://anilist.co/anime/214067",
+    "title": {
+      "english": "20001 An Earth Odyssey",
+      "romaji": "20001-nen Chikyuu no Tabi",
+      "native": "20001年 地球の旅"
+    },
+    "description": "Captain Kepo and his crew, the inquisitive agent Alcia and naive junior teammate Rigel, arrive on an alien planet to explore, and attempt to understand, the mysterious remnants of a highly intelligent species that was once dominant, and is now long departed. The planet these three strange creatures are visiting? Earth.<br><br>\n(Source: Fantasia Festival)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx214067-695OvCTmT3ZB.png",
+    "banner_url": "",
+    "schedule": "Episode 1 tayang pada 19/7/2026, 02.00.00 WIB",
+    "next_episode": 1,
+    "next_airing_timestamp": 1784401200,
+    "season": "",
+    "year": null,
+    "format": "",
+    "episodes": null,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Sci-Fi"
+    ],
+    "updated_at": 1784242996
+  },
+  {
     "id": 214049,
     "id_mal": 64600,
     "url": "https://anilist.co/anime/214049",
@@ -310,7 +395,7 @@
       "Mystery",
       "Romance"
     ],
-    "updated_at": 1783944122
+    "updated_at": 1784242996
   },
   {
     "id": 213814,
@@ -625,7 +710,7 @@
       "Mecha",
       "Sci-Fi"
     ],
-    "updated_at": 1783948342
+    "updated_at": 1784242996
   },
   {
     "id": 213497,
@@ -686,6 +771,37 @@
       "Thriller"
     ],
     "updated_at": 1783947778
+  },
+  {
+    "id": 213396,
+    "id_mal": 64449,
+    "url": "https://anilist.co/anime/213396",
+    "title": {
+      "english": "",
+      "romaji": "Higurashi no Naku Koro ni (Shin Anime)",
+      "native": "ひぐらしのなく頃に (新アニメ)"
+    },
+    "description": "Everyone, welcome back.<br><br>\n<i>Note: Title and relations are provisional and subject to change.</i>",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx213396-OJFP3YkNcPGK.jpg",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "TV",
+    "episodes": null,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Psychological",
+      "Supernatural",
+      "Thriller"
+    ],
+    "updated_at": 1784242996
   },
   {
     "id": 213363,
@@ -835,6 +951,60 @@
     "updated_at": 1783945812
   },
   {
+    "id": 213067,
+    "id_mal": 64405,
+    "url": "https://anilist.co/anime/213067",
+    "title": {
+      "english": "",
+      "romaji": "Netorareta Bakunyuu Tsuma-tachi 2",
+      "native": "寝取られた爆乳妻たち2"
+    },
+    "description": "<i>Big Dick Next Door</i>",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx213067-KYqjKEUZ6tBM.png",
+    "banner_url": "",
+    "schedule": "Episode 1 tayang pada 17/9/2026, 22.00.00 WIB",
+    "next_episode": 1,
+    "next_airing_timestamp": 1789657200,
+    "season": "SUMMER",
+    "year": 2026,
+    "format": "OVA",
+    "episodes": 2,
+    "duration": 20,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Hentai"
+    ],
+    "updated_at": 1784242996
+  },
+  {
+    "id": 213066,
+    "id_mal": 64404,
+    "url": "https://anilist.co/anime/213066",
+    "title": {
+      "english": "",
+      "romaji": "Muramata-san no Aijou",
+      "native": "村又さんの愛情"
+    },
+    "description": "Tidak ada deskripsi.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx213066-6gYdsenxcjWx.png",
+    "banner_url": "",
+    "schedule": "Episode 1 tayang pada 10/9/2026, 22.00.00 WIB",
+    "next_episode": 1,
+    "next_airing_timestamp": 1789052400,
+    "season": "SUMMER",
+    "year": 2026,
+    "format": "OVA",
+    "episodes": 3,
+    "duration": 20,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Hentai"
+    ],
+    "updated_at": 1784242996
+  },
+  {
     "id": 213052,
     "id_mal": 64374,
     "url": "https://anilist.co/anime/213052",
@@ -862,6 +1032,35 @@
       "Romance"
     ],
     "updated_at": 1783948413
+  },
+  {
+    "id": 212799,
+    "id_mal": 64326,
+    "url": "https://anilist.co/anime/212799",
+    "title": {
+      "english": "",
+      "romaji": "Marronnier Oukoku no Shichinin no Kishi",
+      "native": "マロニエ王国の七人の騎士"
+    },
+    "description": "A story about seven brothers and knights who live in the Marronnier Kingdom, which is surrounded by seven neighboring countries.\n<br><br>\nThe seven brothers are ordered by their mother, the female general Baribara, to go to each country as ambassadors in order to appeal to the seven neighboring countries that they are friendly.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx212799-Z2CWiIgI8FCP.jpg",
+    "banner_url": "",
+    "schedule": "Musim: FALL 2026",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "FALL",
+    "year": 2026,
+    "format": "TV",
+    "episodes": null,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Comedy",
+      "Fantasy",
+      "Romance"
+    ],
+    "updated_at": 1784242996
   },
   {
     "id": 212618,
@@ -894,6 +1093,63 @@
       "Mystery"
     ],
     "updated_at": 1783948413
+  },
+  {
+    "id": 212507,
+    "id_mal": 64253,
+    "url": "https://anilist.co/anime/212507",
+    "title": {
+      "english": "",
+      "romaji": "Gekkakoku Kiiden",
+      "native": "月華国奇医伝"
+    },
+    "description": "A beautifully illustrated shoujo manga tale of medicine, royal intrigue, and romance in a setting inspired by historical China!<br><br>\n\nWhether it be for illness or injury, the preferred healing method in Moon Flower Kingdom has always been the country’s special medicinal baths. However, after his party is attacked by a mysterious figure during a regional inspection, Prince Keiun witnesses a never-before-seen lifesaving medical technique. Even more shocking still, the one who performed this feat is a young girl named Koyo! And while luck may have been on their side this time, questions remain. Just who is this girl, and who is after the prince’s life?<br><br>\n\n(Source: Seven Seas Entertainment)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx212507-5nbraiGAp1Km.jpg",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "TV",
+    "episodes": null,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "updated_at": 1784242996
+  },
+  {
+    "id": 212272,
+    "id_mal": 64250,
+    "url": "https://anilist.co/anime/212272",
+    "title": {
+      "english": "",
+      "romaji": "Deco x Deco THE ANIMATION",
+      "native": "デコ×デコ THE ANIMATION"
+    },
+    "description": "<b>Episode 1</b> - <i>Wanshot Underpuppy</i><br>\nYuna, a slutty landmine who preys on virgins, is looking for an exclusive photographer on Insta. One day, just when she thought another creepy otaku was going to show up as usual, a total hottie appeared instead…!? So desperate to have sex with him, Yuna can’t help but beg for his cock, wiggling her hips back and forth… \n<br><br>\n<b>Episode 2</b> - <i>Yes My Kitty</i><br>\nMiyo is stunningly beautiful and the center of everyone’s attention. Only her childhood friend and boyfriend, Atsuki, knew her true self!! And just like always, the two of them start a challenge where the winner gets to give the loser a sexy command! Game → Relentless breast play → Game → Teasing titfuck. How will their fast-paced showdown play out!? \n<br><br>\n(Source: PinkPineapple, transtaled)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx212272-VcnUqLIAarAD.png",
+    "banner_url": "",
+    "schedule": "Episode 1 tayang pada 30/7/2026, 22.00.00 WIB",
+    "next_episode": 1,
+    "next_airing_timestamp": 1785423600,
+    "season": "SUMMER",
+    "year": 2026,
+    "format": "OVA",
+    "episodes": null,
+    "duration": 20,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Comedy",
+      "Hentai",
+      "Romance"
+    ],
+    "updated_at": 1784242996
   },
   {
     "id": 211877,
@@ -977,6 +1233,37 @@
       "Fantasy"
     ],
     "updated_at": 1783947887
+  },
+  {
+    "id": 211495,
+    "id_mal": 64059,
+    "url": "https://anilist.co/anime/211495",
+    "title": {
+      "english": "",
+      "romaji": "Boushoku no Berserk 2nd Season",
+      "native": "暴食のベルセルク第2期"
+    },
+    "description": "The second season of <i>Boushoku no Berserk</i>.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx211495-7y66zYmcVgc9.jpg",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "TV",
+    "episodes": null,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Fantasy",
+      "Romance"
+    ],
+    "updated_at": 1784242996
   },
   {
     "id": 211308,
@@ -1091,7 +1378,7 @@
       "Action",
       "Fantasy"
     ],
-    "updated_at": 1783948115
+    "updated_at": 1784242996
   },
   {
     "id": 210483,
@@ -1386,6 +1673,37 @@
     "updated_at": 1783948413
   },
   {
+    "id": 207385,
+    "id_mal": 63442,
+    "url": "https://anilist.co/anime/207385",
+    "title": {
+      "english": "",
+      "romaji": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka VI",
+      "native": "ダンジョンに出会いを求めるのは間違っているだろうかⅤI"
+    },
+    "description": "The sixth season of <i>Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka</i>.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx207385-hyeDUEGGUxeV.jpg",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "TV",
+    "episodes": null,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Fantasy",
+      "Romance"
+    ],
+    "updated_at": 1784242996
+  },
+  {
     "id": 207328,
     "id_mal": 63424,
     "url": "https://anilist.co/anime/207328",
@@ -1673,7 +1991,7 @@
       "Sci-Fi",
       "Supernatural"
     ],
-    "updated_at": 1783945912
+    "updated_at": 1784242996
   },
   {
     "id": 204579,
@@ -1702,7 +2020,35 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1783962141
+    "updated_at": 1784242996
+  },
+  {
+    "id": 204363,
+    "id_mal": 63139,
+    "url": "https://anilist.co/anime/204363",
+    "title": {
+      "english": "SAKAMOTO DAYS Season 2",
+      "romaji": "SAKAMOTO DAYS 2nd Season",
+      "native": "SAKAMOTO DAYS 第2期"
+    },
+    "description": "The second season of <i>SAKAMOTO DAYS</i>.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx204363-pUGhxMRo5rvD.jpg",
+    "banner_url": "",
+    "schedule": "Musim: WINTER 2027",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "WINTER",
+    "year": 2027,
+    "format": "TV",
+    "episodes": null,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Action",
+      "Comedy"
+    ],
+    "updated_at": 1784242996
   },
   {
     "id": 204362,
@@ -1847,6 +2193,35 @@
     "updated_at": 1783951258
   },
   {
+    "id": 202564,
+    "id_mal": 62989,
+    "url": "https://anilist.co/anime/202564",
+    "title": {
+      "english": "",
+      "romaji": "Kakunaru Ue wa",
+      "native": "描くなるうえは"
+    },
+    "description": "Opposites attract in this hysterical rom-com about two high school manga artists who can’t catch a break!\n<br><br>\nDweeby high schooler Uehara Yuuki has created the perfect romantic comedy heroine—she’s bashful, airheaded, and completely chaste. When an editor at Uehara’s dream publisher coldly dismisses his manga story as trite and lacking realism, it sends Uehara into a spiral of despair that pushes him into the path of his bubbly, gorgeous classmate, Miyamoto Niina—an aspiring manga artist herself! Having gotten similar feedback on her own manga, Miyamoto proposes she and Uehara engage in a fake relationship, since neither of them have any romantic experience. But Miyamoto is far from the perfect heroine Uehara’s concocted, and he certainly isn’t the cocky hero from her story either. Can their wacky relationship turn their manga dreams into reality, or will it lead to even more comic disasters?\n<br><br>\n(Source: Seven Seas Entertainment)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx202564-gLnCiyS8vHsB.jpg",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "TV",
+    "episodes": null,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Comedy",
+      "Ecchi",
+      "Romance"
+    ],
+    "updated_at": 1784242996
+  },
+  {
     "id": 202503,
     "id_mal": 62978,
     "url": "https://anilist.co/anime/202503",
@@ -1873,7 +2248,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1783948382
+    "updated_at": 1784242996
   },
   {
     "id": 202429,
@@ -1901,6 +2276,34 @@
       "Drama"
     ],
     "updated_at": 1783951256
+  },
+  {
+    "id": 202390,
+    "id_mal": 39168,
+    "url": "https://anilist.co/anime/202390",
+    "title": {
+      "english": "",
+      "romaji": "Girls und Panzer: Saishuushou 5",
+      "native": "ガールズ＆パンツァー 最終章 第5話"
+    },
+    "description": "The fifth film in the six-part <i>Girls und Panzer: Saishuushou</i> film series.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b202390-XrdgWaUKxDUg.jpg",
+    "banner_url": "",
+    "schedule": "Episode 1 tayang pada 8/10/2026, 22.00.00 WIB",
+    "next_episode": 1,
+    "next_airing_timestamp": 1791471600,
+    "season": "FALL",
+    "year": 2026,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Action",
+      "Sports"
+    ],
+    "updated_at": 1784242996
   },
   {
     "id": 202282,
@@ -1957,7 +2360,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1783945904
+    "updated_at": 1784242996
   },
   {
     "id": 200929,
@@ -2164,6 +2567,34 @@
     "updated_at": 1783962141
   },
   {
+    "id": 198692,
+    "id_mal": 62469,
+    "url": "https://anilist.co/anime/198692",
+    "title": {
+      "english": "",
+      "romaji": "Izure Saikyou no Renkinjutsushi? 2nd Season",
+      "native": "いずれ最強の錬金術師？ 第2期"
+    },
+    "description": "The second season of <i>Izure Saikyou no Renkinjutsushi?</i>",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx198692-QmXyp7pcQJpL.png",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "TV",
+    "episodes": null,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Adventure",
+      "Fantasy"
+    ],
+    "updated_at": 1784242996
+  },
+  {
     "id": 195516,
     "id_mal": 61987,
     "url": "https://anilist.co/anime/195516",
@@ -2246,7 +2677,7 @@
     "genres": [
       "Sports"
     ],
-    "updated_at": 1783948181
+    "updated_at": 1784242996
   },
   {
     "id": 191656,
@@ -2275,6 +2706,34 @@
       "Slice of Life"
     ],
     "updated_at": 1783951252
+  },
+  {
+    "id": 190574,
+    "id_mal": null,
+    "url": "https://anilist.co/anime/190574",
+    "title": {
+      "english": "",
+      "romaji": "Hinagiku no Jinsei",
+      "native": "ひな菊の人生"
+    },
+    "description": "“Daisy's Life” follows the emotional journey of a six-year-old girl named Daisy, who loses her mother in a tragic accident and struggles to adapt to life with her aunt. One sleepless night, she encounters a mysterious girl named Dahlia at her window. Their days together begin to transcend time and space, bringing a cosmic perspective to Daisy's modest life in a downtown yakisoba restaurant.<br><br>\n(Source: Variety)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/default.jpg",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Drama",
+      "Fantasy"
+    ],
+    "updated_at": 1784242996
   },
   {
     "id": 189796,
@@ -2331,6 +2790,64 @@
       "Romance"
     ],
     "updated_at": 1783948381
+  },
+  {
+    "id": 188546,
+    "id_mal": 61282,
+    "url": "https://anilist.co/anime/188546",
+    "title": {
+      "english": "",
+      "romaji": "Ore to Yuu-nii!",
+      "native": "俺と悠兄！"
+    },
+    "description": "After leaving a scar on his best friend's face years ago, Tsubaki feels responsible and is determined to grow up big and strong so he can protect Yuu. Yuu is already in high school and Tsubaki is only in elementary, but he is sure that his feelings will get through and Yuu will eventually come to rely on him.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx188546-unC9pna5yjl7.jpg",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "TV",
+    "episodes": null,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Romance",
+      "Slice of Life"
+    ],
+    "updated_at": 1784242996
+  },
+  {
+    "id": 187477,
+    "id_mal": 38717,
+    "url": "https://anilist.co/anime/187477",
+    "title": {
+      "english": "",
+      "romaji": "Kidou Senshi Gundam: Senkou no Hathaway Movie 3 (Provisional Title)",
+      "native": "機動戦士ガンダム 閃光のハサウェイ 第3作（仮題）"
+    },
+    "description": "Third movie in the Hathaway trilogy celebrating the Gundam franchise's 40th anniversary.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx187477-4EJQHXNJDCa6.png",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Action",
+      "Drama",
+      "Mecha",
+      "Sci-Fi"
+    ],
+    "updated_at": 1784242996
   },
   {
     "id": 186712,
@@ -2678,6 +3195,35 @@
     "updated_at": 1783948318
   },
   {
+    "id": 178031,
+    "id_mal": 59068,
+    "url": "https://anilist.co/anime/178031",
+    "title": {
+      "english": "Delicious in Dungeon Season 2",
+      "romaji": "Dungeon Meshi 2nd Season",
+      "native": "ダンジョン飯 第２期"
+    },
+    "description": "The second season of <i>Dungeon Meshi</i>.\n\n",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178031-XNWYP6Qf18bB.png",
+    "banner_url": "",
+    "schedule": "Musim: FALL 2027",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "FALL",
+    "year": 2027,
+    "format": "ONA",
+    "episodes": null,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Fantasy"
+    ],
+    "updated_at": 1784242996
+  },
+  {
     "id": 177704,
     "id_mal": 58934,
     "url": "https://anilist.co/anime/177704",
@@ -2791,6 +3337,36 @@
     "updated_at": 1783951255
   },
   {
+    "id": 169581,
+    "id_mal": 56733,
+    "url": "https://anilist.co/anime/169581",
+    "title": {
+      "english": "",
+      "romaji": "Magical★Explorer: Eroge no Yuujin Chara ni Tensei Shitakedo, Game Chishiki Tsukatte Jiyuu ni Ikiru",
+      "native": "マジカル★エクスプローラー　エロゲの友人キャラに転生したけど、ゲーム知識使って自由に生きる"
+    },
+    "description": "Few titles are more revered among horndogs-(ahem) connoisseurs of Japanese erotic video games-than Magical Explorer. One day, our smut-loving hero wakes up to find he has been reincarnated into the body of the game’s dreamboat protagonist! Or rather, his hapless comic-relief best friend, Kousuke Takioto. But with his unparalleled knowledge of Magical Explorer and Kousuke’s unorthodox abilities (a scarf that doubles as a fist?), our hero vows to turn the game’s unluckiest loser into its mightiest heartthrob. In this world, nothing is out of reach when you’ve got the know-how!\n<br><br>\n(Source: Yen Press)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169581-Y6vEnIDIogsJ.jpg",
+    "banner_url": "",
+    "schedule": "Musim: FALL 2026",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "FALL",
+    "year": 2026,
+    "format": "TV",
+    "episodes": null,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Adventure",
+      "Ecchi",
+      "Fantasy",
+      "Romance"
+    ],
+    "updated_at": 1784242996
+  },
+  {
     "id": 169579,
     "id_mal": 56732,
     "url": "https://anilist.co/anime/169579",
@@ -2850,6 +3426,62 @@
       "Romance"
     ],
     "updated_at": 1783945894
+  },
+  {
+    "id": 166686,
+    "id_mal": 55843,
+    "url": "https://anilist.co/anime/166686",
+    "title": {
+      "english": "Rebuild World",
+      "romaji": "Rebuild World",
+      "native": "リビルドワールド"
+    },
+    "description": "The pinnacle of human civilization has come and gone, leaving only ruins in its wake. Society and science now struggle to rebuild, rediscovering scraps of knowledge from powerful ancient artifacts that defy comprehension. These relics of the “Old World” can make the fortunes of those who find them—if ancient security systems and rogue bioweapons don’t kill the relic hunters first. Akira, a young street orphan, sets out to become one such hunter to escape his brutal life in the slums. Untrained, malnourished, and poorly armed, Akira would be lucky to make it back from the ruins alive—until an encounter with Alpha, a mysterious, ghostly woman, changes his fate forever. Alpha needs a hunter, and she’s willing to train Akira to get one. Will her support be enough to help a penniless kid from the slums climb to the top of a crushing and merciless world?<br>\n<br>\n(Source: J-Novel Club)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx166686-S8Y85XwjC8ro.jpg",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "TV",
+    "episodes": null,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Action",
+      "Sci-Fi"
+    ],
+    "updated_at": 1784242996
+  },
+  {
+    "id": 166457,
+    "id_mal": 55744,
+    "url": "https://anilist.co/anime/166457",
+    "title": {
+      "english": "",
+      "romaji": "Ousama Ranking Movie",
+      "native": "劇場版 王様ランキング"
+    },
+    "description": "Announced on the \"Ousama Ranking: Yuuki no Kinenhi\" special program and subsequently the official Twitter account, a new <i>Ranking of Kings</i> movie is in production. <br><br>\n<i>Note: Relations are provisional and will be updated when more info is announced.</i>",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b166457-hI9SK3OcEQ54.png",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Adventure",
+      "Fantasy"
+    ],
+    "updated_at": 1784242996
   },
   {
     "id": 163790,
@@ -2941,6 +3573,35 @@
     "updated_at": 1783962141
   },
   {
+    "id": 138511,
+    "id_mal": 49703,
+    "url": "https://anilist.co/anime/138511",
+    "title": {
+      "english": "",
+      "romaji": "Fate/kaleid liner Prisma☆Illya (Provisional Title)",
+      "native": "Fate/kaleid liner プリズマ☆イリヤ（仮）"
+    },
+    "description": "New sequel to the <i>Fate/kaleid liner Prisma☆Illya</i> series.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx138511-sMxqJBKwWLlk.jpg",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "",
+    "episodes": null,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Action",
+      "Fantasy",
+      "Mahou Shoujo"
+    ],
+    "updated_at": 1784242996
+  },
+  {
     "id": 133904,
     "id_mal": null,
     "url": "https://anilist.co/anime/133904",
@@ -2995,6 +3656,37 @@
       "Romance"
     ],
     "updated_at": 1783948408
+  },
+  {
+    "id": 114441,
+    "id_mal": null,
+    "url": "https://anilist.co/anime/114441",
+    "title": {
+      "english": "",
+      "romaji": "Ane Naru Mono",
+      "native": "姉なるもの"
+    },
+    "description": "When an orphan encounters the eldritch demon Shub-Niggurath, the \"Black Goat of the Woods with a Thousand Young\" offers him one wish. His request: \"Become my big sister.\"<br>\n<br>\n(Source: Yen Press)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b114441-DkWOy3ykZxmt.png",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/114441-AZcxoW9W4YaG.jpg",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "OVA",
+    "episodes": null,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Ecchi",
+      "Horror",
+      "Romance",
+      "Slice of Life",
+      "Supernatural"
+    ],
+    "updated_at": 1784242996
   },
   {
     "id": 112295,
