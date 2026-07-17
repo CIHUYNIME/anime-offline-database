@@ -195,7 +195,7 @@
       "Comedy",
       "Romance"
     ],
-    "updated_at": 1784297599
+    "updated_at": 1784329393
   },
   {
     "id": 214044,
@@ -390,7 +390,7 @@
     "genres": [
       "Action"
     ],
-    "updated_at": 1784300508
+    "updated_at": 1784329393
   },
   {
     "id": 213878,
@@ -415,7 +415,7 @@
     "status": "NOT_YET_RELEASED",
     "score": null,
     "genres": [],
-    "updated_at": 1784253710
+    "updated_at": 1784329393
   },
   {
     "id": 213877,
@@ -1122,7 +1122,7 @@
       "Fantasy",
       "Supernatural"
     ],
-    "updated_at": 1784318468
+    "updated_at": 1784329393
   },
   {
     "id": 213579,
@@ -1357,7 +1357,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784322117
+    "updated_at": 1784329393
   },
   {
     "id": 213360,
@@ -1614,7 +1614,7 @@
       "Drama",
       "Romance"
     ],
-    "updated_at": 1784304124
+    "updated_at": 1784329393
   },
   {
     "id": 213020,
@@ -1669,7 +1669,7 @@
       "Sci-Fi",
       "Supernatural"
     ],
-    "updated_at": 1784246842
+    "updated_at": 1784329393
   },
   {
     "id": 212888,
@@ -2357,7 +2357,7 @@
       "Drama",
       "Romance"
     ],
-    "updated_at": 1784246841
+    "updated_at": 1784329393
   },
   {
     "id": 211258,
@@ -2651,7 +2651,7 @@
       "Drama",
       "Fantasy"
     ],
-    "updated_at": 1784322107
+    "updated_at": 1784329393
   },
   {
     "id": 209939,
@@ -2824,7 +2824,7 @@
       "Comedy",
       "Romance"
     ],
-    "updated_at": 1784297603
+    "updated_at": 1784329393
   },
   {
     "id": 209499,
@@ -3659,7 +3659,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784268121
+    "updated_at": 1784329393
   },
   {
     "id": 205430,
@@ -3748,7 +3748,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784307728
+    "updated_at": 1784329393
   },
   {
     "id": 205068,
@@ -4411,7 +4411,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784322117
+    "updated_at": 1784329393
   },
   {
     "id": 203129,
@@ -4870,7 +4870,35 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784304124
+    "updated_at": 1784329393
+  },
+  {
+    "id": 200294,
+    "id_mal": 62696,
+    "url": "https://anilist.co/anime/200294",
+    "title": {
+      "english": "",
+      "romaji": "Choujun! Choujou Senpai",
+      "native": "超巡！超条先輩"
+    },
+    "description": "In Chinjuku, the city that never sleeps, there is a psychic senior police officer who has powers beyond human comprehension! His name is Meguru Chojo! Along with his judo expert partner Nao Ippongi, this hilarious duo will keep the streets clean by any means necessary!",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx200294-E6KIgkFaJOfG.jpg",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/200294-PPEwId1xfGNO.jpg",
+    "schedule": "Musim: FALL 2026",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "FALL",
+    "year": 2026,
+    "format": "TV",
+    "episodes": null,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Comedy",
+      "Slice of Life"
+    ],
+    "updated_at": 1784329393
   },
   {
     "id": 199793,
@@ -4902,7 +4930,7 @@
       "Slice of Life",
       "Supernatural"
     ],
-    "updated_at": 1784325871
+    "updated_at": 1784329393
   },
   {
     "id": 199597,
@@ -6351,7 +6379,7 @@
       "Comedy",
       "Romance"
     ],
-    "updated_at": 1784246825
+    "updated_at": 1784329393
   },
   {
     "id": 189323,
@@ -6612,7 +6640,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784275323
+    "updated_at": 1784329393
   },
   {
     "id": 187361,
@@ -7063,7 +7091,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784318467
+    "updated_at": 1784329393
   },
   {
     "id": 185543,
@@ -7181,7 +7209,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784286117
+    "updated_at": 1784329393
   },
   {
     "id": 184141,
@@ -7209,7 +7237,7 @@
       "Comedy",
       "Sports"
     ],
-    "updated_at": 1784246809
+    "updated_at": 1784329393
   },
   {
     "id": 184072,
@@ -7266,7 +7294,36 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784246809
+    "updated_at": 1784329393
+  },
+  {
+    "id": 183418,
+    "id_mal": 59878,
+    "url": "https://anilist.co/anime/183418",
+    "title": {
+      "english": "Gill",
+      "romaji": "Agami",
+      "native": "아가미"
+    },
+    "description": "A boy called Gon was on the verge of death, when suddenly gills started to grow and he could breathe again. Kang Ha and his grandpa rescue Gon and together they become an odd family. This film explores life's paradoxes, blessings and curses. It will encourage you to think about your own \"gills\" to help you get through your life.<br><br>\n\n(Source: Annecy Festival)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx183418-H9kQf5985Jsm.jpg",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/183418-JEqR1OmEo4vC.jpg",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 104,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Drama",
+      "Psychological",
+      "Supernatural"
+    ],
+    "updated_at": 1784329393
   },
   {
     "id": 183272,
@@ -7555,7 +7612,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784307728
+    "updated_at": 1784329393
   },
   {
     "id": 178083,
@@ -7646,6 +7703,31 @@
     "updated_at": 1783945811
   },
   {
+    "id": 177463,
+    "id_mal": null,
+    "url": "https://anilist.co/anime/177463",
+    "title": {
+      "english": "",
+      "romaji": "You Ming Zhi",
+      "native": "幽明志"
+    },
+    "description": "Adapted from Chinese folk legend \"Zhou Chu & The Three Scourges\"\n",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177463-8FordvNAbHSk.jpg",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "",
+    "episodes": null,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [],
+    "updated_at": 1784329393
+  },
+  {
     "id": 176910,
     "id_mal": 58756,
     "url": "https://anilist.co/anime/176910",
@@ -7727,7 +7809,7 @@
       "Fantasy",
       "Mahou Shoujo"
     ],
-    "updated_at": 1784268121
+    "updated_at": 1784329393
   },
   {
     "id": 174871,
@@ -8389,7 +8471,7 @@
       "Mahou Shoujo",
       "Thriller"
     ],
-    "updated_at": 1784322117
+    "updated_at": 1784329393
   },
   {
     "id": 160275,
@@ -8566,7 +8648,7 @@
       "Drama",
       "Sports"
     ],
-    "updated_at": 1784322117
+    "updated_at": 1784329393
   },
   {
     "id": 152677,
