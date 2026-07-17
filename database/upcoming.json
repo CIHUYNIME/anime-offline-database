@@ -81,7 +81,7 @@
       "Action",
       "Sci-Fi"
     ],
-    "updated_at": 1784253710
+    "updated_at": 1784268121
   },
   {
     "id": 214068,
@@ -109,7 +109,7 @@
       "Drama",
       "Fantasy"
     ],
-    "updated_at": 1784242996
+    "updated_at": 1784268121
   },
   {
     "id": 214067,
@@ -139,6 +139,35 @@
       "Sci-Fi"
     ],
     "updated_at": 1784258444
+  },
+  {
+    "id": 214055,
+    "id_mal": null,
+    "url": "https://anilist.co/anime/214055",
+    "title": {
+      "english": "",
+      "romaji": "Toratsugumi: Tsugumi Project",
+      "native": "虎鶫　－ＴＳＵＧＵＭＩ　ＰＲＯＪＥＣＴ－"
+    },
+    "description": "In the far future, a soldier named Leon is taken from his family on a trumped-up charge and dropped into a suicide mission: Recover a dangerous weapon from a deadly place — a place ruled by huge, irradiated, mutated monsters — a place once known, 200 years ago, as Japan. He and his teammates aren't expected to survive this place. One of the scant pieces of information they have is the weapon's name: Tsugumi.<br><br>\n(Source: Kodansha USA)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx214055-zqLxU88Wtnek.jpg",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "TV",
+    "episodes": null,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "updated_at": 1784268095
   },
   {
     "id": 214049,
@@ -249,7 +278,7 @@
       "Action",
       "Fantasy"
     ],
-    "updated_at": 1783945891
+    "updated_at": 1784268121
   },
   {
     "id": 213929,
@@ -305,7 +334,7 @@
     "genres": [
       "Slice of Life"
     ],
-    "updated_at": 1783962141
+    "updated_at": 1784268121
   },
   {
     "id": 213891,
@@ -334,7 +363,7 @@
       "Mystery",
       "Supernatural"
     ],
-    "updated_at": 1783945885
+    "updated_at": 1784268121
   },
   {
     "id": 213879,
@@ -672,7 +701,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784246843
+    "updated_at": 1784268100
   },
   {
     "id": 213782,
@@ -870,7 +899,7 @@
     "genres": [
       "Sports"
     ],
-    "updated_at": 1784253709
+    "updated_at": 1784268121
   },
   {
     "id": 213656,
@@ -927,7 +956,7 @@
     "genres": [
       "Sci-Fi"
     ],
-    "updated_at": 1784246843
+    "updated_at": 1784268121
   },
   {
     "id": 213628,
@@ -983,7 +1012,7 @@
       "Comedy",
       "Romance"
     ],
-    "updated_at": 1784246843
+    "updated_at": 1784268121
   },
   {
     "id": 213580,
@@ -1072,7 +1101,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1783947764
+    "updated_at": 1784268121
   },
   {
     "id": 213486,
@@ -1129,7 +1158,7 @@
       "Drama",
       "Psychological"
     ],
-    "updated_at": 1784246843
+    "updated_at": 1784268121
   },
   {
     "id": 213457,
@@ -1248,7 +1277,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784253710
+    "updated_at": 1784268121
   },
   {
     "id": 213360,
@@ -1275,7 +1304,7 @@
     "genres": [
       "Drama"
     ],
-    "updated_at": 1783945870
+    "updated_at": 1784268108
   },
   {
     "id": 213338,
@@ -1304,7 +1333,7 @@
       "Comedy",
       "Drama"
     ],
-    "updated_at": 1783948362
+    "updated_at": 1784268121
   },
   {
     "id": 213316,
@@ -1337,7 +1366,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1783962141
+    "updated_at": 1784268121
   },
   {
     "id": 213131,
@@ -1477,7 +1506,7 @@
       "Drama",
       "Romance"
     ],
-    "updated_at": 1784246842
+    "updated_at": 1784268121
   },
   {
     "id": 212955,
@@ -1537,7 +1566,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784253696
+    "updated_at": 1784268097
   },
   {
     "id": 212799,
@@ -1742,6 +1771,34 @@
       "Romance"
     ],
     "updated_at": 1784242996
+  },
+  {
+    "id": 212144,
+    "id_mal": 64180,
+    "url": "https://anilist.co/anime/212144",
+    "title": {
+      "english": "",
+      "romaji": "Kizu darake Seijo yori Houfuku wo Komete Season2",
+      "native": "傷だらけ聖女より報復をこめて Season2"
+    },
+    "description": "The second season of <i>Kizu darake Seijo yori Houfuku wo Komete</i>.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b212144-9qJMcEdy4Xbo.jpg",
+    "banner_url": "",
+    "schedule": "Musim: FALL 2026",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "FALL",
+    "year": 2026,
+    "format": "TV_SHORT",
+    "episodes": null,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Fantasy",
+      "Romance"
+    ],
+    "updated_at": 1784268121
   },
   {
     "id": 212105,
@@ -2087,7 +2144,7 @@
       "Ecchi",
       "Fantasy"
     ],
-    "updated_at": 1784246841
+    "updated_at": 1784268121
   },
   {
     "id": 210482,
@@ -2267,7 +2324,7 @@
       "Drama",
       "Fantasy"
     ],
-    "updated_at": 1784253710
+    "updated_at": 1784268092
   },
   {
     "id": 209939,
@@ -2355,7 +2412,7 @@
       "Psychological",
       "Supernatural"
     ],
-    "updated_at": 1784253650
+    "updated_at": 1784268104
   },
   {
     "id": 209762,
@@ -2412,7 +2469,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1783948413
+    "updated_at": 1784268121
   },
   {
     "id": 209502,
@@ -2443,6 +2500,34 @@
     "updated_at": 1784253710
   },
   {
+    "id": 209499,
+    "id_mal": 63751,
+    "url": "https://anilist.co/anime/209499",
+    "title": {
+      "english": "",
+      "romaji": "TANK CHAIR: Sensha Isu",
+      "native": "TANK CHAIR-戦車椅子-"
+    },
+    "description": "Shizuka takes on the most dangerous of assassin jobs, but she's not the one doing the killing. Rather, it's her brother, Nagi, a strong assassin who took a bullet to protect his sister, leaving him in a comatose state and having to use a wheelchair. However, Shizuka has figured out the key to waking her brother up: he must be faced with killing intent! Thus begins a violent journey of recovery, battling the most dangerous foes!\n<br><br>\n(Source: Kodansha USA)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx209499-sxqd8SZtWbFm.jpg",
+    "banner_url": "",
+    "schedule": "Musim: FALL 2026",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "FALL",
+    "year": 2026,
+    "format": "TV",
+    "episodes": null,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Action",
+      "Sci-Fi"
+    ],
+    "updated_at": 1784268121
+  },
+  {
     "id": 209247,
     "id_mal": 63735,
     "url": "https://anilist.co/anime/209247",
@@ -2469,7 +2554,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784246841
+    "updated_at": 1784268110
   },
   {
     "id": 209224,
@@ -2529,6 +2614,33 @@
       "Fantasy"
     ],
     "updated_at": 1784246841
+  },
+  {
+    "id": 209032,
+    "id_mal": 63667,
+    "url": "https://anilist.co/anime/209032",
+    "title": {
+      "english": "",
+      "romaji": "Mahou no Shimai LuluttoLilly Part 2",
+      "native": "魔法の姉妹ルルットリリィ 第2クール"
+    },
+    "description": "<i>The second half of Mahou no Shimai LuluttoLilly.</i>",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx209032-FX1Fb5AOoS93.jpg",
+    "banner_url": "",
+    "schedule": "Musim: FALL 2026",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "FALL",
+    "year": 2026,
+    "format": "TV",
+    "episodes": null,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Mahou Shoujo"
+    ],
+    "updated_at": 1784268121
   },
   {
     "id": 208766,
@@ -2702,7 +2814,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784253710
+    "updated_at": 1784268093
   },
   {
     "id": 207328,
@@ -2760,7 +2872,7 @@
       "Mystery",
       "Romance"
     ],
-    "updated_at": 1784246840
+    "updated_at": 1784268096
   },
   {
     "id": 207191,
@@ -2789,6 +2901,33 @@
       "Romance"
     ],
     "updated_at": 1784253706
+  },
+  {
+    "id": 206949,
+    "id_mal": 63382,
+    "url": "https://anilist.co/anime/206949",
+    "title": {
+      "english": "",
+      "romaji": "Kyouran Reijou Nia Liston",
+      "native": "凶乱令嬢ニア・リストン"
+    },
+    "description": "A great hero lies undefeated on her deathbed, regretting that she never found a foe who could take her down. She never intended to meet her fate anywhere other than on the battlefield, and her peaceful demise has her wishing desperately that things could have been different... But when she suddenly comes to in the body of the young, frail Nia Liston, she’s got an all-new fight ahead of her. Nia is a sickly child, meaning she has a long way to go before she’s in fighting form. Now that she’s been given a second shot at life, however, she’s determined to get what she wants. She’s going to live—and die—for battle this time! Make way for the Merciless Maiden!<br>\n<br>\n(Source: J-Novel Club)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx206949-OwIba0xC2YQm.jpg",
+    "banner_url": "",
+    "schedule": "Musim: FALL 2026",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "FALL",
+    "year": 2026,
+    "format": "TV",
+    "episodes": null,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Fantasy"
+    ],
+    "updated_at": 1784268121
   },
   {
     "id": 206874,
@@ -2820,7 +2959,7 @@
       "Supernatural",
       "Thriller"
     ],
-    "updated_at": 1784246840
+    "updated_at": 1784268121
   },
   {
     "id": 206812,
@@ -2987,7 +3126,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784246837
+    "updated_at": 1784268121
   },
   {
     "id": 205619,
@@ -3017,6 +3156,35 @@
       "Fantasy"
     ],
     "updated_at": 1784246837
+  },
+  {
+    "id": 205432,
+    "id_mal": 63254,
+    "url": "https://anilist.co/anime/205432",
+    "title": {
+      "english": "",
+      "romaji": "Isshun de Chiryou Shiteita no ni Yakutatazu to Tsuihou Sareta Tensai Chiyushi, Yami Healer Toshite Tanoshiku Ikiru 2nd Season",
+      "native": "一瞬で治療していたのに役立たずと追放された天才治癒師、闇ヒーラーとして楽しく生きる 第2期"
+    },
+    "description": "The second season of <i>Isshun de Chiryou Shiteita no ni Yakutatazu to Tsuihou Sareta Tensai Chiyushi, Yami Healer Toshite Tanoshiku Ikiru</i>.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx205432-mdVMzRqyksHx.jpg",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "TV",
+    "episodes": null,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Fantasy"
+    ],
+    "updated_at": 1784268121
   },
   {
     "id": 205430,
@@ -3194,6 +3362,35 @@
     "updated_at": 1784246837
   },
   {
+    "id": 204650,
+    "id_mal": 63181,
+    "url": "https://anilist.co/anime/204650",
+    "title": {
+      "english": "Tougen Anki: Nikko Kegon Falls Arc",
+      "romaji": "Tougen Anki: Nikko・Kegon no Taki-hen",
+      "native": "桃源暗鬼 日光・華厳の滝編"
+    },
+    "description": "Sequel to <i>Tougen Anki</i>.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx204650-5qXlU69CHwKA.jpg",
+    "banner_url": "",
+    "schedule": "Musim: FALL 2026",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "FALL",
+    "year": 2026,
+    "format": "TV",
+    "episodes": null,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Action",
+      "Mystery",
+      "Supernatural"
+    ],
+    "updated_at": 1784268121
+  },
+  {
     "id": 204604,
     "id_mal": 63177,
     "url": "https://anilist.co/anime/204604",
@@ -3250,7 +3447,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784242996
+    "updated_at": 1784268121
   },
   {
     "id": 204436,
@@ -3364,7 +3561,7 @@
       "Action",
       "Comedy"
     ],
-    "updated_at": 1784242996
+    "updated_at": 1784268121
   },
   {
     "id": 204362,
@@ -3392,7 +3589,7 @@
       "Action",
       "Sci-Fi"
     ],
-    "updated_at": 1784253674
+    "updated_at": 1784268121
   },
   {
     "id": 204293,
@@ -3424,7 +3621,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784246836
+    "updated_at": 1784268121
   },
   {
     "id": 204286,
@@ -3480,7 +3677,7 @@
       "Adventure",
       "Sci-Fi"
     ],
-    "updated_at": 1784246836
+    "updated_at": 1784268094
   },
   {
     "id": 203855,
@@ -3819,6 +4016,37 @@
     "updated_at": 1783962141
   },
   {
+    "id": 202253,
+    "id_mal": 62931,
+    "url": "https://anilist.co/anime/202253",
+    "title": {
+      "english": "",
+      "romaji": "DEATH STRANDING ISOLATIONS (Working Title)",
+      "native": "DEATH STRANDING ISOLATIONS (Working Title)"
+    },
+    "description": "An original anime series based on the “Death Stranding” video game. <br><br>\n\nOnce, there was an explosion... \n<br><br>\nLonesome souls of the dead manifest in the physical world, reaching in search of the living. However, the connection they create triggers a massive explosion that eradicates anything of this world—a phenomenon referred to as the Death Stranding. These events wipe out nations as well as civilization itself. People who remain are now isolated, withdrawn, and without connections. As humanity stands at the brink a legendary porter set out to transport both cargo and wishes of its senders, reconnecting people in the hope that they might still be saved. \n<br><br>\nSomewhere in North America, just as Sam Bridges walks through the continent in order to save America, the someones are also trying to deal with their isolation in their own way. An old man trying to realize salvation through ways outside of the connection advocated by Bridges. A female warrior who tries to kickstart a world of constant fighting. A boy with a grudge against Bridges. A girl who embraces loneliness. <br><br>\n\nOn the precipice of the end of humanity and the world, their fates and hopes converge, as another story of Death Stranding begins. \n<br>\nAnd now, comes another explosion... <br><br>\n\n(Source: KOJIMA PRODUCTIONS, edited)\n\n<br><br><i>Note: Title and Relations are provisional and will be updated when more info is announced.</i>",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx202253-yXhyhChbYDBG.jpg",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "ONA",
+    "episodes": null,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Horror",
+      "Sci-Fi",
+      "Supernatural"
+    ],
+    "updated_at": 1784268108
+  },
+  {
     "id": 202251,
     "id_mal": 62924,
     "url": "https://anilist.co/anime/202251",
@@ -3991,6 +4219,35 @@
       "Romance"
     ],
     "updated_at": 1783962141
+  },
+  {
+    "id": 200455,
+    "id_mal": 62753,
+    "url": "https://anilist.co/anime/200455",
+    "title": {
+      "english": "",
+      "romaji": "Yowaki MAX Reijou Nano ni, Ratsuwan Konyakusha-sama no Kake ni Notte Shimatta",
+      "native": "弱気MAX令嬢なのに、辣腕婚約者様の賭けに乗ってしまった"
+    },
+    "description": "I was reborn as a villainous daughter in a reverse harem otome game. \n<br><br>\nAfter being sick with a high fever at the age of 10, Pia Rockwell suddenly remembered her past life as a university student in Japan. But far from going down the villainess route, all this super timid girl wants is to finally use her knowledge from when she was a grad student studying to get her doctorate in paleontology. Her ultimate goal is to become a commoner, excavate fossils, build a museum and then become a curator.\n<br><br>\nSo in order to escape the villainess route and avoid being deported by her fiancé during the graduation ball, Pia decides to avoid the upcoming hurt and heartache and asks to break off her engagement to Rufus, the Prime Minister's son.\n<br><br>\nBut will her cunning fiancé let her go that easily?",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b200455-gpDWDkMAEuM7.jpg",
+    "banner_url": "",
+    "schedule": "Musim: FALL 2026",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "FALL",
+    "year": 2026,
+    "format": "TV",
+    "episodes": null,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Comedy",
+      "Fantasy",
+      "Romance"
+    ],
+    "updated_at": 1784268121
   },
   {
     "id": 199793,
@@ -4285,7 +4542,37 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784253627
+    "updated_at": 1784268121
+  },
+  {
+    "id": 199150,
+    "id_mal": 62549,
+    "url": "https://anilist.co/anime/199150",
+    "title": {
+      "english": "",
+      "romaji": "DEATH STRANDING MOSQUITO (Working Title)",
+      "native": "DEATH STRANDING MOSQUITO (Working Title)"
+    },
+    "description": "Announced at the Kojima Productions 10th anniversary event: an anime film set in the “Death Stranding” video game series.\n\n<br><br><i>Note: Title and Relations are provisional and will be updated when more info is announced.</i>",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199150-neXyswwJIlnN.jpg",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Action",
+      "Horror",
+      "Sci-Fi",
+      "Supernatural"
+    ],
+    "updated_at": 1784268108
   },
   {
     "id": 199006,
@@ -4345,6 +4632,33 @@
       "Supernatural"
     ],
     "updated_at": 1784253645
+  },
+  {
+    "id": 198728,
+    "id_mal": 62483,
+    "url": "https://anilist.co/anime/198728",
+    "title": {
+      "english": "",
+      "romaji": "Kaze wo Tsugumono",
+      "native": "風を継ぐもの"
+    },
+    "description": "During the Bakumatsu era in the city of Kyoto, a soldier, his memories lost, is aided by Soji Okita, assistant officer of the Mibu Roshigumi.\n<br><br>\n<i>\"Your name is Jinsuke Tachikawa.\"</i>\n<br><br>\nJinsuke's life begins anew living among the Mibu soldiers.\n<br><br>\nPortraying the fleeting youth of these young people who lived in turbulent times, this original anime will bring their stories to life with sharp detail and a fresh perspective.<br><br>\n(Source: Aniplex Online Fest 2025)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx198728-RguTjB254b7H.jpg",
+    "banner_url": "",
+    "schedule": "Musim: WINTER 2027",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "WINTER",
+    "year": 2027,
+    "format": "TV",
+    "episodes": null,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Action"
+    ],
+    "updated_at": 1784268121
   },
   {
     "id": 198727,
@@ -4844,6 +5158,35 @@
     "updated_at": 1784246829
   },
   {
+    "id": 194116,
+    "id_mal": 64019,
+    "url": "https://anilist.co/anime/194116",
+    "title": {
+      "english": "",
+      "romaji": "Saishuu Gakushou Hibike! Euphonium - Kouhen",
+      "native": "最終楽章 響け！ユーフォニアム後編"
+    },
+    "description": "Sequel to <i>Saishuu Gakushou Hibike! Euphonium - Zenpen</i>.<br><br>\n<i>Note: Relations are provisional and subject to change.</i>",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx194116-KmxnVt6IzvtC.jpg",
+    "banner_url": "",
+    "schedule": "Episode 1 tayang pada 10/9/2026, 22.00.00 WIB",
+    "next_episode": 1,
+    "next_airing_timestamp": 1789052400,
+    "season": "FALL",
+    "year": 2026,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Drama",
+      "Music",
+      "Slice of Life"
+    ],
+    "updated_at": 1784268099
+  },
+  {
     "id": 193699,
     "id_mal": 61758,
     "url": "https://anilist.co/anime/193699",
@@ -4982,7 +5325,7 @@
     "genres": [
       "Sports"
     ],
-    "updated_at": 1784246827
+    "updated_at": 1784268121
   },
   {
     "id": 191656,
@@ -5246,6 +5589,33 @@
     "updated_at": 1784242996
   },
   {
+    "id": 187990,
+    "id_mal": null,
+    "url": "https://anilist.co/anime/187990",
+    "title": {
+      "english": "",
+      "romaji": "Battle Spirits [Re] Zekkai No Ku",
+      "native": "Battle Spirits [Re] 絶界の空"
+    },
+    "description": "New Battle Spirits TV Anime.<br><br>\n",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx187990-06i3idrs7NTF.png",
+    "banner_url": "",
+    "schedule": "Musim: FALL 2026",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "FALL",
+    "year": 2026,
+    "format": "TV",
+    "episodes": null,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Action"
+    ],
+    "updated_at": 1784268096
+  },
+  {
     "id": 187924,
     "id_mal": 61203,
     "url": "https://anilist.co/anime/187924",
@@ -5385,6 +5755,37 @@
     "score": null,
     "genres": [],
     "updated_at": 1784246818
+  },
+  {
+    "id": 186741,
+    "id_mal": 61015,
+    "url": "https://anilist.co/anime/186741",
+    "title": {
+      "english": "",
+      "romaji": "Himekishi-sama no Himo",
+      "native": "姫騎士様のヒモ"
+    },
+    "description": "Matthew is just another parasite in the chaotic dungeon city of Gray Neighbor. People say he's a lazy weakling who gambles and drinks away all the money he gets from his keeper, princess knight Arwin. But the truth is, no one in this town knows what he's really like—a ruthless protector who works in the shadows and will do whatever it takes for the sake of his mistress.\n<BR><BR>\n(Source: Yen Press)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186741-jfAFI71jie1x.jpg",
+    "banner_url": "",
+    "schedule": "Musim: WINTER 2027",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "WINTER",
+    "year": 2027,
+    "format": "TV",
+    "episodes": null,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Fantasy",
+      "Romance"
+    ],
+    "updated_at": 1784268121
   },
   {
     "id": 186712,
@@ -5698,7 +6099,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784246809
+    "updated_at": 1784268121
   },
   {
     "id": 184321,
@@ -5928,7 +6329,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784246806
+    "updated_at": 1784268096
   },
   {
     "id": 181641,
@@ -6132,6 +6533,36 @@
     "updated_at": 1784253675
   },
   {
+    "id": 178083,
+    "id_mal": 59088,
+    "url": "https://anilist.co/anime/178083",
+    "title": {
+      "english": "",
+      "romaji": "Tokyo Revengers: Santen Sensou-hen",
+      "native": "東京リベンジャーズ 三天戦争編"
+    },
+    "description": "Sequel to <i>Tokyo Revengers: Tenjiku-hen</i>.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178083-ORQ5BtwQsTbY.jpg",
+    "banner_url": "",
+    "schedule": "Musim: FALL 2026",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "FALL",
+    "year": 2026,
+    "format": "TV",
+    "episodes": null,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Action",
+      "Drama",
+      "Romance",
+      "Supernatural"
+    ],
+    "updated_at": 1784268114
+  },
+  {
     "id": 178031,
     "id_mal": 59068,
     "url": "https://anilist.co/anime/178031",
@@ -6244,7 +6675,7 @@
       "Fantasy",
       "Mahou Shoujo"
     ],
-    "updated_at": 1784246788
+    "updated_at": 1784268121
   },
   {
     "id": 174871,
@@ -6273,7 +6704,7 @@
       "Drama",
       "Sports"
     ],
-    "updated_at": 1784253653
+    "updated_at": 1784268120
   },
   {
     "id": 172192,
@@ -6302,7 +6733,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784253659
+    "updated_at": 1784268113
   },
   {
     "id": 171952,
@@ -6474,7 +6905,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784253707
+    "updated_at": 1784268121
   },
   {
     "id": 169579,
@@ -6909,6 +7340,35 @@
       "Fantasy"
     ],
     "updated_at": 1784246762
+  },
+  {
+    "id": 157330,
+    "id_mal": 57961,
+    "url": "https://anilist.co/anime/157330",
+    "title": {
+      "english": "",
+      "romaji": "Rakuen Tsuihou: Kokoro no Resonance",
+      "native": "楽園追放 心のレゾナンス"
+    },
+    "description": "A sequel movie to the 2014 movie <i>Rakuen Tsuihou: Expelled From Paradise.</i>",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx157330-7SmlAZjufVkl.jpg",
+    "banner_url": "",
+    "schedule": "Musim: FALL 2026",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "FALL",
+    "year": 2026,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Action",
+      "Mecha",
+      "Sci-Fi"
+    ],
+    "updated_at": 1784268099
   },
   {
     "id": 156631,
