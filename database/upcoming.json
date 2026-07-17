@@ -81,7 +81,7 @@
       "Action",
       "Sci-Fi"
     ],
-    "updated_at": 1784268121
+    "updated_at": 1784286117
   },
   {
     "id": 214068,
@@ -167,7 +167,7 @@
       "Adventure",
       "Sci-Fi"
     ],
-    "updated_at": 1784268095
+    "updated_at": 1784286117
   },
   {
     "id": 214049,
@@ -223,7 +223,7 @@
       "Comedy",
       "Romance"
     ],
-    "updated_at": 1784253638
+    "updated_at": 1784286117
   },
   {
     "id": 214018,
@@ -1506,7 +1506,32 @@
       "Drama",
       "Romance"
     ],
-    "updated_at": 1784268121
+    "updated_at": 1784286117
+  },
+  {
+    "id": 213020,
+    "id_mal": 64354,
+    "url": "https://anilist.co/anime/213020",
+    "title": {
+      "english": "",
+      "romaji": "Juuheisou-gata Joshikousei",
+      "native": "重兵装型女子高生"
+    },
+    "description": "As a mysterious girl gazes into the distant sky and a high school girl named Ichi stands still, the story follows what they will see within this devastated world and what kind of tale they will weave.<br><br>\n\n(Source: MAL News)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx213020-vurhZjTdOIWc.jpg",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "TV",
+    "episodes": null,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [],
+    "updated_at": 1784286117
   },
   {
     "id": 212955,
@@ -1967,7 +1992,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784246842
+    "updated_at": 1784286117
   },
   {
     "id": 211711,
@@ -2138,7 +2163,7 @@
       "Fantasy",
       "Mahou Shoujo"
     ],
-    "updated_at": 1783948258
+    "updated_at": 1784286117
   },
   {
     "id": 211304,
@@ -2343,7 +2368,7 @@
       "Romance",
       "Thriller"
     ],
-    "updated_at": 1784246841
+    "updated_at": 1784286117
   },
   {
     "id": 209984,
@@ -2722,7 +2747,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784246841
+    "updated_at": 1784286117
   },
   {
     "id": 209032,
@@ -3352,7 +3377,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1783962141
+    "updated_at": 1784286117
   },
   {
     "id": 205068,
@@ -3929,6 +3954,35 @@
     "updated_at": 1784246836
   },
   {
+    "id": 203275,
+    "id_mal": null,
+    "url": "https://anilist.co/anime/203275",
+    "title": {
+      "english": "Devils' Crest",
+      "romaji": "Demons' Crest",
+      "native": "デモンズ・クレスト"
+    },
+    "description": "Sixth-grader Yuuma Ashihara and his twin sister, Sawa, are playing Actual Magic , a brand-new virtual reality MMORPG, when it suddenly begins fusing with the real world. Amid all the chaos and confusion, it becomes clear that death is lurking around every corner, including when Yuuma runs into his classmate Sumika. Before, she was one of the cutest girls in his class, but she’s since undergone a terrible metamorphosis—into one of the game’s horrifying monsters! From the author of Sword Art Online and Accel World comes a story beyond VR and AR, where gaming and reality are one and the same…and staying alive is just the beginning!\n<br><br>\n(Source: Yen Press)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b203275-YyNHygkzIjMC.jpg",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/203275-g8zkD7HCkJCn.jpg",
+    "schedule": "Musim: FALL 2026",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "FALL",
+    "year": 2026,
+    "format": "TV",
+    "episodes": null,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "updated_at": 1784286117
+  },
+  {
     "id": 203129,
     "id_mal": null,
     "url": "https://anilist.co/anime/203129",
@@ -4068,7 +4122,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784246835
+    "updated_at": 1784286117
   },
   {
     "id": 202429,
@@ -4240,7 +4294,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784246835
+    "updated_at": 1784286117
   },
   {
     "id": 201388,
@@ -4680,7 +4734,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784268121
+    "updated_at": 1784286117
   },
   {
     "id": 199150,
@@ -5436,7 +5490,7 @@
       "Supernatural",
       "Thriller"
     ],
-    "updated_at": 1783945883
+    "updated_at": 1784286117
   },
   {
     "id": 191788,
@@ -5811,7 +5865,7 @@
       "Ecchi",
       "Fantasy"
     ],
-    "updated_at": 1784246821
+    "updated_at": 1784286117
   },
   {
     "id": 187477,
@@ -5841,7 +5895,7 @@
       "Mecha",
       "Sci-Fi"
     ],
-    "updated_at": 1784242996
+    "updated_at": 1784286117
   },
   {
     "id": 187402,
@@ -6212,6 +6266,35 @@
     "updated_at": 1784282525
   },
   {
+    "id": 185699,
+    "id_mal": 60555,
+    "url": "https://anilist.co/anime/185699",
+    "title": {
+      "english": "",
+      "romaji": "Ramen Aka Neko: Sono ni",
+      "native": "ラーメン赤猫 其の二"
+    },
+    "description": "The second season of <i>Ramen Aka Neko.</i>",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185699-4L2mtzKvHgaf.jpg",
+    "banner_url": "",
+    "schedule": "Musim: WINTER 2027",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "WINTER",
+    "year": 2027,
+    "format": "TV",
+    "episodes": null,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Comedy",
+      "Fantasy",
+      "Slice of Life"
+    ],
+    "updated_at": 1784286117
+  },
+  {
     "id": 185697,
     "id_mal": 60549,
     "url": "https://anilist.co/anime/185697",
@@ -6381,7 +6464,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784246809
+    "updated_at": 1784286117
   },
   {
     "id": 184141,
@@ -6553,7 +6636,7 @@
       "Mahou Shoujo",
       "Slice of Life"
     ],
-    "updated_at": 1784246807
+    "updated_at": 1784286117
   },
   {
     "id": 181951,
@@ -7884,6 +7967,183 @@
     "updated_at": 1784253695
   },
   {
+    "id": 127912,
+    "id_mal": 48502,
+    "url": "https://anilist.co/anime/127912",
+    "title": {
+      "english": "",
+      "romaji": "Liu Yao",
+      "native": "六爻"
+    },
+    "description": "A cultivation story about how a declining sect is restored by a narcissist, a troublemaker, a meanie, an idiot and a wimpy kid.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx127912-K48H2a2eiyCI.jpg",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "ONA",
+    "episodes": 13,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Drama",
+      "Fantasy",
+      "Romance"
+    ],
+    "updated_at": 1784286545
+  },
+  {
+    "id": 126016,
+    "id_mal": 56836,
+    "url": "https://anilist.co/anime/126016",
+    "title": {
+      "english": "",
+      "romaji": "AKIRA (Shin Anime)",
+      "native": "アキラ (新アニメ)"
+    },
+    "description": "Announced at Anime Expo 2019, the project is meant to be a complete adaptation of Ootomo Katsuhiro's post-apocalyptic cyberpunk manga <i>AKIRA</i>.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx126016-9PaIQHxFyyho.png",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "TV",
+    "episodes": null,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Action",
+      "Drama",
+      "Horror",
+      "Psychological",
+      "Sci-Fi",
+      "Supernatural"
+    ],
+    "updated_at": 1784286781
+  },
+  {
+    "id": 122513,
+    "id_mal": 49567,
+    "url": "https://anilist.co/anime/122513",
+    "title": {
+      "english": "",
+      "romaji": "AWM Jixian Juji",
+      "native": "AWM极限狙击"
+    },
+    "description": "Tidak ada deskripsi.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx122513-vtojNd5W7EIE.jpg",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "ONA",
+    "episodes": null,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Action",
+      "Romance"
+    ],
+    "updated_at": 1784287434
+  },
+  {
+    "id": 121998,
+    "id_mal": null,
+    "url": "https://anilist.co/anime/121998",
+    "title": {
+      "english": "",
+      "romaji": "Long Xin Shaonü",
+      "native": "龙心少女"
+    },
+    "description": "In a cursed city, a human girl who holds the power of the giant dragon, shifts between light and darkness.\n<br><br>\n(Source: Studio Tumble Youtube Channel, edited)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx121998-LTgfL3XonOr6.png",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/121998-hMpKrHhls9Fc.jpg",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "ONA",
+    "episodes": null,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Action",
+      "Fantasy"
+    ],
+    "updated_at": 1784287587
+  },
+  {
+    "id": 121216,
+    "id_mal": 40632,
+    "url": "https://anilist.co/anime/121216",
+    "title": {
+      "english": "",
+      "romaji": "Peng Ran Xindong",
+      "native": "怦然心动"
+    },
+    "description": "A Young boy and girl live under one roof and go through the ignorance and troubles of youth. The warmly-influenced ultra-popular girl goes through a mix of confusing feelings as she experiences her youth.\n",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx121216-iAHgpgEschwC.png",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "ONA",
+    "episodes": null,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "updated_at": 1784287702
+  },
+  {
+    "id": 120815,
+    "id_mal": null,
+    "url": "https://anilist.co/anime/120815",
+    "title": {
+      "english": "",
+      "romaji": "World End Economica",
+      "native": "ワールド エンド エコノミカ"
+    },
+    "description": "Yoshiharu Kawaura is part of the first generation of humans born on the Moon and has a wild dream: to be a part of the elite who live in the center of Lunar City. As a homeless teenage runaway with only meager savings and an irreverent attitude, he hides and sleeps in internet cafes while trading stocks on the Lunar Stock Exchange. With his hard work and natural intuition of the market, his seed money of one thousand mools grows to seventy-two thousand mools in a matter of months, with the end to his streak nowhere in sight.\n\nUnfortunately, despite the Moon being an economic paradise with limited regulations and low taxes, street urchins like Yoshiharu must always remain on the lookout. After an especially close call with the police, he takes refuge in a church owned and ran by Risa, a part-time worker at a Chinese restaurant. In a stroke of fate, also staying at the church is Hagana, a cold girl with mean eyes and genius-level mathematical abilities. Yoshiharu—now assuming the pseudonym Haru—immediately sees Hagana's potential as a quantitative analyst and establishes a partnership with her for a virtual stock trading competition known to be a ticket into the financial community. As their growing success both in and out of the competition leads to more people investing in Haru and his goal, will he be able to keep his cool and stay on top of the ever-volatile market?",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx120815-pnpY4m3g15JJ.jpg",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "",
+    "episodes": null,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Adventure",
+      "Psychological",
+      "Romance",
+      "Sci-Fi"
+    ],
+    "updated_at": 1784287761
+  },
+  {
     "id": 115566,
     "id_mal": 41289,
     "url": "https://anilist.co/anime/115566",
@@ -7910,6 +8170,36 @@
       "Romance"
     ],
     "updated_at": 1783948408
+  },
+  {
+    "id": 115006,
+    "id_mal": null,
+    "url": "https://anilist.co/anime/115006",
+    "title": {
+      "english": "",
+      "romaji": "Top wo Nerae 3! (Provisional Title)",
+      "native": "トップをねらえ3！（仮）"
+    },
+    "description": "Tidak ada deskripsi.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx115006-6U24g3amoJpv.png",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "OVA",
+    "episodes": null,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Mecha",
+      "Sci-Fi"
+    ],
+    "updated_at": 1784286117
   },
   {
     "id": 114441,
