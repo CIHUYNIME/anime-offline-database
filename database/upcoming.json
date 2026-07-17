@@ -390,7 +390,7 @@
     "genres": [
       "Action"
     ],
-    "updated_at": 1783947662
+    "updated_at": 1784300508
   },
   {
     "id": 213878,
@@ -641,7 +641,7 @@
       "Mystery",
       "Romance"
     ],
-    "updated_at": 1784282525
+    "updated_at": 1784300508
   },
   {
     "id": 213814,
@@ -726,7 +726,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784268100
+    "updated_at": 1784300508
   },
   {
     "id": 213782,
@@ -755,7 +755,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784282525
+    "updated_at": 1784300508
   },
   {
     "id": 213752,
@@ -981,7 +981,7 @@
     "genres": [
       "Sci-Fi"
     ],
-    "updated_at": 1784268121
+    "updated_at": 1784300508
   },
   {
     "id": 213628,
@@ -1391,7 +1391,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784268121
+    "updated_at": 1784300508
   },
   {
     "id": 213131,
@@ -1705,7 +1705,7 @@
       "Horror",
       "Mystery"
     ],
-    "updated_at": 1783948413
+    "updated_at": 1784300508
   },
   {
     "id": 212617,
@@ -2162,7 +2162,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784275323
+    "updated_at": 1784300508
   },
   {
     "id": 211338,
@@ -2304,7 +2304,7 @@
       "Action",
       "Fantasy"
     ],
-    "updated_at": 1784275323
+    "updated_at": 1784300508
   },
   {
     "id": 210483,
@@ -2454,7 +2454,7 @@
       "Mystery",
       "Supernatural"
     ],
-    "updated_at": 1784246841
+    "updated_at": 1784300508
   },
   {
     "id": 209980,
@@ -2484,7 +2484,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784253685
+    "updated_at": 1784300508
   },
   {
     "id": 209963,
@@ -3035,7 +3035,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784268093
+    "updated_at": 1784300508
   },
   {
     "id": 207329,
@@ -3437,6 +3437,35 @@
     "updated_at": 1784246837
   },
   {
+    "id": 205444,
+    "id_mal": 63253,
+    "url": "https://anilist.co/anime/205444",
+    "title": {
+      "english": "",
+      "romaji": "Majo no Tabitabi Movie",
+      "native": "劇場版 魔女の旅々"
+    },
+    "description": "Sequel movie to <i>Majo no Tabitabi</i>.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx205444-dhVRPyVQaHrr.png",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Adventure",
+      "Fantasy",
+      "Slice of Life"
+    ],
+    "updated_at": 1784300508
+  },
+  {
     "id": 205432,
     "id_mal": 63254,
     "url": "https://anilist.co/anime/205432",
@@ -3522,7 +3551,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784286117
+    "updated_at": 1784300508
   },
   {
     "id": 205068,
@@ -4907,7 +4936,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784286117
+    "updated_at": 1784300508
   },
   {
     "id": 199150,
@@ -5109,7 +5138,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784282525
+    "updated_at": 1784300508
   },
   {
     "id": 198663,
@@ -5519,7 +5548,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784246829
+    "updated_at": 1784300508
   },
   {
     "id": 195201,
@@ -5637,6 +5666,33 @@
       "Slice of Life"
     ],
     "updated_at": 1784268099
+  },
+  {
+    "id": 194029,
+    "id_mal": 61783,
+    "url": "https://anilist.co/anime/194029",
+    "title": {
+      "english": "",
+      "romaji": "FOXING: Kitsuné-tsuki",
+      "native": "FOXING: Kitsuné-tsuki (きつねつき)"
+    },
+    "description": "Shinano is a character designer drifting through a monotonous routine. Her work is absorbed into a commercially driven system, and on social media, she feels no sense of belonging, deepening her loneliness.<br><br>\n\nOne day, Koyami—a fox-masked character from her old doodles—appears, followed by other discarded creations, blurring reality and imagination.<br><br>\n\nAs she wanders through her own mind, Shinano realizes they are fragments of herself—the shape of her loneliness—and chooses to keep creating while living with it.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b194029-qZMrDjw2Fj82.png",
+    "banner_url": "",
+    "schedule": "Episode 1 tayang pada 19/7/2026, 02.00.00 WIB",
+    "next_episode": 1,
+    "next_airing_timestamp": 1784401200,
+    "season": "",
+    "year": null,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Fantasy"
+    ],
+    "updated_at": 1784300508
   },
   {
     "id": 193699,
@@ -6322,7 +6378,7 @@
     "status": "NOT_YET_RELEASED",
     "score": null,
     "genres": [],
-    "updated_at": 1784289675
+    "updated_at": 1784300508
   },
   {
     "id": 186742,
@@ -6381,7 +6437,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784268121
+    "updated_at": 1784300508
   },
   {
     "id": 186712,
@@ -6410,7 +6466,7 @@
       "Music",
       "Slice of Life"
     ],
-    "updated_at": 1784275316
+    "updated_at": 1784300508
   },
   {
     "id": 186057,
@@ -6467,7 +6523,7 @@
       "Action",
       "Adventure"
     ],
-    "updated_at": 1784246815
+    "updated_at": 1784300508
   },
   {
     "id": 185995,
@@ -6866,34 +6922,6 @@
       "Action",
       "Drama",
       "Fantasy"
-    ],
-    "updated_at": 1784246808
-  },
-  {
-    "id": 182616,
-    "id_mal": 60059,
-    "url": "https://anilist.co/anime/182616",
-    "title": {
-      "english": "The Elusive Samurai Season 2",
-      "romaji": "Nige Jouzu no Wakagimi 2nd Season",
-      "native": "逃げ上手の若君 第二期"
-    },
-    "description": "The second season of <i>Nige Jouzu no Wakagimi</i>.",
-    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx182616-ZOCgArw9cgqI.jpg",
-    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/182616-kmIqMEUsLYrO.jpg",
-    "schedule": "Episode 1 tayang pada 17/7/2026, 21.30.00 WIB",
-    "next_episode": 1,
-    "next_airing_timestamp": 1784298600,
-    "season": "SUMMER",
-    "year": 2026,
-    "format": "TV",
-    "episodes": null,
-    "duration": null,
-    "status": "NOT_YET_RELEASED",
-    "score": null,
-    "genres": [
-      "Action",
-      "Adventure"
     ],
     "updated_at": 1784246808
   },
@@ -7441,7 +7469,7 @@
     "genres": [
       "Adventure"
     ],
-    "updated_at": 1784253683
+    "updated_at": 1784300508
   },
   {
     "id": 171513,
@@ -7675,7 +7703,7 @@
       "Action",
       "Sci-Fi"
     ],
-    "updated_at": 1784246770
+    "updated_at": 1784300508
   },
   {
     "id": 166457,
@@ -7876,6 +7904,35 @@
       "Sci-Fi"
     ],
     "updated_at": 1784246765
+  },
+  {
+    "id": 162561,
+    "id_mal": 54688,
+    "url": "https://anilist.co/anime/162561",
+    "title": {
+      "english": "",
+      "romaji": "NARUTO (Shinsaku Anime)",
+      "native": "NARUTO -ナルト- (新作アニメ)"
+    },
+    "description": "The official website for the <i>NARUTO</i> anime franchise announced a new anime project: to air four \"brand-new\" episodes to celebrate the TV anime's 20th anniversary back in 2022. <br><br>(Source: Anime News Network, edited) <br><br>\n<i>Note: Title, format, and relations are provisional and will be updated when more info is announced.</i>",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx162561-Uk4eZAwcmcWk.jpg",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "TV",
+    "episodes": 4,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy"
+    ],
+    "updated_at": 1784300508
   },
   {
     "id": 161410,
@@ -8107,7 +8164,7 @@
       "Drama",
       "Sports"
     ],
-    "updated_at": 1784246753
+    "updated_at": 1784300508
   },
   {
     "id": 152677,

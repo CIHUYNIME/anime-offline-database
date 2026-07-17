@@ -52,7 +52,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784289485
+    "updated_at": 1784300508
   },
   {
     "id": 213861,
@@ -108,7 +108,7 @@
       "Ecchi",
       "Supernatural"
     ],
-    "updated_at": 1784297552
+    "updated_at": 1784300490
   },
   {
     "id": 213703,
@@ -164,7 +164,7 @@
       "Drama",
       "Romance"
     ],
-    "updated_at": 1784297502
+    "updated_at": 1784300471
   },
   {
     "id": 213665,
@@ -192,7 +192,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784297570
+    "updated_at": 1784300445
   },
   {
     "id": 213638,
@@ -276,7 +276,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784297513
+    "updated_at": 1784300447
   },
   {
     "id": 213427,
@@ -471,7 +471,7 @@
       "Action",
       "Fantasy"
     ],
-    "updated_at": 1784297552
+    "updated_at": 1784300508
   },
   {
     "id": 212557,
@@ -498,7 +498,7 @@
     "genres": [
       "Comedy"
     ],
-    "updated_at": 1784192498
+    "updated_at": 1784300488
   },
   {
     "id": 212309,
@@ -527,7 +527,7 @@
       "Mecha",
       "Sci-Fi"
     ],
-    "updated_at": 1784293296
+    "updated_at": 1784300488
   },
   {
     "id": 212308,
@@ -668,7 +668,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784289510
+    "updated_at": 1784300482
   },
   {
     "id": 210116,
@@ -695,7 +695,7 @@
     "genres": [
       "Hentai"
     ],
-    "updated_at": 1784289492
+    "updated_at": 1784300508
   },
   {
     "id": 210031,
@@ -725,7 +725,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784297497
+    "updated_at": 1784300444
   },
   {
     "id": 209983,
@@ -754,7 +754,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784297498
+    "updated_at": 1784300442
   },
   {
     "id": 209982,
@@ -894,7 +894,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784297498
+    "updated_at": 1784300455
   },
   {
     "id": 209541,
@@ -922,7 +922,7 @@
       "Fantasy",
       "Slice of Life"
     ],
-    "updated_at": 1784279079
+    "updated_at": 1784300488
   },
   {
     "id": 209504,
@@ -952,7 +952,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784297503
+    "updated_at": 1784300479
   },
   {
     "id": 208824,
@@ -1085,7 +1085,7 @@
     "genres": [
       "Hentai"
     ],
-    "updated_at": 1784297586
+    "updated_at": 1784300443
   },
   {
     "id": 208264,
@@ -1140,7 +1140,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784297557
+    "updated_at": 1784300508
   },
   {
     "id": 208105,
@@ -1224,7 +1224,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784297493
+    "updated_at": 1784300416
   },
   {
     "id": 207809,
@@ -1255,7 +1255,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784297518
+    "updated_at": 1784300464
   },
   {
     "id": 207674,
@@ -1284,7 +1284,7 @@
       "Ecchi",
       "Supernatural"
     ],
-    "updated_at": 1784297520
+    "updated_at": 1784300463
   },
   {
     "id": 207534,
@@ -1313,7 +1313,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784279201
+    "updated_at": 1784300480
   },
   {
     "id": 207254,
@@ -1342,7 +1342,7 @@
       "Drama",
       "Sci-Fi"
     ],
-    "updated_at": 1784297569
+    "updated_at": 1784300466
   },
   {
     "id": 207141,
@@ -1370,7 +1370,7 @@
       "Comedy",
       "Slice of Life"
     ],
-    "updated_at": 1784297493
+    "updated_at": 1784300422
   },
   {
     "id": 207084,
@@ -1400,7 +1400,7 @@
       "Supernatural",
       "Thriller"
     ],
-    "updated_at": 1784282525
+    "updated_at": 1784300479
   },
   {
     "id": 207035,
@@ -1428,6 +1428,34 @@
       "Hentai"
     ],
     "updated_at": 1784279231
+  },
+  {
+    "id": 206950,
+    "id_mal": 63383,
+    "url": "https://anilist.co/anime/206950",
+    "title": {
+      "english": "",
+      "romaji": "Kumarba Season 3",
+      "native": "クマーバシーズン3"
+    },
+    "description": "Third season of <i>Kumarba</i>.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx206950-pNm7O5inBKBX.png",
+    "banner_url": "",
+    "schedule": "Episode 15 tayang pada 19/7/2026, 05.00.00 WIB",
+    "next_episode": 15,
+    "next_airing_timestamp": 1784412000,
+    "season": "SPRING",
+    "year": 2026,
+    "format": "TV_SHORT",
+    "episodes": null,
+    "duration": 3,
+    "status": "RELEASING",
+    "score": null,
+    "genres": [
+      "Action",
+      "Comedy"
+    ],
+    "updated_at": 1784300488
   },
   {
     "id": 206840,
@@ -1481,7 +1509,7 @@
     "genres": [
       "Music"
     ],
-    "updated_at": 1784297603
+    "updated_at": 1784300460
   },
   {
     "id": 206521,
@@ -1508,7 +1536,7 @@
     "genres": [
       "Drama"
     ],
-    "updated_at": 1784297504
+    "updated_at": 1784300447
   },
   {
     "id": 206425,
@@ -1565,7 +1593,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784286047
+    "updated_at": 1784300480
   },
   {
     "id": 206249,
@@ -1593,7 +1621,7 @@
       "Action",
       "Supernatural"
     ],
-    "updated_at": 1784297606
+    "updated_at": 1784300481
   },
   {
     "id": 206194,
@@ -1677,7 +1705,7 @@
     "genres": [
       "Comedy"
     ],
-    "updated_at": 1784293281
+    "updated_at": 1784300489
   },
   {
     "id": 205116,
@@ -1756,7 +1784,7 @@
     "genres": [
       "Slice of Life"
     ],
-    "updated_at": 1784297606
+    "updated_at": 1784300498
   },
   {
     "id": 204560,
@@ -1813,7 +1841,7 @@
       "Romance",
       "Supernatural"
     ],
-    "updated_at": 1784297493
+    "updated_at": 1784300440
   },
   {
     "id": 204463,
@@ -1867,7 +1895,7 @@
     "genres": [
       "Slice of Life"
     ],
-    "updated_at": 1784279405
+    "updated_at": 1784300488
   },
   {
     "id": 204060,
@@ -1895,7 +1923,7 @@
       "Action",
       "Comedy"
     ],
-    "updated_at": 1784297564
+    "updated_at": 1784300446
   },
   {
     "id": 203880,
@@ -1924,7 +1952,7 @@
       "Horror",
       "Supernatural"
     ],
-    "updated_at": 1784297505
+    "updated_at": 1784300465
   },
   {
     "id": 203490,
@@ -1938,9 +1966,9 @@
     "description": "The manga centers on high school student Ito Hazui. During her spring break at the end of her first year of high school, Ito's mother remarries, and Ito moves to live with her new family, becoming Ito Narita. Upon arriving at her new house, Ito is shocked to learn she now has four younger step-brothers. Ito tries her hardest to get along with all of the new members of her family, but the eldest brother Gen is a bit cold to her. However, under his aloof facade, he occasionally shows his kindness.\n<BR><BR>\n(Source: Anime News Network)",
     "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx203490-YQXiymUiDQNA.jpg",
     "banner_url": "",
-    "schedule": "Episode 3 tayang pada 17/7/2026, 22.00.00 WIB",
-    "next_episode": 3,
-    "next_airing_timestamp": 1784300400,
+    "schedule": "Episode 4 tayang pada 24/7/2026, 22.00.00 WIB",
+    "next_episode": 4,
+    "next_airing_timestamp": 1784905200,
     "season": "SUMMER",
     "year": 2026,
     "format": "TV",
@@ -1953,7 +1981,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784297521
+    "updated_at": 1784300473
   },
   {
     "id": 203367,
@@ -2008,7 +2036,7 @@
       "Mahou Shoujo",
       "Mystery"
     ],
-    "updated_at": 1784297502
+    "updated_at": 1784300437
   },
   {
     "id": 202895,
@@ -2132,9 +2160,9 @@
     "description": "World-renowned wine critic Yutaka Kanzaki has passed away, leaving behind a wine collection worth over 12 billion yen. His will states that his collection will be given to the one who can identify the origin and year of twelve wines he’s chosen, the “Twelve Apostles”, and one that’s superior even to them, <i>“The Drops of God”. </i><br><br>\nCompeting for the prize are Yutaka’s son, Shizuku, who received a world-class education in wine but rebelled against his father and has never drank a drop, and Issei Tomine, a young charismatic wine critic whom Yutaka had recently adopted as his son. <br><br>\nWhat is wine? What is a parent and a child? What is life?<br>\nThe complex and fragrant battle surrounding the legendary <i>”Drops of God”</i> is about to begin… <br><br>\n(Source: Pony Canyon)",
     "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx202508-dk6LEyevJYUY.jpg",
     "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/202508-K276v0truxE0.jpg",
-    "schedule": "Episode 15 tayang pada 17/7/2026, 21.30.00 WIB",
-    "next_episode": 15,
-    "next_airing_timestamp": 1784298600,
+    "schedule": "Episode 16 tayang pada 24/7/2026, 21.30.00 WIB",
+    "next_episode": 16,
+    "next_airing_timestamp": 1784903400,
     "season": "SPRING",
     "year": 2026,
     "format": "TV",
@@ -2147,7 +2175,35 @@
       "Mystery",
       "Slice of Life"
     ],
-    "updated_at": 1784297598
+    "updated_at": 1784300452
+  },
+  {
+    "id": 202386,
+    "id_mal": 62933,
+    "url": "https://anilist.co/anime/202386",
+    "title": {
+      "english": "",
+      "romaji": "Shou 3 Ashibe QQ Goma-chan",
+      "native": "小3アシベ QQゴマちゃん"
+    },
+    "description": "Tidak ada deskripsi.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx202386-wjFf8ubM1XZR.png",
+    "banner_url": "",
+    "schedule": "Episode 15 tayang pada 19/7/2026, 05.00.00 WIB",
+    "next_episode": 15,
+    "next_airing_timestamp": 1784412000,
+    "season": "SPRING",
+    "year": 2026,
+    "format": "TV_SHORT",
+    "episodes": null,
+    "duration": null,
+    "status": "RELEASING",
+    "score": null,
+    "genres": [
+      "Comedy",
+      "Slice of Life"
+    ],
+    "updated_at": 1784300488
   },
   {
     "id": 202269,
@@ -2175,7 +2231,32 @@
       "Drama",
       "Romance"
     ],
-    "updated_at": 1784297492
+    "updated_at": 1784300439
+  },
+  {
+    "id": 201910,
+    "id_mal": null,
+    "url": "https://anilist.co/anime/201910",
+    "title": {
+      "english": "",
+      "romaji": "Oshiri Dandy the Young",
+      "native": "おしりダンディ ザ・ヤング"
+    },
+    "description": "Tidak ada deskripsi.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx201910-yulAeyMQbbvw.png",
+    "banner_url": "",
+    "schedule": "Musim: SPRING 2026",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "SPRING",
+    "year": 2026,
+    "format": "TV",
+    "episodes": null,
+    "duration": null,
+    "status": "RELEASING",
+    "score": null,
+    "genres": [],
+    "updated_at": 1784300488
   },
   {
     "id": 201667,
@@ -2204,7 +2285,7 @@
       "Slice of Life",
       "Supernatural"
     ],
-    "updated_at": 1784297523
+    "updated_at": 1784300458
   },
   {
     "id": 201514,
@@ -2232,7 +2313,7 @@
       "Comedy",
       "Romance"
     ],
-    "updated_at": 1784297504
+    "updated_at": 1784300438
   },
   {
     "id": 201153,
@@ -2288,7 +2369,7 @@
       "Ecchi",
       "Romance"
     ],
-    "updated_at": 1784297493
+    "updated_at": 1784300446
   },
   {
     "id": 200375,
@@ -2344,7 +2425,7 @@
       "Horror",
       "Supernatural"
     ],
-    "updated_at": 1784293224
+    "updated_at": 1784300466
   },
   {
     "id": 200228,
@@ -2400,7 +2481,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784297508
+    "updated_at": 1784300423
   },
   {
     "id": 199418,
@@ -2429,7 +2510,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784297554
+    "updated_at": 1784300473
   },
   {
     "id": 199408,
@@ -2457,7 +2538,7 @@
       "Drama",
       "Fantasy"
     ],
-    "updated_at": 1784297513
+    "updated_at": 1784300445
   },
   {
     "id": 199363,
@@ -2486,7 +2567,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784293296
+    "updated_at": 1784300480
   },
   {
     "id": 199164,
@@ -2569,7 +2650,7 @@
       "Slice of Life",
       "Sports"
     ],
-    "updated_at": 1784297502
+    "updated_at": 1784300445
   },
   {
     "id": 199066,
@@ -2598,7 +2679,7 @@
       "Romance",
       "Supernatural"
     ],
-    "updated_at": 1784297498
+    "updated_at": 1784300464
   },
   {
     "id": 198946,
@@ -2627,7 +2708,7 @@
       "Drama",
       "Fantasy"
     ],
-    "updated_at": 1784297497
+    "updated_at": 1784300419
   },
   {
     "id": 198709,
@@ -2657,7 +2738,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784297515
+    "updated_at": 1784300415
   },
   {
     "id": 198706,
@@ -2686,7 +2767,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784297546
+    "updated_at": 1784300508
   },
   {
     "id": 198701,
@@ -2715,7 +2796,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784297584
+    "updated_at": 1784300508
   },
   {
     "id": 198560,
@@ -2772,7 +2853,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784297522
+    "updated_at": 1784300444
   },
   {
     "id": 198376,
@@ -2802,7 +2883,7 @@
       "Music",
       "Slice of Life"
     ],
-    "updated_at": 1784293215
+    "updated_at": 1784300445
   },
   {
     "id": 198048,
@@ -2942,7 +3023,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784297498
+    "updated_at": 1784300421
   },
   {
     "id": 196974,
@@ -2969,7 +3050,7 @@
     "genres": [
       "Fantasy"
     ],
-    "updated_at": 1784297550
+    "updated_at": 1784300474
   },
   {
     "id": 196750,
@@ -3052,7 +3133,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784297541
+    "updated_at": 1784300473
   },
   {
     "id": 196547,
@@ -3134,7 +3215,7 @@
       "Comedy",
       "Slice of Life"
     ],
-    "updated_at": 1784297505
+    "updated_at": 1784300424
   },
   {
     "id": 196219,
@@ -3163,7 +3244,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784297497
+    "updated_at": 1784300453
   },
   {
     "id": 196218,
@@ -3195,7 +3276,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784297520
+    "updated_at": 1784300417
   },
   {
     "id": 196187,
@@ -3224,7 +3305,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784297498
+    "updated_at": 1784300421
   },
   {
     "id": 196116,
@@ -3276,7 +3357,7 @@
     "status": "RELEASING",
     "score": 68,
     "genres": [],
-    "updated_at": 1784297501
+    "updated_at": 1784300455
   },
   {
     "id": 196012,
@@ -3306,7 +3387,7 @@
       "Romance",
       "Supernatural"
     ],
-    "updated_at": 1784297515
+    "updated_at": 1784300452
   },
   {
     "id": 195885,
@@ -3336,7 +3417,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784279922
+    "updated_at": 1784300481
   },
   {
     "id": 195833,
@@ -3395,7 +3476,7 @@
       "Fantasy",
       "Supernatural"
     ],
-    "updated_at": 1784289611
+    "updated_at": 1784300432
   },
   {
     "id": 195360,
@@ -3449,7 +3530,7 @@
     "genres": [
       "Hentai"
     ],
-    "updated_at": 1784297551
+    "updated_at": 1784300508
   },
   {
     "id": 195034,
@@ -3533,7 +3614,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784297505
+    "updated_at": 1784300437
   },
   {
     "id": 194389,
@@ -3616,7 +3697,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784293208
+    "updated_at": 1784300444
   },
   {
     "id": 193883,
@@ -3671,7 +3752,7 @@
     "genres": [
       "Hentai"
     ],
-    "updated_at": 1784297550
+    "updated_at": 1784300508
   },
   {
     "id": 193347,
@@ -3726,7 +3807,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784297515
+    "updated_at": 1784300431
   },
   {
     "id": 192452,
@@ -3842,7 +3923,7 @@
       "Romance",
       "Thriller"
     ],
-    "updated_at": 1784297500
+    "updated_at": 1784300432
   },
   {
     "id": 188933,
@@ -3923,7 +4004,7 @@
     "genres": [
       "Comedy"
     ],
-    "updated_at": 1784280406
+    "updated_at": 1784300498
   },
   {
     "id": 188525,
@@ -3937,9 +4018,9 @@
     "description": "First-year high school student Ai Yasumi lives on the island of Izu Oshima and loves reading manga. But after a certain turning point, she sets her sights on creating stories of her own! As she dives into the world of manga-making, Ai faces challenges, growth, and the excitement of chasing her creative dreams. Where will her creative journey take her?<br>\n<br>\n(Source: Crunchyroll)",
     "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx188525-uWhw4rQcqOyF.jpg",
     "banner_url": "",
-    "schedule": "Episode 3 tayang pada 17/7/2026, 21.30.00 WIB",
-    "next_episode": 3,
-    "next_airing_timestamp": 1784298600,
+    "schedule": "Episode 4 tayang pada 24/7/2026, 21.30.00 WIB",
+    "next_episode": 4,
+    "next_airing_timestamp": 1784903400,
     "season": "SUMMER",
     "year": 2026,
     "format": "TV",
@@ -3951,7 +4032,7 @@
       "Comedy",
       "Slice of Life"
     ],
-    "updated_at": 1784297529
+    "updated_at": 1784300454
   },
   {
     "id": 188388,
@@ -3981,7 +4062,7 @@
       "Fantasy",
       "Sci-Fi"
     ],
-    "updated_at": 1784297567
+    "updated_at": 1784300450
   },
   {
     "id": 188139,
@@ -4009,7 +4090,7 @@
       "Drama",
       "Romance"
     ],
-    "updated_at": 1784297509
+    "updated_at": 1784300454
   },
   {
     "id": 187538,
@@ -4040,7 +4121,7 @@
       "Sci-Fi",
       "Supernatural"
     ],
-    "updated_at": 1784297500
+    "updated_at": 1784300449
   },
   {
     "id": 187304,
@@ -4096,7 +4177,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784297497
+    "updated_at": 1784300417
   },
   {
     "id": 187166,
@@ -4124,7 +4205,7 @@
       "Comedy",
       "Music"
     ],
-    "updated_at": 1784297568
+    "updated_at": 1784300467
   },
   {
     "id": 186863,
@@ -4182,7 +4263,7 @@
       "Drama",
       "Fantasy"
     ],
-    "updated_at": 1784293270
+    "updated_at": 1784300508
   },
   {
     "id": 186833,
@@ -4211,7 +4292,7 @@
       "Drama",
       "Fantasy"
     ],
-    "updated_at": 1784297572
+    "updated_at": 1784300508
   },
   {
     "id": 186827,
@@ -4266,7 +4347,7 @@
       "Mystery",
       "Psychological"
     ],
-    "updated_at": 1784297517
+    "updated_at": 1784300508
   },
   {
     "id": 186308,
@@ -4407,7 +4488,7 @@
       "Fantasy",
       "Mahou Shoujo"
     ],
-    "updated_at": 1784297511
+    "updated_at": 1784300479
   },
   {
     "id": 185779,
@@ -4464,7 +4545,7 @@
       "Fantasy",
       "Sci-Fi"
     ],
-    "updated_at": 1784286058
+    "updated_at": 1784300508
   },
   {
     "id": 185720,
@@ -4493,7 +4574,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784293236
+    "updated_at": 1784300508
   },
   {
     "id": 185692,
@@ -4580,7 +4661,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784297497
+    "updated_at": 1784300428
   },
   {
     "id": 185506,
@@ -4690,7 +4771,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784280680
+    "updated_at": 1784300489
   },
   {
     "id": 184824,
@@ -4802,7 +4883,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784297493
+    "updated_at": 1784300432
   },
   {
     "id": 183742,
@@ -4942,6 +5023,34 @@
     "updated_at": 1784194422
   },
   {
+    "id": 182616,
+    "id_mal": 60059,
+    "url": "https://anilist.co/anime/182616",
+    "title": {
+      "english": "The Elusive Samurai Season 2",
+      "romaji": "Nige Jouzu no Wakagimi 2nd Season",
+      "native": "逃げ上手の若君 第二期"
+    },
+    "description": "The second season of <i>Nige Jouzu no Wakagimi</i>.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx182616-ZOCgArw9cgqI.jpg",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/182616-kmIqMEUsLYrO.jpg",
+    "schedule": "Episode 2 tayang pada 24/7/2026, 21.30.00 WIB",
+    "next_episode": 2,
+    "next_airing_timestamp": 1784903400,
+    "season": "SUMMER",
+    "year": 2026,
+    "format": "TV",
+    "episodes": null,
+    "duration": null,
+    "status": "RELEASING",
+    "score": null,
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "updated_at": 1784300461
+  },
+  {
     "id": 182205,
     "id_mal": 59970,
     "url": "https://anilist.co/anime/182205",
@@ -4969,7 +5078,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784297500
+    "updated_at": 1784300417
   },
   {
     "id": 182104,
@@ -5105,7 +5214,7 @@
       "Action",
       "Fantasy"
     ],
-    "updated_at": 1784297493
+    "updated_at": 1784300434
   },
   {
     "id": 179916,
@@ -5134,7 +5243,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784297589
+    "updated_at": 1784300508
   },
   {
     "id": 179860,
@@ -5188,7 +5297,7 @@
     "genres": [
       "Hentai"
     ],
-    "updated_at": 1784281064
+    "updated_at": 1784300472
   },
   {
     "id": 179722,
@@ -5272,7 +5381,7 @@
       "Ecchi",
       "Fantasy"
     ],
-    "updated_at": 1784297500
+    "updated_at": 1784300424
   },
   {
     "id": 178557,
@@ -5383,7 +5492,7 @@
       "Psychological",
       "Sci-Fi"
     ],
-    "updated_at": 1784297500
+    "updated_at": 1784300443
   },
   {
     "id": 177637,
@@ -5738,7 +5847,7 @@
       "Fantasy",
       "Slice of Life"
     ],
-    "updated_at": 1784297511
+    "updated_at": 1784300438
   },
   {
     "id": 170599,
@@ -5820,7 +5929,7 @@
       "Comedy",
       "Romance"
     ],
-    "updated_at": 1784297497
+    "updated_at": 1784300460
   },
   {
     "id": 169582,
@@ -5851,7 +5960,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784297534
+    "updated_at": 1784300451
   },
   {
     "id": 169080,
@@ -5879,7 +5988,7 @@
       "Ecchi",
       "Slice of Life"
     ],
-    "updated_at": 1784297547
+    "updated_at": 1784300508
   },
   {
     "id": 168947,
@@ -5962,7 +6071,7 @@
       "Adventure",
       "Drama"
     ],
-    "updated_at": 1784293230
+    "updated_at": 1784300488
   },
   {
     "id": 168134,
@@ -6101,7 +6210,7 @@
       "Action",
       "Sci-Fi"
     ],
-    "updated_at": 1784297606
+    "updated_at": 1784300499
   },
   {
     "id": 165524,
@@ -6340,9 +6449,9 @@
     "description": "A new dream and adventure set throughout the entire Pokémon world unfolds in a brand new Pokémon-series following a girl named Liko and a boy named Roy.",
     "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx158871-GBM9AMDfDRSu.jpg",
     "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/158871-jKfsW5HCGA3K.jpg",
-    "schedule": "Episode 144 tayang pada 24/7/2026, 16.55.00 WIB",
+    "schedule": "Episode 144 tayang pada 31/7/2026, 16.55.00 WIB",
     "next_episode": 144,
-    "next_airing_timestamp": 1784886900,
+    "next_airing_timestamp": 1785491700,
     "season": "SPRING",
     "year": 2023,
     "format": "TV",
@@ -6355,7 +6464,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784297500
+    "updated_at": 1784300477
   },
   {
     "id": 155723,
@@ -6522,7 +6631,7 @@
     "genres": [
       "Hentai"
     ],
-    "updated_at": 1784297578
+    "updated_at": 1784300508
   },
   {
     "id": 147622,
@@ -6549,7 +6658,7 @@
     "genres": [
       "Hentai"
     ],
-    "updated_at": 1784297577
+    "updated_at": 1784300508
   },
   {
     "id": 146837,
@@ -6688,7 +6797,7 @@
       "Comedy",
       "Slice of Life"
     ],
-    "updated_at": 1784297561
+    "updated_at": 1784300452
   },
   {
     "id": 138450,
@@ -6804,7 +6913,7 @@
       "Adventure",
       "Sci-Fi"
     ],
-    "updated_at": 1784297545
+    "updated_at": 1784300476
   },
   {
     "id": 137653,
@@ -6834,7 +6943,7 @@
       "Drama",
       "Fantasy"
     ],
-    "updated_at": 1784293229
+    "updated_at": 1784300441
   },
   {
     "id": 136862,
@@ -6890,7 +6999,7 @@
       "Action",
       "Fantasy"
     ],
-    "updated_at": 1784297493
+    "updated_at": 1784300416
   },
   {
     "id": 134469,
@@ -6917,7 +7026,7 @@
     "genres": [
       "Hentai"
     ],
-    "updated_at": 1784297584
+    "updated_at": 1784300508
   },
   {
     "id": 134107,
@@ -6973,7 +7082,7 @@
     "genres": [
       "Hentai"
     ],
-    "updated_at": 1784297547
+    "updated_at": 1784300508
   },
   {
     "id": 131078,
@@ -7055,7 +7164,7 @@
     "genres": [
       "Drama"
     ],
-    "updated_at": 1784297501
+    "updated_at": 1784300448
   },
   {
     "id": 124082,
@@ -7221,7 +7330,7 @@
     "genres": [
       "Hentai"
     ],
-    "updated_at": 1784293294
+    "updated_at": 1784300508
   },
   {
     "id": 110694,
@@ -7276,7 +7385,7 @@
       "Action",
       "Supernatural"
     ],
-    "updated_at": 1784297503
+    "updated_at": 1784300455
   },
   {
     "id": 103303,
@@ -7304,7 +7413,7 @@
       "Adventure",
       "Romance"
     ],
-    "updated_at": 1784297511
+    "updated_at": 1784300437
   },
   {
     "id": 102763,
@@ -7415,7 +7524,7 @@
     "genres": [
       "Hentai"
     ],
-    "updated_at": 1784297595
+    "updated_at": 1784302202
   },
   {
     "id": 18941,
@@ -7558,7 +7667,7 @@
       "Comedy",
       "Slice of Life"
     ],
-    "updated_at": 1784297569
+    "updated_at": 1784300508
   },
   {
     "id": 1960,
@@ -7613,7 +7722,7 @@
     "genres": [
       "Comedy"
     ],
-    "updated_at": 1784268121
+    "updated_at": 1784300502
   },
   {
     "id": 966,
@@ -7642,7 +7751,7 @@
       "Ecchi",
       "Slice of Life"
     ],
-    "updated_at": 1784289510
+    "updated_at": 1784300483
   },
   {
     "id": 235,
@@ -7672,7 +7781,7 @@
       "Mystery",
       "Psychological"
     ],
-    "updated_at": 1784297525
+    "updated_at": 1784300450
   },
   {
     "id": 21,
@@ -7703,6 +7812,6 @@
       "Drama",
       "Fantasy"
     ],
-    "updated_at": 1784297493
+    "updated_at": 1784300429
   }
 ]

@@ -29,92 +29,6 @@
     "updated_at": 1783948413
   },
   {
-    "id": 188525,
-    "id_mal": 61280,
-    "url": "https://anilist.co/anime/188525",
-    "title": {
-      "english": "Draw This, Then Die!",
-      "romaji": "Kore Kaite Shine",
-      "native": "これ描いて死ね"
-    },
-    "description": "First-year high school student Ai Yasumi lives on the island of Izu Oshima and loves reading manga. But after a certain turning point, she sets her sights on creating stories of her own! As she dives into the world of manga-making, Ai faces challenges, growth, and the excitement of chasing her creative dreams. Where will her creative journey take her?<br>\n<br>\n(Source: Crunchyroll)",
-    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx188525-uWhw4rQcqOyF.jpg",
-    "banner_url": "",
-    "schedule": "Episode 3 tayang pada 17/7/2026, 21.30.00 WIB",
-    "next_episode": 3,
-    "next_airing_timestamp": 1784298600,
-    "season": "SUMMER",
-    "year": 2026,
-    "format": "TV",
-    "episodes": 12,
-    "duration": 23,
-    "status": "RELEASING",
-    "score": 72,
-    "genres": [
-      "Comedy",
-      "Slice of Life"
-    ],
-    "updated_at": 1784297529
-  },
-  {
-    "id": 202508,
-    "id_mal": 62981,
-    "url": "https://anilist.co/anime/202508",
-    "title": {
-      "english": "The Drops of God",
-      "romaji": "Kami no Shizuku",
-      "native": "神の雫"
-    },
-    "description": "World-renowned wine critic Yutaka Kanzaki has passed away, leaving behind a wine collection worth over 12 billion yen. His will states that his collection will be given to the one who can identify the origin and year of twelve wines he’s chosen, the “Twelve Apostles”, and one that’s superior even to them, <i>“The Drops of God”. </i><br><br>\nCompeting for the prize are Yutaka’s son, Shizuku, who received a world-class education in wine but rebelled against his father and has never drank a drop, and Issei Tomine, a young charismatic wine critic whom Yutaka had recently adopted as his son. <br><br>\nWhat is wine? What is a parent and a child? What is life?<br>\nThe complex and fragrant battle surrounding the legendary <i>”Drops of God”</i> is about to begin… <br><br>\n(Source: Pony Canyon)",
-    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx202508-dk6LEyevJYUY.jpg",
-    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/202508-K276v0truxE0.jpg",
-    "schedule": "Episode 15 tayang pada 17/7/2026, 21.30.00 WIB",
-    "next_episode": 15,
-    "next_airing_timestamp": 1784298600,
-    "season": "SPRING",
-    "year": 2026,
-    "format": "TV",
-    "episodes": 24,
-    "duration": 24,
-    "status": "RELEASING",
-    "score": 54,
-    "genres": [
-      "Drama",
-      "Mystery",
-      "Slice of Life"
-    ],
-    "updated_at": 1784297598
-  },
-  {
-    "id": 203490,
-    "id_mal": 63061,
-    "url": "https://anilist.co/anime/203490",
-    "title": {
-      "english": "Please Excuse My Younger Brothers",
-      "romaji": "Uchi no Otouto-domo ga Sumimasen",
-      "native": "うちの弟どもがすみません"
-    },
-    "description": "The manga centers on high school student Ito Hazui. During her spring break at the end of her first year of high school, Ito's mother remarries, and Ito moves to live with her new family, becoming Ito Narita. Upon arriving at her new house, Ito is shocked to learn she now has four younger step-brothers. Ito tries her hardest to get along with all of the new members of her family, but the eldest brother Gen is a bit cold to her. However, under his aloof facade, he occasionally shows his kindness.\n<BR><BR>\n(Source: Anime News Network)",
-    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx203490-YQXiymUiDQNA.jpg",
-    "banner_url": "",
-    "schedule": "Episode 3 tayang pada 17/7/2026, 22.00.00 WIB",
-    "next_episode": 3,
-    "next_airing_timestamp": 1784300400,
-    "season": "SUMMER",
-    "year": 2026,
-    "format": "TV",
-    "episodes": 24,
-    "duration": 24,
-    "status": "RELEASING",
-    "score": 67,
-    "genres": [
-      "Comedy",
-      "Romance",
-      "Slice of Life"
-    ],
-    "updated_at": 1784297521
-  },
-  {
     "id": 209983,
     "id_mal": 63817,
     "url": "https://anilist.co/anime/209983",
@@ -141,7 +55,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784297498
+    "updated_at": 1784300442
   },
   {
     "id": 207674,
@@ -170,7 +84,7 @@
       "Ecchi",
       "Supernatural"
     ],
-    "updated_at": 1784297520
+    "updated_at": 1784300463
   },
   {
     "id": 213831,
@@ -199,7 +113,7 @@
       "Ecchi",
       "Supernatural"
     ],
-    "updated_at": 1784297552
+    "updated_at": 1784300490
   },
   {
     "id": 142274,
@@ -342,7 +256,7 @@
       "Ecchi",
       "Slice of Life"
     ],
-    "updated_at": 1784289510
+    "updated_at": 1784300483
   },
   {
     "id": 8687,
@@ -400,7 +314,7 @@
       "Fantasy",
       "Slice of Life"
     ],
-    "updated_at": 1784297511
+    "updated_at": 1784300438
   },
   {
     "id": 235,
@@ -430,7 +344,7 @@
       "Mystery",
       "Psychological"
     ],
-    "updated_at": 1784297525
+    "updated_at": 1784300450
   },
   {
     "id": 184492,
@@ -547,7 +461,7 @@
       "Sci-Fi",
       "Supernatural"
     ],
-    "updated_at": 1784297500
+    "updated_at": 1784300449
   },
   {
     "id": 206249,
@@ -575,7 +489,7 @@
       "Action",
       "Supernatural"
     ],
-    "updated_at": 1784297606
+    "updated_at": 1784300481
   },
   {
     "id": 195600,
@@ -606,7 +520,7 @@
       "Fantasy",
       "Supernatural"
     ],
-    "updated_at": 1784289611
+    "updated_at": 1784300432
   },
   {
     "id": 190569,
@@ -663,7 +577,7 @@
       "Romance",
       "Supernatural"
     ],
-    "updated_at": 1784297515
+    "updated_at": 1784300452
   },
   {
     "id": 211181,
@@ -717,7 +631,7 @@
     "status": "RELEASING",
     "score": 68,
     "genres": [],
-    "updated_at": 1784297501
+    "updated_at": 1784300455
   },
   {
     "id": 194219,
@@ -746,7 +660,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784293208
+    "updated_at": 1784300444
   },
   {
     "id": 185692,
@@ -807,7 +721,7 @@
       "Fantasy",
       "Mahou Shoujo"
     ],
-    "updated_at": 1784297511
+    "updated_at": 1784300479
   },
   {
     "id": 208225,
@@ -835,7 +749,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784297557
+    "updated_at": 1784300508
   },
   {
     "id": 199066,
@@ -864,7 +778,7 @@
       "Romance",
       "Supernatural"
     ],
-    "updated_at": 1784297498
+    "updated_at": 1784300464
   },
   {
     "id": 201514,
@@ -892,7 +806,7 @@
       "Comedy",
       "Romance"
     ],
-    "updated_at": 1784297504
+    "updated_at": 1784300438
   },
   {
     "id": 208824,
@@ -944,7 +858,63 @@
     "genres": [
       "Slice of Life"
     ],
-    "updated_at": 1784279405
+    "updated_at": 1784300488
+  },
+  {
+    "id": 206950,
+    "id_mal": 63383,
+    "url": "https://anilist.co/anime/206950",
+    "title": {
+      "english": "",
+      "romaji": "Kumarba Season 3",
+      "native": "クマーバシーズン3"
+    },
+    "description": "Third season of <i>Kumarba</i>.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx206950-pNm7O5inBKBX.png",
+    "banner_url": "",
+    "schedule": "Episode 15 tayang pada 19/7/2026, 05.00.00 WIB",
+    "next_episode": 15,
+    "next_airing_timestamp": 1784412000,
+    "season": "SPRING",
+    "year": 2026,
+    "format": "TV_SHORT",
+    "episodes": null,
+    "duration": 3,
+    "status": "RELEASING",
+    "score": null,
+    "genres": [
+      "Action",
+      "Comedy"
+    ],
+    "updated_at": 1784300488
+  },
+  {
+    "id": 202386,
+    "id_mal": 62933,
+    "url": "https://anilist.co/anime/202386",
+    "title": {
+      "english": "",
+      "romaji": "Shou 3 Ashibe QQ Goma-chan",
+      "native": "小3アシベ QQゴマちゃん"
+    },
+    "description": "Tidak ada deskripsi.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx202386-wjFf8ubM1XZR.png",
+    "banner_url": "",
+    "schedule": "Episode 15 tayang pada 19/7/2026, 05.00.00 WIB",
+    "next_episode": 15,
+    "next_airing_timestamp": 1784412000,
+    "season": "SPRING",
+    "year": 2026,
+    "format": "TV_SHORT",
+    "episodes": null,
+    "duration": null,
+    "status": "RELEASING",
+    "score": null,
+    "genres": [
+      "Comedy",
+      "Slice of Life"
+    ],
+    "updated_at": 1784300488
   },
   {
     "id": 185646,
@@ -999,7 +969,7 @@
       "Mahou Shoujo",
       "Mystery"
     ],
-    "updated_at": 1784297502
+    "updated_at": 1784300437
   },
   {
     "id": 188388,
@@ -1029,7 +999,7 @@
       "Fantasy",
       "Sci-Fi"
     ],
-    "updated_at": 1784297567
+    "updated_at": 1784300450
   },
   {
     "id": 206523,
@@ -1056,7 +1026,7 @@
     "genres": [
       "Music"
     ],
-    "updated_at": 1784297603
+    "updated_at": 1784300460
   },
   {
     "id": 155723,
@@ -1113,7 +1083,7 @@
       "Horror",
       "Supernatural"
     ],
-    "updated_at": 1784293224
+    "updated_at": 1784300466
   },
   {
     "id": 210031,
@@ -1143,7 +1113,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784297497
+    "updated_at": 1784300444
   },
   {
     "id": 204060,
@@ -1171,7 +1141,7 @@
       "Action",
       "Comedy"
     ],
-    "updated_at": 1784297564
+    "updated_at": 1784300446
   },
   {
     "id": 118123,
@@ -1228,7 +1198,7 @@
       "Comedy",
       "Slice of Life"
     ],
-    "updated_at": 1784297569
+    "updated_at": 1784300508
   },
   {
     "id": 198409,
@@ -1257,7 +1227,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784297522
+    "updated_at": 1784300444
   },
   {
     "id": 200637,
@@ -1286,7 +1256,7 @@
       "Ecchi",
       "Romance"
     ],
-    "updated_at": 1784297493
+    "updated_at": 1784300446
   },
   {
     "id": 103303,
@@ -1314,7 +1284,7 @@
       "Adventure",
       "Romance"
     ],
-    "updated_at": 1784297511
+    "updated_at": 1784300437
   },
   {
     "id": 21,
@@ -1345,7 +1315,7 @@
       "Drama",
       "Fantasy"
     ],
-    "updated_at": 1784297493
+    "updated_at": 1784300429
   },
   {
     "id": 196974,
@@ -1372,7 +1342,7 @@
     "genres": [
       "Fantasy"
     ],
-    "updated_at": 1784297550
+    "updated_at": 1784300474
   },
   {
     "id": 188139,
@@ -1400,7 +1370,7 @@
       "Drama",
       "Romance"
     ],
-    "updated_at": 1784297509
+    "updated_at": 1784300454
   },
   {
     "id": 178789,
@@ -1430,7 +1400,7 @@
       "Ecchi",
       "Fantasy"
     ],
-    "updated_at": 1784297500
+    "updated_at": 1784300424
   },
   {
     "id": 177637,
@@ -1540,7 +1510,7 @@
       "Ecchi",
       "Slice of Life"
     ],
-    "updated_at": 1784297547
+    "updated_at": 1784300508
   },
   {
     "id": 213359,
@@ -1598,7 +1568,7 @@
       "Drama",
       "Fantasy"
     ],
-    "updated_at": 1784293229
+    "updated_at": 1784300441
   },
   {
     "id": 169582,
@@ -1629,7 +1599,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784297534
+    "updated_at": 1784300451
   },
   {
     "id": 202269,
@@ -1657,7 +1627,7 @@
       "Drama",
       "Romance"
     ],
-    "updated_at": 1784297492
+    "updated_at": 1784300439
   },
   {
     "id": 206521,
@@ -1684,7 +1654,7 @@
     "genres": [
       "Drama"
     ],
-    "updated_at": 1784297504
+    "updated_at": 1784300447
   },
   {
     "id": 185542,
@@ -1714,7 +1684,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784297497
+    "updated_at": 1784300428
   },
   {
     "id": 199408,
@@ -1742,7 +1712,7 @@
       "Drama",
       "Fantasy"
     ],
-    "updated_at": 1784297513
+    "updated_at": 1784300445
   },
   {
     "id": 209504,
@@ -1772,7 +1742,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784297503
+    "updated_at": 1784300479
   },
   {
     "id": 195833,
@@ -1828,7 +1798,7 @@
       "Comedy",
       "Romance"
     ],
-    "updated_at": 1784297497
+    "updated_at": 1784300460
   },
   {
     "id": 199111,
@@ -1857,7 +1827,7 @@
       "Slice of Life",
       "Sports"
     ],
-    "updated_at": 1784297502
+    "updated_at": 1784300445
   },
   {
     "id": 197754,
@@ -1913,7 +1883,7 @@
       "Comedy",
       "Slice of Life"
     ],
-    "updated_at": 1784297561
+    "updated_at": 1784300452
   },
   {
     "id": 213188,
@@ -1971,7 +1941,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784297513
+    "updated_at": 1784300447
   },
   {
     "id": 128757,
@@ -1998,7 +1968,7 @@
     "genres": [
       "Drama"
     ],
-    "updated_at": 1784297501
+    "updated_at": 1784300448
   },
   {
     "id": 187260,
@@ -2027,7 +1997,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784297497
+    "updated_at": 1784300417
   },
   {
     "id": 213665,
@@ -2055,7 +2025,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784297570
+    "updated_at": 1784300445
   },
   {
     "id": 196219,
@@ -2084,7 +2054,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784297497
+    "updated_at": 1784300453
   },
   {
     "id": 177699,
@@ -2113,7 +2083,7 @@
       "Psychological",
       "Sci-Fi"
     ],
-    "updated_at": 1784297500
+    "updated_at": 1784300443
   },
   {
     "id": 209800,
@@ -2172,7 +2142,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784297515
+    "updated_at": 1784300415
   },
   {
     "id": 207809,
@@ -2203,7 +2173,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784297518
+    "updated_at": 1784300464
   },
   {
     "id": 193883,
@@ -2258,7 +2228,7 @@
     "genres": [
       "Slice of Life"
     ],
-    "updated_at": 1784297606
+    "updated_at": 1784300498
   },
   {
     "id": 212309,
@@ -2287,7 +2257,7 @@
       "Mecha",
       "Sci-Fi"
     ],
-    "updated_at": 1784293296
+    "updated_at": 1784300488
   },
   {
     "id": 213703,
@@ -2369,7 +2339,7 @@
     "genres": [
       "Comedy"
     ],
-    "updated_at": 1784280406
+    "updated_at": 1784300498
   },
   {
     "id": 198946,
@@ -2398,7 +2368,7 @@
       "Drama",
       "Fantasy"
     ],
-    "updated_at": 1784297497
+    "updated_at": 1784300419
   },
   {
     "id": 135865,
@@ -2426,7 +2396,7 @@
       "Action",
       "Fantasy"
     ],
-    "updated_at": 1784297493
+    "updated_at": 1784300416
   },
   {
     "id": 213666,
@@ -2454,7 +2424,7 @@
       "Drama",
       "Romance"
     ],
-    "updated_at": 1784297502
+    "updated_at": 1784300471
   },
   {
     "id": 192800,
@@ -2482,7 +2452,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784297515
+    "updated_at": 1784300431
   },
   {
     "id": 196356,
@@ -2510,7 +2480,7 @@
       "Comedy",
       "Slice of Life"
     ],
-    "updated_at": 1784297505
+    "updated_at": 1784300424
   },
   {
     "id": 159309,
@@ -2570,7 +2540,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784297505
+    "updated_at": 1784300437
   },
   {
     "id": 205772,
@@ -2597,7 +2567,7 @@
     "genres": [
       "Comedy"
     ],
-    "updated_at": 1784293281
+    "updated_at": 1784300489
   },
   {
     "id": 213961,
@@ -2625,7 +2595,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784289485
+    "updated_at": 1784300508
   },
   {
     "id": 197715,
@@ -2655,7 +2625,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784297498
+    "updated_at": 1784300421
   },
   {
     "id": 207254,
@@ -2684,7 +2654,7 @@
       "Drama",
       "Sci-Fi"
     ],
-    "updated_at": 1784297569
+    "updated_at": 1784300466
   },
   {
     "id": 209669,
@@ -2714,7 +2684,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784297498
+    "updated_at": 1784300455
   },
   {
     "id": 184356,
@@ -2743,7 +2713,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784297493
+    "updated_at": 1784300432
   },
   {
     "id": 209541,
@@ -2771,7 +2741,7 @@
       "Fantasy",
       "Slice of Life"
     ],
-    "updated_at": 1784279079
+    "updated_at": 1784300488
   },
   {
     "id": 194389,
@@ -2827,7 +2797,7 @@
       "Horror",
       "Supernatural"
     ],
-    "updated_at": 1784297505
+    "updated_at": 1784300465
   },
   {
     "id": 201667,
@@ -2856,7 +2826,7 @@
       "Slice of Life",
       "Supernatural"
     ],
-    "updated_at": 1784297523
+    "updated_at": 1784300458
   },
   {
     "id": 187166,
@@ -2884,7 +2854,7 @@
       "Comedy",
       "Music"
     ],
-    "updated_at": 1784297568
+    "updated_at": 1784300467
   },
   {
     "id": 198376,
@@ -2914,7 +2884,7 @@
       "Music",
       "Slice of Life"
     ],
-    "updated_at": 1784293215
+    "updated_at": 1784300445
   },
   {
     "id": 108992,
@@ -2942,7 +2912,7 @@
       "Action",
       "Supernatural"
     ],
-    "updated_at": 1784297503
+    "updated_at": 1784300455
   },
   {
     "id": 196187,
@@ -2971,7 +2941,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784297498
+    "updated_at": 1784300421
   },
   {
     "id": 208044,
@@ -3000,7 +2970,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784297493
+    "updated_at": 1784300416
   },
   {
     "id": 180136,
@@ -3028,7 +2998,7 @@
       "Action",
       "Fantasy"
     ],
-    "updated_at": 1784297493
+    "updated_at": 1784300434
   },
   {
     "id": 207141,
@@ -3056,7 +3026,7 @@
       "Comedy",
       "Slice of Life"
     ],
-    "updated_at": 1784297493
+    "updated_at": 1784300422
   },
   {
     "id": 204466,
@@ -3085,36 +3055,7 @@
       "Romance",
       "Supernatural"
     ],
-    "updated_at": 1784297493
-  },
-  {
-    "id": 158871,
-    "id_mal": 53876,
-    "url": "https://anilist.co/anime/158871",
-    "title": {
-      "english": "Pokémon Horizons: The Series",
-      "romaji": "Pocket Monsters (2023)",
-      "native": "ポケットモンスター (2023)"
-    },
-    "description": "A new dream and adventure set throughout the entire Pokémon world unfolds in a brand new Pokémon-series following a girl named Liko and a boy named Roy.",
-    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx158871-GBM9AMDfDRSu.jpg",
-    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/158871-jKfsW5HCGA3K.jpg",
-    "schedule": "Episode 144 tayang pada 24/7/2026, 16.55.00 WIB",
-    "next_episode": 144,
-    "next_airing_timestamp": 1784886900,
-    "season": "SPRING",
-    "year": 2023,
-    "format": "TV",
-    "episodes": null,
-    "duration": 24,
-    "status": "RELEASING",
-    "score": 73,
-    "genres": [
-      "Action",
-      "Adventure",
-      "Fantasy"
-    ],
-    "updated_at": 1784297500
+    "updated_at": 1784300440
   },
   {
     "id": 199748,
@@ -3143,7 +3084,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784297508
+    "updated_at": 1784300423
   },
   {
     "id": 196218,
@@ -3175,7 +3116,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784297520
+    "updated_at": 1784300417
   },
   {
     "id": 182205,
@@ -3205,7 +3146,121 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784297500
+    "updated_at": 1784300417
+  },
+  {
+    "id": 188525,
+    "id_mal": 61280,
+    "url": "https://anilist.co/anime/188525",
+    "title": {
+      "english": "Draw This, Then Die!",
+      "romaji": "Kore Kaite Shine",
+      "native": "これ描いて死ね"
+    },
+    "description": "First-year high school student Ai Yasumi lives on the island of Izu Oshima and loves reading manga. But after a certain turning point, she sets her sights on creating stories of her own! As she dives into the world of manga-making, Ai faces challenges, growth, and the excitement of chasing her creative dreams. Where will her creative journey take her?<br>\n<br>\n(Source: Crunchyroll)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx188525-uWhw4rQcqOyF.jpg",
+    "banner_url": "",
+    "schedule": "Episode 4 tayang pada 24/7/2026, 21.30.00 WIB",
+    "next_episode": 4,
+    "next_airing_timestamp": 1784903400,
+    "season": "SUMMER",
+    "year": 2026,
+    "format": "TV",
+    "episodes": 12,
+    "duration": 23,
+    "status": "RELEASING",
+    "score": 72,
+    "genres": [
+      "Comedy",
+      "Slice of Life"
+    ],
+    "updated_at": 1784300454
+  },
+  {
+    "id": 202508,
+    "id_mal": 62981,
+    "url": "https://anilist.co/anime/202508",
+    "title": {
+      "english": "The Drops of God",
+      "romaji": "Kami no Shizuku",
+      "native": "神の雫"
+    },
+    "description": "World-renowned wine critic Yutaka Kanzaki has passed away, leaving behind a wine collection worth over 12 billion yen. His will states that his collection will be given to the one who can identify the origin and year of twelve wines he’s chosen, the “Twelve Apostles”, and one that’s superior even to them, <i>“The Drops of God”. </i><br><br>\nCompeting for the prize are Yutaka’s son, Shizuku, who received a world-class education in wine but rebelled against his father and has never drank a drop, and Issei Tomine, a young charismatic wine critic whom Yutaka had recently adopted as his son. <br><br>\nWhat is wine? What is a parent and a child? What is life?<br>\nThe complex and fragrant battle surrounding the legendary <i>”Drops of God”</i> is about to begin… <br><br>\n(Source: Pony Canyon)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx202508-dk6LEyevJYUY.jpg",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/202508-K276v0truxE0.jpg",
+    "schedule": "Episode 16 tayang pada 24/7/2026, 21.30.00 WIB",
+    "next_episode": 16,
+    "next_airing_timestamp": 1784903400,
+    "season": "SPRING",
+    "year": 2026,
+    "format": "TV",
+    "episodes": 24,
+    "duration": 24,
+    "status": "RELEASING",
+    "score": 54,
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Slice of Life"
+    ],
+    "updated_at": 1784300452
+  },
+  {
+    "id": 182616,
+    "id_mal": 60059,
+    "url": "https://anilist.co/anime/182616",
+    "title": {
+      "english": "The Elusive Samurai Season 2",
+      "romaji": "Nige Jouzu no Wakagimi 2nd Season",
+      "native": "逃げ上手の若君 第二期"
+    },
+    "description": "The second season of <i>Nige Jouzu no Wakagimi</i>.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx182616-ZOCgArw9cgqI.jpg",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/182616-kmIqMEUsLYrO.jpg",
+    "schedule": "Episode 2 tayang pada 24/7/2026, 21.30.00 WIB",
+    "next_episode": 2,
+    "next_airing_timestamp": 1784903400,
+    "season": "SUMMER",
+    "year": 2026,
+    "format": "TV",
+    "episodes": null,
+    "duration": null,
+    "status": "RELEASING",
+    "score": null,
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "updated_at": 1784300461
+  },
+  {
+    "id": 203490,
+    "id_mal": 63061,
+    "url": "https://anilist.co/anime/203490",
+    "title": {
+      "english": "Please Excuse My Younger Brothers",
+      "romaji": "Uchi no Otouto-domo ga Sumimasen",
+      "native": "うちの弟どもがすみません"
+    },
+    "description": "The manga centers on high school student Ito Hazui. During her spring break at the end of her first year of high school, Ito's mother remarries, and Ito moves to live with her new family, becoming Ito Narita. Upon arriving at her new house, Ito is shocked to learn she now has four younger step-brothers. Ito tries her hardest to get along with all of the new members of her family, but the eldest brother Gen is a bit cold to her. However, under his aloof facade, he occasionally shows his kindness.\n<BR><BR>\n(Source: Anime News Network)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx203490-YQXiymUiDQNA.jpg",
+    "banner_url": "",
+    "schedule": "Episode 4 tayang pada 24/7/2026, 22.00.00 WIB",
+    "next_episode": 4,
+    "next_airing_timestamp": 1784905200,
+    "season": "SUMMER",
+    "year": 2026,
+    "format": "TV",
+    "episodes": 24,
+    "duration": 24,
+    "status": "RELEASING",
+    "score": 67,
+    "genres": [
+      "Comedy",
+      "Romance",
+      "Slice of Life"
+    ],
+    "updated_at": 1784300473
   },
   {
     "id": 204560,
@@ -3261,6 +3316,35 @@
       "Hentai"
     ],
     "updated_at": 1784195991
+  },
+  {
+    "id": 158871,
+    "id_mal": 53876,
+    "url": "https://anilist.co/anime/158871",
+    "title": {
+      "english": "Pokémon Horizons: The Series",
+      "romaji": "Pocket Monsters (2023)",
+      "native": "ポケットモンスター (2023)"
+    },
+    "description": "A new dream and adventure set throughout the entire Pokémon world unfolds in a brand new Pokémon-series following a girl named Liko and a boy named Roy.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx158871-GBM9AMDfDRSu.jpg",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/158871-jKfsW5HCGA3K.jpg",
+    "schedule": "Episode 144 tayang pada 31/7/2026, 16.55.00 WIB",
+    "next_episode": 144,
+    "next_airing_timestamp": 1785491700,
+    "season": "SPRING",
+    "year": 2023,
+    "format": "TV",
+    "episodes": null,
+    "duration": 24,
+    "status": "RELEASING",
+    "score": 73,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "updated_at": 1784300477
   },
   {
     "id": 165159,
@@ -3322,7 +3406,7 @@
       "Romance",
       "Thriller"
     ],
-    "updated_at": 1784297500
+    "updated_at": 1784300432
   },
   {
     "id": 210687,
@@ -3351,7 +3435,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784289510
+    "updated_at": 1784300482
   },
   {
     "id": 208264,
@@ -3405,7 +3489,7 @@
     "genres": [
       "Hentai"
     ],
-    "updated_at": 1784297595
+    "updated_at": 1784302202
   },
   {
     "id": 196613,
@@ -3434,7 +3518,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784297541
+    "updated_at": 1784300473
   },
   {
     "id": 208361,
@@ -3515,6 +3599,6 @@
     "genres": [
       "Hentai"
     ],
-    "updated_at": 1784293294
+    "updated_at": 1784300508
   }
 ]

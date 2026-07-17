@@ -545,11 +545,11 @@
     "episodes": 1,
     "duration": 21,
     "status": "FINISHED",
-    "score": 60,
+    "score": 61,
     "genres": [
       "Slice of Life"
     ],
-    "updated_at": 1784268121
+    "updated_at": 1784300508
   },
   {
     "id": 207327,
@@ -667,6 +667,35 @@
     "updated_at": 1784242996
   },
   {
+    "id": 205444,
+    "id_mal": 63253,
+    "url": "https://anilist.co/anime/205444",
+    "title": {
+      "english": "",
+      "romaji": "Majo no Tabitabi Movie",
+      "native": "劇場版 魔女の旅々"
+    },
+    "description": "Sequel movie to <i>Majo no Tabitabi</i>.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx205444-dhVRPyVQaHrr.png",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Adventure",
+      "Fantasy",
+      "Slice of Life"
+    ],
+    "updated_at": 1784300508
+  },
+  {
     "id": 205081,
     "id_mal": 63212,
     "url": "https://anilist.co/anime/205081",
@@ -694,7 +723,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784286117
+    "updated_at": 1784300508
   },
   {
     "id": 204949,
@@ -723,7 +752,7 @@
       "Comedy",
       "Sci-Fi"
     ],
-    "updated_at": 1784275323
+    "updated_at": 1784300508
   },
   {
     "id": 204066,
@@ -1102,6 +1131,34 @@
     "updated_at": 1784246829
   },
   {
+    "id": 195384,
+    "id_mal": 61964,
+    "url": "https://anilist.co/anime/195384",
+    "title": {
+      "english": "LABYRINTH",
+      "romaji": "Meikyuu no Shiori",
+      "native": "迷宮のしおり"
+    },
+    "description": "One day, Shiori Maezawa, an ordinary high school girl, cracked her smartphone while falling down a staircase. As she wakes up, she finds herself in a deserted, parallel world that looks like Yokohama.\n<br><br>\nWhen she looks at her smartphone, she finds a photo of herself that she doesn't remember posting on social media. What’s the source of this mysterious post?\n<br><br>\nWill she be able to escape from this strange smartphone labyrinth?\n<br><br>\n(Source: Official Site, translated)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx195384-mi810JewTu08.jpg",
+    "banner_url": "",
+    "schedule": "Musim: WINTER 2026",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "WINTER",
+    "year": 2026,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 125,
+    "status": "FINISHED",
+    "score": 51,
+    "genres": [
+      "Horror",
+      "Sci-Fi"
+    ],
+    "updated_at": 1784300508
+  },
+  {
     "id": 195201,
     "id_mal": 62547,
     "url": "https://anilist.co/anime/195201",
@@ -1217,6 +1274,33 @@
       "Slice of Life"
     ],
     "updated_at": 1784268099
+  },
+  {
+    "id": 194029,
+    "id_mal": 61783,
+    "url": "https://anilist.co/anime/194029",
+    "title": {
+      "english": "",
+      "romaji": "FOXING: Kitsuné-tsuki",
+      "native": "FOXING: Kitsuné-tsuki (きつねつき)"
+    },
+    "description": "Shinano is a character designer drifting through a monotonous routine. Her work is absorbed into a commercially driven system, and on social media, she feels no sense of belonging, deepening her loneliness.<br><br>\n\nOne day, Koyami—a fox-masked character from her old doodles—appears, followed by other discarded creations, blurring reality and imagination.<br><br>\n\nAs she wanders through her own mind, Shinano realizes they are fragments of herself—the shape of her loneliness—and chooses to keep creating while living with it.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b194029-qZMrDjw2Fj82.png",
+    "banner_url": "",
+    "schedule": "Episode 1 tayang pada 19/7/2026, 02.00.00 WIB",
+    "next_episode": 1,
+    "next_airing_timestamp": 1784401200,
+    "season": "",
+    "year": null,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Fantasy"
+    ],
+    "updated_at": 1784300508
   },
   {
     "id": 193294,
@@ -1570,6 +1654,36 @@
     "updated_at": 1783948258
   },
   {
+    "id": 185714,
+    "id_mal": 60666,
+    "url": "https://anilist.co/anime/185714",
+    "title": {
+      "english": "",
+      "romaji": "Aldnoah.Zero (Re+)",
+      "native": "アルドノア・ゼロ（Re+）"
+    },
+    "description": "A movie compilation of the first and second cours of <i>Aldnoah.Zero</i> and also includes the new animation to conclude the series, <i>Aldnoah.Zero: Ame no Danshou -The Penultimate Truth-</i>.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185714-YYhn41FIOfmM.jpg",
+    "banner_url": "",
+    "schedule": "Musim: WINTER 2025",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "WINTER",
+    "year": 2025,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 120,
+    "status": "FINISHED",
+    "score": 60,
+    "genres": [
+      "Action",
+      "Drama",
+      "Mecha",
+      "Sci-Fi"
+    ],
+    "updated_at": 1784300508
+  },
+  {
     "id": 185613,
     "id_mal": null,
     "url": "https://anilist.co/anime/185613",
@@ -1771,6 +1885,36 @@
       "Slice of Life"
     ],
     "updated_at": 1784246806
+  },
+  {
+    "id": 181449,
+    "id_mal": 59848,
+    "url": "https://anilist.co/anime/181449",
+    "title": {
+      "english": "VIRGIN PUNK Clockwork Girl",
+      "romaji": "Virgin Punk: Clockwork Girl",
+      "native": "ヴァージン・パンク Clockwork Girl"
+    },
+    "description": "The year is 2099.<br>\nHumanity has advanced, overcoming all injuries and illnesses with the development of the Medical Android Technology “Somadea.” However, along with the development of Somadea, crimes misusing said technology have rapidly increased. <br><br>\n\nSomadea grants physical abilities far superior to those of normal flesh and blood, and by illegally modifying it, Somadea can be misused for criminal purposes.<br><br>\nTo deal with these Somadea crimes, the government established the Bounty Hunter System. Civilians registered as bounty hunters are permitted to kill illegal Somadea users designated as wanted criminals by the police. In return, they are rewarded with large amounts of bounty money.<br><br>\n\nConditions for Receiving Bounty:<br>\nBring the brain of a wanted criminal possessing illegal Somadea to authorities.<br>\nWhether the target is alive or dead…is irrelevant.<br><br>\n\nIn this unforgiving world, Ubu Kamigori makes a living hunting down criminals as a bounty hunter. But one day, when she returns home from a job, she finds the man with whom she has a sordid history waiting there – Mr. Elegance. And so, her destiny begins to unravel. <br><br>\n\nA tale woven by mechanical girls and the smell of gunpowder smoke, this suspenseful action begins! <br><br>\n(Source: Aniplex USA, edited)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx181449-OciICz3Pgl29.jpg",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/181449-qsSswZzHUdmX.jpg",
+    "schedule": "Musim: SPRING 2025",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "SPRING",
+    "year": 2025,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 36,
+    "status": "FINISHED",
+    "score": 71,
+    "genres": [
+      "Action",
+      "Drama",
+      "Fantasy",
+      "Sci-Fi"
+    ],
+    "updated_at": 1784300508
   },
   {
     "id": 180804,
@@ -2256,7 +2400,7 @@
       "Slice of Life",
       "Sports"
     ],
-    "updated_at": 1784289675
+    "updated_at": 1784300508
   },
   {
     "id": 176245,
@@ -2313,7 +2457,7 @@
       "Music",
       "Romance"
     ],
-    "updated_at": 1784268097
+    "updated_at": 1784300508
   },
   {
     "id": 175138,
@@ -2689,6 +2833,35 @@
     "updated_at": 1784289675
   },
   {
+    "id": 169017,
+    "id_mal": 23569,
+    "url": "https://anilist.co/anime/169017",
+    "title": {
+      "english": "",
+      "romaji": "Kagirinaki Rakuen",
+      "native": "限りなき楽園"
+    },
+    "description": "An 8mm animation that was produced by Harada during his high school years.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b169017-WyagPTu2vtV4.jpg",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/169017-JOHHtorrzU52.jpg",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 41,
+    "status": "FINISHED",
+    "score": 62,
+    "genres": [
+      "Drama",
+      "Horror",
+      "Psychological"
+    ],
+    "updated_at": 1784300508
+  },
+  {
     "id": 169000,
     "id_mal": 56544,
     "url": "https://anilist.co/anime/169000",
@@ -2745,7 +2918,7 @@
       "Adventure",
       "Sci-Fi"
     ],
-    "updated_at": 1784253665
+    "updated_at": 1784300508
   },
   {
     "id": 167984,
@@ -3886,6 +4059,33 @@
     "updated_at": 1784268100
   },
   {
+    "id": 151743,
+    "id_mal": 54909,
+    "url": "https://anilist.co/anime/151743",
+    "title": {
+      "english": "Living in a world without magic",
+      "romaji": "Mahou no nai Sekai de Ikiru to Iu Koto",
+      "native": "魔法のない世界で生きるということ"
+    },
+    "description": "Graduation work of Akiwashi.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx151743-t6EbslpEz7QL.png",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/151743-q4kbUeRIGqHH.jpg",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 7,
+    "status": "FINISHED",
+    "score": 73,
+    "genres": [
+      "Fantasy"
+    ],
+    "updated_at": 1784300508
+  },
+  {
     "id": 151117,
     "id_mal": 52107,
     "url": "https://anilist.co/anime/151117",
@@ -4052,7 +4252,7 @@
       "Adventure",
       "Supernatural"
     ],
-    "updated_at": 1784242996
+    "updated_at": 1784300508
   },
   {
     "id": 147189,
@@ -4111,6 +4311,36 @@
       "Slice of Life"
     ],
     "updated_at": 1784268121
+  },
+  {
+    "id": 146609,
+    "id_mal": 51358,
+    "url": "https://anilist.co/anime/146609",
+    "title": {
+      "english": "",
+      "romaji": "Dead Dead Demon's Dededededestruction Zenshou",
+      "native": "デッドデッドデーモンズデデデデデストラクション　前章"
+    },
+    "description": "The first film of the <i>Dead Dead Demon's Dededededestruction</i> duology.\n<br><br>\nThe Japan Self-Defense Forces are still looking for a way to combat the alien threat, but so far conventional weapons have had no effect. Maybe it’s time to try something unconventional.<br>\n<br>\nMeanwhile, Kadode Koyama and her best friend avidly track the aliens’ movements on social media and less enthusiastically study for college entrance exams. When the end of the world looms overhead, you learn to take things one step at a time.<br>\n<br>\n(Source: VIZ Media)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx146609-Fy5EYCtLqMr2.jpg",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/146609-nwo657GltJL9.jpg",
+    "schedule": "Musim: WINTER 2024",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "WINTER",
+    "year": 2024,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 120,
+    "status": "FINISHED",
+    "score": 74,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Sci-Fi",
+      "Slice of Life"
+    ],
+    "updated_at": 1784300508
   },
   {
     "id": 145442,
@@ -4603,6 +4833,35 @@
       "Sci-Fi"
     ],
     "updated_at": 1784286117
+  },
+  {
+    "id": 138425,
+    "id_mal": 49722,
+    "url": "https://anilist.co/anime/138425",
+    "title": {
+      "english": "Teasing Master Takagi-san: The Movie",
+      "romaji": "Karakai Jouzu no Takagi-san Movie",
+      "native": "劇場版 からかい上手の高木さん"
+    },
+    "description": "Takagi and Nishikata’s final summer in junior high is about to begin, and it’s already off to a heartwarming start! When the pair find an abandoned kitten, they decide to work together and take care of Hana, their adorable new companion until they can locate its missing mother. What follows is the true beginning of this moving story of young love, complete with the delightful teasing and hilarious antics fans have come to expect from this beloved series and its cast of fan-favorite characters.<br><br>\n(Source: Sentai Filmworks, edited)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b138425-SVqDO2SH5pbh.jpg",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/138425-v3xOYaw4MbXT.jpg",
+    "schedule": "Musim: SPRING 2022",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "SPRING",
+    "year": 2022,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 73,
+    "status": "FINISHED",
+    "score": 83,
+    "genres": [
+      "Comedy",
+      "Romance",
+      "Slice of Life"
+    ],
+    "updated_at": 1784300508
   },
   {
     "id": 137612,
@@ -5209,7 +5468,7 @@
       "Drama",
       "Supernatural"
     ],
-    "updated_at": 1783945850
+    "updated_at": 1784300508
   },
   {
     "id": 129759,
@@ -5443,6 +5702,33 @@
       "Slice of Life"
     ],
     "updated_at": 1784286636
+  },
+  {
+    "id": 127040,
+    "id_mal": 43711,
+    "url": "https://anilist.co/anime/127040",
+    "title": {
+      "english": "",
+      "romaji": "Tounen-bun no Watashi e",
+      "native": "十年分の私へ"
+    },
+    "description": "A concept movie animated by FLAT STUDIO for the All Nippon Esthetic Association (AEA). <br>\n<br>\nThe friendship between \"Saki\" who aims to be an esthetician and \"Umi\" who aims to be a model expresses that \"by being close to a person, you can change that person little by little and eventually change the world.\" <br>\n<br> (Source: Official Site)\n",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx127040-0kUS5rmpcsfW.jpg",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/127040-AjmmgbIM61ki.jpg",
+    "schedule": "Musim: FALL 2020",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "FALL",
+    "year": 2020,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 2,
+    "status": "FINISHED",
+    "score": 60,
+    "genres": [
+      "Drama"
+    ],
+    "updated_at": 1784300508
   },
   {
     "id": 126863,
@@ -5724,7 +6010,7 @@
       "Slice of Life",
       "Sports"
     ],
-    "updated_at": 1784286894
+    "updated_at": 1784300508
   },
   {
     "id": 124140,
@@ -8000,7 +8286,7 @@
     "genres": [
       "Romance"
     ],
-    "updated_at": 1784289908
+    "updated_at": 1784300508
   },
   {
     "id": 112792,
@@ -8343,7 +8629,7 @@
       "Music",
       "Slice of Life"
     ],
-    "updated_at": 1784290183
+    "updated_at": 1784300508
   },
   {
     "id": 111943,
@@ -10730,7 +11016,7 @@
       "Mecha",
       "Sci-Fi"
     ],
-    "updated_at": 1784292353
+    "updated_at": 1784300508
   },
   {
     "id": 105445,
@@ -10929,6 +11215,35 @@
       "Fantasy"
     ],
     "updated_at": 1784292465
+  },
+  {
+    "id": 105018,
+    "id_mal": 38594,
+    "url": "https://anilist.co/anime/105018",
+    "title": {
+      "english": "Ride Your Wave",
+      "romaji": "Kimi to, Nami ni Noretara",
+      "native": "きみと、波にのれたら"
+    },
+    "description": "Upon entering university, Hinako moves to a coastal town. She loves surfing, and when she's on the waves she's fearless, but still feels uncertain about her future. When a fire wreaks havoc in the town, Hinako encounters young firefighter Minato. As they surf and spend more time together, Hinako feels drawn to someone like Minato who devotes himself to helping other people. Hinako also holds a special place in Minato's heart.<br></br>(Source: Toho)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx105018-XM7rFyryltjb.jpg",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/105018-IiUsPcWhjiGK.jpg",
+    "schedule": "Musim: SPRING 2019",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "SPRING",
+    "year": 2019,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 94,
+    "status": "FINISHED",
+    "score": 76,
+    "genres": [
+      "Drama",
+      "Fantasy",
+      "Romance"
+    ],
+    "updated_at": 1784300508
   },
   {
     "id": 104990,
@@ -12926,7 +13241,7 @@
     "genres": [
       "Sports"
     ],
-    "updated_at": 1783948713
+    "updated_at": 1784300508
   },
   {
     "id": 102755,
@@ -13170,7 +13485,7 @@
       "Fantasy",
       "Slice of Life"
     ],
-    "updated_at": 1783948746
+    "updated_at": 1784300508
   },
   {
     "id": 102564,
@@ -14826,7 +15141,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784289675
+    "updated_at": 1784300508
   },
   {
     "id": 101126,
@@ -15203,7 +15518,7 @@
       "Comedy",
       "Mystery"
     ],
-    "updated_at": 1784286117
+    "updated_at": 1784300508
   },
   {
     "id": 100652,
@@ -16707,7 +17022,7 @@
       "Comedy",
       "Drama"
     ],
-    "updated_at": 1784297641
+    "updated_at": 1784300508
   },
   {
     "id": 87458,
@@ -16767,6 +17082,34 @@
     "updated_at": 1784275323
   },
   {
+    "id": 21898,
+    "id_mal": 33820,
+    "url": "https://anilist.co/anime/21898",
+    "title": {
+      "english": "",
+      "romaji": "Ao Oni The Animation",
+      "native": "青鬼 The Animation"
+    },
+    "description": "The film Ao Oni The Animation will be closer to the traditional mystery horror of the original game, although it will have a new story that is different from the original game, novelization, and live-action films.<br><br>\n\nThe story takes place in a suburban town by a mountain forest. The five members of the high school's folklore research club are trying to think of ideas for the culture festival when they discover a former member's collection of research notes from 40 years ago. The legend described in the notes resembles a popular free game called \"Ao Oni,\" so they choose the game as their culture festival theme. They are able to meet with the game's creator, but shortly afterward the creator dies mysteriously. The club members are investigating the mystery at the school when the door shuts and they find themselves locked inside.<br><br>\n\n(Source: Anime News Network)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21898-aGbHTmUpTpN9.jpg",
+    "banner_url": "",
+    "schedule": "Musim: WINTER 2017",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "WINTER",
+    "year": 2017,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 60,
+    "status": "FINISHED",
+    "score": 35,
+    "genres": [
+      "Horror",
+      "Mystery"
+    ],
+    "updated_at": 1784302096
+  },
+  {
     "id": 21893,
     "id_mal": 33221,
     "url": "https://anilist.co/anime/21893",
@@ -16794,7 +17137,7 @@
       "Mecha",
       "Sci-Fi"
     ],
-    "updated_at": 1783945915
+    "updated_at": 1784302100
   },
   {
     "id": 21875,
@@ -16825,7 +17168,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784289630
+    "updated_at": 1784302121
   },
   {
     "id": 21874,
@@ -16856,7 +17199,35 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1783945866
+    "updated_at": 1784302123
+  },
+  {
+    "id": 21846,
+    "id_mal": 33390,
+    "url": "https://anilist.co/anime/21846",
+    "title": {
+      "english": "",
+      "romaji": "Zunda Horizon",
+      "native": "ずんだホライずん"
+    },
+    "description": "Zunko Tohoku can make any mochi into delicious zunda mochi by shooting it with her Zunda Arrow. Along with Kiritan Tohoku, Itako Tohoku, Usagi Chuugoku, Metan Shikoku, and Sora Kyushu, she enjoys eating zunda mochi while being full of happiness.<br><br>Chanko Ooedo conversely leads the Natto Factory along with her companions Tsurugi Chubu, Shinobi Kansai, Awamo Okinawa, and Meron Hokkaido. Even though zunda and natto use the same type of bean, the edamame used in zunda and the soy beans used in natto are harvested at different times, with edamame being harvested first. As a result, the members of the Natto Factory are afraid of a decrease in the quantity of soybeans harvested. Chanko sends Awamo Okinawa and Meron Hokkaido to Zunko's house to assassinate her, but a third power makes their appearance.\n<br><br>\n(Source: Anime News Network)\n<br>\n<br>\nPart of the 2017 Anime Tamago Projects.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21846-zQwx3utUPgma.png",
+    "banner_url": "",
+    "schedule": "Musim: SPRING 2017",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "SPRING",
+    "year": 2017,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 26,
+    "status": "FINISHED",
+    "score": 50,
+    "genres": [
+      "Comedy",
+      "Fantasy"
+    ],
+    "updated_at": 1784302189
   },
   {
     "id": 21833,
@@ -16885,7 +17256,7 @@
       "Drama",
       "Romance"
     ],
-    "updated_at": 1784286117
+    "updated_at": 1784302198
   },
   {
     "id": 21798,
@@ -16913,7 +17284,36 @@
       "Action",
       "Supernatural"
     ],
-    "updated_at": 1783944122
+    "updated_at": 1784302254
+  },
+  {
+    "id": 21794,
+    "id_mal": 33087,
+    "url": "https://anilist.co/anime/21794",
+    "title": {
+      "english": "",
+      "romaji": "Meiji Tokyo Renka: Hanakagami no Fantasia",
+      "native": "劇場版 明治東亰恋伽 〜花鏡の幻想曲〜"
+    },
+    "description": "Sequel to <i>Meiji Tokyo Renka: Yumihari no Serenade</i>.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21794-oyeJJD1MrlZk.jpg",
+    "banner_url": "",
+    "schedule": "Musim: SPRING 2016",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "SPRING",
+    "year": 2016,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 60,
+    "status": "FINISHED",
+    "score": 56,
+    "genres": [
+      "Drama",
+      "Romance",
+      "Supernatural"
+    ],
+    "updated_at": 1784302257
   },
   {
     "id": 21788,
@@ -16945,7 +17345,36 @@
       "Mecha",
       "Sci-Fi"
     ],
-    "updated_at": 1784275323
+    "updated_at": 1784302263
+  },
+  {
+    "id": 21771,
+    "id_mal": 33190,
+    "url": "https://anilist.co/anime/21771",
+    "title": {
+      "english": "Planetarian: Storyteller of the Stars",
+      "romaji": "planetarian: Hoshi no Hito",
+      "native": "planetarian～星の人～"
+    },
+    "description": "An adaptation of the visual-novel by Key, 'Planetarian: Hoshi no Hito' combines the story of the original work with an expansion that extends the narrative with content from the 'Hoshi no Hito' light-novel sequel. \n<br><br>\nIn the future after much of the world has been devastated by nuclear and biological warfare, a young scavenger or 'Junker' exploring a quarantined and abandoned city comes across a service robot still faithfully awaiting customers in the rooftop planetarium of a department store. Against his pragmatic instincts he helps the robot repair the planetarium's projector: a decision which will change both their fates.\n<br><br>\n(Source: Anime News Network)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21771-z6TmqixjGJrU.png",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/21771-OEOLT5y12ksb.jpg",
+    "schedule": "Musim: SUMMER 2016",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "SUMMER",
+    "year": 2016,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 117,
+    "status": "FINISHED",
+    "score": 76,
+    "genres": [
+      "Drama",
+      "Fantasy",
+      "Sci-Fi"
+    ],
+    "updated_at": 1784302332
   },
   {
     "id": 21757,
@@ -16974,7 +17403,38 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784253633
+    "updated_at": 1784302348
+  },
+  {
+    "id": 21729,
+    "id_mal": 33082,
+    "url": "https://anilist.co/anime/21729",
+    "title": {
+      "english": "Kingsglaive Final Fantasy XV",
+      "romaji": "Kingsglaive Final Fantasy XV",
+      "native": "Kingsglaive Final Fantasy XV"
+    },
+    "description": "KINGSGLAIVE is told through the eyes of King Regis, while FINAL FANTASY XV follows the journey of Prince Noctis. The two tales entwine to weave a stirring story of father and son. The film also sheds light onto deeper discoveries of the game world.<br>\n<br>\n(Source: Official Site)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21729-dmAZg7PgJuwj.jpg",
+    "banner_url": "",
+    "schedule": "Musim: SUMMER 2016",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "SUMMER",
+    "year": 2016,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 110,
+    "status": "FINISHED",
+    "score": 70,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Fantasy",
+      "Sci-Fi"
+    ],
+    "updated_at": 1784302377
   },
   {
     "id": 21719,
@@ -17006,7 +17466,7 @@
       "Supernatural",
       "Thriller"
     ],
-    "updated_at": 1784253683
+    "updated_at": 1784302406
   },
   {
     "id": 21718,
@@ -17038,7 +17498,34 @@
       "Supernatural",
       "Thriller"
     ],
-    "updated_at": 1783948366
+    "updated_at": 1784302442
+  },
+  {
+    "id": 21697,
+    "id_mal": 31485,
+    "url": "https://anilist.co/anime/21697",
+    "title": {
+      "english": "Aikatsu Stars! The Movie",
+      "romaji": "Aikatsu Stars! Movie",
+      "native": "劇場版 アイカツスターズ!"
+    },
+    "description": "The film revolves around the students of the Yotsusei Gakuen traveling to a southern island in search for the \"Legendary Dress.\"<br>\n<br>\n(Source: Anime News Network)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21697-BKgWaeZjrWZq.jpg",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/n21697-Ki3l7gWGfhdr.jpg",
+    "schedule": "Musim: SUMMER 2016",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "SUMMER",
+    "year": 2016,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 59,
+    "status": "FINISHED",
+    "score": 73,
+    "genres": [
+      "Music"
+    ],
+    "updated_at": 1784302978
   },
   {
     "id": 21684,
@@ -17066,7 +17553,95 @@
       "Sci-Fi",
       "Supernatural"
     ],
-    "updated_at": 1783947764
+    "updated_at": 1784303005
+  },
+  {
+    "id": 21683,
+    "id_mal": 33218,
+    "url": "https://anilist.co/anime/21683",
+    "title": {
+      "english": "I Want to Deliver Your Voice",
+      "romaji": "Kimi no Koe wo Todoketai",
+      "native": "きみの声をとどけたい"
+    },
+    "description": "The story depicts of the worries, conflicts, and dreams of a high school girl in Shōnan. Nagisa, a girl who is a little impatient because she cannot find her future calling, wanders into a mini FM radio station that has been disused for several years. On impulse, she tries to become a DJ, and her broadcasted words by chance unexpectedly reaches people.\n<br><br>\n(Source: Anime News Network)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21683-aEvZcmtN7Wtt.png",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/21683-XBeis4e7Qmeu.jpg",
+    "schedule": "Musim: SUMMER 2017",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "SUMMER",
+    "year": 2017,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 94,
+    "status": "FINISHED",
+    "score": 67,
+    "genres": [
+      "Drama",
+      "Music",
+      "Slice of Life"
+    ],
+    "updated_at": 1784303006
+  },
+  {
+    "id": 21681,
+    "id_mal": 30870,
+    "url": "https://anilist.co/anime/21681",
+    "title": {
+      "english": "",
+      "romaji": "Ajin: Shougeki",
+      "native": "亜人 -衝戟-"
+    },
+    "description": "The third and final movie in the Ajin film trilogy.<br><br>\n\nWith Satou rendered powerless, Kei Nagai hatches a plan. However, before that plan can come to fruition, it already begins to come apart at the seams, as ajin extremists make their move, and Satou's frightful true form becomes known..\n<br><br>\n(Source: Anime News Network)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21681-y8IqknWY6oNp.jpg",
+    "banner_url": "",
+    "schedule": "Musim: SUMMER 2016",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "SUMMER",
+    "year": 2016,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 120,
+    "status": "FINISHED",
+    "score": 67,
+    "genres": [
+      "Action",
+      "Horror",
+      "Mystery",
+      "Supernatural"
+    ],
+    "updated_at": 1784303007
+  },
+  {
+    "id": 21651,
+    "id_mal": 31231,
+    "url": "https://anilist.co/anime/21651",
+    "title": {
+      "english": "Pokémon the Movie: Volcanion and the Mechanical Marvel",
+      "romaji": "Pokémon The Movie XY&Z: Volcanion to Karakuri no Magearna",
+      "native": "ポケモン・ザ・ムービーXY&Z ボルケニオンと機巧のマギアナ"
+    },
+    "description": "Ash meets the Mythical Pokémon Volcanion when it crashes down from the sky, creating a cloud of dust —and a mysterious force binds the two of them together! Volcanion despises humans and tries to get away, but it's forced to drag Ash along as it continues its rescue mission. They arrive in a city of cogs and gears, where a corrupt minister has stolen the ultimate invention: the Artificial Pokémon Magearna, created 500 years ago. He plans to use its mysterious power to take control of this mechanical kingdom! Can Ash and Volcanion work together to rescue Magearna? One of the greatest battles in Pokémon history is about to unfold!<br><br>\n\n(Source: Pokémon Company International)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21651-VtWkaIPJLDT1.png",
+    "banner_url": "",
+    "schedule": "Musim: SUMMER 2016",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "SUMMER",
+    "year": 2016,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 95,
+    "status": "FINISHED",
+    "score": 64,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "updated_at": 1784303055
   },
   {
     "id": 21646,
@@ -17094,7 +17669,7 @@
       "Action",
       "Mystery"
     ],
-    "updated_at": 1783945899
+    "updated_at": 1784303071
   },
   {
     "id": 21596,
@@ -17184,7 +17759,7 @@
       "Mahou Shoujo",
       "Music"
     ],
-    "updated_at": 1783962141
+    "updated_at": 1784300508
   },
   {
     "id": 21498,
@@ -17549,6 +18124,38 @@
       "Fantasy"
     ],
     "updated_at": 1784297606
+  },
+  {
+    "id": 21248,
+    "id_mal": 31149,
+    "url": "https://anilist.co/anime/21248",
+    "title": {
+      "english": "Persona 3 the Movie: #4 Winter of Rebirth",
+      "romaji": "PERSONA 3 THE MOVIE: #4 Winter of Rebirth",
+      "native": "PERSONA3 THE MOVIE — #4 Winter of Rebirth —"
+    },
+    "description": "To know death, to gaze at death, to face death. Makoto and his allies have grown through the many meetings and partings they have experienced. Their fight might not be for the sake of the world, but for themselves. Even so, they have continued to fight, believing that there are peaceful days waiting at the end of the battle.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b21248-nze05fa3smqI.png",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/21248-Ai9B76YIMWDz.jpg",
+    "schedule": "Musim: WINTER 2016",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "WINTER",
+    "year": 2016,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 105,
+    "status": "FINISHED",
+    "score": 80,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Psychological",
+      "Sci-Fi",
+      "Supernatural"
+    ],
+    "updated_at": 1784300508
   },
   {
     "id": 21220,
@@ -18424,7 +19031,7 @@
       "Mystery",
       "Slice of Life"
     ],
-    "updated_at": 1783963515
+    "updated_at": 1784300508
   },
   {
     "id": 20842,
@@ -18484,6 +19091,37 @@
     "updated_at": 1784242996
   },
   {
+    "id": 20802,
+    "id_mal": 25687,
+    "url": "https://anilist.co/anime/20802",
+    "title": {
+      "english": "Digimon Adventure tri. Chapter 1: Reunion",
+      "romaji": "Digimon Adventure tri. 1: Saikai",
+      "native": "デジモンアドベンチャー tri. 第1章「再会」"
+    },
+    "description": "It's been six years since that summer adventure when Taichi Yagami and the rest of the DigiDestined crossed over to the Digital World. And nearly three years have passed since the final battle between Hikari Yagami's group and BelialVamdemon. As the peaceful days passed by, at some point the gate to the Digital World closed. Not even the DigiDestined know what caused this, and time alone continues to pass.<br>\n<br>\nOn one such day, a Kuwagamon suddenly appears in Odaiba. Its rampage leaves the town in ruins, and the people there in turmoil. Taichi happens to catch sight of the Kuwagamon, and he chases after it all by himself in an effort to halt its rampage. But there's nothing he can do against a Kuwagamon.<br>\n<br>\n<i>\"It's no use... I can't do anything about this alone...\"</i><br>\nJust as the Kuwagamon roars and attacks Taichi, his Digivice begins to emit a bright light...<br>\n<br>\n<i>\"Taichi, look how big you've grown!\"</i><br>\nWith the sound of that nostalgic voice, the story once again begins to move in a big way.<br>\n<br>\n(Source: Official Website)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20802-4fra401ry8FT.png",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/20802-7KZd1B3KBJgB.jpg",
+    "schedule": "Musim: FALL 2015",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "FALL",
+    "year": 2015,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 96,
+    "status": "FINISHED",
+    "score": 71,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Fantasy",
+      "Sci-Fi"
+    ],
+    "updated_at": 1784300508
+  },
+  {
     "id": 20791,
     "id_mal": 25537,
     "url": "https://anilist.co/anime/20791",
@@ -18511,7 +19149,7 @@
       "Psychological",
       "Supernatural"
     ],
-    "updated_at": 1784286117
+    "updated_at": 1784300508
   },
   {
     "id": 20778,
@@ -18628,7 +19266,7 @@
       "Drama",
       "Sci-Fi"
     ],
-    "updated_at": 1784286117
+    "updated_at": 1784300508
   },
   {
     "id": 20760,
@@ -18723,7 +19361,7 @@
       "Sci-Fi",
       "Supernatural"
     ],
-    "updated_at": 1783944122
+    "updated_at": 1784300508
   },
   {
     "id": 20736,
@@ -18755,7 +19393,7 @@
       "Sci-Fi",
       "Supernatural"
     ],
-    "updated_at": 1784286117
+    "updated_at": 1784300508
   },
   {
     "id": 20692,
@@ -18931,7 +19569,7 @@
       "Mystery",
       "Psychological"
     ],
-    "updated_at": 1784282525
+    "updated_at": 1784300508
   },
   {
     "id": 20546,
@@ -19044,7 +19682,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784282525
+    "updated_at": 1784300508
   },
   {
     "id": 20514,
@@ -19073,6 +19711,34 @@
       "Sci-Fi"
     ],
     "updated_at": 1784289675
+  },
+  {
+    "id": 20512,
+    "id_mal": 21189,
+    "url": "https://anilist.co/anime/20512",
+    "title": {
+      "english": "Wake Up, Girls! The Movie",
+      "romaji": "Wake Up, Girls! Shichinin no Idol",
+      "native": "Wake Up, Girls! 七人のアイドル"
+    },
+    "description": "Green Leaves Entertainment is in the worst situation any Talent Management Agency can be in... they have NO talent! Desperate for an act, President Junko Tange targets the idol singer market and gives her flunky Matsuda his marching orders: get a girl group to manage, even if it means building one from scratch!<br>\n<br>\nSince complete singing groups rarely appear out of thin air, Matsuda's now in the difficult position of having to find girls with the right skills who don't already have contracts with Japan's music industry. That girl at the Maid Café? Good enough! A lead singer who's been fired from another group? Sure, why not? How about one who's only 13 years old? What could possibly go wrong there?<br>\n<br>\n(Source: Sentai Filmworks)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20512-5l4MX9C4h0Fh.png",
+    "banner_url": "",
+    "schedule": "Musim: WINTER 2014",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "WINTER",
+    "year": 2014,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 52,
+    "status": "FINISHED",
+    "score": 69,
+    "genres": [
+      "Music",
+      "Slice of Life"
+    ],
+    "updated_at": 1784300508
   },
   {
     "id": 20501,
@@ -19660,7 +20326,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784282525
+    "updated_at": 1784300508
   },
   {
     "id": 16662,
@@ -19971,7 +20637,7 @@
       "Mecha",
       "Sci-Fi"
     ],
-    "updated_at": 1783948378
+    "updated_at": 1784300508
   },
   {
     "id": 15177,
@@ -20236,7 +20902,7 @@
     "genres": [
       "Action"
     ],
-    "updated_at": 1783945913
+    "updated_at": 1784300508
   },
   {
     "id": 13667,
@@ -20491,7 +21157,7 @@
       "Comedy",
       "Drama"
     ],
-    "updated_at": 1784282525
+    "updated_at": 1784300508
   },
   {
     "id": 12857,
@@ -20698,7 +21364,7 @@
       "Horror",
       "Supernatural"
     ],
-    "updated_at": 1784289672
+    "updated_at": 1784300508
   },
   {
     "id": 12113,
@@ -20730,7 +21396,7 @@
       "Horror",
       "Supernatural"
     ],
-    "updated_at": 1784289672
+    "updated_at": 1784300508
   },
   {
     "id": 12053,
@@ -22338,7 +23004,7 @@
       "Fantasy",
       "Supernatural"
     ],
-    "updated_at": 1784282525
+    "updated_at": 1784300508
   },
   {
     "id": 6795,
@@ -22599,7 +23265,7 @@
       "Mecha",
       "Sci-Fi"
     ],
-    "updated_at": 1783945915
+    "updated_at": 1784300508
   },
   {
     "id": 6178,
@@ -23253,7 +23919,7 @@
       "Drama",
       "Fantasy"
     ],
-    "updated_at": 1784242996
+    "updated_at": 1784300508
   },
   {
     "id": 4107,
@@ -23727,6 +24393,34 @@
     "updated_at": 1784268121
   },
   {
+    "id": 3089,
+    "id_mal": 3089,
+    "url": "https://anilist.co/anime/3089",
+    "title": {
+      "english": "The Sky Crawlers",
+      "romaji": "Sky Crawlers",
+      "native": "スカイ・クロラ"
+    },
+    "description": "The Sky Crawlers is based on a Japanese novel series by Hiroshi Mori. First published by Chu&#333;k&#333;ron-shinsha in June 2001 and spanning five books, it follows the journeys and tribulations of a group of young fighter pilots involved in dogfight warfare, and is set during an alternate historical period.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx3089-AVjAzlLaN7SQ.jpg",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/3089-OiQzZu3veLmK.jpg",
+    "schedule": "Musim: SUMMER 2008",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "SUMMER",
+    "year": 2008,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 122,
+    "status": "FINISHED",
+    "score": 71,
+    "genres": [
+      "Drama",
+      "Psychological"
+    ],
+    "updated_at": 1784300508
+  },
+  {
     "id": 3087,
     "id_mal": 3087,
     "url": "https://anilist.co/anime/3087",
@@ -23981,7 +24675,7 @@
       "Drama",
       "Supernatural"
     ],
-    "updated_at": 1783944122
+    "updated_at": 1784300508
   },
   {
     "id": 2847,
@@ -24130,6 +24824,33 @@
     "updated_at": 1784242996
   },
   {
+    "id": 2675,
+    "id_mal": 2675,
+    "url": "https://anilist.co/anime/2675",
+    "title": {
+      "english": "Doraemon: Nobita's Galactic Express",
+      "romaji": "Doraemon: Nobita to Ginga Express",
+      "native": "ドラえもん のび太と銀河超特急(エクスプレス)"
+    },
+    "description": "The kids go on a space Mystery Train bound for a space theme park, when a race of alien virus strikes, wanting to take them as host bodies.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2675-Jth4VYAgu6lM.jpg",
+    "banner_url": "",
+    "schedule": "Musim: WINTER 1996",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "WINTER",
+    "year": 1996,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 97,
+    "status": "FINISHED",
+    "score": 70,
+    "genres": [
+      "Fantasy"
+    ],
+    "updated_at": 1784300508
+  },
+  {
     "id": 2673,
     "id_mal": 2673,
     "url": "https://anilist.co/anime/2673",
@@ -24269,6 +24990,66 @@
       "Slice of Life"
     ],
     "updated_at": 1784282525
+  },
+  {
+    "id": 2594,
+    "id_mal": 2594,
+    "url": "https://anilist.co/anime/2594",
+    "title": {
+      "english": "",
+      "romaji": "Piano no Mori",
+      "native": "ピアノの森"
+    },
+    "description": "Amamiya Shuuhei moves from Tokyo to the country side due to his grandmother's bad health. His father is a famous pianist and Shuuhei has taken strict piano lessons since he was very young, aspiring to follow in his footsteps. In school, he is teased by his classmates and is dared to play the piano in the forest. This piano is said to be cursed: if you play it, no sound will come. After school, Ichinose Kai, a boy in the same class, takes Shuuhei to the forest. When Shuuhei tries to play he fails, but Kai plays a wonderful song. <br><br>\nThis is the beginning of a strong friendship, and a story of two very different boys developing their skills as musicians.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2594.jpg",
+    "banner_url": "",
+    "schedule": "Musim: SUMMER 2007",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "SUMMER",
+    "year": 2007,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 100,
+    "status": "FINISHED",
+    "score": 73,
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Drama",
+      "Music"
+    ],
+    "updated_at": 1784300508
+  },
+  {
+    "id": 2593,
+    "id_mal": 2593,
+    "url": "https://anilist.co/anime/2593",
+    "title": {
+      "english": "the Garden of sinners Chapter 1: Thanatos. (Overlooking View)",
+      "romaji": "Kara no Kyoukai: Fukan Fuukei",
+      "native": "空の境界 俯瞰風景"
+    },
+    "description": "September, 1998: In the city where Shiki lives, something triggers a spate of mysterious schoolgirl suicides. The connection between the girls who've leapt to their deaths is unclear, although all of them have jumped from the Fujou Building, a skyscraper scheduled to be demolished.\r\n<br><br>\r\n(Source: Aniplex USA)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2593-FsRHa8PIl2OJ.jpg",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/2593-4TD2W9Zk693v.jpg",
+    "schedule": "Musim: FALL 2007",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "FALL",
+    "year": 2007,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 50,
+    "status": "FINISHED",
+    "score": 73,
+    "genres": [
+      "Action",
+      "Mystery",
+      "Supernatural",
+      "Thriller"
+    ],
+    "updated_at": 1784300508
   },
   {
     "id": 2591,
@@ -24751,6 +25532,35 @@
     "updated_at": 1784289675
   },
   {
+    "id": 2099,
+    "id_mal": 2099,
+    "url": "https://anilist.co/anime/2099",
+    "title": {
+      "english": "Silent Möbius: The Motion Picture",
+      "romaji": "Silent Möbius: THE MOTION PICTURE",
+      "native": "サイレントメビウスTHE MOTION PICTURE"
+    },
+    "description": "In a futuristic Tokyo, several policewomen fight a monster. One of them, Katsumi Liqueur, remembers where she saw it before... Katsumi Liqueur, an American-born woman of Japanese descent, travels to Tokyo to visit her mother, Fuyuka, who is sick in the hospital. She takes a shortcut through an alley after her taxi gets stuck in traffic, only to encounter a monster and two policewomen fighting it. Later, she meets their chief, Rally Cheyenne, who, it seems, has been expecting her, though Katsumi has never met her before. The policewomen want Katsumi to help them fight the monster, but Katsumi, who does not want to believe in magic, resists.\n<br><br>\n(Source: Anime News Network)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2099-Yrx7o7wUJqnO.png",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/n2099-ZL7hFlzYp0HH.jpg",
+    "schedule": "Musim: SUMMER 1991",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "SUMMER",
+    "year": 1991,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 54,
+    "status": "FINISHED",
+    "score": 60,
+    "genres": [
+      "Adventure",
+      "Sci-Fi",
+      "Supernatural"
+    ],
+    "updated_at": 1784300508
+  },
+  {
     "id": 2071,
     "id_mal": 2071,
     "url": "https://anilist.co/anime/2071",
@@ -25047,7 +25857,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784289675
+    "updated_at": 1784300508
   },
   {
     "id": 1815,
@@ -25281,6 +26091,35 @@
       "Sci-Fi"
     ],
     "updated_at": 1784297598
+  },
+  {
+    "id": 1441,
+    "id_mal": 1441,
+    "url": "https://anilist.co/anime/1441",
+    "title": {
+      "english": "Night on the Galactic Railroad",
+      "romaji": "Ginga Tetsudou no Yoru",
+      "native": "銀河鉄道の夜"
+    },
+    "description": "Based on a short story by the popular children’s writer Kenji Miyazawa, Galactic Railroad offers viewers a slow-paced, dreamlike journey through space and time. When Giovanni, a lonely boy in a hill town, goes to get milk for his ailing mother, he finds himself crossing the Milky Way on a faster-than-light steam railroad. The stations he visits in various constellations, like the planets explored by St. Exupery’s Little Prince, offer curious adventures and an assortment of human \"types.\" Reality and fantasy blur aboard the train, and its travels across the light-years sometimes suggests the journey through life. The characters are depicted as cats, presumably to avoid the problems of animating humans. <br><br>\n(Source: AniDB)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b1441-NOIDPZ2svpoS.jpg",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/1441-9SX2Pe0i02uK.jpg",
+    "schedule": "Musim: SUMMER 1985",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "SUMMER",
+    "year": 1985,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 108,
+    "status": "FINISHED",
+    "score": 72,
+    "genres": [
+      "Drama",
+      "Fantasy",
+      "Mystery"
+    ],
+    "updated_at": 1784300508
   },
   {
     "id": 1430,
@@ -25540,7 +26379,7 @@
       "Drama",
       "Sci-Fi"
     ],
-    "updated_at": 1784286117
+    "updated_at": 1784300508
   },
   {
     "id": 1301,
@@ -25570,7 +26409,7 @@
       "Mecha",
       "Sci-Fi"
     ],
-    "updated_at": 1784289675
+    "updated_at": 1784300508
   },
   {
     "id": 1290,
@@ -26019,7 +26858,7 @@
       "Mystery",
       "Sci-Fi"
     ],
-    "updated_at": 1784282525
+    "updated_at": 1784300508
   },
   {
     "id": 1095,
@@ -26170,7 +27009,7 @@
       "Romance",
       "Sci-Fi"
     ],
-    "updated_at": 1784286117
+    "updated_at": 1784300508
   },
   {
     "id": 1049,
@@ -26229,7 +27068,7 @@
       "Drama",
       "Sci-Fi"
     ],
-    "updated_at": 1784282525
+    "updated_at": 1784300508
   },
   {
     "id": 1033,
@@ -26287,7 +27126,7 @@
       "Drama",
       "Fantasy"
     ],
-    "updated_at": 1784286117
+    "updated_at": 1784300508
   },
   {
     "id": 1029,
@@ -26844,6 +27683,36 @@
     "updated_at": 1784242996
   },
   {
+    "id": 875,
+    "id_mal": 875,
+    "url": "https://anilist.co/anime/875",
+    "title": {
+      "english": "Mind Game",
+      "romaji": "Mind Game",
+      "native": "マインド・ゲーム"
+    },
+    "description": "Audiences will begin to grasp what they are in for early on, as loser Nishi, too wimpy to try to save his childhood sweetheart from gangsters, is shot in the butt by a soccer-playing psychopath, projecting Nishi into the afterlife. In this limbo, God - shown as a series of rapidly changing characters - tells him to walk toward the light. But Nishi runs like hell in the other direction and returns to Earth a changed man, driven to live each moment to the fullest.<br>\n<br>\n(Source: Shout! Factory)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx875-kvQVUKDPcAKl.png",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/875-yXbiRS7ayxlG.jpg",
+    "schedule": "Musim: SUMMER 2004",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "SUMMER",
+    "year": 2004,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 104,
+    "status": "FINISHED",
+    "score": 76,
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Psychological",
+      "Romance"
+    ],
+    "updated_at": 1784300508
+  },
+  {
     "id": 868,
     "id_mal": 868,
     "url": "https://anilist.co/anime/868",
@@ -26956,6 +27825,38 @@
       "Sports"
     ],
     "updated_at": 1784275323
+  },
+  {
+    "id": 793,
+    "id_mal": 793,
+    "url": "https://anilist.co/anime/793",
+    "title": {
+      "english": "xxxHOLiC - A Midsummer Night's Dream",
+      "romaji": "xxxHOLiC: Manatsu no Yoru no Yume",
+      "native": "劇場版 XXX HOLiC 真夏ノ夜ノ夢"
+    },
+    "description": "Yuuko receives a letter from an unknown sender. It is an invitation to an auction. Seven avid collectors were invited to an old mansion. They all admit that they accepted the invitation to complete their collections. They waited for the host, but he does not make an appearance. And one by one the collectors disappear. The strange host and a mysterious girl. A night where odd things happen one after another. What is being auctioned? Who is the host? The cunning and foolish people who are obsessed with \"possessions\" and the host's \"timeless\" passion. What is waiting at the end of this enigmatic series of riddles? And what is the conclusion of the sad love story behind them? Mystery leads to mystery, and reaches the unexpected!<br><br>\n(Source: Production I.G.)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx793-36e9w8wPXG6g.png",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/793-0vuwNQvEsHY3.jpg",
+    "schedule": "Musim: SUMMER 2005",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "SUMMER",
+    "year": 2005,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 60,
+    "status": "FINISHED",
+    "score": 76,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Horror",
+      "Mystery",
+      "Psychological",
+      "Supernatural"
+    ],
+    "updated_at": 1784300508
   },
   {
     "id": 791,
@@ -27101,6 +28002,37 @@
     "updated_at": 1784253648
   },
   {
+    "id": 732,
+    "id_mal": 732,
+    "url": "https://anilist.co/anime/732",
+    "title": {
+      "english": "VAMPIRE HUNTER D",
+      "romaji": "Vampire Hunter D",
+      "native": "吸血鬼ハンターD"
+    },
+    "description": "10,000 years in the future, the world has become a very different place; monsters roam the land freely, and people, although equiped with high tech weapons and cybernetic horses, live a humble life more suited to centuries past. The story focuses on a small hamlet plagued by monster attacks and living under the shadow of rule by Count Magnus Lee, a powerful vampire lord who has ruled the land for thousands of years. When a young girl is bitten by the Count and chosen as his current plaything, she seeks out help of a quiet wandering stranger, D. It so happens that D is one of the world`s best vampire hunters, and he takes it upon himself to cut through Magnus Lee`s many minions, and put an end to the Count`s rule.<br><br>\n(Source: AniDB)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx732-dksIxsja9LX7.png",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/732-us0j3KVEjWMe.jpg",
+    "schedule": "Musim: FALL 1985",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "FALL",
+    "year": 1985,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 80,
+    "status": "FINISHED",
+    "score": 65,
+    "genres": [
+      "Action",
+      "Fantasy",
+      "Horror",
+      "Sci-Fi",
+      "Supernatural"
+    ],
+    "updated_at": 1784300508
+  },
+  {
     "id": 711,
     "id_mal": 711,
     "url": "https://anilist.co/anime/711",
@@ -27157,7 +28089,37 @@
       "Horror",
       "Romance"
     ],
-    "updated_at": 1783962141
+    "updated_at": 1784300508
+  },
+  {
+    "id": 597,
+    "id_mal": 597,
+    "url": "https://anilist.co/anime/597",
+    "title": {
+      "english": "The Cat Returns",
+      "romaji": "Neko no Ongaeshi",
+      "native": "猫の恩返し"
+    },
+    "description": "The Cat Returns is something of a loose spin-off of \"Whisper of the Heart\" as it features two characters from that film: Muta (the cat from \"Whisper\") and the Baron (the cat statue from \"Whisper\"). There is no other connection between the two movies and this is not a sequel. The story is based on Neko no Danshaku (Baron of Cat) by Hiiragi Aoi. <br><br>\nThe main character of the story, Haru, is a clueless, ordinary 17-year-old girl. She has no special abilities and neither is she an extraordinary beauty. When faced with reality, she is unable to make decisions for herself, thus often sways to others' opinions to avoid challenge. One day, Haru saves the life of a cat without considering her own safety. The cat turns out to be the Cat Prince from the Kingdom of Cats, however as a result, Haru is trapped in the world of cats. Can Baron and Muta rescue Haru who has wandered into the world of cats? <br><br>\n(Source: AniDB, edited)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx597-Prw5pUyYwcFO.png",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/597-nTMnq104EwyB.jpg",
+    "schedule": "Musim: SUMMER 2002",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "SUMMER",
+    "year": 2002,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 75,
+    "status": "FINISHED",
+    "score": 75,
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Drama",
+      "Fantasy"
+    ],
+    "updated_at": 1784300508
   },
   {
     "id": 585,
@@ -27276,7 +28238,7 @@
       "Romance",
       "Thriller"
     ],
-    "updated_at": 1784253705
+    "updated_at": 1784300508
   },
   {
     "id": 543,
@@ -27309,7 +28271,7 @@
       "Romance",
       "Sci-Fi"
     ],
-    "updated_at": 1784275323
+    "updated_at": 1784300508
   },
   {
     "id": 536,
@@ -27460,7 +28422,7 @@
       "Romance",
       "Sci-Fi"
     ],
-    "updated_at": 1784282525
+    "updated_at": 1784300508
   },
   {
     "id": 520,
@@ -27757,6 +28719,36 @@
       "Fantasy"
     ],
     "updated_at": 1783948367
+  },
+  {
+    "id": 459,
+    "id_mal": 459,
+    "url": "https://anilist.co/anime/459",
+    "title": {
+      "english": "ONE PIECE: The Movie",
+      "romaji": "ONE PIECE (Movie)",
+      "native": "ONE PIECE (Movie)"
+    },
+    "description": "There once was a pirate known as the Great Gold Pirate Woonan, who obtained almost 1/3 of the world's gold. Over the course of a few years, the pirate's existence faded, and a legend grew that he disappeared with his gold to a remote island, an island pirates continue to search for. Aboard the Going Merry, Luffy and his crew, starved and reckless, are robbed of their treasure. In an attempt to get it back, they wreck the getaway ship, guided by a young boy named Tabio, who's a captured part of El Drago's pirate crew. El Drago's love for gold has driven him to look for Woonan's island, and thanks to Woonan's treasure map, he finds it. During this time, Luffy's crew have been split up, and despite their own circumstances, they must find a way to stop El Drago from obtaining Woonan's gold. <br><br>\n(Source: Anime News Network)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx459-Ivw65mUXackh.png",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/459-JqlCjcwxxFrr.jpg",
+    "schedule": "Musim: WINTER 2000",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "WINTER",
+    "year": 2000,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 50,
+    "status": "FINISHED",
+    "score": 68,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Fantasy"
+    ],
+    "updated_at": 1784300508
   },
   {
     "id": 452,
@@ -28180,7 +29172,7 @@
       "Sci-Fi",
       "Supernatural"
     ],
-    "updated_at": 1784282525
+    "updated_at": 1784300508
   },
   {
     "id": 88,
