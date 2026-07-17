@@ -239,7 +239,7 @@
     "status": "NOT_YET_RELEASED",
     "score": null,
     "genres": [],
-    "updated_at": 1784253634
+    "updated_at": 1784318425
   },
   {
     "id": 213814,
@@ -439,6 +439,31 @@
     "updated_at": 1784286117
   },
   {
+    "id": 211260,
+    "id_mal": null,
+    "url": "https://anilist.co/anime/211260",
+    "title": {
+      "english": "",
+      "romaji": "Piyopiyo Baba",
+      "native": "ぴよぴよバーバ"
+    },
+    "description": "Part of a series of animated short films shown at the Ghibli Museum in Mitaka called <i>\"Film Guru Guru\"</i>.<br><br>\nYubaba, a character from Spirited Away, returns in this short. She turns to the front, opens her mouth and laughs, and when she turns 180 degrees and turns backward, a small bird comes out of her hair and screams. When the little bird retracts into her hair, Yubaba turns 180 degrees again, turns to the front, and laughs once more.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b211260-HfShBt2C4Etb.png",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 1,
+    "status": "FINISHED",
+    "score": null,
+    "genres": [],
+    "updated_at": 1784318490
+  },
+  {
     "id": 211232,
     "id_mal": 64431,
     "url": "https://anilist.co/anime/211232",
@@ -521,7 +546,7 @@
       "Mystery",
       "Thriller"
     ],
-    "updated_at": 1784289623
+    "updated_at": 1784318429
   },
   {
     "id": 208754,
@@ -549,7 +574,7 @@
       "Action",
       "Adventure"
     ],
-    "updated_at": 1784253629
+    "updated_at": 1784318458
   },
   {
     "id": 208055,
@@ -631,7 +656,7 @@
     "genres": [
       "Romance"
     ],
-    "updated_at": 1784289634
+    "updated_at": 1784318479
   },
   {
     "id": 206611,
@@ -720,7 +745,7 @@
       "Fantasy",
       "Slice of Life"
     ],
-    "updated_at": 1784300508
+    "updated_at": 1784318498
   },
   {
     "id": 205081,
@@ -946,7 +971,7 @@
       "Drama",
       "Mystery"
     ],
-    "updated_at": 1784246835
+    "updated_at": 1784318478
   },
   {
     "id": 199433,
@@ -1006,7 +1031,7 @@
       "Romance",
       "Supernatural"
     ],
-    "updated_at": 1784246834
+    "updated_at": 1784318454
   },
   {
     "id": 199150,
@@ -1066,7 +1091,7 @@
       "Sci-Fi",
       "Supernatural"
     ],
-    "updated_at": 1784246831
+    "updated_at": 1784318446
   },
   {
     "id": 198188,
@@ -1099,7 +1124,7 @@
       "Slice of Life",
       "Supernatural"
     ],
-    "updated_at": 1784246831
+    "updated_at": 1784318437
   },
   {
     "id": 197543,
@@ -1270,7 +1295,7 @@
       "Drama",
       "Supernatural"
     ],
-    "updated_at": 1784246829
+    "updated_at": 1784318496
   },
   {
     "id": 195200,
@@ -1300,7 +1325,7 @@
       "Drama",
       "Supernatural"
     ],
-    "updated_at": 1784246829
+    "updated_at": 1784318417
   },
   {
     "id": 194167,
@@ -1440,7 +1465,7 @@
       "Drama",
       "Supernatural"
     ],
-    "updated_at": 1784268110
+    "updated_at": 1784318443
   },
   {
     "id": 192002,
@@ -1470,7 +1495,7 @@
       "Romance",
       "Sci-Fi"
     ],
-    "updated_at": 1784304124
+    "updated_at": 1784318453
   },
   {
     "id": 190574,
@@ -1646,7 +1671,7 @@
       "Drama",
       "Fantasy"
     ],
-    "updated_at": 1783947839
+    "updated_at": 1784318498
   },
   {
     "id": 186716,
@@ -1879,7 +1904,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784289614
+    "updated_at": 1784318424
   },
   {
     "id": 182206,
@@ -1909,7 +1934,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784246807
+    "updated_at": 1784318429
   },
   {
     "id": 182158,
@@ -2145,6 +2170,37 @@
       "Supernatural"
     ],
     "updated_at": 1784289672
+  },
+  {
+    "id": 178788,
+    "id_mal": 59192,
+    "url": "https://anilist.co/anime/178788",
+    "title": {
+      "english": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
+      "romaji": "Kimetsu no Yaiba: Mugenjou-hen Movie 1 - Akaza Sairai",
+      "native": "劇場版「鬼滅の刃」無限城編 第一章 猗窩座再来"
+    },
+    "description": "<i>Part 1 of the theatrical trilogy adaptation of the Infinity Castle Arc.</i>\n<br><br>\nTanjiro Kamado – a boy who joined an organization dedicated to hunting down demons called the Demon Slayer Corps after his younger sister Nezuko was turned into a demon.\n<br><br>\nWhile growing stronger and deepening his friendships and bonds with fellow corps members, Tanjiro has battled many demons with his comrades – Zenitsu Agatsuma and Inosuke Hashibira. Along the way, his journey has led him to fight alongside the Demon Slayer Corps’ highest-ranking swordsmen, the Hashira, including Flame Hashira Kyojuro Rengoku aboard the Mugen Train, Sound Hashira Tengen Uzui within the Entertainment District, as well as Mist Hashira Muichiro Tokito and Love Hashira Mitsuri Kanroji at the Swordsmith Village.\n<br><br>\nAs the Demon Slayer Corps members and Hashira engaged in a group strength training program, the Hashira Training, in preparation for the forthcoming battle against the demons, Muzan Kibutsuji appears at the Ubuyashiki Mansion. With the head of the Demon Corps in danger, Tanjiro and the Hashira rush to the headquarters but are plunged into a deep descent to a mysterious space by the hands of Muzan Kibutsuji.\n<br><br>\nThe destination of where Tanjiro and Demon Slayer Corps have fallen is the demons’ stronghold – the Infinity Castle. And so, the battleground is set as the final battle between the Demon Slayer Corps and the demons ignites.\n<br><br>\n(Source: Crunchyroll)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178788-zm3gtpB9TpRt.jpg",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/178788-tSHb5MiaNBNL.jpg",
+    "schedule": "Musim: SUMMER 2025",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "SUMMER",
+    "year": 2025,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 155,
+    "status": "FINISHED",
+    "score": 86,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Fantasy",
+      "Supernatural"
+    ],
+    "updated_at": 1784318415
   },
   {
     "id": 178782,
@@ -2541,7 +2597,7 @@
       "Music",
       "Romance"
     ],
-    "updated_at": 1784300508
+    "updated_at": 1784318498
   },
   {
     "id": 175138,
@@ -2597,7 +2653,7 @@
       "Drama",
       "Sports"
     ],
-    "updated_at": 1784268120
+    "updated_at": 1784318497
   },
   {
     "id": 174788,
@@ -3311,7 +3367,7 @@
       "Drama",
       "Sports"
     ],
-    "updated_at": 1784289613
+    "updated_at": 1784318482
   },
   {
     "id": 163143,
@@ -3400,7 +3456,7 @@
       "Romance",
       "Supernatural"
     ],
-    "updated_at": 1784282575
+    "updated_at": 1784318457
   },
   {
     "id": 161441,
@@ -3519,7 +3575,7 @@
       "Mystery",
       "Sci-Fi"
     ],
-    "updated_at": 1784282669
+    "updated_at": 1784318442
   },
   {
     "id": 159886,
@@ -3834,7 +3890,7 @@
     "genres": [
       "Music"
     ],
-    "updated_at": 1784282864
+    "updated_at": 1784318495
   },
   {
     "id": 157330,
@@ -3945,7 +4001,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784282999
+    "updated_at": 1784318433
   },
   {
     "id": 156153,
@@ -4058,7 +4114,7 @@
       "Psychological",
       "Supernatural"
     ],
-    "updated_at": 1784283168
+    "updated_at": 1784318454
   },
   {
     "id": 154392,
@@ -4141,6 +4197,36 @@
     "score": null,
     "genres": [],
     "updated_at": 1784283285
+  },
+  {
+    "id": 153687,
+    "id_mal": 52747,
+    "url": "https://anilist.co/anime/153687",
+    "title": {
+      "english": "PSYCHO-PASS: Providence",
+      "romaji": "PSYCHO-PASS PROVIDENCE",
+      "native": "劇場版 PSYCHO-PASS サイコパス PROVIDENCE"
+    },
+    "description": "January 2118. Chief Inspector of the Criminal Investigation Department, Akane Tsunemori, receives a report of an incident on a foreign vessel – the body of Professor Milicia Stronskaya has been discovered. Behind the incident is a group known as the Peacebreakers, a foreign paramilitary organization and a new outside threat who are targeting the professor's research documents known as the “Stronskaya Papers.” Reunited with Shinya Kogami, a former fugitive from the Criminal Investigation Department, Akane grapples with a case that quickly escalates beyond their expectations. The Stronskaya Papers could reveal a truth that would shake Japan's government, and even the Sibyl System, to the core. It is in this untold story that the missing link is revealed. \n<br><br>\n(Source: Crunchyroll)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx153687-xB2x4toOz5MB.jpg",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/153687-zzGUxK9faG7O.jpg",
+    "schedule": "Musim: SPRING 2023",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "SPRING",
+    "year": 2023,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 120,
+    "status": "FINISHED",
+    "score": 76,
+    "genres": [
+      "Action",
+      "Psychological",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "updated_at": 1784318480
   },
   {
     "id": 153658,
@@ -4227,7 +4313,7 @@
       "Psychological",
       "Supernatural"
     ],
-    "updated_at": 1784307728
+    "updated_at": 1784318491
   },
   {
     "id": 149088,
@@ -4538,7 +4624,7 @@
       "Drama",
       "Fantasy"
     ],
-    "updated_at": 1784289620
+    "updated_at": 1784318464
   },
   {
     "id": 142770,
@@ -4770,7 +4856,7 @@
       "Fantasy",
       "Music"
     ],
-    "updated_at": 1784289675
+    "updated_at": 1784318455
   },
   {
     "id": 140999,
@@ -4889,7 +4975,37 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784246725
+    "updated_at": 1784318443
+  },
+  {
+    "id": 139359,
+    "id_mal": 49842,
+    "url": "https://anilist.co/anime/139359",
+    "title": {
+      "english": "My Next Life as a Villainess: All Routes Lead to Doom! Movie",
+      "romaji": "Otome Game no Hametsu Flag shika Nai Akuyaku Reijou ni Tensei shiteshimatta… Movie",
+      "native": "映画 乙女ゲームの破滅フラグしかない悪役令嬢に転生してしまった…"
+    },
+    "description": "After Katarina avoids her own death flag, she and her friends run into a mysterious young man traveling with a caravan. Who is this young man and what does he want?",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx139359-JiHbeMddI3mx.jpg",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/139359-cMY4oZv7Vra3.jpg",
+    "schedule": "Musim: FALL 2023",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "FALL",
+    "year": 2023,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 90,
+    "status": "FINISHED",
+    "score": 72,
+    "genres": [
+      "Comedy",
+      "Fantasy",
+      "Romance",
+      "Slice of Life"
+    ],
+    "updated_at": 1784318440
   },
   {
     "id": 139311,
@@ -4917,7 +5033,7 @@
       "Romance",
       "Sci-Fi"
     ],
-    "updated_at": 1784307728
+    "updated_at": 1784318462
   },
   {
     "id": 139310,
@@ -4945,7 +5061,7 @@
       "Romance",
       "Sci-Fi"
     ],
-    "updated_at": 1784282525
+    "updated_at": 1784318498
   },
   {
     "id": 139273,
@@ -5318,7 +5434,7 @@
     "genres": [
       "Mahou Shoujo"
     ],
-    "updated_at": 1784253695
+    "updated_at": 1784318431
   },
   {
     "id": 132545,
@@ -5609,7 +5725,7 @@
       "Drama",
       "Supernatural"
     ],
-    "updated_at": 1784300508
+    "updated_at": 1784318431
   },
   {
     "id": 129759,
@@ -5841,7 +5957,7 @@
       "Mystery",
       "Sci-Fi"
     ],
-    "updated_at": 1784304124
+    "updated_at": 1784318494
   },
   {
     "id": 127227,
@@ -6208,7 +6324,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784287143
+    "updated_at": 1784318468
   },
   {
     "id": 124132,
@@ -7884,7 +8000,7 @@
       "Fantasy",
       "Supernatural"
     ],
-    "updated_at": 1784304124
+    "updated_at": 1784318495
   },
   {
     "id": 116226,
@@ -7911,7 +8027,7 @@
     "genres": [
       "Fantasy"
     ],
-    "updated_at": 1784297606
+    "updated_at": 1784318413
   },
   {
     "id": 116069,
@@ -8231,7 +8347,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784289640
+    "updated_at": 1784318455
   },
   {
     "id": 113576,
@@ -8510,7 +8626,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784289942
+    "updated_at": 1784318451
   },
   {
     "id": 112471,
@@ -8681,7 +8797,7 @@
       "Mystery",
       "Supernatural"
     ],
-    "updated_at": 1784290134
+    "updated_at": 1784318418
   },
   {
     "id": 112135,
@@ -8709,7 +8825,7 @@
       "Drama",
       "Slice of Life"
     ],
-    "updated_at": 1784297606
+    "updated_at": 1784318493
   },
   {
     "id": 112023,
@@ -8928,7 +9044,7 @@
     "genres": [
       "Sci-Fi"
     ],
-    "updated_at": 1784290203
+    "updated_at": 1784318498
   },
   {
     "id": 111734,
@@ -8957,7 +9073,7 @@
       "Music",
       "Romance"
     ],
-    "updated_at": 1784290232
+    "updated_at": 1784318452
   },
   {
     "id": 111312,
@@ -9521,7 +9637,7 @@
       "Music",
       "Supernatural"
     ],
-    "updated_at": 1784290991
+    "updated_at": 1784318489
   },
   {
     "id": 109821,
@@ -11066,7 +11182,7 @@
       "Slice of Life",
       "Supernatural"
     ],
-    "updated_at": 1784292215
+    "updated_at": 1784318423
   },
   {
     "id": 106240,
@@ -11991,7 +12107,7 @@
       "Sci-Fi",
       "Thriller"
     ],
-    "updated_at": 1783947316
+    "updated_at": 1784318478
   },
   {
     "id": 104360,
@@ -12295,7 +12411,7 @@
       "Romance",
       "Supernatural"
     ],
-    "updated_at": 1783947412
+    "updated_at": 1784318421
   },
   {
     "id": 104128,
@@ -13179,7 +13295,7 @@
       "Action",
       "Fantasy"
     ],
-    "updated_at": 1784253698
+    "updated_at": 1784318495
   },
   {
     "id": 103276,
@@ -13293,7 +13409,7 @@
       "Fantasy",
       "Slice of Life"
     ],
-    "updated_at": 1784253631
+    "updated_at": 1784318442
   },
   {
     "id": 102976,
@@ -13325,7 +13441,7 @@
       "Fantasy",
       "Supernatural"
     ],
-    "updated_at": 1784253701
+    "updated_at": 1784318447
   },
   {
     "id": 102891,
@@ -14640,7 +14756,7 @@
       "Sci-Fi",
       "Thriller"
     ],
-    "updated_at": 1783949086
+    "updated_at": 1784318490
   },
   {
     "id": 101812,
@@ -14671,7 +14787,7 @@
       "Sci-Fi",
       "Thriller"
     ],
-    "updated_at": 1783949090
+    "updated_at": 1784318490
   },
   {
     "id": 101811,
@@ -14702,7 +14818,7 @@
       "Sci-Fi",
       "Thriller"
     ],
-    "updated_at": 1783949091
+    "updated_at": 1784318451
   },
   {
     "id": 101635,
@@ -15513,6 +15629,34 @@
     "updated_at": 1783950038
   },
   {
+    "id": 100878,
+    "id_mal": 37055,
+    "url": "https://anilist.co/anime/100878",
+    "title": {
+      "english": "Saga of Tanya the Evil - the Movie -",
+      "romaji": "Youjo Senki Movie",
+      "native": "劇場版 幼女戦記"
+    },
+    "description": "In 1926, Tanya and her battalion return home from defeating remnants of the Republic's army. However, when they arrive they receive word of a massive mobilization near the border with the Russy Federation, so the Empire's army must prepare. At the same time, a multinational army under the leadership of the Allied Kingdom moves into the Russy Federation. The enemy of an enemy is a friend, but among the Allied Kingdom army is Mary Sioux, a girl who has sworn to exact justice against the Empire for the death of her father.<br><br>\n\n(Source: Anime News Network)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx100878-npKVJvggmK6a.jpg",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/100878-Lslq3VqoNanU.jpg",
+    "schedule": "Musim: WINTER 2019",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "WINTER",
+    "year": 2019,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 98,
+    "status": "FINISHED",
+    "score": 81,
+    "genres": [
+      "Action",
+      "Fantasy"
+    ],
+    "updated_at": 1784318451
+  },
+  {
     "id": 100767,
     "id_mal": 31941,
     "url": "https://anilist.co/anime/100767",
@@ -16263,7 +16407,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784253633
+    "updated_at": 1784318445
   },
   {
     "id": 99730,
@@ -16439,7 +16583,7 @@
       "Mecha",
       "Sci-Fi"
     ],
-    "updated_at": 1784268121
+    "updated_at": 1784318498
   },
   {
     "id": 99208,
@@ -16578,7 +16722,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784297606
+    "updated_at": 1784318498
   },
   {
     "id": 98873,
@@ -17072,7 +17216,7 @@
       "Comedy",
       "Romance"
     ],
-    "updated_at": 1784242996
+    "updated_at": 1784318490
   },
   {
     "id": 97880,
@@ -17663,7 +17807,7 @@
       "Supernatural",
       "Thriller"
     ],
-    "updated_at": 1784302406
+    "updated_at": 1784318420
   },
   {
     "id": 21718,
@@ -17926,7 +18070,7 @@
       "Romance",
       "Supernatural"
     ],
-    "updated_at": 1784253630
+    "updated_at": 1784318410
   },
   {
     "id": 21504,
@@ -19117,7 +19261,7 @@
       "Slice of Life",
       "Supernatural"
     ],
-    "updated_at": 1784305138
+    "updated_at": 1784318453
   },
   {
     "id": 20954,
@@ -19146,7 +19290,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784305358
+    "updated_at": 1784318428
   },
   {
     "id": 20937,
@@ -19461,7 +19605,7 @@
       "Psychological",
       "Supernatural"
     ],
-    "updated_at": 1784306159
+    "updated_at": 1784318417
   },
   {
     "id": 20786,
@@ -21548,7 +21692,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784308119
+    "updated_at": 1784318483
   },
   {
     "id": 16746,
@@ -21635,7 +21779,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784308153
+    "updated_at": 1784318498
   },
   {
     "id": 16662,
@@ -22116,7 +22260,7 @@
       "Drama",
       "Slice of Life"
     ],
-    "updated_at": 1784309510
+    "updated_at": 1784318493
   },
   {
     "id": 15201,
@@ -22779,7 +22923,7 @@
       "Action",
       "Adventure"
     ],
-    "updated_at": 1784309670
+    "updated_at": 1784318408
   },
   {
     "id": 13391,
@@ -23116,7 +23260,7 @@
       "Comedy",
       "Drama"
     ],
-    "updated_at": 1784309876
+    "updated_at": 1784318451
   },
   {
     "id": 12857,
@@ -23346,7 +23490,7 @@
       "Romance",
       "Sci-Fi"
     ],
-    "updated_at": 1784309967
+    "updated_at": 1784318473
   },
   {
     "id": 12355,
@@ -24202,6 +24346,36 @@
     "updated_at": 1784286117
   },
   {
+    "id": 10259,
+    "id_mal": 10259,
+    "url": "https://anilist.co/anime/10259",
+    "title": {
+      "english": "Big Fish & Begonia",
+      "romaji": "Da Yu Hai Tang",
+      "native": "大鱼海棠"
+    },
+    "description": "This is a mythic land where no outsider has ever set foot. The spirit-like dwellers there, however, know us mortals well. They are responsible for human emotions and desires, for seasons, weather, the elapsing of time...<br>\n<br>\nOur protagonist, a spirit girl named Chun, has just turned sixteen and goes in the form of a dolphin to explore the earthly part of the sea, to see what the human world is like. While cruising at sea, Chun gets caught in a storm and finds herself enmeshed in a fishing net. A human boy spots her and comes to her rescue, trying to free Chun from the entanglement. By accident, the boy drowns leaving Chun wretched and heartbroken.<br>\n<br>\nDa Hai tells an absorbing and bittersweet story of sacrifice and redemption when Chun is determined to bring back to life the boy's soul, now in the form of a little white fish. Da Hai is about an adolescent coming to terms with her limitations, and a spirit, coming into possession of her powers [...] dealing with the difficult issues of death, love and maturing emotions with empathy and nuance.<br>\n<br>\n(Source: The feature film brochure)<br>",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx10259-gNuFiCwYhvK9.jpg",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/10259-RpYQHkAHIsNh.jpg",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 106,
+    "status": "FINISHED",
+    "score": 72,
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Romance",
+      "Supernatural"
+    ],
+    "updated_at": 1784318497
+  },
+  {
     "id": 10218,
     "id_mal": 10218,
     "url": "https://anilist.co/anime/10218",
@@ -24375,7 +24549,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784304124
+    "updated_at": 1784318453
   },
   {
     "id": 9999,
@@ -24702,7 +24876,7 @@
       "Drama",
       "Fantasy"
     ],
-    "updated_at": 1783945915
+    "updated_at": 1784318498
   },
   {
     "id": 9032,
@@ -25260,6 +25434,35 @@
       "Slice of Life"
     ],
     "updated_at": 1783948385
+  },
+  {
+    "id": 8363,
+    "id_mal": 8363,
+    "url": "https://anilist.co/anime/8363",
+    "title": {
+      "english": "Crayon Shin-chan: Fierceness That Invites Storm! Yakiniku Road of Honor",
+      "romaji": "Crayon Shin-chan: Arashi wo Yobu Eikou no Yakiniku Road",
+      "native": "映画 クレヨンしんちゃん 嵐を呼ぶ栄光のヤキニクロード"
+    },
+    "description": "A slapstick comedy going back to the basic, \"laughable\" style of the TV series. One day, the Nohara family was looking forward to having an ultra-rich yakiniku dinner, but they were put on the Wanted List on suspicion of heinous crimes because of a scheme of a mysterious organization named Sweet Boys. The Nohara family must run from Sweet Boys' pursuit but to eat yakiniku for dinner they need to stop escaping and decide to meet the boss of Sweet Boys, who is based in Atami (a hot spring/resort city in Shizuoka Prefecture).<br>\n<br>\n(Source: Bilibili TV)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8363.jpg",
+    "banner_url": "",
+    "schedule": "Musim: SPRING 2003",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "SPRING",
+    "year": 2003,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 90,
+    "status": "FINISHED",
+    "score": 71,
+    "genres": [
+      "Comedy",
+      "Ecchi",
+      "Slice of Life"
+    ],
+    "updated_at": 1784318498
   },
   {
     "id": 8362,
@@ -26208,7 +26411,7 @@
       "Drama",
       "Fantasy"
     ],
-    "updated_at": 1784312056
+    "updated_at": 1784318465
   },
   {
     "id": 7698,
@@ -27887,7 +28090,7 @@
       "Fantasy",
       "Supernatural"
     ],
-    "updated_at": 1784312187
+    "updated_at": 1784318461
   },
   {
     "id": 6872,
@@ -28085,7 +28288,7 @@
       "Sci-Fi",
       "Sports"
     ],
-    "updated_at": 1784312261
+    "updated_at": 1784318457
   },
   {
     "id": 6654,
@@ -29035,7 +29238,7 @@
       "Romance",
       "Sci-Fi"
     ],
-    "updated_at": 1784312441
+    "updated_at": 1784318496
   },
   {
     "id": 5673,
@@ -30083,7 +30286,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784313060
+    "updated_at": 1784318495
   },
   {
     "id": 4681,
@@ -30821,7 +31024,7 @@
       "Drama",
       "Fantasy"
     ],
-    "updated_at": 1784313689
+    "updated_at": 1784318459
   },
   {
     "id": 4107,
@@ -31229,7 +31432,7 @@
       "Adventure",
       "Horror"
     ],
-    "updated_at": 1784268121
+    "updated_at": 1784318491
   },
   {
     "id": 3602,
@@ -31343,7 +31546,32 @@
       "Drama",
       "Psychological"
     ],
-    "updated_at": 1783945915
+    "updated_at": 1784318498
+  },
+  {
+    "id": 3215,
+    "id_mal": 3215,
+    "url": "https://anilist.co/anime/3215",
+    "title": {
+      "english": "Winter Days",
+      "romaji": "Fuyu no Hi",
+      "native": "冬の日"
+    },
+    "description": "Fuyu no Hin is a 2003 animated film directed by Kihachiro Kawamoto. It is based upon the renga of the same name by the 17th-century Japanese poet Basho.<br><br>\nThe creation of the film followed the traditional collaborative nature of the source material&mdash;the visuals for each of the 36 stanzas were independently created by 35 different animators. As well as many Japanese animators, Kawamoto assembled leading names of animation from across the world. Each animator was asked to contribute at least 30 seconds to illustrate their stanza, and most of the sequences are under a minute (Yuriy Norshteyn's, though, is nearly two minutes long).<br><br>\nThe released film consists of the 40-minute animation, followed by an hour-long \"Making of\" documentary, including interviews with the animators. Fuyu no Hi won the Grand Prize of the Japan Media Arts Festival in 2003.<br><br>\n(Source: Wikipedia)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3215.jpg",
+    "banner_url": "",
+    "schedule": "Musim: FALL 2003",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "FALL",
+    "year": 2003,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 39,
+    "status": "FINISHED",
+    "score": 56,
+    "genres": [],
+    "updated_at": 1784318498
   },
   {
     "id": 3192,
@@ -31658,7 +31886,7 @@
       "Drama",
       "Supernatural"
     ],
-    "updated_at": 1784300508
+    "updated_at": 1784318498
   },
   {
     "id": 2847,
@@ -32428,6 +32656,36 @@
     "updated_at": 1784253636
   },
   {
+    "id": 2202,
+    "id_mal": 2202,
+    "url": "https://anilist.co/anime/2202",
+    "title": {
+      "english": "Captain Harlock: Arcadia of my Youth",
+      "romaji": "Waga Seishun no Arcadia",
+      "native": "わが青春のアルカディア"
+    },
+    "description": "Earth has been conquered by the evil Illumidus Empire, with parallels drawn to the U.S. post World War II occupation of Japan. Captain Harlock with a group that will become his life long friends begin their fight against this tyranny visited upon the planet Earth, with no regard to the costs the struggle will have on them, caring only for the ideal of restoring freedom to the people of Earth.<br><br>\n(Source: Anime News Network)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2202-mARxwjZ7oXO4.jpg",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/2202-YoNdDED7oDhj.jpg",
+    "schedule": "Musim: SUMMER 1982",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "SUMMER",
+    "year": 1982,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 130,
+    "status": "FINISHED",
+    "score": 73,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Sci-Fi"
+    ],
+    "updated_at": 1784318498
+  },
+  {
     "id": 2201,
     "id_mal": 2201,
     "url": "https://anilist.co/anime/2201",
@@ -32510,7 +32768,7 @@
     "genres": [
       "Mystery"
     ],
-    "updated_at": 1783945902
+    "updated_at": 1784318493
   },
   {
     "id": 2154,
@@ -32539,7 +32797,7 @@
       "Psychological",
       "Supernatural"
     ],
-    "updated_at": 1784297606
+    "updated_at": 1784318497
   },
   {
     "id": 2144,
@@ -32980,6 +33238,34 @@
     "updated_at": 1784286117
   },
   {
+    "id": 1894,
+    "id_mal": 1894,
+    "url": "https://anilist.co/anime/1894",
+    "title": {
+      "english": "Yu-Gi-Oh! The Movie: Pyramid of Light",
+      "romaji": "Yu☆Gi☆Oh!: Hikari no Pyramid",
+      "native": "遊☆戯☆王　デュエルモンスターズ　光のピラミッド"
+    },
+    "description": "Anubis, an ancient Egyptian evil that was defeated by Yugi's alter ego centuries ago, has returned to exact revenge. Wielding the power of the Eighth Millennium Item, Anubis is determined to destroy Yugi and take over the world.\n<br><br>\n(Source: Anime News Network)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b1894-nlcjWCg67TPF.jpg",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/1894-h1wdlOMVyVBT.png",
+    "schedule": "Musim: SUMMER 2004",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "SUMMER",
+    "year": 2004,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 101,
+    "status": "FINISHED",
+    "score": 63,
+    "genres": [
+      "Adventure",
+      "Fantasy"
+    ],
+    "updated_at": 1784318495
+  },
+  {
     "id": 1829,
     "id_mal": 1829,
     "url": "https://anilist.co/anime/1829",
@@ -33005,7 +33291,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784300508
+    "updated_at": 1784318432
   },
   {
     "id": 1815,
@@ -33238,7 +33524,7 @@
       "Psychological",
       "Sci-Fi"
     ],
-    "updated_at": 1784297598
+    "updated_at": 1784318488
   },
   {
     "id": 1441,
@@ -33613,7 +33899,7 @@
     "genres": [
       "Action"
     ],
-    "updated_at": 1784315575
+    "updated_at": 1784318491
   },
   {
     "id": 1361,
@@ -33896,7 +34182,7 @@
       "Adventure",
       "Sci-Fi"
     ],
-    "updated_at": 1784315607
+    "updated_at": 1784318497
   },
   {
     "id": 1258,
@@ -34399,7 +34685,7 @@
       "Drama",
       "Fantasy"
     ],
-    "updated_at": 1784315673
+    "updated_at": 1784318491
   },
   {
     "id": 1120,
@@ -34669,7 +34955,7 @@
       "Mystery",
       "Sci-Fi"
     ],
-    "updated_at": 1784315689
+    "updated_at": 1784318493
   },
   {
     "id": 1095,
@@ -34698,7 +34984,7 @@
       "Mecha",
       "Sci-Fi"
     ],
-    "updated_at": 1784315691
+    "updated_at": 1784318493
   },
   {
     "id": 1092,
@@ -34996,7 +35282,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784315739
+    "updated_at": 1784318498
   },
   {
     "id": 1010,
@@ -35181,7 +35467,7 @@
       "Adventure",
       "Sci-Fi"
     ],
-    "updated_at": 1784315825
+    "updated_at": 1784318459
   },
   {
     "id": 905,
@@ -35855,6 +36141,34 @@
     "updated_at": 1784315917
   },
   {
+    "id": 844,
+    "id_mal": 844,
+    "url": "https://anilist.co/anime/844",
+    "title": {
+      "english": "Zatch Bell! 101st Devil",
+      "romaji": "Konjiki no Gash Bell!!: 101 Banme no Mamono",
+      "native": "劇場版 金色のガッシュベル!! 101番目の魔物"
+    },
+    "description": "During the Summer holidays, Gash and gang decide to head for Fuji Mountain for a picnic gathering. There, they encounter a girl with a white magical book. Her name is Kotoha and her book has a message saying that Gash's mother is located a cave in the forest. However, when they eventually found the cave, there was already a blond-haired youth by the name of Wiseman. In order to rescue Wiseman, Gash and the others attempt to proceed into the depths of the cave and stumble upon the entrance to another world. Soon enough, the strongest warrior, the Black Knight, appeared before them. Thinking that Gash was the one who stole the 101st magical book, the Black Knight started to attack them. Gash and Kiyomaro have to find the real criminal in exactly 24 hours, or else they will be stuck in the alternative world forever.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/844.jpg",
+    "banner_url": "",
+    "schedule": "Musim: SUMMER 2004",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "SUMMER",
+    "year": 2004,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 84,
+    "status": "FINISHED",
+    "score": 67,
+    "genres": [
+      "Adventure",
+      "Supernatural"
+    ],
+    "updated_at": 1784318498
+  },
+  {
     "id": 815,
     "id_mal": 815,
     "url": "https://anilist.co/anime/815",
@@ -36199,7 +36513,7 @@
       "Comedy",
       "Drama"
     ],
-    "updated_at": 1784316030
+    "updated_at": 1784318465
   },
   {
     "id": 732,
@@ -36230,7 +36544,7 @@
       "Sci-Fi",
       "Supernatural"
     ],
-    "updated_at": 1784316045
+    "updated_at": 1784318467
   },
   {
     "id": 731,
@@ -36376,7 +36690,7 @@
       "Horror",
       "Romance"
     ],
-    "updated_at": 1784316089
+    "updated_at": 1784318495
   },
   {
     "id": 597,
@@ -36406,7 +36720,7 @@
       "Drama",
       "Fantasy"
     ],
-    "updated_at": 1784316118
+    "updated_at": 1784318460
   },
   {
     "id": 585,
@@ -36494,7 +36808,7 @@
       "Fantasy",
       "Sci-Fi"
     ],
-    "updated_at": 1784316167
+    "updated_at": 1784318432
   },
   {
     "id": 570,
@@ -36738,7 +37052,7 @@
       "Slice of Life",
       "Supernatural"
     ],
-    "updated_at": 1784316481
+    "updated_at": 1784318421
   },
   {
     "id": 522,
@@ -36768,7 +37082,7 @@
       "Romance",
       "Sci-Fi"
     ],
-    "updated_at": 1784316482
+    "updated_at": 1784318416
   },
   {
     "id": 520,
@@ -36887,7 +37201,7 @@
       "Fantasy",
       "Slice of Life"
     ],
-    "updated_at": 1784316515
+    "updated_at": 1784318419
   },
   {
     "id": 504,
@@ -37093,7 +37407,7 @@
       "Psychological",
       "Sci-Fi"
     ],
-    "updated_at": 1784316591
+    "updated_at": 1784318407
   },
   {
     "id": 465,
@@ -37576,7 +37890,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784316703
+    "updated_at": 1784318416
   },
   {
     "id": 430,
@@ -38050,7 +38364,7 @@
       "Fantasy",
       "Supernatural"
     ],
-    "updated_at": 1784317107
+    "updated_at": 1784318408
   },
   {
     "id": 187,
@@ -38291,7 +38605,7 @@
       "Sci-Fi",
       "Supernatural"
     ],
-    "updated_at": 1784317379
+    "updated_at": 1784318440
   },
   {
     "id": 46,
@@ -38348,7 +38662,7 @@
       "Psychological",
       "Sci-Fi"
     ],
-    "updated_at": 1784317404
+    "updated_at": 1784318412
   },
   {
     "id": 32,

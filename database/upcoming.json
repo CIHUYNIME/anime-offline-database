@@ -167,7 +167,7 @@
       "Adventure",
       "Sci-Fi"
     ],
-    "updated_at": 1784286117
+    "updated_at": 1784318461
   },
   {
     "id": 214049,
@@ -580,7 +580,7 @@
     "status": "NOT_YET_RELEASED",
     "score": null,
     "genres": [],
-    "updated_at": 1784253634
+    "updated_at": 1784318425
   },
   {
     "id": 213845,
@@ -698,7 +698,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784253640
+    "updated_at": 1784318416
   },
   {
     "id": 213796,
@@ -785,7 +785,7 @@
       "Drama",
       "Romance"
     ],
-    "updated_at": 1784289633
+    "updated_at": 1784318491
   },
   {
     "id": 213740,
@@ -897,7 +897,7 @@
       "Drama",
       "Fantasy"
     ],
-    "updated_at": 1784246843
+    "updated_at": 1784318407
   },
   {
     "id": 213658,
@@ -954,7 +954,7 @@
       "Drama",
       "Fantasy"
     ],
-    "updated_at": 1784246843
+    "updated_at": 1784318475
   },
   {
     "id": 213655,
@@ -1067,7 +1067,7 @@
       "Fantasy",
       "Supernatural"
     ],
-    "updated_at": 1784297606
+    "updated_at": 1784318468
   },
   {
     "id": 213579,
@@ -1302,7 +1302,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784275323
+    "updated_at": 1784318451
   },
   {
     "id": 213360,
@@ -1449,6 +1449,34 @@
       "Fantasy"
     ],
     "updated_at": 1784297603
+  },
+  {
+    "id": 213068,
+    "id_mal": 64344,
+    "url": "https://anilist.co/anime/213068",
+    "title": {
+      "english": "",
+      "romaji": "Jyuоu Mujin Dandivine",
+      "native": "獣王武神ダンデヴァイン"
+    },
+    "description": "The story takes place 20 years after the robot Dandivine defeated the mysterious Aposdoll. The world is now in peace. However, toy manufacturer Kasuga, who relied on its toys of merchandise of Dandivine, has fallen into decline. Thus, Kasuga's president Genjuro Shijima prayed for Dandivine's revival, and the Aposdoll suddenly returned. High school student Gekiha Shijima gets an invitation from his uncle Yusaku Kuroiwa, the former main pilot of Dandivine, to pilot the giant robot himself.\n<br><br>\n(Source: Anime News Network)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx213068-a8UT4sMVmbYk.jpg",
+    "banner_url": "",
+    "schedule": "Musim: FALL 2026",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "FALL",
+    "year": 2026,
+    "format": "TV",
+    "episodes": null,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Action",
+      "Mecha"
+    ],
+    "updated_at": 1784318493
   },
   {
     "id": 213067,
@@ -2131,7 +2159,7 @@
       "Drama",
       "Fantasy"
     ],
-    "updated_at": 1784253701
+    "updated_at": 1784318458
   },
   {
     "id": 211495,
@@ -2333,7 +2361,7 @@
       "Ecchi",
       "Fantasy"
     ],
-    "updated_at": 1784282525
+    "updated_at": 1784318498
   },
   {
     "id": 210482,
@@ -2454,7 +2482,7 @@
       "Mystery",
       "Supernatural"
     ],
-    "updated_at": 1784300508
+    "updated_at": 1784318498
   },
   {
     "id": 209980,
@@ -2542,7 +2570,7 @@
       "Drama",
       "Fantasy"
     ],
-    "updated_at": 1784289639
+    "updated_at": 1784318439
   },
   {
     "id": 209895,
@@ -2571,7 +2599,7 @@
       "Drama",
       "Supernatural"
     ],
-    "updated_at": 1784289617
+    "updated_at": 1784318437
   },
   {
     "id": 209827,
@@ -2772,7 +2800,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784268110
+    "updated_at": 1784318498
   },
   {
     "id": 209224,
@@ -3492,7 +3520,7 @@
       "Fantasy",
       "Slice of Life"
     ],
-    "updated_at": 1784300508
+    "updated_at": 1784318498
   },
   {
     "id": 205432,
@@ -3639,7 +3667,7 @@
       "Sci-Fi",
       "Supernatural"
     ],
-    "updated_at": 1784253672
+    "updated_at": 1784318483
   },
   {
     "id": 204738,
@@ -3725,7 +3753,7 @@
       "Mystery",
       "Supernatural"
     ],
-    "updated_at": 1784268121
+    "updated_at": 1784318498
   },
   {
     "id": 204604,
@@ -3813,7 +3841,7 @@
       "Drama",
       "Fantasy"
     ],
-    "updated_at": 1784275323
+    "updated_at": 1784318416
   },
   {
     "id": 204431,
@@ -3870,7 +3898,7 @@
       "Horror",
       "Supernatural"
     ],
-    "updated_at": 1784289665
+    "updated_at": 1784318498
   },
   {
     "id": 204389,
@@ -3899,7 +3927,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784297606
+    "updated_at": 1784318476
   },
   {
     "id": 204363,
@@ -4526,7 +4554,7 @@
       "Horror",
       "Supernatural"
     ],
-    "updated_at": 1784246835
+    "updated_at": 1784318438
   },
   {
     "id": 200929,
@@ -4554,7 +4582,7 @@
       "Drama",
       "Mystery"
     ],
-    "updated_at": 1784246835
+    "updated_at": 1784318478
   },
   {
     "id": 200927,
@@ -4674,7 +4702,7 @@
       "Slice of Life",
       "Supernatural"
     ],
-    "updated_at": 1784304124
+    "updated_at": 1784318493
   },
   {
     "id": 199597,
@@ -4813,7 +4841,7 @@
       "Drama",
       "Sports"
     ],
-    "updated_at": 1784253666
+    "updated_at": 1784318477
   },
   {
     "id": 199357,
@@ -4874,7 +4902,7 @@
       "Supernatural",
       "Thriller"
     ],
-    "updated_at": 1783945909
+    "updated_at": 1784318468
   },
   {
     "id": 199340,
@@ -4904,7 +4932,7 @@
       "Romance",
       "Supernatural"
     ],
-    "updated_at": 1784246834
+    "updated_at": 1784318454
   },
   {
     "id": 199337,
@@ -5079,7 +5107,7 @@
       "Sci-Fi",
       "Supernatural"
     ],
-    "updated_at": 1784253645
+    "updated_at": 1784318436
   },
   {
     "id": 198728,
@@ -5134,7 +5162,7 @@
       "Comedy",
       "Romance"
     ],
-    "updated_at": 1784304124
+    "updated_at": 1784318416
   },
   {
     "id": 198696,
@@ -5396,7 +5424,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784289619
+    "updated_at": 1784318417
   },
   {
     "id": 195539,
@@ -5425,7 +5453,7 @@
       "Drama",
       "Sci-Fi"
     ],
-    "updated_at": 1784289638
+    "updated_at": 1784318418
   },
   {
     "id": 195516,
@@ -5453,7 +5481,7 @@
       "Drama",
       "Mystery"
     ],
-    "updated_at": 1783951258
+    "updated_at": 1784318431
   },
   {
     "id": 195496,
@@ -5483,7 +5511,7 @@
       "Drama",
       "Fantasy"
     ],
-    "updated_at": 1784246829
+    "updated_at": 1784318466
   },
   {
     "id": 195486,
@@ -5632,7 +5660,7 @@
       "Drama",
       "Supernatural"
     ],
-    "updated_at": 1784246829
+    "updated_at": 1784318496
   },
   {
     "id": 195200,
@@ -5662,7 +5690,7 @@
       "Drama",
       "Supernatural"
     ],
-    "updated_at": 1784246829
+    "updated_at": 1784318417
   },
   {
     "id": 194724,
@@ -5860,7 +5888,7 @@
       "Supernatural",
       "Thriller"
     ],
-    "updated_at": 1784286117
+    "updated_at": 1784318439
   },
   {
     "id": 191788,
@@ -5887,7 +5915,7 @@
     "genres": [
       "Sports"
     ],
-    "updated_at": 1784275323
+    "updated_at": 1784318465
   },
   {
     "id": 191656,
@@ -6093,7 +6121,7 @@
       "Slice of Life",
       "Sports"
     ],
-    "updated_at": 1784253695
+    "updated_at": 1784318482
   },
   {
     "id": 188892,
@@ -6634,7 +6662,7 @@
       "Adventure",
       "Supernatural"
     ],
-    "updated_at": 1784246815
+    "updated_at": 1784318425
   },
   {
     "id": 185756,
@@ -6745,7 +6773,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784307728
+    "updated_at": 1784318467
   },
   {
     "id": 185543,
@@ -7065,7 +7093,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784246806
+    "updated_at": 1784318436
   },
   {
     "id": 180894,
@@ -7438,7 +7466,7 @@
       "Drama",
       "Sports"
     ],
-    "updated_at": 1784268120
+    "updated_at": 1784318497
   },
   {
     "id": 172192,
@@ -7523,7 +7551,7 @@
     "genres": [
       "Adventure"
     ],
-    "updated_at": 1784300508
+    "updated_at": 1784318490
   },
   {
     "id": 171513,
@@ -7870,7 +7898,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784246768
+    "updated_at": 1784318498
   },
   {
     "id": 163790,
@@ -8073,7 +8101,7 @@
       "Mystery",
       "Sci-Fi"
     ],
-    "updated_at": 1784282669
+    "updated_at": 1784318442
   },
   {
     "id": 159042,
@@ -8160,7 +8188,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784282999
+    "updated_at": 1784318433
   },
   {
     "id": 154765,
@@ -8278,7 +8306,7 @@
       "Drama",
       "Fantasy"
     ],
-    "updated_at": 1784289620
+    "updated_at": 1784318464
   },
   {
     "id": 141953,
@@ -8420,7 +8448,7 @@
     "genres": [
       "Mahou Shoujo"
     ],
-    "updated_at": 1784253695
+    "updated_at": 1784318431
   },
   {
     "id": 127912,
