@@ -1,5 +1,33 @@
 [
   {
+    "id": 214075,
+    "id_mal": 63298,
+    "url": "https://anilist.co/anime/214075",
+    "title": {
+      "english": "",
+      "romaji": "Kkokdu",
+      "native": "꼭두"
+    },
+    "description": "Jacob, an 11-year-old boy who is looking for kokdu dolls to remember his last moments with his grandmother, accidentally enters the world of these dolls.<br><br>\n\nThe \"kokdu\", literally \"funeral doll\", a key element in the work, is a wooden doll that adorned the bier (a carriage that carried a coffin) in the funeral culture of the Joseon Dynasty. It was considered a being that accompanied and protected the deceased, so that they would not feel lonely on their way to the afterlife. These dolls, which appeared in various forms, such as warriors, servants, clowns, and guides, embody the philosophy of Joseon-era Koreans, who viewed death not as something to be feared, but as a warm farewell and a new journey.<br><br>\n\n(Source: Etoday, translated)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx214075-b7eJAQYo1EXr.png",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Drama",
+      "Fantasy"
+    ],
+    "updated_at": 1784246844
+  },
+  {
     "id": 214070,
     "id_mal": null,
     "url": "https://anilist.co/anime/214070",
@@ -25,7 +53,7 @@
       "Action",
       "Sci-Fi"
     ],
-    "updated_at": 1784242996
+    "updated_at": 1784246844
   },
   {
     "id": 214068,
@@ -110,7 +138,7 @@
       "Comedy",
       "Romance"
     ],
-    "updated_at": 1783950182
+    "updated_at": 1784246844
   },
   {
     "id": 214044,
@@ -138,7 +166,7 @@
       "Comedy",
       "Romance"
     ],
-    "updated_at": 1783951252
+    "updated_at": 1784246844
   },
   {
     "id": 214018,
@@ -308,6 +336,92 @@
     "updated_at": 1783947662
   },
   {
+    "id": 213873,
+    "id_mal": 64552,
+    "url": "https://anilist.co/anime/213873",
+    "title": {
+      "english": "",
+      "romaji": "S-Rank Boukensha de Aru Ore no Musumetachi wa Juudo no Father-con Deshita",
+      "native": "Sランク冒険者である俺の娘たちは重度のファザコンでした"
+    },
+    "description": "The youngest A-rank adventurer, child prodigy Kaizer, finds three babies who were the only survivor of a destroyed village. Then he decided to give up his job as an adventurer and raise them. Over time, the girls grow brightly and show exceptional talents in fencing, magic and management. However, these girls also seem to love their father, Kaiser!",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx213873-yF133xDzwpEw.jpg",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "TV",
+    "episodes": null,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Adventure",
+      "Fantasy"
+    ],
+    "updated_at": 1784246844
+  },
+  {
+    "id": 213872,
+    "id_mal": 64551,
+    "url": "https://anilist.co/anime/213872",
+    "title": {
+      "english": "",
+      "romaji": "Hitoribocchi no Isekai Kouryaku 2nd Season",
+      "native": "ひとりぼっちの異世界攻略 第2期"
+    },
+    "description": "The second season of <i>Hitoribocchi no Isekai Kouryaku</i>.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx213872-WlFvyhdCylNV.jpg",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "TV",
+    "episodes": null,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "updated_at": 1784246844
+  },
+  {
+    "id": 213860,
+    "id_mal": 64553,
+    "url": "https://anilist.co/anime/213860",
+    "title": {
+      "english": "",
+      "romaji": "Lv2 Kara Cheat datta Moto Yuusha Kouho no Mattari Isekai Life 2nd Season",
+      "native": "Lv2からチートだった元勇者候補のまったり異世界ライフ 第2期"
+    },
+    "description": "The second season of <i>Lv2 Kara Cheat datta Moto Yuusha Kouho no Mattari Isekai Life</i>.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx213860-x7KFiboNRm4i.jpg",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "TV",
+    "episodes": null,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Adventure",
+      "Fantasy",
+      "Romance"
+    ],
+    "updated_at": 1784246844
+  },
+  {
     "id": 213847,
     "id_mal": 61546,
     "url": "https://anilist.co/anime/213847",
@@ -335,6 +449,31 @@
       "Sci-Fi"
     ],
     "updated_at": 1783962141
+  },
+  {
+    "id": 213846,
+    "id_mal": 64546,
+    "url": "https://anilist.co/anime/213846",
+    "title": {
+      "english": "Solo Leveling: Beyond the System",
+      "romaji": "Ore dake Level Up na Ken: Beyond the System",
+      "native": "俺だけレベルアップな件 - Beyond the System -"
+    },
+    "description": "Sequel movie to <i>Ore dake Level Up na Ken: Season 2 - Arise from the Shadow</i>.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx213846-M5s9a58Vng7Q.png",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [],
+    "updated_at": 1784246843
   },
   {
     "id": 213845,
@@ -450,7 +589,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1783945848
+    "updated_at": 1784246843
   },
   {
     "id": 213782,
@@ -541,6 +680,89 @@
     "updated_at": 1783945880
   },
   {
+    "id": 213733,
+    "id_mal": 64531,
+    "url": "https://anilist.co/anime/213733",
+    "title": {
+      "english": "",
+      "romaji": "Kanojo Saimin",
+      "native": "彼女催眠"
+    },
+    "description": "Koto Tenryuuji acts completely indifferent and aloof. She’s the daughter of a massive conglomerate—a true “unattainable beauty”—but with just a single hypnotic suggestion, she turns into a love-struck girlfriend! Convinced of his false affection, she starts seeking him out on her own… Even though it’s her first time, she cums over and over just from being touched! With her actively seeking him out, he savors every inch of her body all day long, leaving nothing to be desired! No matter how many times he cums inside her, no matter how many times he makes her come, she feels nothing but happiness…!?\n<br><br>\n(Source: Lune-soft, translated)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx213733-cZ0bFNkypDtV.png",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/213733-cEurdb2TrsmQ.jpg",
+    "schedule": "Episode 1 tayang pada 27/8/2026, 22.00.00 WIB",
+    "next_episode": 1,
+    "next_airing_timestamp": 1787842800,
+    "season": "SUMMER",
+    "year": 2026,
+    "format": "OVA",
+    "episodes": null,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Hentai"
+    ],
+    "updated_at": 1784246843
+  },
+  {
+    "id": 213732,
+    "id_mal": 64530,
+    "url": "https://anilist.co/anime/213732",
+    "title": {
+      "english": "",
+      "romaji": "Mujikaku na Osananajimi to Kyoumi Honi de Yatte Mitara THE ANIMATION",
+      "native": "無自覚な幼馴染と興味本位でヤってみたら THE ANIMATION"
+    },
+    "description": "Meiko, a beautiful, quiet, and academically gifted classmate, only shows her relaxed side in front of her childhood friend, Hiroki. Today, she comes to his room to hang out, and Hiroki can't help but glance at her body as she relaxes in light clothing. When she points it out, Hiroki blushes with embarrassment, but Meiko unexpectedly asks, \"Well, do you want to touch me?\" Their curiosity leads them to explore each other's bodies, which eventually escalates to sex...\n<br><br>\n(Source: PinkPineapple, translated)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx213732-pPypc7kubQJ3.png",
+    "banner_url": "",
+    "schedule": "Episode 1 tayang pada 24/9/2026, 22.00.00 WIB",
+    "next_episode": 1,
+    "next_airing_timestamp": 1790262000,
+    "season": "SUMMER",
+    "year": 2026,
+    "format": "OVA",
+    "episodes": null,
+    "duration": 20,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Hentai"
+    ],
+    "updated_at": 1784246843
+  },
+  {
+    "id": 213702,
+    "id_mal": 64516,
+    "url": "https://anilist.co/anime/213702",
+    "title": {
+      "english": "Witch Hat Atelier Season 2",
+      "romaji": "Tongari Boushi no Atelier 2nd Season",
+      "native": "とんがり帽子のアトリエ 第2期"
+    },
+    "description": "The second season of <i>Tongari Boushi no Atelier</i>.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx213702-vCWQFcAfDF8c.jpg",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "TV",
+    "episodes": null,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Action",
+      "Drama",
+      "Fantasy"
+    ],
+    "updated_at": 1784246843
+  },
+  {
     "id": 213658,
     "id_mal": 64505,
     "url": "https://anilist.co/anime/213658",
@@ -595,7 +817,34 @@
       "Drama",
       "Fantasy"
     ],
-    "updated_at": 1783947764
+    "updated_at": 1784246843
+  },
+  {
+    "id": 213655,
+    "id_mal": 64501,
+    "url": "https://anilist.co/anime/213655",
+    "title": {
+      "english": "",
+      "romaji": "LONA",
+      "native": "LONA"
+    },
+    "description": "A broken world in the not-so distant future.<br>\nHumanity is facing a new incident.<br>\n<br>\n<i>\"We’re being attacked\nby humans who should be dead.\"</i>\n<br><br>\nThe government has decided to request a specialized organization to deal with this situation.<br>\nThe Laboratory of Optics and Neural Analysis, commonly known as \"LONA.\"<br>\nResearcher Ao and her apprentice Sango will try to get to the bottom of the mystery by analyzing the brains of the dead.\n<br><br>\nWhat do people think of, and what do they leave behind before they die?<br>\nCountless memories engraved in the neural circuits. What did they see in those deep depths?<br><br>\n(Source: LONA Official Site)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx213655-DVYMaIH4YtEV.jpg",
+    "banner_url": "",
+    "schedule": "Musim: SPRING 2027",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "SPRING",
+    "year": 2027,
+    "format": "TV",
+    "episodes": null,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Sci-Fi"
+    ],
+    "updated_at": 1784246843
   },
   {
     "id": 213628,
@@ -623,7 +872,7 @@
       "Action",
       "Comedy"
     ],
-    "updated_at": 1783948329
+    "updated_at": 1784246843
   },
   {
     "id": 213581,
@@ -651,7 +900,7 @@
       "Comedy",
       "Romance"
     ],
-    "updated_at": 1783948319
+    "updated_at": 1784246843
   },
   {
     "id": 213580,
@@ -681,7 +930,7 @@
       "Fantasy",
       "Supernatural"
     ],
-    "updated_at": 1783948375
+    "updated_at": 1784246843
   },
   {
     "id": 213579,
@@ -710,7 +959,7 @@
       "Mecha",
       "Sci-Fi"
     ],
-    "updated_at": 1784242996
+    "updated_at": 1784246843
   },
   {
     "id": 213497,
@@ -743,6 +992,63 @@
     "updated_at": 1783947764
   },
   {
+    "id": 213486,
+    "id_mal": 64461,
+    "url": "https://anilist.co/anime/213486",
+    "title": {
+      "english": "Fabulous Beasts 6",
+      "romaji": "You Shou Yan 6th Season",
+      "native": "有兽焉 第六季"
+    },
+    "description": "The sixth season of <i>You Shou Yan.</i>",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b213486-0hRJQlfdtajf.png",
+    "banner_url": "",
+    "schedule": "Episode 1 tayang pada 5/8/2026, 09.00.00 WIB",
+    "next_episode": 1,
+    "next_airing_timestamp": 1785895200,
+    "season": "",
+    "year": null,
+    "format": "ONA",
+    "episodes": 12,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Comedy",
+      "Fantasy",
+      "Slice of Life"
+    ],
+    "updated_at": 1784246843
+  },
+  {
+    "id": 213477,
+    "id_mal": 64463,
+    "url": "https://anilist.co/anime/213477",
+    "title": {
+      "english": "",
+      "romaji": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 5th Season",
+      "native": "ようこそ実力至上主義の教室へ 5th Season"
+    },
+    "description": "The fifth season of <i>Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e</i>.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx213477-4dkTR7XrCdXF.jpg",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "TV",
+    "episodes": null,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Drama",
+      "Psychological"
+    ],
+    "updated_at": 1784246843
+  },
+  {
     "id": 213457,
     "id_mal": 64459,
     "url": "https://anilist.co/anime/213457",
@@ -770,7 +1076,35 @@
       "Sci-Fi",
       "Thriller"
     ],
-    "updated_at": 1783947778
+    "updated_at": 1784246843
+  },
+  {
+    "id": 213422,
+    "id_mal": 64452,
+    "url": "https://anilist.co/anime/213422",
+    "title": {
+      "english": "",
+      "romaji": "Koisuru (Otome) no Tsukurikata",
+      "native": "恋する(おとめ)の作り方"
+    },
+    "description": "It’s a familiar story: a popular high school student gives their plain friend a makeover and transforms their life. But this time, the path to a new life isn’t quite so straight and narrow. Kenshirou Midou has loved cosmetics all his life, keeping his obsession secret from almost everyone except for his childhood friend Hiura Mihate. One day, Kenshirou gets permission to practice applying makeup on Hiura, and the results are earth-shattering: Hiura’s appearance transforms from a plain, undersized boy to a pretty, petite girl, and Kenshirou discovers just how freeing it is to apply his passion! Yet he’s not the only one who finds the process liberating. Hiura likes the makeup, and the subsequent “dress-up” in feminine clothes, and decides to start wearing the girls’ uniform to school. Kenshirou doesn’t understand if he’s unlocked something in Hiura, or if he’s simply seeing a new side to his childhood buddy that he never noticed before. What are these feelings bubbling between them now–is this attraction truly new?\n<br><br>\n(Source: Seven Seas Entertainment)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx213422-bkk13nKcmfTt.jpg",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "TV",
+    "episodes": null,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "updated_at": 1784246842
   },
   {
     "id": 213396,
@@ -831,7 +1165,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1783962141
+    "updated_at": 1784246842
   },
   {
     "id": 213360,
@@ -948,7 +1282,36 @@
       "Comedy",
       "Romance"
     ],
-    "updated_at": 1783945812
+    "updated_at": 1784246842
+  },
+  {
+    "id": 213106,
+    "id_mal": 64379,
+    "url": "https://anilist.co/anime/213106",
+    "title": {
+      "english": "",
+      "romaji": "Saikyou Mahoushi no Inton Keikaku",
+      "native": "最強魔法師の隠遁計画"
+    },
+    "description": "In a world where the Fiends run rampant... Magicmaster Alus Reigin, the young prodigy that has defeated more Fiends and reclaimed more of humanity’s lost territory than anyone else alive, requests retirement from military service at age 16. But due to the twists and turns of fate surrounding his status as the No. 1 Magicmaster in the nation—the top Magicmaster out of more than 100,000—he ends up as a student at a special magical institute, hiding his identity and training his successors – a pair of beautiful Magicmaster girls! Not to mention continuing to defeat Fiends in secret... Get ready—the epic adventure of the Greatest Magicmaster Alus Reigin begins now!<br><br>(Source: J-Novel)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx213106-jByffRkiW1nj.jpg",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "TV",
+    "episodes": null,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "updated_at": 1784246842
   },
   {
     "id": 213067,
@@ -1031,7 +1394,37 @@
       "Drama",
       "Romance"
     ],
-    "updated_at": 1783948413
+    "updated_at": 1784246842
+  },
+  {
+    "id": 212955,
+    "id_mal": 64350,
+    "url": "https://anilist.co/anime/212955",
+    "title": {
+      "english": "",
+      "romaji": "Mahouka Koukou no Rettousei Anime Part 2",
+      "native": "『魔法科高校の劣等生』 アニメ第二部"
+    },
+    "description": "2nd half of the anime adaptation of <i>Mahouka Koukou no Rettousei's</i> light novels.<br>\n<br>\n\nNote: Title and relations are provisional and subject to change.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx212955-bggFA6W9tnwA.jpg",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "",
+    "episodes": null,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Action",
+      "Romance",
+      "Sci-Fi",
+      "Supernatural"
+    ],
+    "updated_at": 1784246842
   },
   {
     "id": 212799,
@@ -1061,6 +1454,34 @@
       "Romance"
     ],
     "updated_at": 1784242996
+  },
+  {
+    "id": 212667,
+    "id_mal": 64298,
+    "url": "https://anilist.co/anime/212667",
+    "title": {
+      "english": "",
+      "romaji": "Hitozukiai ga Nigate na Miboujin no Yukionna-san to Noroi no Yubiwa",
+      "native": "人付き合いが苦手な未亡人の雪女さんと呪いの指輪"
+    },
+    "description": "The landlord finds a ring that can control yokai and proceeds to use it on a beautiful snow woman living in one of the apartments!<br><br>\n\n(Source: Irodori Comics)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx212667-h1F7XAb1wHKm.jpg",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "TV",
+    "episodes": null,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Ecchi",
+      "Supernatural"
+    ],
+    "updated_at": 1784246842
   },
   {
     "id": 212618,
@@ -1095,6 +1516,35 @@
     "updated_at": 1783948413
   },
   {
+    "id": 212555,
+    "id_mal": 63813,
+    "url": "https://anilist.co/anime/212555",
+    "title": {
+      "english": "",
+      "romaji": "Danzaisareta Akuyaku Reijou wa, Gyakkoushite Kanpeki na Akujo wo Mezasu",
+      "native": "断罪された悪役令嬢は、逆行して完璧な悪女を目指す"
+    },
+    "description": "Claudia, daughter of a duke, is tricked by her wicked half-sister and sold off to a brothel. Unwilling to accept defeat, Claudia uses the tools at her disposal and becomes one of the most successful sex workers in her new home. That’s when she dies–only to be thrust back in time to age fourteen! Gone is the gullible girl of her academy days now that she’s got street savvy and hard-won seductive skills. It’s Claudia’s turn to play the evil villainess, and there’s nothing she won’t do to protect what’s hers!\n<br><br>\n(Source: Seven Seas Entertainment)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx212555-SiIXjIYO8hC6.jpg",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "",
+    "episodes": null,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Drama",
+      "Fantasy",
+      "Romance"
+    ],
+    "updated_at": 1784246842
+  },
+  {
     "id": 212507,
     "id_mal": 64253,
     "url": "https://anilist.co/anime/212507",
@@ -1120,7 +1570,36 @@
       "Drama",
       "Romance"
     ],
-    "updated_at": 1784242996
+    "updated_at": 1784246842
+  },
+  {
+    "id": 212503,
+    "id_mal": 64254,
+    "url": "https://anilist.co/anime/212503",
+    "title": {
+      "english": "",
+      "romaji": "Hyouken no Majutsushi ga Sekai wo Suberu II",
+      "native": "冰剣の魔術師が世界を統べるⅡ"
+    },
+    "description": "The second season of Hyouken no Majutsushi ga Sekai wo Suberu.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx212503-LEd6BaGLBq63.jpg",
+    "banner_url": "",
+    "schedule": "Musim: FALL 2026",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "FALL",
+    "year": 2026,
+    "format": "TV",
+    "episodes": null,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "updated_at": 1784246842
   },
   {
     "id": 212272,
@@ -1181,6 +1660,35 @@
     "updated_at": 1783948010
   },
   {
+    "id": 211778,
+    "id_mal": 64084,
+    "url": "https://anilist.co/anime/211778",
+    "title": {
+      "english": "",
+      "romaji": "Sekai Saikyou no Majo, Hajimemashita",
+      "native": "世界最強の魔女、始めました"
+    },
+    "description": "When Rona manifests what seems to be a terribly useless skill, she’s considered an embarrassment to her family and gets kicked out of the house. With no money or food, she nears her darkest hour… when she suddenly figures out how to use her skill called “Internet.” It allows her to produce unlimited valuable items and even acquire rare equipment without participating in any events. With this skill of godlike knowledge, she can do anything she wants!\n<br><br>\n(Source: Yen Press)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx211778-5WtVC7WXFduS.png",
+    "banner_url": "",
+    "schedule": "Musim: FALL 2026",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "FALL",
+    "year": 2026,
+    "format": "TV",
+    "episodes": null,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Fantasy"
+    ],
+    "updated_at": 1784246842
+  },
+  {
     "id": 211711,
     "id_mal": 64107,
     "url": "https://anilist.co/anime/211711",
@@ -1204,6 +1712,36 @@
     "score": null,
     "genres": [],
     "updated_at": 1783947777
+  },
+  {
+    "id": 211709,
+    "id_mal": 64104,
+    "url": "https://anilist.co/anime/211709",
+    "title": {
+      "english": "",
+      "romaji": "Go-toubun no Hanayome: Shunkashuutou",
+      "native": "五等分の花嫁【春夏秋冬】"
+    },
+    "description": "<i>The Quintessential Quintuplets: Spring, Summer, Autumn, Winter</i> adapts the official sequel novel penned by Hajime Asano—a work that depicts \"the continuation of the original story\"—under the complete supervision of the original manga author, Negi Haruba.<br><br>\nSpanning the period from January of their third year of high school through December following their graduation, this series portrays a fresh year in the daily lives of the quintuplets.<br><br>\n(Source: Official Website, translated)<br><br>\n<i>Note: Title and relations are provisional and subject to change.</i>",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx211709-eLIMRJ4Twp8e.jpg",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "TV",
+    "episodes": null,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance",
+      "Slice of Life"
+    ],
+    "updated_at": 1784246842
   },
   {
     "id": 211496,
@@ -1232,7 +1770,7 @@
       "Drama",
       "Fantasy"
     ],
-    "updated_at": 1783947887
+    "updated_at": 1784246842
   },
   {
     "id": 211495,
@@ -1321,7 +1859,7 @@
       "Drama",
       "Romance"
     ],
-    "updated_at": 1783948324
+    "updated_at": 1784246841
   },
   {
     "id": 211258,
@@ -1350,7 +1888,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1783945888
+    "updated_at": 1784246841
   },
   {
     "id": 210945,
@@ -1378,7 +1916,7 @@
       "Action",
       "Fantasy"
     ],
-    "updated_at": 1784242996
+    "updated_at": 1784246841
   },
   {
     "id": 210483,
@@ -1407,7 +1945,38 @@
       "Ecchi",
       "Fantasy"
     ],
-    "updated_at": 1783945889
+    "updated_at": 1784246841
+  },
+  {
+    "id": 210482,
+    "id_mal": 61469,
+    "url": "https://anilist.co/anime/210482",
+    "title": {
+      "english": "STEEL BALL RUN JoJo's Bizarre Adventure 2nd - 3rd STAGE",
+      "romaji": "JoJo no Kimyou na Bouken: Steel Ball Run - 2nd - 3rd STAGE",
+      "native": "ジョジョの奇妙な冒険 スティール・ボール・ラン 2nd - 3rd STAGE"
+    },
+    "description": "The second race stage of <i>JoJo no Kimyou na Bouken: Steel Ball Run</i>.<br><br>\n\nIn the 2nd STAGE, a desert crossing spanning roughly 750 miles- the land that Johnny Joestar and Gyro Zeppeli must challenge, is home to the area that is feared as the \"Devil's Palm.\" In 1875, a threat lurking in said desert wiped out a cavalry of 26 people, eliciting fear from the local native people. As ominous incidents begin to unfold, they are forced to realize that this race is far more than a mere competition. The two press forward, where countless hidden motives collide. <br><br>\n\n(Source: Warner Bros. Japan Anime, Netflix Anime, edited)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx210482-P1VNKbqdJ6Zj.jpg",
+    "banner_url": "",
+    "schedule": "Episode 1 tayang pada 24/9/2026, 22.00.00 WIB",
+    "next_episode": 1,
+    "next_airing_timestamp": 1790262000,
+    "season": "FALL",
+    "year": 2026,
+    "format": "ONA",
+    "episodes": 11,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Mystery",
+      "Supernatural"
+    ],
+    "updated_at": 1784246841
   },
   {
     "id": 210309,
@@ -1466,7 +2035,38 @@
       "Romance",
       "Thriller"
     ],
-    "updated_at": 1783962141
+    "updated_at": 1784246841
+  },
+  {
+    "id": 209984,
+    "id_mal": null,
+    "url": "https://anilist.co/anime/209984",
+    "title": {
+      "english": "",
+      "romaji": "Fate/strange Fake (Zoku-hen)",
+      "native": "Fate/strange Fake (続編)"
+    },
+    "description": "Sequel to <i>Fate/strange Fake<i/>.<br><br>\n\n<i>Note: Title is provisional and subject to change when more info is announced.</i>",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx209984-0x94nfPZV7Le.jpg",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/209984-wKes5QZi0ZLN.jpg",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "TV",
+    "episodes": null,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy",
+      "Mystery",
+      "Supernatural"
+    ],
+    "updated_at": 1784246841
   },
   {
     "id": 209980,
@@ -1496,7 +2096,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1783945905
+    "updated_at": 1784246841
   },
   {
     "id": 209963,
@@ -1525,7 +2125,65 @@
       "Drama",
       "Fantasy"
     ],
-    "updated_at": 1783945872
+    "updated_at": 1784246841
+  },
+  {
+    "id": 209939,
+    "id_mal": 63816,
+    "url": "https://anilist.co/anime/209939",
+    "title": {
+      "english": "",
+      "romaji": "Sousou no Frieren 3rd Season",
+      "native": "葬送のフリーレン 第3期"
+    },
+    "description": "The third season of <i>Sousou no Frieren</i>.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx209939-g2Njkml1rheG.jpg",
+    "banner_url": "",
+    "schedule": "Musim: FALL 2027",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "FALL",
+    "year": 2027,
+    "format": "TV",
+    "episodes": null,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Fantasy"
+    ],
+    "updated_at": 1784246841
+  },
+  {
+    "id": 209895,
+    "id_mal": 63824,
+    "url": "https://anilist.co/anime/209895",
+    "title": {
+      "english": "",
+      "romaji": "Jujutsu Kaisen: Shimetsu Kaiyuu - Kouhen",
+      "native": "呪術廻戦 死滅回游 後編"
+    },
+    "description": "The fourth season of <i>Jujutsu Kaisen</i>.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx209895-rrl9Ys8iVTiV.jpg",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "",
+    "episodes": null,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Action",
+      "Drama",
+      "Supernatural"
+    ],
+    "updated_at": 1784246841
   },
   {
     "id": 209827,
@@ -1555,7 +2213,35 @@
       "Psychological",
       "Supernatural"
     ],
-    "updated_at": 1783948183
+    "updated_at": 1784246841
+  },
+  {
+    "id": 209762,
+    "id_mal": 63789,
+    "url": "https://anilist.co/anime/209762",
+    "title": {
+      "english": "",
+      "romaji": "Mayonaka Heart Tune 2nd Season",
+      "native": "真夜中ハートチューン 第2期"
+    },
+    "description": "The second season of <i>Mayonaka Heart Tune.</i>",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx209762-nOmoRT4ZjGFt.jpg",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/209762-jLOKIXq1R5G8.jpg",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "TV",
+    "episodes": null,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "updated_at": 1784246841
   },
   {
     "id": 209670,
@@ -1587,6 +2273,34 @@
     "updated_at": 1783948413
   },
   {
+    "id": 209502,
+    "id_mal": 63754,
+    "url": "https://anilist.co/anime/209502",
+    "title": {
+      "english": "",
+      "romaji": "Shiotaiou no Satou-san ga Ore ni dake Amai",
+      "native": "塩対応の佐藤さんが俺にだけ甘い"
+    },
+    "description": "Sato-san is the unattainable flower of the class. She is always cold and curt with classmates, but only I know she's actually very cute when she smiles, even if she's not much of a photographer.\n<br><br>\nOshio-kun is friendly and lively, but only I know he works at his family's cafe after school. He does a great job with the cafe's SNS account, and his mischievous smile makes my heart skip a beat!\n<br><br>\nInnocent and sweet, but sometimes frustrating, this is a 120%-pure fluffy story about two people falling in love for the first time.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx209502-D13zPYnWFwrJ.png",
+    "banner_url": "",
+    "schedule": "Musim: FALL 2026",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "FALL",
+    "year": 2026,
+    "format": "TV",
+    "episodes": null,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "updated_at": 1784246841
+  },
+  {
     "id": 209247,
     "id_mal": 63735,
     "url": "https://anilist.co/anime/209247",
@@ -1613,7 +2327,66 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1783948159
+    "updated_at": 1784246841
+  },
+  {
+    "id": 209224,
+    "id_mal": 63706,
+    "url": "https://anilist.co/anime/209224",
+    "title": {
+      "english": "",
+      "romaji": "Game Sekai Tensei <Dankatsu>: Gamer wa [Dungeon Shuukatsu no Susume] wo <Hajime kara> Play Suru",
+      "native": "ゲーム世界転生〈ダン活〉～ゲーマーは【ダンジョン就活のススメ】を〈はじめから〉プレイする～"
+    },
+    "description": "Dan-Katsu is a legendary role-playing game that allows you to play more than 1021 classes and has more than 400 possible endings! The more we delve into it, the more we discover new ways to enjoy it, new objects… A certain gamer (player name: Zephyrus) is reincarnated in the world of Dan-Katsu, of which he becomes the main character. Overjoyed, he joins the Labyrinth Academy, the place where the main story takes place. He quickly obtains the 'Hero' class, the best in the game, but discovers that the 'Muscle Warrior', a class considered 'for fun' where he comes from, is perceived in this world as a good class?! That the most difficult dungeons have never been conquered?! In other words… he will be able to enjoy this world as if it were a new game! Determined to show everyone what a good class is, he brings together classmates, allows his reserved childhood friend to become an Alchemist, transforms a selfish Princess into a Saint… Now that he has gathered powerful classes around from him, he is ready to conquer the dungeons!<br><br>\n\n(Source: TO BOOKS press release)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx209224-VLggLckiqkCc.jpg",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "TV",
+    "episodes": null,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy",
+      "Romance"
+    ],
+    "updated_at": 1784246841
+  },
+  {
+    "id": 209221,
+    "id_mal": 63730,
+    "url": "https://anilist.co/anime/209221",
+    "title": {
+      "english": "",
+      "romaji": "Isekai Tensei Soudouki",
+      "native": "異世界転生騒動記"
+    },
+    "description": "Bard Cornelius: the son of a nobleman of Mauricia, an empire located in a parallel universe. But Bard is no ordinary boy―he's got three souls packed into one body! Aside from his own consciousness, he's got Oka Sanai, a miserly samurai, and Masaharu Oka, a high school otaku who loves animal ears. With his extra knowledge of military tactics and business acumen, Bard's ready to cheat his way to the top!\n<br><br>\n(Source: One Peace Books)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx209221-a4WYNMCpHCsu.png",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "TV",
+    "episodes": null,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "updated_at": 1784246841
   },
   {
     "id": 208766,
@@ -1641,6 +2414,62 @@
       "Slice of Life"
     ],
     "updated_at": 1783948413
+  },
+  {
+    "id": 208192,
+    "id_mal": 63534,
+    "url": "https://anilist.co/anime/208192",
+    "title": {
+      "english": "",
+      "romaji": "Evangelion (Shinsaku Series)",
+      "native": "エヴァンゲリオン (新作シリーズ)"
+    },
+    "description": "Announced at the final event program of “EVANGELION:30+；30th ANNIVERSARY OF EVANGELION” fes., a completely new series for <i>Evangelion</i>.<br><br>\n\n<i>Note: Title and relations are provisional and will be updated when more info is announced.</i>",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b208192-09FVw3ZPUg96.png",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "",
+    "episodes": null,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Mecha",
+      "Sci-Fi"
+    ],
+    "updated_at": 1784246840
+  },
+  {
+    "id": 207782,
+    "id_mal": 63476,
+    "url": "https://anilist.co/anime/207782",
+    "title": {
+      "english": "",
+      "romaji": "Odebu Akujo ni Tensei Shitara, Naze ka Last Boss Ouji-sama ni Shuuchaku Sareteimasu",
+      "native": "おデブ悪女に転生したら、なぜかラスボス王子様に執着されています"
+    },
+    "description": "After dying of illness, she has been reincarnated as Celine, the selfish, fat, villainous duchess, sister of the heroine of a popular novel.\nIf she stays this way, she will be killed by the hero prince and die a miserable death, just as in the novel. She vows to reform herself with all her might and begins to struggle, but she finds herself caught up in unexpected doting and obsession..!<br>\nWill Celine be able to find \"peaceful happiness\"?\n<br><br>\nA fantasy love story about a reincarnation in another world where she is loved too much by a Yandere.\n<br><br>\n(Source: Pocket Comics)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx207782-aaog7JqDuddN.jpg",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "TV",
+    "episodes": null,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Fantasy",
+      "Romance"
+    ],
+    "updated_at": 1784246840
   },
   {
     "id": 207692,
@@ -1701,7 +2530,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784242996
+    "updated_at": 1784246840
   },
   {
     "id": 207328,
@@ -1734,6 +2563,34 @@
     "updated_at": 1783945830
   },
   {
+    "id": 207327,
+    "id_mal": 63423,
+    "url": "https://anilist.co/anime/207327",
+    "title": {
+      "english": "To You in the Beyond",
+      "romaji": "Doko yori mo Tooi Basho ni Iru Kimi e",
+      "native": "どこよりも遠い場所にいる君へ"
+    },
+    "description": "The  story centers on a boy named Kazuki Tsukigase, who transfers to a high school on a remote island to get away from anyone who knows him. Kazuki finds out that there is an inlet on the island where people are rumored to disappear. Exploring the inlet, he encounters an unconscious girl. When she comes to after Kazuki takes her to the clinic, she is unable to give out anything about her identity except that she is named Nao, is 16 years old, and whispers the year \"1974.\"<br><br>\n(Source: Anime News Network, edited)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx207327-FFWbqs7iMFKJ.jpg",
+    "banner_url": "",
+    "schedule": "Episode 1 tayang pada 8/10/2026, 22.00.00 WIB",
+    "next_episode": 1,
+    "next_airing_timestamp": 1791471600,
+    "season": "FALL",
+    "year": 2026,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Mystery",
+      "Romance"
+    ],
+    "updated_at": 1784246840
+  },
+  {
     "id": 206874,
     "id_mal": 63632,
     "url": "https://anilist.co/anime/206874",
@@ -1763,7 +2620,7 @@
       "Supernatural",
       "Thriller"
     ],
-    "updated_at": 1783948147
+    "updated_at": 1784246840
   },
   {
     "id": 206819,
@@ -1791,6 +2648,92 @@
       "Romance"
     ],
     "updated_at": 1783948118
+  },
+  {
+    "id": 206812,
+    "id_mal": 63368,
+    "url": "https://anilist.co/anime/206812",
+    "title": {
+      "english": "",
+      "romaji": "Dragon Ball Super: Ginga Patrol",
+      "native": "ドラゴンボール超 銀河パトロール"
+    },
+    "description": "The main character, Son Goku, and Vegeta, work together with the members of the Galactic Patrol, the peacekeepers of the galaxy, to begin a SUPER scale battle against a new enemy, “Planet-Eater” Moro!\n<br><br>\n(Source: Dragon Ball Official Site)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx206812-XMuteotGcnU8.jpg",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "",
+    "episodes": null,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "updated_at": 1784246839
+  },
+  {
+    "id": 206798,
+    "id_mal": 63350,
+    "url": "https://anilist.co/anime/206798",
+    "title": {
+      "english": "",
+      "romaji": "Doukyo Shiteiru Kensei no Onna Shishou ga Kawaisugite Mainichi Shiawase desu",
+      "native": "同居している剣聖の女師匠が可愛すぎて毎日幸せです"
+    },
+    "description": "Eugene Dawson, a lad who aims to get stronger, is currently training under his master, Liza Pulsandra, who is extolled as the Sword Saint. His days are spent happily with his master, who is the strongest in terms of physical strength, but whose private life is a bit of a mess. Or so one would think, but her undefended and erotic body and unconscious physical contact make something like training seem impossible...!? Can he really get stronger like this?<br>\n<br>\n(Source: KAKODAWA, translated)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx206798-DEVlR7LkRNW0.png",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "TV",
+    "episodes": null,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Comedy",
+      "Ecchi",
+      "Fantasy",
+      "Romance"
+    ],
+    "updated_at": 1784246839
+  },
+  {
+    "id": 206401,
+    "id_mal": 63337,
+    "url": "https://anilist.co/anime/206401",
+    "title": {
+      "english": "",
+      "romaji": "FX Senshi Kurumi-chan",
+      "native": "FX戦士くるみちゃん"
+    },
+    "description": "A story about the slightly dangerous(!?) investment activities of three soft and fluffy JDs!<br>\n<br>\nEvery time the chart moves by 1mm in the wrong direction, I can feel the tears overflowing! A heart-stopping college-girl FX-trading comic for all those who want to have fun and make money!<br>\n<br>\n(Source: Kadokawa, translated)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx206401-tToJHZcMGrvp.jpg",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "TV",
+    "episodes": null,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Drama",
+      "Slice of Life"
+    ],
+    "updated_at": 1784246839
   },
   {
     "id": 205962,
@@ -1843,7 +2786,93 @@
       "Drama",
       "Romance"
     ],
-    "updated_at": 1783945883
+    "updated_at": 1784246837
+  },
+  {
+    "id": 205896,
+    "id_mal": 63292,
+    "url": "https://anilist.co/anime/205896",
+    "title": {
+      "english": "",
+      "romaji": "Shinja Zero no Megami-sama to Hajimeru Isekai Kouryaku",
+      "native": "信者ゼロの女神サマと始める異世界攻略"
+    },
+    "description": "RPG player Makoto Takatsuki is hurled into another world with awful skills and stats. But he soon meets a goddess named Noah, who asks him to become her 1st believer in return for blessings.<br>\n<br>\n(Source: J-Novel Club)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx205896-BW1GwqXSUyir.jpg",
+    "banner_url": "",
+    "schedule": "Musim: FALL 2026",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "FALL",
+    "year": 2026,
+    "format": "TV",
+    "episodes": null,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Adventure",
+      "Fantasy"
+    ],
+    "updated_at": 1784246837
+  },
+  {
+    "id": 205619,
+    "id_mal": 63268,
+    "url": "https://anilist.co/anime/205619",
+    "title": {
+      "english": "",
+      "romaji": "Koi Shita Hito wa, Imouto no Kawari ni Shindekure to Itta.",
+      "native": "恋した人は、妹の代わりに死んでくれと言った。"
+    },
+    "description": "Wisteria, the daughter of a count, secretly has feelings for Bright, a beautiful childhood friend and son of a duke who, unable to use magic, had been conducting forbidden research in the shadows. Devastated when Bright confesses his love for her younger sister, Wisteria is even more hurt when he asks her to take her sister's place as a sacrifice. Is her love for Bright so strong that she will give up her life for him?<br>\n<br>\n(Source: TOKYOPOP)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx205619-7dw2JkIkpdqD.jpg",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "",
+    "episodes": null,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Action",
+      "Drama",
+      "Fantasy"
+    ],
+    "updated_at": 1784246837
+  },
+  {
+    "id": 205430,
+    "id_mal": 63256,
+    "url": "https://anilist.co/anime/205430",
+    "title": {
+      "english": "",
+      "romaji": "Boukensha License wo Hakudatsu Sareta Ossan Dakedo, Manamusume ga Dekita no de Nonbiri Jinsei wo Ouka Suru",
+      "native": "冒険者ライセンスを剥奪されたおっさんだけど、愛娘ができたのでのんびり人生を謳歌する"
+    },
+    "description": "Douglas, once known as a legendary enhancement spellcaster, is now little more than your average, weak old man. On top of that, he was kicked out of the hero party, and eventually had his adventurer's license revoked... And that's how he ended up a vagabond, wandering aimlessly. After an encounter with Rabi, a cursed little girl, a new adventure begins...<br>\n<br>\n(Source: MANGA UP!)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx205430-u0DOkPrpzBOI.jpg",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "TV",
+    "episodes": null,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Fantasy"
+    ],
+    "updated_at": 1784246837
   },
   {
     "id": 205081,
@@ -1961,7 +2990,35 @@
       "Slice of Life",
       "Supernatural"
     ],
-    "updated_at": 1783948400
+    "updated_at": 1784246837
+  },
+  {
+    "id": 204688,
+    "id_mal": null,
+    "url": "https://anilist.co/anime/204688",
+    "title": {
+      "english": "",
+      "romaji": "Kingdom (Zoku-hen)",
+      "native": "キングダム 第６シリーズ続編"
+    },
+    "description": "Sequel to <i>Kingdom 6th Season</i>.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx204688-b0o6DonCATcK.jpg",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "TV",
+    "episodes": null,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "updated_at": 1784246837
   },
   {
     "id": 204604,
@@ -1991,7 +3048,7 @@
       "Sci-Fi",
       "Supernatural"
     ],
-    "updated_at": 1784242996
+    "updated_at": 1784246837
   },
   {
     "id": 204579,
@@ -2021,6 +3078,92 @@
       "Slice of Life"
     ],
     "updated_at": 1784242996
+  },
+  {
+    "id": 204436,
+    "id_mal": 63147,
+    "url": "https://anilist.co/anime/204436",
+    "title": {
+      "english": "Gachiakuta Season 2",
+      "romaji": "Gachiakuta 2nd Season",
+      "native": "ガチアクタ 第2期"
+    },
+    "description": "The second season of <i>Gachiakuta</i>.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx204436-gGUp9DNszIY5.png",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/204436-OHyoHGQhdcrA.jpg",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "TV",
+    "episodes": null,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Action",
+      "Drama",
+      "Fantasy"
+    ],
+    "updated_at": 1784246836
+  },
+  {
+    "id": 204431,
+    "id_mal": 63138,
+    "url": "https://anilist.co/anime/204431",
+    "title": {
+      "english": "",
+      "romaji": "Kaijuu 8-gou: Narumi no Heijitsu",
+      "native": "怪獣８号 鳴海の平日"
+    },
+    "description": "An original short anime about Narumi's daily life at work.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx204431-5JC0YY6i6ECJ.jpg",
+    "banner_url": "",
+    "schedule": "Musim: FALL 2026",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "FALL",
+    "year": 2026,
+    "format": "SPECIAL",
+    "episodes": 1,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Slice of Life"
+    ],
+    "updated_at": 1784246836
+  },
+  {
+    "id": 204429,
+    "id_mal": 63143,
+    "url": "https://anilist.co/anime/204429",
+    "title": {
+      "english": "",
+      "romaji": "Chainsaw Man: Shikaku-hen",
+      "native": "チェンソーマン 刺客篇"
+    },
+    "description": "Sequel to <i>Chainsaw Man: Reze-hen</i>.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx204429-9scYA2ab3Zz3.jpg",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "",
+    "episodes": null,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Action",
+      "Drama",
+      "Horror",
+      "Supernatural"
+    ],
+    "updated_at": 1784246836
   },
   {
     "id": 204363,
@@ -2108,7 +3251,91 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1783962141
+    "updated_at": 1784246836
+  },
+  {
+    "id": 204286,
+    "id_mal": null,
+    "url": "https://anilist.co/anime/204286",
+    "title": {
+      "english": "",
+      "romaji": "Taiyou yori mo Mabushii Hoshi 2",
+      "native": "太陽よりも眩しい星 第二期"
+    },
+    "description": "The second season of <i>Taiyou yori mo Mabushii Hoshi</i>.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx204286-ewEjOgTlEw9t.png",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "TV",
+    "episodes": null,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Romance"
+    ],
+    "updated_at": 1784246836
+  },
+  {
+    "id": 204011,
+    "id_mal": 63098,
+    "url": "https://anilist.co/anime/204011",
+    "title": {
+      "english": "PSYREN",
+      "romaji": "PSYЯEN",
+      "native": "PSYREN -サイレン-"
+    },
+    "description": "One day, high schooler Ageha Yoshina picks up a mysterious “red phone card” left behind in a public telephone booth.\nA few days later, his childhood friend and classmate, Sakurako Amamiya—who possessed the same card—suddenly vanishes without a trace. In search of her, Ageha finds himself drawn into the rumors surrounding a nationwide string of mysterious disappearances, said to be the work of a secret organization known only as “Psyren.”<br><br>\nWhen he accesses the group, a deadly game begins—one that will change his fate forever.\n<br><br>\n(Source: PSYЯEN Official Site)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx204011-BV7R1PKHAY3M.png",
+    "banner_url": "",
+    "schedule": "Musim: FALL 2026",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "FALL",
+    "year": 2026,
+    "format": "TV",
+    "episodes": null,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "updated_at": 1784246836
+  },
+  {
+    "id": 203855,
+    "id_mal": 63078,
+    "url": "https://anilist.co/anime/203855",
+    "title": {
+      "english": "",
+      "romaji": "Saijaku Tamer wa Gomi Hiroi no Tabi wo Hajimemashita. 2nd Season",
+      "native": "最弱テイマーはゴミ拾いの旅を始めました。第2期"
+    },
+    "description": "The second season of <i>Saijaku Tamer wa Gomi Hiroi no Tabi wo Hajimemashita.</i>.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx203855-l4IXwbuiZb8Z.png",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "TV",
+    "episodes": null,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Adventure",
+      "Fantasy"
+    ],
+    "updated_at": 1784246836
   },
   {
     "id": 203651,
@@ -2133,7 +3360,65 @@
     "status": "NOT_YET_RELEASED",
     "score": null,
     "genres": [],
-    "updated_at": 1783945903
+    "updated_at": 1784246836
+  },
+  {
+    "id": 203473,
+    "id_mal": 63053,
+    "url": "https://anilist.co/anime/203473",
+    "title": {
+      "english": "",
+      "romaji": "Kyoufu Collector",
+      "native": "恐怖コレクター"
+    },
+    "description": "Urban legends come to life…Everyone’s heard an urban legend before, but few have ever come face-to-face with one. These phenomena are everywhere, existing in the shadows of reality. More and more of them have been appearing in the wake of the faceless kid sighted all over Japan. If you see her or one of the urban legends she brings―pray the boy in the red hood finds you before it’s too late. You won’t stand a chance on your own. But with his help, you may just live to see another day…\n<br><br>\n(Source: Yen Press)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx203473-dIUb8kiwnpmo.jpg",
+    "banner_url": "",
+    "schedule": "Musim: FALL 2026",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "FALL",
+    "year": 2026,
+    "format": "TV",
+    "episodes": null,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Supernatural"
+    ],
+    "updated_at": 1784246836
+  },
+  {
+    "id": 203448,
+    "id_mal": 63048,
+    "url": "https://anilist.co/anime/203448",
+    "title": {
+      "english": "",
+      "romaji": "World Trigger REBOOT Project (Provisional Title)",
+      "native": "ワールドトリガー REBOOTプロジェクト （仮）"
+    },
+    "description": "A \"reboot\" project for <i>World Trigger</i>, covering the first chapters of the manga, the Border enlistment arc, the large-scale Neighbor Invasion arc, and the start of the B-Rank Wars arc.\n<br><br>\n<i>Note: Title is provisional and will be updated when more info is announced.</i>",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx203448-lzXoU41UeJCU.jpg",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "",
+    "episodes": null,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Action",
+      "Sci-Fi",
+      "Supernatural"
+    ],
+    "updated_at": 1784246836
   },
   {
     "id": 203129,
@@ -2162,7 +3447,34 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1783945879
+    "updated_at": 1784246836
+  },
+  {
+    "id": 202906,
+    "id_mal": 63016,
+    "url": "https://anilist.co/anime/202906",
+    "title": {
+      "english": "",
+      "romaji": "GIRL CRUSH",
+      "native": "ガールクラッシュ"
+    },
+    "description": "Tenka Momose, a high school freshman that can sing and dance... she's pretty and smart to boot! She's good at everything but love. One day she meets Erian Satou, and was pulled in by her passionate dedication to becoming an idol. This is the story about two young girls chasing after their K-Pop idol dream!!\n<br><br>\n(Source: Comikey)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx202906-ThWUBzwg5X2L.jpg",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "TV",
+    "episodes": null,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Drama"
+    ],
+    "updated_at": 1784246836
   },
   {
     "id": 202717,
@@ -2219,7 +3531,7 @@
       "Ecchi",
       "Romance"
     ],
-    "updated_at": 1784242996
+    "updated_at": 1784246836
   },
   {
     "id": 202503,
@@ -2248,7 +3560,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784242996
+    "updated_at": 1784246835
   },
   {
     "id": 202429,
@@ -2360,7 +3672,65 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784242996
+    "updated_at": 1784246835
+  },
+  {
+    "id": 202250,
+    "id_mal": 62922,
+    "url": "https://anilist.co/anime/202250",
+    "title": {
+      "english": "",
+      "romaji": "Kashita Maryoku wa [Revo Barai] de Kyousei Choushuu",
+      "native": "貸した魔力は【リボ払い】で強制徴収"
+    },
+    "description": "If there's one thing you can never have enough of in a world of RPG-style swords and sorcery, it's magic points! Whether you're fueling spells, techniques, or showing off an incredible ability, you've gotta spend those points to do real damage. But what if you run out?\n<br><br>\nLent is part of the up-and-coming party known as the “Skypiercers,” and thanks to his unique Gift, he can loan massive amounts of magic to others. No MP? No problem with Lent around! Except, now that his companions have become formidable heroes (thanks to his skill), his usefulness is questioned. Kicked out of the group, Lent is furious…until he discovers a hidden power to his Gift. Now, with his adorably devious fairy partner, he's going to claw back every last scrap of magic from his former party—with interest!<br><br>\n(Source: Seven Seas Entertainment)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx202250-xfuf10GUke6L.jpg",
+    "banner_url": "",
+    "schedule": "Musim: FALL 2026",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "FALL",
+    "year": 2026,
+    "format": "TV",
+    "episodes": null,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "updated_at": 1784246835
+  },
+  {
+    "id": 201388,
+    "id_mal": 62865,
+    "url": "https://anilist.co/anime/201388",
+    "title": {
+      "english": "",
+      "romaji": "Dark Gathering 2nd Season",
+      "native": "ダークギャザリング 第2期"
+    },
+    "description": "The second season of <i>Dark Gathering</i>.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx201388-YCEfdfCgY3Yi.png",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "TV",
+    "episodes": null,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Adventure",
+      "Horror",
+      "Supernatural"
+    ],
+    "updated_at": 1784246835
   },
   {
     "id": 200929,
@@ -2388,7 +3758,7 @@
       "Drama",
       "Mystery"
     ],
-    "updated_at": 1783948125
+    "updated_at": 1784246835
   },
   {
     "id": 200578,
@@ -2422,6 +3792,68 @@
     "updated_at": 1783962141
   },
   {
+    "id": 199793,
+    "id_mal": 62650,
+    "url": "https://anilist.co/anime/199793",
+    "title": {
+      "english": "",
+      "romaji": "Witch Watch 2nd Season",
+      "native": "ウィッチウォッチ(第2期)"
+    },
+    "description": "The second season of <i>Witch Watch</i>.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199793-ks9EEXbv62zR.jpg",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "TV",
+    "episodes": null,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Fantasy",
+      "Romance",
+      "Slice of Life",
+      "Supernatural"
+    ],
+    "updated_at": 1784246835
+  },
+  {
+    "id": 199597,
+    "id_mal": 62613,
+    "url": "https://anilist.co/anime/199597",
+    "title": {
+      "english": "",
+      "romaji": "Youchien WARS",
+      "native": "幼稚園WARS"
+    },
+    "description": "Welcome to Kindergarten Noir, an exclusive school catering to children of the global elite. Rita, one of the teachers, has been on the hunt for a boyfriend but has had absolutely zero luck so far. One day, an assassin comes after one of the children...and he’s totally dreamy?! Dive into this action-packed rom-com as it unfolds inside the world’s “safest” kindergarten!\n<br><br>\n(Source: MANGA PLUS)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199597-HJvNNvlt37wp.png",
+    "banner_url": "",
+    "schedule": "Musim: SPRING 2027",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "SPRING",
+    "year": 2027,
+    "format": "TV",
+    "episodes": null,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "updated_at": 1784246835
+  },
+  {
     "id": 199594,
     "id_mal": 62615,
     "url": "https://anilist.co/anime/199594",
@@ -2446,7 +3878,7 @@
     "genres": [
       "Slice of Life"
     ],
-    "updated_at": 1783950552
+    "updated_at": 1784246835
   },
   {
     "id": 199404,
@@ -2475,7 +3907,7 @@
       "Drama",
       "Sports"
     ],
-    "updated_at": 1783947787
+    "updated_at": 1784246834
   },
   {
     "id": 199357,
@@ -2539,6 +3971,149 @@
     "updated_at": 1783945909
   },
   {
+    "id": 199340,
+    "id_mal": 62582,
+    "url": "https://anilist.co/anime/199340",
+    "title": {
+      "english": "Rascal Does Not Dream of a Dear Friend",
+      "romaji": "Seishun Buta Yarou wa Dear Friend no Yume wo Minai",
+      "native": "青春ブタ野郎はディアフレンドの夢を見ない"
+    },
+    "description": "Theatrical follow-up to <i>Seishun Buta Yarou wa Santa Claus no Yume wo Minai</i>.<br><br>\n\n<i>\"Actually, I’m Touko Kirishima.\"</i>\n<br><br>\nThe audience erupted in excitement upon learning that the true identity of the mysterious, wildly popular internet singer was none other than the nation’s favorite actress, Mai Sakurajima. The scene was exactly the same as the dream Sakuta Azusagawa had seen on Christmas Eve.\n<br><br>\nStarting with Mai’s shocking confession on April 1, the impossible events that everyone once dreamed of keep happening one after another.\n\nThe social media hashtag \"#Yumemiru,\" where dreams come true, has vanished, and as Sakuta struggles with the disconnect between the reality before him and his own perception, he receives a message from a version of himself in an alternate reality.\n<br><br>\n<b>―Stop Touko Kirishima,\n<br>\n―Before reality is rewritten.</b>\n<br><br>\nTo restore the world to its original state, Sakuta sets out to find Touko Kirishima. This is a story about overcoming the \"Adolescent Syndrome\".<br><br>\n\n(Source: Crunchyroll News, edited)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199340-hrhFRsgXJCJ8.jpg",
+    "banner_url": "",
+    "schedule": "Episode 1 tayang pada 15/10/2026, 22.00.00 WIB",
+    "next_episode": 1,
+    "next_airing_timestamp": 1792076400,
+    "season": "FALL",
+    "year": 2026,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Drama",
+      "Psychological",
+      "Romance",
+      "Supernatural"
+    ],
+    "updated_at": 1784246834
+  },
+  {
+    "id": 199337,
+    "id_mal": 62580,
+    "url": "https://anilist.co/anime/199337",
+    "title": {
+      "english": "",
+      "romaji": "Shin Samurai-den YAIBA 2",
+      "native": "真•侍伝 YAIBA 第二期"
+    },
+    "description": "The second season of <i>Shin Samurai-den YAIBA</i>.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199337-EQYn3eJso7qB.jpg",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/199337-YqUdWf4XUYyg.jpg",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "TV",
+    "episodes": null,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "updated_at": 1784246834
+  },
+  {
+    "id": 199217,
+    "id_mal": 62567,
+    "url": "https://anilist.co/anime/199217",
+    "title": {
+      "english": "",
+      "romaji": "Re:Monster 2nd Season",
+      "native": "Re:Monster 第2期"
+    },
+    "description": "The second season of <i>Re:Monster</i>.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199217-E5cyvXieCA7n.jpg",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "TV",
+    "episodes": null,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "updated_at": 1784246834
+  },
+  {
+    "id": 199185,
+    "id_mal": 62564,
+    "url": "https://anilist.co/anime/199185",
+    "title": {
+      "english": "",
+      "romaji": "Tate no Yuusha no Nariagari Season 5",
+      "native": "盾の勇者の成り上がり Season 5"
+    },
+    "description": "The fifth season of <i> Tate no Yuusha no Nariagari.</i>",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199185-1svTWhAN0Orh.jpg",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "TV",
+    "episodes": null,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "updated_at": 1784246834
+  },
+  {
+    "id": 199006,
+    "id_mal": 62503,
+    "url": "https://anilist.co/anime/199006",
+    "title": {
+      "english": "",
+      "romaji": "Fuun Kara no Saikyou Otoko",
+      "native": "不運からの最強男"
+    },
+    "description": "\"Fortune and Misfortune are two sides of the same coin?! Reverse any adversary and cease redemption!!\" \n<br><br>\nSiegbert is reborn after an unfortunate accident in his previous life. His new family is warm and welcoming... so much so it seems as though he may no longer be an unlucky person. In this world, he can finally live a quiet, peaceful life... or so he thought. It seems that he actually holds an insanely high luck stat in this new world...?\n<br><br>\n\"Every chance is a manifestation of good fortune. If you can cease the chances, your wishes shall be granted...\" Conquering each \"chance\" granted by his good fortune, will he now cease redemption on the generational legacy this family has yet to fulfill?!\n<br><br>\n(Source: MangaPlaza)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199006-Q2BoE0DUqAOR.jpg",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "TV",
+    "episodes": null,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Fantasy"
+    ],
+    "updated_at": 1784246833
+  },
+  {
     "id": 198727,
     "id_mal": 62484,
     "url": "https://anilist.co/anime/198727",
@@ -2592,7 +4167,183 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784242996
+    "updated_at": 1784246832
+  },
+  {
+    "id": 198663,
+    "id_mal": null,
+    "url": "https://anilist.co/anime/198663",
+    "title": {
+      "english": "",
+      "romaji": "KAIJU DECODE: Aidara no Yubiwa",
+      "native": "怪獣デコード アイダラの指輪"
+    },
+    "description": "A youth named Maru lives in the peaceful City, a society freed from the restrictions of the body, mind, space, and time. In contrast, a girl named Coco, a member of the Aidara Tribe, resides in the Zone, a treacherous area also inhabited by incredible beasts. The story revolves around two opposing characters seeking a path into a shared future. <br><br>\n\n(Source: Sakai Film Festival)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx198663-eIYld0XWimKB.jpg",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "",
+    "episodes": null,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Action",
+      "Sci-Fi"
+    ],
+    "updated_at": 1784246832
+  },
+  {
+    "id": 197095,
+    "id_mal": 62188,
+    "url": "https://anilist.co/anime/197095",
+    "title": {
+      "english": "",
+      "romaji": "Kaketa Tsuki no Mercedes",
+      "native": "欠けた月のメルセデス"
+    },
+    "description": "Reincarnated as a vampire to a noble father and his shunned concubine, Mercedes Grunewald has always known that one day, her father will choose an heir that isn't her. But what will become of her family when that time comes? Her mother has no skills, their maid is old, and Mercedes is but a small child. How will they survive in the world on their own?\n<br><br>\nLuckily, dungeon crawling is a job that anyone can do—even a child. To provide for her family, Mercedes begins training at the age of a kindergartener, and because she's from a nation of vampires, she fortunately has the potential to become strong. In her past life, she died unfulfilled, but that won't be her fate this time. In the dungeons, she's determined to find something that will make her moon full.\n<br><br>\n(Source: J-Novel Club)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx197095-qBAQhGwXWu4q.jpg",
+    "banner_url": "",
+    "schedule": "Musim: WINTER 2027",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "WINTER",
+    "year": 2027,
+    "format": "TV",
+    "episodes": null,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Fantasy"
+    ],
+    "updated_at": 1784246831
+  },
+  {
+    "id": 197022,
+    "id_mal": null,
+    "url": "https://anilist.co/anime/197022",
+    "title": {
+      "english": "",
+      "romaji": "Akuyaku Reijou no Tsuihougo! Kyoukai Kaikaku Gohan de Yuuyuu Sister Kurashii",
+      "native": "悪役令嬢の追放後！ 教会改革ごはんで悠々シスター暮らし"
+    },
+    "description": "Elizabeth was known as a villainess but in fact, she was a decent and honest girl. But she was accused by mistake, found guilty and exiled...but she accepted her situation. That was because...she had her memory from her previous life as an event planner in Japan, and she knew what was coming. She was in the Otome game world she loved!! She started enjoying her life as an apprentice to sisters at Church of Nortia which is located in a rural village. And she doesn't have to follow the story from here!! Now Elizabeth can using her skill from her previous life, to make her life easier. No one's noticing, so this will be OK, right? But then, the knight commander moves close and tells her he's watching. What does he want?<br><br>\n\n(Source: Kadokawa)\n\n",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx197022-Gs7n9bAcnlL0.jpg",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "",
+    "episodes": null,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Fantasy",
+      "Romance",
+      "Slice of Life"
+    ],
+    "updated_at": 1784246831
+  },
+  {
+    "id": 196222,
+    "id_mal": 62081,
+    "url": "https://anilist.co/anime/196222",
+    "title": {
+      "english": "",
+      "romaji": "Ore wa Subete wo [Parry] Suru: Gyaku Kanchigai no Sekai Saikyou wa Boukensha ni Naritai 2nd Season",
+      "native": "俺は全てを【パリイ】する 〜逆勘違いの世界最強は冒険者になりたい〜 第2期"
+    },
+    "description": "The second season of <i>Ore wa Subete wo [Parry] Suru: Gyaku Kanchigai no Sekai Saikyou wa Boukensha ni Naritai</i>.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx196222-h2AvrJtlQPev.jpg",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "",
+    "episodes": null,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "updated_at": 1784246831
+  },
+  {
+    "id": 195703,
+    "id_mal": 62002,
+    "url": "https://anilist.co/anime/195703",
+    "title": {
+      "english": "",
+      "romaji": "99-kai Danzai sareta Loop Reijou desu ga Konse wa \"Chouzetsu Aisare Mode\" desu tte!? Shin no Chikara ni Mezamete Hajimaru 100-kaime no Jinsei",
+      "native": "99回断罪されたループ令嬢ですが今世は「超絶愛されモード」ですって!? 〜真の力に目覚めて始まる100回目の人生〜"
+    },
+    "description": "Alphina is falsely accused of plotting to assassinate Saint Debonaire. Time rewinds every time she’s executed for a crime she didn’t commit, but with the cruel Saint Debonaire against her, the same fate awaits Alphina ninety-nine times in a row: death by decapitation. But something different happens the hundredth time around. Just as Alphina is preparing herself for yet another execution, she discovers that she can hear people’s true feelings—and that everyone secretly loves her! Can Alphina take advantage of her newfound ability and sidestep her fate at the guillotine?\n<BR><BR>\n(Source: J-Novel Club)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx195703-z3Nv61TPOLQU.jpg",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "",
+    "episodes": null,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Fantasy",
+      "Romance"
+    ],
+    "updated_at": 1784246829
+  },
+  {
+    "id": 195604,
+    "id_mal": 61967,
+    "url": "https://anilist.co/anime/195604",
+    "title": {
+      "english": "Black Clover Season 2",
+      "romaji": "Black Clover 2nd Season",
+      "native": "ブラッククローバー 第2期"
+    },
+    "description": "The second season of <i>Black Clover</i>.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx195604-BjvWdT5jOcM6.jpg",
+    "banner_url": "",
+    "schedule": "Musim: FALL 2026",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "FALL",
+    "year": 2026,
+    "format": "TV",
+    "episodes": null,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Fantasy"
+    ],
+    "updated_at": 1784246829
   },
   {
     "id": 195516,
@@ -2621,6 +4372,327 @@
       "Mystery"
     ],
     "updated_at": 1783951258
+  },
+  {
+    "id": 195496,
+    "id_mal": 61973,
+    "url": "https://anilist.co/anime/195496",
+    "title": {
+      "english": "",
+      "romaji": "GATE 2: Jieitai Kano Umi nite, Kaku Tatakaeri",
+      "native": "GATE ２ ―自衛隊 彼の海にて、斯く戦えり―"
+    },
+    "description": "Thanks to the efforts of Lieutenant Yoji Itami (now Lieutenant First Class) of the Japan Ground Self-Defense Force, the once-closed \"GATE\" has safely reopened. The Japanese government, determined to maintain exclusive control over the \"GATE\", continues mobilizing the Self-Defense Forces for political and topographical surveys to build a peaceful relationship with the inhabitants of the Special Region. Captain First Class Edajima Goro of the Japan Maritime Self-Defense Force (JMSDF) and his subordinate, Petty Officer Second Class Tokushima Hajime, a skilled former chef, were conducting such diplomatic and investigative missions, traveling across the various nations of the Special Region.<br><br>\n\nHowever, one day, their assignment suddenly escalates when they're tasked with a special mission to rescue an American journalist kidnapped on an island in the Special Region's Blue Sea.<br><br>\n\nImmediately boarding the JMSDF Oyashio-class submarine Kitashio, they set sail into the ocean of another world, discovering the area around the Blue Sea engulfed in turmoil, with archipelago nations and pirates battling fiercely for dominance.<br><br>\n\n(Source: GATE 2: Tides of Conflict Site)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx195496-HX1gSeijZp8I.jpg",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "TV",
+    "episodes": null,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Fantasy"
+    ],
+    "updated_at": 1784246829
+  },
+  {
+    "id": 195486,
+    "id_mal": 62194,
+    "url": "https://anilist.co/anime/195486",
+    "title": {
+      "english": "",
+      "romaji": "Itou Junji: Crimson",
+      "native": "伊藤潤二「クリムゾン」"
+    },
+    "description": "Crimson refers to the color crimson or bright red, and the concept of this volume is \"monsters.\" This is a collection of horror stories that carefully selects masterpieces filled with unique madness, allowing you to immerse yourself in the eerie, bizarre, and yet original world of Junji Ito.<br><br>\n(Source: Official Website, translated)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b195486-1jIQcKcsxT7R.png",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "TV",
+    "episodes": null,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Drama",
+      "Horror",
+      "Mystery",
+      "Psychological",
+      "Supernatural"
+    ],
+    "updated_at": 1784246829
+  },
+  {
+    "id": 195436,
+    "id_mal": 61966,
+    "url": "https://anilist.co/anime/195436",
+    "title": {
+      "english": "",
+      "romaji": "Seibetsu \"Mona Lisa\" no Kimi e.",
+      "native": "性別「モナリザ」の君へ。"
+    },
+    "description": "<b>Hinase falls into an identity crisis when their coming of age clashes with societal expectations in this unique teen drama!</b>\n<br><br>\nIn this world, people are born without a gender. Their bodies shift toward their desired gender when they reach twelve years old. Until Hinase's eighteenth spring, they lived content without a gender. But the bubbly girl Ritsu and thoughtful boy Shiori pull Hinase in opposite directions when they both confess their feelings on the same day! Romance was never on Hinase's mind, so how can they respond? Hinase may be forced to choose a new identity as they arrive at the cusp of adulthood. Who will they choose, and who will they become?\n<br><br>\n(Source: Square Enix)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx195436-aHpmVG20W5Fa.jpg",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "TV",
+    "episodes": null,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Drama",
+      "Romance",
+      "Slice of Life"
+    ],
+    "updated_at": 1784246829
+  },
+  {
+    "id": 195350,
+    "id_mal": 61944,
+    "url": "https://anilist.co/anime/195350",
+    "title": {
+      "english": "",
+      "romaji": "Eleceed",
+      "native": "エレキシード"
+    },
+    "description": "Ji-U is a kind-hearted young man who harnesses the lightning quick reflexes of a cat to secretly make the world a better place – one saved little child or foster pet at a time. Kayden is a secret agent on the run, who finds himself stuck in the body of a…um…decidedly fat old fluffy cat. Together, armed with Ji-U’s super powers and Kayden’s uber-smarts, they’re out to fight those forces who would let evil rule this world. That is, if they can stand each other long enough to get the job done.\n<br><br>(Source: WEBTOON, edited)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx195350-pceoSf9RvMkl.jpg",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "TV",
+    "episodes": null,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Supernatural"
+    ],
+    "updated_at": 1784246829
+  },
+  {
+    "id": 195210,
+    "id_mal": 61925,
+    "url": "https://anilist.co/anime/195210",
+    "title": {
+      "english": "",
+      "romaji": "A-Rank Party wo Ridatsu Shita Ore wa, Moto Oshiegotachi to Meikyuu Shinbu wo Mezasu. 2nd Season",
+      "native": "Aランクパーティを離脱した俺は、元教え子たちと迷宮深部を目指す。第2期"
+    },
+    "description": "The second season of <i> A-Rank Party wo Ridatsu Shita Ore wa, Moto Oshiegotachi to Meikyuu Shinbu wo Mezasu</i>.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx195210-SpcbO6GplQxD.jpg",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "TV",
+    "episodes": null,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Fantasy"
+    ],
+    "updated_at": 1784246829
+  },
+  {
+    "id": 195201,
+    "id_mal": 62547,
+    "url": "https://anilist.co/anime/195201",
+    "title": {
+      "english": "",
+      "romaji": "Kimetsu no Yaiba: Mugenjou-hen Movie 3",
+      "native": "劇場版「鬼滅の刃」無限城編 第終章"
+    },
+    "description": "Part 3 of the theatrical trilogy adaptation of the Infinity Castle Arc.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/default.jpg",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Supernatural"
+    ],
+    "updated_at": 1784246829
+  },
+  {
+    "id": 195200,
+    "id_mal": 62546,
+    "url": "https://anilist.co/anime/195200",
+    "title": {
+      "english": "Demon Slayer: Kimetsu no Yaiba Infinity Castle Part 2",
+      "romaji": "Kimetsu no Yaiba: Mugenjou-hen Movie 2",
+      "native": "劇場版「鬼滅の刃」無限城編 第二章"
+    },
+    "description": "Part 2 of the theatrical trilogy adaptation of the Infinity Castle Arc.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx195200-wJaLJ4mDDKGc.png",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Supernatural"
+    ],
+    "updated_at": 1784246829
+  },
+  {
+    "id": 194724,
+    "id_mal": 61872,
+    "url": "https://anilist.co/anime/194724",
+    "title": {
+      "english": "",
+      "romaji": "Nyuugaku Youhei",
+      "native": "入学傭兵"
+    },
+    "description": "At the age of eight, Ijin Yu lost his parents in a plane crash and became stranded in a foreign land, forced to become a child mercenary in order to stay alive. He returns home ten years later to be reunited with his family in Korea, where food and shelter are plenty and everything seems peaceful. But Ijin will soon learn that life as a teenager is a whole other feat of survival. With only one year of high school left, Ijin must master new tactics to maneuver his way around the schoolhouse battleground. Can he survive a year of high school? Or rather, will the school be able to survive him? <br>\n<br>\n(Source: WEBTOONS)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx194724-1zE6lQHQrF6N.jpg",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "",
+    "episodes": null,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Action",
+      "Drama"
+    ],
+    "updated_at": 1784246829
+  },
+  {
+    "id": 193699,
+    "id_mal": 61758,
+    "url": "https://anilist.co/anime/193699",
+    "title": {
+      "english": "",
+      "romaji": "Akuyaku Reijou no Naka no Hito",
+      "native": "悪役令嬢の中の人"
+    },
+    "description": "A girl who had reincarnated as Remilia, the villainess of an otome game tries to clear her name. However, the real Remilia who had been watching all along inside awakens.\n<br><br>\nNow it's time for the true villainess' revenge to begin!\n<br><br>\n(Source: Ichijinsha, translated)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx193699-BrNIip2KM28S.jpg",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "TV",
+    "episodes": null,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Drama",
+      "Fantasy"
+    ],
+    "updated_at": 1784246827
+  },
+  {
+    "id": 193676,
+    "id_mal": 61754,
+    "url": "https://anilist.co/anime/193676",
+    "title": {
+      "english": "",
+      "romaji": "S-Rank Party Kara Kaikosareta [Jugushi]",
+      "native": "Sランクパーティから解雇された【呪具師】"
+    },
+    "description": "Gail Hamilton is a \"curse crafter\" who got booted from his party for allegedly not pulling his weight...right after they were promoted to the Guild's \"S\" rank. Unfortunately, the party didn't realize that Gail's cursed goods pack the power of holy relics and legendary gear! But too bad for them, because Gail's going it alone now...and causing a sensation with the creepy-yet-useful curses he works with!\n<br><br>\n(Source: Kodansha)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx193676-9lSx9imIqDPZ.png",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "TV",
+    "episodes": null,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Adventure",
+      "Fantasy"
+    ],
+    "updated_at": 1784246827
+  },
+  {
+    "id": 193296,
+    "id_mal": 61461,
+    "url": "https://anilist.co/anime/193296",
+    "title": {
+      "english": "",
+      "romaji": "Tenkaichi: Nihon Saikyou Bugeisha Ketteisen",
+      "native": "テンカイチ　日本最強武芸者決定戦"
+    },
+    "description": "This is not history as we know it. The year is 1600. Ten years have passed since Oda Nobunaga unified the whole of Japan. When Nobunaga realizes he is nearing the end of his life, he announces that he will hand over the reins of power to whoever brings him the strongest warrior. The generals, whose dreams of conquering the country had been crushed, put up their own strongest warriors and aim to become the king of the country!\n<br><br>\n(Source: Kodansha USA)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx193296-MNiEPtAn7xNi.jpg",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "TV",
+    "episodes": null,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Action",
+      "Fantasy"
+    ],
+    "updated_at": 1784246827
   },
   {
     "id": 191832,
@@ -2677,7 +4749,7 @@
     "genres": [
       "Sports"
     ],
-    "updated_at": 1784242996
+    "updated_at": 1784246827
   },
   {
     "id": 191656,
@@ -2736,16 +4808,49 @@
     "updated_at": 1784242996
   },
   {
+    "id": 190244,
+    "id_mal": 63934,
+    "url": "https://anilist.co/anime/190244",
+    "title": {
+      "english": "",
+      "romaji": "Date A Live F Last Date",
+      "native": "デート・ア・ライブF Last Date"
+    },
+    "description": "Sequel to <i>Date A Live V</i>.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx190244-pxpZRICro9Sv.jpg",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "",
+    "episodes": null,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Ecchi",
+      "Fantasy",
+      "Mecha",
+      "Romance",
+      "Sci-Fi"
+    ],
+    "updated_at": 1784246827
+  },
+  {
     "id": 189796,
     "id_mal": 61398,
     "url": "https://anilist.co/anime/189796",
     "title": {
       "english": "",
       "romaji": "Make Heroine ga Oosugiru! 2nd Season",
-      "native": "負けヒロインが多すぎる！2期"
+      "native": "負けヒロインが多すぎる！第2期"
     },
     "description": "The second season of <i>Make Heroine ga Oosugiru!</i>",
-    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx189796-cVlT7CY7n8pd.jpg",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx189796-SGKMQjRDac1y.jpg",
     "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/189796-J7kjz2TwEHb6.jpg",
     "schedule": "Jadwal belum diketahui",
     "next_episode": null,
@@ -2761,7 +4866,67 @@
       "Comedy",
       "Romance"
     ],
-    "updated_at": 1783948413
+    "updated_at": 1784246825
+  },
+  {
+    "id": 189323,
+    "id_mal": 61338,
+    "url": "https://anilist.co/anime/189323",
+    "title": {
+      "english": "",
+      "romaji": "Shangri-La Frontier 3rd Season",
+      "native": "シャングリラ・フロンティア 3rd season"
+    },
+    "description": "The third season of <i>Shangri-La Frontier</i>.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx189323-U11lWB3KOS5I.jpg",
+    "banner_url": "",
+    "schedule": "Musim: WINTER 2027",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "WINTER",
+    "year": 2027,
+    "format": "TV",
+    "episodes": null,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Fantasy",
+      "Sci-Fi"
+    ],
+    "updated_at": 1784246825
+  },
+  {
+    "id": 189123,
+    "id_mal": 61323,
+    "url": "https://anilist.co/anime/189123",
+    "title": {
+      "english": "Blue Box Season 2",
+      "romaji": "Ao no Hako Season 2",
+      "native": "アオのハコ Season２"
+    },
+    "description": "The second season of <i>Ao no Hako</i>.\n",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx189123-0secXELIhkIW.jpg",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/189123-s2oirY2r1Svy.jpg",
+    "schedule": "Episode 1 tayang pada 4/10/2026, 14.30.00 WIB",
+    "next_episode": 1,
+    "next_airing_timestamp": 1791099000,
+    "season": "FALL",
+    "year": 2026,
+    "format": "TV",
+    "episodes": null,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Romance",
+      "Slice of Life",
+      "Sports"
+    ],
+    "updated_at": 1784246825
   },
   {
     "id": 188892,
@@ -2792,6 +4957,34 @@
     "updated_at": 1783948381
   },
   {
+    "id": 188889,
+    "id_mal": 61301,
+    "url": "https://anilist.co/anime/188889",
+    "title": {
+      "english": "",
+      "romaji": "Ma no Monotachi wa Kuwadateru",
+      "native": "魔のものたちは企てる"
+    },
+    "description": "While things like slime that melts clothes or tentacle traps may not seem like much to humans, behind each trap of this nature is the blood, sweat, and tears of a demon. Enjoy this comedy story about the struggles of demons that started on Twitter with brand-new short stories.\n<br><br>\n(Source: Yen Press)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx188889-uvUhltk5pcuX.jpg",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "TV",
+    "episodes": null,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Comedy",
+      "Fantasy"
+    ],
+    "updated_at": 1784246824
+  },
+  {
     "id": 188546,
     "id_mal": 61282,
     "url": "https://anilist.co/anime/188546",
@@ -2818,6 +5011,37 @@
       "Slice of Life"
     ],
     "updated_at": 1784242996
+  },
+  {
+    "id": 187924,
+    "id_mal": 61203,
+    "url": "https://anilist.co/anime/187924",
+    "title": {
+      "english": "",
+      "romaji": "Kono Subarashii Sekai ni Shukufuku wo! 4",
+      "native": "この素晴らしい世界に祝福を！4"
+    },
+    "description": "The fourth season of <i>Kono Subarashii Sekai ni Shukufuku wo! </i><br><br>\n",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx187924-ovLUgf1JgngC.jpg",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "TV",
+    "episodes": null,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Ecchi",
+      "Fantasy"
+    ],
+    "updated_at": 1784246821
   },
   {
     "id": 187477,
@@ -2850,6 +5074,86 @@
     "updated_at": 1784242996
   },
   {
+    "id": 187361,
+    "id_mal": 58849,
+    "url": "https://anilist.co/anime/187361",
+    "title": {
+      "english": "",
+      "romaji": "Garena Free Fire",
+      "native": "Garena Free Fire"
+    },
+    "description": "Tidak ada deskripsi.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx187361-p6nVekPJwl2b.png",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "",
+    "episodes": null,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Action"
+    ],
+    "updated_at": 1784246821
+  },
+  {
+    "id": 186822,
+    "id_mal": 61035,
+    "url": "https://anilist.co/anime/186822",
+    "title": {
+      "english": "The Guy She Was Interested In Wasn't a Guy At All",
+      "romaji": "Ki ni Natteru Hito ga Otoko ja Nakatta",
+      "native": "気になってる人が男じゃなかった"
+    },
+    "description": "Fashionable and upbeat high schooler Aya falls head over heels for an employee at a local CD shop. He's got an air of mystery about him, great style, and an impeccable music taste. Little does she know—this supposedly male employee is actually her female classmate Mitsuki! Mitsuki generally keeps to herself, but since her seat is right next to Aya's, she can't help but be extremely aware of the other's crush. Revealing the truth is out of the question for Mitsuki—but perhaps getting closer to Aya wouldn't be so bad...<br>\n<br>\n(Source: Yen Press)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186822-9zsR5NtOP0yJ.jpg",
+    "banner_url": "",
+    "schedule": "Musim: WINTER 2027",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "WINTER",
+    "year": 2027,
+    "format": "TV",
+    "episodes": null,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Music",
+      "Romance"
+    ],
+    "updated_at": 1784246818
+  },
+  {
+    "id": 186743,
+    "id_mal": 61012,
+    "url": "https://anilist.co/anime/186743",
+    "title": {
+      "english": "",
+      "romaji": "Toaru Kagaku no Railgun 4th Season",
+      "native": "とある科学の超電磁砲 第4期"
+    },
+    "description": "The fourth season of <i>Toaru Kagaku no Railgun.</i>",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b186743-9PkeVPQRs2b4.jpg",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "TV",
+    "episodes": null,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [],
+    "updated_at": 1784246818
+  },
+  {
     "id": 186712,
     "id_mal": 61006,
     "url": "https://anilist.co/anime/186712",
@@ -2876,7 +5180,64 @@
       "Music",
       "Slice of Life"
     ],
-    "updated_at": 1783948146
+    "updated_at": 1784246818
+  },
+  {
+    "id": 186057,
+    "id_mal": 60739,
+    "url": "https://anilist.co/anime/186057",
+    "title": {
+      "english": "",
+      "romaji": "Otome Game no Heroine de Saikyou Survival",
+      "native": "乙女ゲームのヒロインで最強サバイバル"
+    },
+    "description": "Orphaned by a monster attack on her village, young Alicia spends three horrid years in an orphanage before finally running away. When she flees, however, Alicia has a violent encounter with an older woman hell-bent on killing her. During their tussle, she comes into contact with a strange crystal that bestows upon her a wealth of knowledge, transforming her from an innocent child into a cool and calculated planner. Now aware that she was meant to be the protagonist of an otome game and disgusted with her supposed fate, Alicia decides to take matters into her own hands and become strong—by any means necessary. Using her newfound knowledge, and with some help from a stranger she meets in the woods, she learns to survive by herself in a world far too harsh and unforgiving for a girl her age. Ready or not, she’s determined to carve her own path.<br>\n<br>\n(Source: J-Novel Club)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b186057-Na3EH67wp8ps.jpg",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "",
+    "episodes": null,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "updated_at": 1784246815
+  },
+  {
+    "id": 186007,
+    "id_mal": 60714,
+    "url": "https://anilist.co/anime/186007",
+    "title": {
+      "english": "Ghost of Tsushima: Legends",
+      "romaji": "Ghost of Tsushima: Legends",
+      "native": ""
+    },
+    "description": "Ghost of Tsushima Legends follows one of the last remaining samurai as he defends his homeland of Tsushima against the Mongol Empire.<br><br>\n(Source: Crunchyroll)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186007-AJr1cDt7FxWB.png",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "",
+    "episodes": null,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "updated_at": 1784246815
   },
   {
     "id": 185995,
@@ -2907,6 +5268,35 @@
     "updated_at": 1783945883
   },
   {
+    "id": 185874,
+    "id_mal": 60636,
+    "url": "https://anilist.co/anime/185874",
+    "title": {
+      "english": "BLEACH: Thousand-Year Blood War - The Calamity",
+      "romaji": "BLEACH: Sennen Kessen-hen - Kashin-tan",
+      "native": "BLEACH 千年血戦篇-禍進譚-"
+    },
+    "description": "The fourth and final part of <i>BLEACH: Sennen Kessen-hen</i>. <br><br>\n\nDestruction looms at the end of the Thousand-Year Blood War between the Soul Reapers and Quincies… as the death of the Soul King mirrors the collapse of the Three Worlds, distortions and omens of destruction start to appear in all realms. \n<br><br>\nFierce battles erupt throughout the Wahr Welt between the Thirteen Court Guard Squads and the Royal Guard. Ichigo learns about Uryuu's true intentions and renews his determination to protect the world together, as friends who trust each other. Yhwach has surpassed even his own ability, The Almighty...\n<br><br>\nThe fierce battle for the survival of the Three Worlds approaches its end. Beyond the chaos of calamity, what lies in wait—despair or hope?<br><br>\n\n(Source: VIZ Media, edited)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185874-aU3e6tBT6wwA.jpg",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/185874-IdGyh1EBG91I.jpg",
+    "schedule": "Episode 1 tayang pada 25/7/2026, 21.00.00 WIB",
+    "next_episode": 1,
+    "next_airing_timestamp": 1784988000,
+    "season": "SUMMER",
+    "year": 2026,
+    "format": "TV",
+    "episodes": 13,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Supernatural"
+    ],
+    "updated_at": 1784246815
+  },
+  {
     "id": 185756,
     "id_mal": 60601,
     "url": "https://anilist.co/anime/185756",
@@ -2932,7 +5322,32 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1783945883
+    "updated_at": 1784246814
+  },
+  {
+    "id": 185697,
+    "id_mal": 60549,
+    "url": "https://anilist.co/anime/185697",
+    "title": {
+      "english": "",
+      "romaji": "ARCANADEA",
+      "native": "アルカナディア"
+    },
+    "description": "Tidak ada deskripsi.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185697-hAEKGqiaUF2N.jpg",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/185697-wvEOagVz38ck.jpg",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "TV",
+    "episodes": null,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [],
+    "updated_at": 1784246812
   },
   {
     "id": 185657,
@@ -2961,7 +5376,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1783962141
+    "updated_at": 1784246812
   },
   {
     "id": 185543,
@@ -3020,7 +5435,66 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1783948359
+    "updated_at": 1784246812
+  },
+  {
+    "id": 184376,
+    "id_mal": null,
+    "url": "https://anilist.co/anime/184376",
+    "title": {
+      "english": "",
+      "romaji": "Death March Kara Hajimaru Isekai Kyousoukyoku (Zoku-hen)",
+      "native": "デスマーチからはじまる異世界狂想曲 (続編制)"
+    },
+    "description": "A sequel to <i>Death March Kara Hajimaru Isekai Kyousoukyoku</i>.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx184376-kbLx8djmty4t.jpg",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "TV",
+    "episodes": null,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Fantasy"
+    ],
+    "updated_at": 1784246809
+  },
+  {
+    "id": 184321,
+    "id_mal": 60301,
+    "url": "https://anilist.co/anime/184321",
+    "title": {
+      "english": "",
+      "romaji": "Amayo no Tsuki",
+      "native": "雨夜の月"
+    },
+    "description": "One day, while rushing to a piano lesson, a girl named Saki collides with someone on the street. As Saki collects herself, the stranger picks up the sheet music Saki dropped, hands it to Saki together with a band-aid, and continues on her way—all without saying a word. Saki is left wondering about the identity of the tall, lovely stranger, only to discover the next day that she is one of her classmates at her new high school. The girl’s name is Kanon, and though she is hearing impaired, she refuses any kind of support or “special treatment” from her teachers or classmates. Over the course of the year, Saki slowly grows closer to Kanon and begins to chip away at her cold exterior.\n<br><br>\n(Source: Kodansha USA)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx184321-WERMIJAUlhf0.jpg",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "TV",
+    "episodes": null,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Drama",
+      "Romance",
+      "Slice of Life"
+    ],
+    "updated_at": 1784246809
   },
   {
     "id": 184141,
@@ -3048,7 +5522,64 @@
       "Comedy",
       "Sports"
     ],
-    "updated_at": 1783948413
+    "updated_at": 1784246809
+  },
+  {
+    "id": 184072,
+    "id_mal": 60267,
+    "url": "https://anilist.co/anime/184072",
+    "title": {
+      "english": "",
+      "romaji": "Yuru Camp△ SEASON 4",
+      "native": "ゆるキャン△ SEASON４"
+    },
+    "description": "The fourth season of <i>Yuru Camp△</i>.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx184072-oF3L8oVi7VM9.jpg",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "TV",
+    "episodes": null,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Comedy",
+      "Slice of Life"
+    ],
+    "updated_at": 1784246809
+  },
+  {
+    "id": 183960,
+    "id_mal": 60253,
+    "url": "https://anilist.co/anime/183960",
+    "title": {
+      "english": "Otherworldly Munchkin: Let's Speedrun the Dungeon with Only 1 HP!",
+      "romaji": "Isekai Munchkin: HP 1 no Mama de Saikyou Saisoku Dungeon Kouryaku",
+      "native": "異世界マンチキン ―HP1のままで最強最速ダンジョン攻略―"
+    },
+    "description": "16-year-old Yukito Kirihara lives with his 14-year-old sister Sana, who he treasures more than anyone else. But when an ogre shows up outside of his window looking for Sana (a shocking event in its own right), Yukito leaps to save her—and is killed. He's offered the promise of reincarnation by a mysterious woman, who gives him a character sheet in a mysterious book. But when Yukito sees Sana in there, too, he sets off to find her, and save them both—even if he only has 1 hp with which to do it!<br>\n<br>\n(Source: Kodansha USA)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx183960-qvkHfCrO6cAq.jpg",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "TV",
+    "episodes": null,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "updated_at": 1784246809
   },
   {
     "id": 183272,
@@ -3077,7 +5608,7 @@
       "Drama",
       "Fantasy"
     ],
-    "updated_at": 1783948356
+    "updated_at": 1784246808
   },
   {
     "id": 182616,
@@ -3105,7 +5636,124 @@
       "Action",
       "Adventure"
     ],
-    "updated_at": 1783948360
+    "updated_at": 1784246808
+  },
+  {
+    "id": 182544,
+    "id_mal": 60046,
+    "url": "https://anilist.co/anime/182544",
+    "title": {
+      "english": "",
+      "romaji": "Mahou Shoujo ni Akogarete 2nd Season",
+      "native": "魔法少女にあこがれて 第2期"
+    },
+    "description": "The second season of <i>Mahou Shoujo ni Akogarete</i>.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx182544-fbx8pqKrYSaL.jpg",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "TV",
+    "episodes": null,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Comedy",
+      "Ecchi",
+      "Mahou Shoujo",
+      "Slice of Life"
+    ],
+    "updated_at": 1784246807
+  },
+  {
+    "id": 181951,
+    "id_mal": 59928,
+    "url": "https://anilist.co/anime/181951",
+    "title": {
+      "english": "",
+      "romaji": "Ookami to Koushinryou: MERCHANT MEETS THE WISE WOLF 2nd Season",
+      "native": "狼と香辛料 MERCHANT MEETS THE WISE WOLF 2期"
+    },
+    "description": "The second season of <i>Ookami to Koushinryou: MERCHANT MEETS THE WISE WOLF</i>.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx181951-HHk6K0MtuLun.jpg",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "TV",
+    "episodes": null,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Adventure",
+      "Fantasy",
+      "Romance"
+    ],
+    "updated_at": 1784246806
+  },
+  {
+    "id": 181641,
+    "id_mal": 59873,
+    "url": "https://anilist.co/anime/181641",
+    "title": {
+      "english": "",
+      "romaji": "Tokidoki Bosotto Rossiya-go de Dereru Tonari no Alya-san Season 2",
+      "native": "時々ボソッとロシア語でデレる隣のアーリャさん Season 2"
+    },
+    "description": "The second season of <i> Tokidoki Bosotto Russiago de Dereru Tonari no Alya-san</i>.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx181641-XPV9xFwWjvu9.jpg",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "TV",
+    "episodes": null,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Comedy",
+      "Romance",
+      "Slice of Life"
+    ],
+    "updated_at": 1784246806
+  },
+  {
+    "id": 180894,
+    "id_mal": 59787,
+    "url": "https://anilist.co/anime/180894",
+    "title": {
+      "english": "",
+      "romaji": "Romeria Senki: Maou wo Taoshita nochi mo Jinrui Yabasou dakara Guntai Soshiki Shita",
+      "native": "ロメリア戦記 〜魔王を倒した後も人類やばそうだから軍隊組織した〜"
+    },
+    "description": "After journeying alongside her fiancé on his quest to defeat the Demon King, Romelia is suddenly deemed useless and sent home, her engagement annulled. While the prince and his group return as celebrated heroes, Rome goes home as a disgrace. But she’s not the same girl who left her province. While following the adventurers, Rome was the only one without magic or strength but she found her own abilities in trade, negotiation, finances, and gathering information. And now, she plans to use these skills to not only help her family’s province, but help the still struggling kingdom. The Demon King may be defeated, but his allies and demons continue to roam.<br><br>\n\nWith only her wits and brilliance, Rome will build an army of her own and keep the kingdom safe—no matter what it takes.<br><br>\n\n(Source: Official Press Release)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx180894-FC9CSjwZPFMO.png",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "TV",
+    "episodes": null,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Fantasy"
+    ],
+    "updated_at": 1784246805
   },
   {
     "id": 179981,
@@ -3136,6 +5784,62 @@
     "updated_at": 1783948413
   },
   {
+    "id": 179876,
+    "id_mal": 59415,
+    "url": "https://anilist.co/anime/179876",
+    "title": {
+      "english": "",
+      "romaji": "DARK MACHINE: The Animation",
+      "native": "DARK MACHINE -The Animation-"
+    },
+    "description": "Part of the \"DARK MACHINE\" Web3 cross-media project where the story of the Game and its anime adaptation intertwine.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx179876-b1Vw2jKoJHQ6.jpg",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "",
+    "episodes": 11,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Mecha",
+      "Sci-Fi"
+    ],
+    "updated_at": 1784246801
+  },
+  {
+    "id": 179088,
+    "id_mal": 59235,
+    "url": "https://anilist.co/anime/179088",
+    "title": {
+      "english": "",
+      "romaji": "Minami-ke: Korekara",
+      "native": "みなみけ これから"
+    },
+    "description": "A sequel to the fourth season of <i>Minami-ke</i> revealed during the <i>Mixa Animation Diary \"Minami-ke\" 20th Anniversary Tanabata Festival<i> event.<br><br>\n<i>Note: Relations are provisional and subject to change.</i>",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx179088-wMkLaSuC3YnF.jpg",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "TV",
+    "episodes": null,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Comedy",
+      "Slice of Life"
+    ],
+    "updated_at": 1784246798
+  },
+  {
     "id": 179068,
     "id_mal": 59230,
     "url": "https://anilist.co/anime/179068",
@@ -3162,7 +5866,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1783945901
+    "updated_at": 1784246798
   },
   {
     "id": 178467,
@@ -3192,7 +5896,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1783948318
+    "updated_at": 1784246796
   },
   {
     "id": 178031,
@@ -3221,7 +5925,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784242996
+    "updated_at": 1784246795
   },
   {
     "id": 177704,
@@ -3281,6 +5985,35 @@
     "updated_at": 1783962141
   },
   {
+    "id": 176314,
+    "id_mal": 58518,
+    "url": "https://anilist.co/anime/176314",
+    "title": {
+      "english": "Sasaki and Peeps Season 2",
+      "romaji": "Sasaki to Pii-chan Season 2",
+      "native": "佐々木とピーちゃん シーズン２"
+    },
+    "description": "The second season of <i>Sasaki to Pii-chan</i>.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176314-dvPRzlyafTTZ.jpg",
+    "banner_url": "",
+    "schedule": "Musim: FALL 2026",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "FALL",
+    "year": 2026,
+    "format": "TV",
+    "episodes": null,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Comedy",
+      "Fantasy",
+      "Mahou Shoujo"
+    ],
+    "updated_at": 1784246788
+  },
+  {
     "id": 174871,
     "id_mal": 58967,
     "url": "https://anilist.co/anime/174871",
@@ -3334,7 +6067,93 @@
     "genres": [
       "Adventure"
     ],
-    "updated_at": 1783951255
+    "updated_at": 1784246780
+  },
+  {
+    "id": 171513,
+    "id_mal": 57528,
+    "url": "https://anilist.co/anime/171513",
+    "title": {
+      "english": "",
+      "romaji": "Risou no Himo Seikatsu",
+      "native": "理想のヒモ生活"
+    },
+    "description": "Yamai Zenjirou is your everyday office worker in modern Japan. One morning, he suddenly finds himself summoned to a tropical world where dinosaurs roam the land. He is told that this is the kingdom of Capua and the person who summoned him - its monarch, Queen Aura - wants him to marry her and leave his old life behind for a life of carefree extravagance as her prince consort. The reasons for her offer are many and varied, but she needs an heir, and she wants him to be the one to provide it! If he accepts, he'll never have to work again, lazing around in luxury with no worries other than securing the kingdom its next monarch. Certainly, sleeping with the buxom beauty is far from a hardship, but is everything really as it seems? He'll also need to give up everything he knows on Earth. Is he ready to drop it all at a moment's notice for her sake? And how well will he be able to navigate the politics, people and culture of this new world if he does?\n<br><br>\n(Source: J-Novel Club)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171513-00SdLKlDlehz.jpg",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "TV",
+    "episodes": null,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Drama",
+      "Fantasy",
+      "Romance"
+    ],
+    "updated_at": 1784246780
+  },
+  {
+    "id": 170822,
+    "id_mal": 57005,
+    "url": "https://anilist.co/anime/170822",
+    "title": {
+      "english": "",
+      "romaji": "Mukuwarenakatta Murabito A, Kizoku ni Hirowarete Dekiai sareru Ue ni, Jitsu wa Motteita Densetsu-kyuu no Kami Skill mo Kakusei shita",
+      "native": "報われなかった村人A、貴族に拾われて溺愛される上に、実は持っていた伝説級の神スキルも覚醒した"
+    },
+    "description": "Matteo, who was supposed to be just a common villager, is reborn as the grandson of an imperial aristocrat, Lawrence. He spends his days being doted on by his powerful grandfather. With his immense magical powers, Matteo rapidly hatches a dragon egg and tames the dragon, naming it Eva. When his magical abilities are measured, it's revealed that he possesses the strongest magic power ever recorded!<br><br>\n\nHe quickly learns how to use magic, reviving ancient spells and effortlessly drawing the most powerful sword that absorbs magic, making it the strongest. Matteo is also favored by the emperor he meets, but the emperor holds a secret—?<br><br>\n\nClever, illustrious, strong, as expected! The life of the most beloved noble, where everything is affirmed, boldly begins!<br><br>\n\n(Source: MAL News)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170822-IHYsSYqMqjZq.png",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "TV",
+    "episodes": null,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Fantasy"
+    ],
+    "updated_at": 1784246779
+  },
+  {
+    "id": 170816,
+    "id_mal": 57071,
+    "url": "https://anilist.co/anime/170816",
+    "title": {
+      "english": "",
+      "romaji": "Ginga Eiyuu Densetsu: Die Neue These (Zoku-hen)",
+      "native": "銀河英雄伝説 Die Neue These (続編)"
+    },
+    "description": "Sequel to <i>Ginga Eiyuu Densetsu: Die Neue These - Sakubou</i>.\n<br><br>\n<i>Note: Title is provisional and subject to change based on new information.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170816-YDgi6rrC8Jel.jpg",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "",
+    "episodes": null,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Action",
+      "Drama",
+      "Fantasy",
+      "Sci-Fi"
+    ],
+    "updated_at": 1784246779
   },
   {
     "id": 169581,
@@ -3396,7 +6215,7 @@
       "Mystery",
       "Romance"
     ],
-    "updated_at": 1783948190
+    "updated_at": 1784246776
   },
   {
     "id": 169102,
@@ -3428,6 +6247,35 @@
     "updated_at": 1783945894
   },
   {
+    "id": 167151,
+    "id_mal": 56008,
+    "url": "https://anilist.co/anime/167151",
+    "title": {
+      "english": "",
+      "romaji": "Sabikui Bisco 2nd Season",
+      "native": "錆喰いビスコ 第2期"
+    },
+    "description": "The second season of <i>Sabikui Bisco</i>, announced at the Dengeki Bunko 30th Summer Festival Online 2023 event.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx167151-TXfQ6XZrSS3d.jpg",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "TV",
+    "episodes": null,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "updated_at": 1784246772
+  },
+  {
     "id": 166686,
     "id_mal": 55843,
     "url": "https://anilist.co/anime/166686",
@@ -3453,7 +6301,7 @@
       "Action",
       "Sci-Fi"
     ],
-    "updated_at": 1784242996
+    "updated_at": 1784246770
   },
   {
     "id": 166457,
@@ -3484,6 +6332,91 @@
     "updated_at": 1784242996
   },
   {
+    "id": 165831,
+    "id_mal": 55571,
+    "url": "https://anilist.co/anime/165831",
+    "title": {
+      "english": "",
+      "romaji": "Macross (Shinsaku Animation)",
+      "native": "マクロス (新作アニメーション)"
+    },
+    "description": "Announced on the final day of the \"Walküre FINAL LIVE TOUR 2023 ~Last Mission~\" concert, a new animation project for the  <i>Macross</i> franchise.\n<br><br>\n<i>Note: Title and Relations are provisional and will be updated when more info is announced.</i>",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b165831-qAHVEXqUGfME.jpg",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "",
+    "episodes": null,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Action",
+      "Romance",
+      "Sci-Fi"
+    ],
+    "updated_at": 1784246768
+  },
+  {
+    "id": 165670,
+    "id_mal": 55566,
+    "url": "https://anilist.co/anime/165670",
+    "title": {
+      "english": "",
+      "romaji": "WASTED CHEF",
+      "native": "WASTED CHEF"
+    },
+    "description": "A young chef chasing a lost flavor lands in a ruined city without taste. Saved by Kasumi, his cooking awakens forgotten memories. But a dark force threatens to erase all desire — making his quest the last hope to save both worlds.<br><br>\n(Source: Variety)<br><br>\n\n<i>Note: Title is provisional and subject to change.</i>",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx165670-RvvAAmfSe8F9.png",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "MOVIE",
+    "episodes": null,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Sci-Fi"
+    ],
+    "updated_at": 1784246768
+  },
+  {
+    "id": 165523,
+    "id_mal": 54687,
+    "url": "https://anilist.co/anime/165523",
+    "title": {
+      "english": "",
+      "romaji": "BORUTO: NARUTO NEXT GENERATIONS Part 2",
+      "native": "BORUTO-ボルト- NARUTO NEXT GENERATIONS 第二部"
+    },
+    "description": "The second part of <i>BORUTO: NARUTO NEXT GENERATIONS</i>.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b165523-zpuZUkdTTRD3.jpg",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "TV",
+    "episodes": null,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "updated_at": 1784246768
+  },
+  {
     "id": 163790,
     "id_mal": null,
     "url": "https://anilist.co/anime/163790",
@@ -3511,7 +6444,89 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1783945915
+    "updated_at": 1784246766
+  },
+  {
+    "id": 163326,
+    "id_mal": 54916,
+    "url": "https://anilist.co/anime/163326",
+    "title": {
+      "english": "",
+      "romaji": "Cardcaptor Sakura: Clear Card-hen (Zoku-hen)",
+      "native": "カードキャプターさくら クリアカード編 (続編)"
+    },
+    "description": "Sequel to <i>Cardcaptor Sakura: Clear Card-hen</i>.<br><br>\n\n<i>Note: Announced at the \"Sakura Fes 2023\" event.</i>",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx163326-WlLIqflphZoj.jpg",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "",
+    "episodes": null,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Adventure",
+      "Fantasy",
+      "Mahou Shoujo",
+      "Slice of Life"
+    ],
+    "updated_at": 1784246766
+  },
+  {
+    "id": 163072,
+    "id_mal": 54833,
+    "url": "https://anilist.co/anime/163072",
+    "title": {
+      "english": "",
+      "romaji": "Special Kid Factory",
+      "native": "スペシャルキッド・ファクトリー"
+    },
+    "description": "I, well, I don’t know if I should be saying this myself, but I am ordinary.<br>\n<br>\nThis “special I\" who looks exactly like me came to my house. But he is not a fake version of me. Actually, I am the fake and he is the one that’s real. I am only his clone.<br>\n<br>\nI’m not me. I’m not me! Everything till now has been for another “special me”. Yet I have taken it all for granted as if they were mine and simply enjoyed my life.<br>\n<br>\n“I am special,” says the “Special I.”<br>\n“A detective. That’s what they would call me on Earth.”<br>\n“I still have a lot to learn about this so-called “family love,” but I’m sure I can figure it out. It should be easier than finding Earth.”<br>\n<br>\n(Source: Official Site)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx163072-yDWVU9mnoj4b.jpg",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/163072-HHGiEG1C1AZ3.jpg",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "",
+    "episodes": null,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Sci-Fi"
+    ],
+    "updated_at": 1784246765
+  },
+  {
+    "id": 161410,
+    "id_mal": 54440,
+    "url": "https://anilist.co/anime/161410",
+    "title": {
+      "english": "",
+      "romaji": "Lycoris Recoil (Shinsaku Animation)",
+      "native": "リコリス・リコイル 新作アニメーション"
+    },
+    "description": "<i>Lycoris Recoil</i> new anime project.<br><br>\n\n<i>Note: Title and Relations are provisional and will be updated when more info is announced.</i>",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx161410-KoPOBuyPm0yS.png",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "",
+    "episodes": null,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [],
+    "updated_at": 1784246763
   },
   {
     "id": 160803,
@@ -3542,6 +6557,156 @@
       "Thriller"
     ],
     "updated_at": 1783951252
+  },
+  {
+    "id": 160275,
+    "id_mal": 54250,
+    "url": "https://anilist.co/anime/160275",
+    "title": {
+      "english": "",
+      "romaji": "Made in Abyss: Mezameru Shinpi",
+      "native": "メイドインアビス 目覚める神秘"
+    },
+    "description": "Sequel to <i>Made in Abyss: Retsujitsu no Ougonkyou.</i><br><br>\n",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx160275-cBOWJpcCGeMq.jpg",
+    "banner_url": "",
+    "schedule": "Episode 1 tayang pada 22/10/2026, 22.00.00 WIB",
+    "next_episode": 1,
+    "next_airing_timestamp": 1792681200,
+    "season": "FALL",
+    "year": 2026,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Fantasy",
+      "Horror",
+      "Mystery",
+      "Sci-Fi"
+    ],
+    "updated_at": 1784246763
+  },
+  {
+    "id": 159042,
+    "id_mal": 53913,
+    "url": "https://anilist.co/anime/159042",
+    "title": {
+      "english": "",
+      "romaji": "Tensei Shitara Ken Deshita 2nd Season",
+      "native": "転生したら剣でした 第2期"
+    },
+    "description": "The second season of <i>Tensei Shitara Ken Deshita</i>.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx159042-jgPJHpMfrSv5.jpg",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/159042-X0mqyaUFBkms.jpg",
+    "schedule": "Musim: FALL 2026",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "FALL",
+    "year": 2026,
+    "format": "TV",
+    "episodes": null,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "updated_at": 1784246762
+  },
+  {
+    "id": 154765,
+    "id_mal": null,
+    "url": "https://anilist.co/anime/154765",
+    "title": {
+      "english": "",
+      "romaji": "Genshin",
+      "native": "原神"
+    },
+    "description": "A long-term collaboration project with studio ufotable for the video game Genshin Impact. Let's step into this vast magical world of adventure together!",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b154765-RhfBamIEdCN0.jpg",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "",
+    "episodes": null,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Adventure",
+      "Fantasy"
+    ],
+    "updated_at": 1784246756
+  },
+  {
+    "id": 153676,
+    "id_mal": 52750,
+    "url": "https://anilist.co/anime/153676",
+    "title": {
+      "english": "",
+      "romaji": "SK∞ 2nd Season",
+      "native": "SK∞ エスケーエイト 第2期"
+    },
+    "description": "The second season of <i>SK∞ (Sk8 the Infinity)</i>. <br><br>\n<i>Note: Aniplex revealed during the \"Sk8 Masquerade of Love\" event that a new anime project for the original television anime SK∞ is in the works. Much later, revealed at the end of the \"∞WEEK\" special event, an OVA was announced alongside a second season.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx153676-aOhiYKkUoX5y.png",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "TV",
+    "episodes": null,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Drama",
+      "Sports"
+    ],
+    "updated_at": 1784246753
+  },
+  {
+    "id": 152677,
+    "id_mal": 52480,
+    "url": "https://anilist.co/anime/152677",
+    "title": {
+      "english": "",
+      "romaji": "Tantei wa mou, Shindeiru. Season 2",
+      "native": "探偵はもう、死んでいる。Season2"
+    },
+    "description": "The second season of <i>Tantei wa mou, Shindeiru.</i>",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx152677-EnZkUV9MTvfy.jpg",
+    "banner_url": "",
+    "schedule": "Musim: FALL 2026",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "FALL",
+    "year": 2026,
+    "format": "TV",
+    "episodes": null,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Mystery",
+      "Romance",
+      "Supernatural"
+    ],
+    "updated_at": 1784246752
   },
   {
     "id": 141953,
@@ -3599,7 +6764,7 @@
       "Fantasy",
       "Mahou Shoujo"
     ],
-    "updated_at": 1784242996
+    "updated_at": 1784246721
   },
   {
     "id": 133904,
@@ -3628,6 +6793,33 @@
       "Comedy"
     ],
     "updated_at": 1783948413
+  },
+  {
+    "id": 133007,
+    "id_mal": 48820,
+    "url": "https://anilist.co/anime/133007",
+    "title": {
+      "english": "Puella Magi Madoka Magica the Movie -Walpurgisnacht: Rising-",
+      "romaji": "Mahou Shoujo Madoka☆Magica: Walpurgis no Kaiten",
+      "native": "劇場版 魔法少女まどか☆マギカ〈ワルプルギスの廻天〉"
+    },
+    "description": "The 10th anniversary online event for the <i>Mahou Shoujo Madoka☆Magica</i> anime revealed that the franchise is getting a new anime film titled <i>Mahou Shoujo Madoka☆Magica: Walpurgis no Kaiten</i>. The film will be an official sequel to the <i>Mahou Shoujo Madoka☆Magica: Hangyaku no Monogatari</i> film that opened in October 2013. The tagline on the new film's visual reads, <i>\"Now, let's continue the story.\"</i><br><br>\n(Source: Anime News Network, edited)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx133007-5gOUXDvzxy9S.jpg",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/133007-NkSVqsR7CTgT.jpg",
+    "schedule": "Episode 1 tayang pada 27/8/2026, 22.00.00 WIB",
+    "next_episode": 1,
+    "next_airing_timestamp": 1787842800,
+    "season": "SUMMER",
+    "year": 2026,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Mahou Shoujo"
+    ],
+    "updated_at": 1784246715
   },
   {
     "id": 115566,

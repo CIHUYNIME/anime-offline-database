@@ -1,5 +1,58 @@
 [
   {
+    "id": 214075,
+    "id_mal": 63298,
+    "url": "https://anilist.co/anime/214075",
+    "title": {
+      "english": "",
+      "romaji": "Kkokdu",
+      "native": "꼭두"
+    },
+    "description": "Jacob, an 11-year-old boy who is looking for kokdu dolls to remember his last moments with his grandmother, accidentally enters the world of these dolls.<br><br>\n\nThe \"kokdu\", literally \"funeral doll\", a key element in the work, is a wooden doll that adorned the bier (a carriage that carried a coffin) in the funeral culture of the Joseon Dynasty. It was considered a being that accompanied and protected the deceased, so that they would not feel lonely on their way to the afterlife. These dolls, which appeared in various forms, such as warriors, servants, clowns, and guides, embody the philosophy of Joseon-era Koreans, who viewed death not as something to be feared, but as a warm farewell and a new journey.<br><br>\n\n(Source: Etoday, translated)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx214075-b7eJAQYo1EXr.png",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Drama",
+      "Fantasy"
+    ],
+    "updated_at": 1784246844
+  },
+  {
+    "id": 214072,
+    "id_mal": null,
+    "url": "https://anilist.co/anime/214072",
+    "title": {
+      "english": "",
+      "romaji": "THE FOX ELEVATOR BOY RENARD",
+      "native": "THE FOX ELEVATOR BOY RENARD"
+    },
+    "description": "Renard, a young fox disguised as a human, works as an elevator boy in a prestigious department store, diligently carrying out his duties day after day while hiding his true form reflected in the mirror. Beneath his mask of a charming, fake smile, his cold eyes gleam as he hunts for his next prey.<br><br>\n(Source: YouTube Description, translated)<br><br>\nThird-year Tama Arts University student project by Nagomi Ueno for the 2024 academic year.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx214072-6C3fKKjaZzV5.png",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/214072-pFVVbG9amTmf.jpg",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 1,
+    "status": "FINISHED",
+    "score": null,
+    "genres": [],
+    "updated_at": 1784246844
+  },
+  {
     "id": 214070,
     "id_mal": null,
     "url": "https://anilist.co/anime/214070",
@@ -25,7 +78,7 @@
       "Action",
       "Sci-Fi"
     ],
-    "updated_at": 1784242996
+    "updated_at": 1784246844
   },
   {
     "id": 214068,
@@ -110,6 +163,31 @@
     "updated_at": 1783962141
   },
   {
+    "id": 213846,
+    "id_mal": 64546,
+    "url": "https://anilist.co/anime/213846",
+    "title": {
+      "english": "Solo Leveling: Beyond the System",
+      "romaji": "Ore dake Level Up na Ken: Beyond the System",
+      "native": "俺だけレベルアップな件 - Beyond the System -"
+    },
+    "description": "Sequel movie to <i>Ore dake Level Up na Ken: Season 2 - Arise from the Shadow</i>.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx213846-M5s9a58Vng7Q.png",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [],
+    "updated_at": 1784246843
+  },
+  {
     "id": 213814,
     "id_mal": null,
     "url": "https://anilist.co/anime/213814",
@@ -135,6 +213,34 @@
       "Music"
     ],
     "updated_at": 1783948388
+  },
+  {
+    "id": 213667,
+    "id_mal": 63414,
+    "url": "https://anilist.co/anime/213667",
+    "title": {
+      "english": "LUCA",
+      "romaji": "LUCA",
+      "native": "LUCA"
+    },
+    "description": "Ai Nina’s first original animated short film telling the story of Nene, a student who encounters a mysterious shapeshifting being named Luca.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx213667-ULQkaqwQDTvk.png",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/213667-Dxbh5HPcI99N.jpg",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 12,
+    "status": "FINISHED",
+    "score": null,
+    "genres": [
+      "Drama",
+      "Supernatural"
+    ],
+    "updated_at": 1784246843
   },
   {
     "id": 211331,
@@ -241,14 +347,14 @@
     "episodes": 1,
     "duration": 89,
     "status": "FINISHED",
-    "score": 57,
+    "score": 69,
     "genres": [
       "Action",
       "Drama",
       "Mystery",
       "Thriller"
     ],
-    "updated_at": 1783948141
+    "updated_at": 1784246841
   },
   {
     "id": 208754,
@@ -276,7 +382,7 @@
       "Action",
       "Adventure"
     ],
-    "updated_at": 1783951248
+    "updated_at": 1784246840
   },
   {
     "id": 208055,
@@ -304,6 +410,34 @@
       "Slice of Life"
     ],
     "updated_at": 1783948387
+  },
+  {
+    "id": 207327,
+    "id_mal": 63423,
+    "url": "https://anilist.co/anime/207327",
+    "title": {
+      "english": "To You in the Beyond",
+      "romaji": "Doko yori mo Tooi Basho ni Iru Kimi e",
+      "native": "どこよりも遠い場所にいる君へ"
+    },
+    "description": "The  story centers on a boy named Kazuki Tsukigase, who transfers to a high school on a remote island to get away from anyone who knows him. Kazuki finds out that there is an inlet on the island where people are rumored to disappear. Exploring the inlet, he encounters an unconscious girl. When she comes to after Kazuki takes her to the clinic, she is unable to give out anything about her identity except that she is named Nao, is 16 years old, and whispers the year \"1974.\"<br><br>\n(Source: Anime News Network, edited)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx207327-FFWbqs7iMFKJ.jpg",
+    "banner_url": "",
+    "schedule": "Episode 1 tayang pada 8/10/2026, 22.00.00 WIB",
+    "next_episode": 1,
+    "next_airing_timestamp": 1791471600,
+    "season": "FALL",
+    "year": 2026,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Mystery",
+      "Romance"
+    ],
+    "updated_at": 1784246840
   },
   {
     "id": 206819,
@@ -449,7 +583,7 @@
       "Drama",
       "Supernatural"
     ],
-    "updated_at": 1783948250
+    "updated_at": 1784246836
   },
   {
     "id": 202717,
@@ -560,7 +694,216 @@
       "Drama",
       "Mystery"
     ],
-    "updated_at": 1783948125
+    "updated_at": 1784246835
+  },
+  {
+    "id": 199340,
+    "id_mal": 62582,
+    "url": "https://anilist.co/anime/199340",
+    "title": {
+      "english": "Rascal Does Not Dream of a Dear Friend",
+      "romaji": "Seishun Buta Yarou wa Dear Friend no Yume wo Minai",
+      "native": "青春ブタ野郎はディアフレンドの夢を見ない"
+    },
+    "description": "Theatrical follow-up to <i>Seishun Buta Yarou wa Santa Claus no Yume wo Minai</i>.<br><br>\n\n<i>\"Actually, I’m Touko Kirishima.\"</i>\n<br><br>\nThe audience erupted in excitement upon learning that the true identity of the mysterious, wildly popular internet singer was none other than the nation’s favorite actress, Mai Sakurajima. The scene was exactly the same as the dream Sakuta Azusagawa had seen on Christmas Eve.\n<br><br>\nStarting with Mai’s shocking confession on April 1, the impossible events that everyone once dreamed of keep happening one after another.\n\nThe social media hashtag \"#Yumemiru,\" where dreams come true, has vanished, and as Sakuta struggles with the disconnect between the reality before him and his own perception, he receives a message from a version of himself in an alternate reality.\n<br><br>\n<b>―Stop Touko Kirishima,\n<br>\n―Before reality is rewritten.</b>\n<br><br>\nTo restore the world to its original state, Sakuta sets out to find Touko Kirishima. This is a story about overcoming the \"Adolescent Syndrome\".<br><br>\n\n(Source: Crunchyroll News, edited)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199340-hrhFRsgXJCJ8.jpg",
+    "banner_url": "",
+    "schedule": "Episode 1 tayang pada 15/10/2026, 22.00.00 WIB",
+    "next_episode": 1,
+    "next_airing_timestamp": 1792076400,
+    "season": "FALL",
+    "year": 2026,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Drama",
+      "Psychological",
+      "Romance",
+      "Supernatural"
+    ],
+    "updated_at": 1784246834
+  },
+  {
+    "id": 198373,
+    "id_mal": 62421,
+    "url": "https://anilist.co/anime/198373",
+    "title": {
+      "english": "Assassination Classroom the Movie: Our Time",
+      "romaji": "Ansatsu Kyoushitsu: Minna no Jikan",
+      "native": "暗殺教室 みんなの時間"
+    },
+    "description": "A new movie to commemorate <i>Assassination Classroom's</i> 10th anniversary of the TV anime.<br>\n<br>\nIt adapts episodes previously omitted in the original anime series.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx198373-bJ7PYyknp4ln.jpg",
+    "banner_url": "",
+    "schedule": "Musim: WINTER 2026",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "WINTER",
+    "year": 2026,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 87,
+    "status": "FINISHED",
+    "score": 72,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Sci-Fi",
+      "Supernatural"
+    ],
+    "updated_at": 1784246831
+  },
+  {
+    "id": 198188,
+    "id_mal": 62405,
+    "url": "https://anilist.co/anime/198188",
+    "title": {
+      "english": "Tatsuki Fujimoto 17-26",
+      "romaji": "Fujimoto Tatsuki 17-26",
+      "native": "藤本タツキ 17-26"
+    },
+    "description": "An anthology series adapting 8 short stories created by manga artist Tatsuki Fujimoto between ages 17 and 26.<br>\n<br>\n1) <i>A Couple Clucking Chickens Were Still Kickin' in the Schoolyard</i> (Dir. Seishirou Nagaya, ZEXCS)\n<br>\n2) <i>Sasaki Stopped a Bullet</i> (Dir. Nobukage Kimura, Lapin Track)\n<br>\n3) <i>Love is Blind</i> (Dir. Nobuyuki Takeuchi, Lapin Track)\n<br>\n4) <i>Shikaku</i> (Dir. Naoya Ando, GRAPH77)\n<br>\n5) <i>Mermaid Rhapsody</i> (Dir. Tetsuaki Watanabe, 100Studio)\n<br>\n6) <i>Woke-Up-as-a-Girl Syndrome</i> (Dir. Kazuaki Terasawa, Studio Kafka)\n<br>\n7) <i>Nayuta of the Prophecy</i> (Dir. Tetsuaki Watanabe, 100Studio)\n<br>\n8) <i>Sisters</i> (Dir. Osamu Honma, P.A.WORKS)\n<br><br>\n<i>Note: This anime had a pre-release world premiere at the \"Global Stage Hollywood 2025\" film festival on October 5, 2025. A general two-week theatrical run in Japan divided into two parts released on the same day October 17, 2025. The anime series later streamed worldwide in Amazon Prime Video on November 8, 2025.</i>",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx198188-h3w6uICVNhqh.png",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/198188-rIqUa8loin9T.jpg",
+    "schedule": "Musim: FALL 2025",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "FALL",
+    "year": 2025,
+    "format": "MOVIE",
+    "episodes": 8,
+    "duration": 18,
+    "status": "FINISHED",
+    "score": 79,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Drama",
+      "Romance",
+      "Sci-Fi",
+      "Slice of Life",
+      "Supernatural"
+    ],
+    "updated_at": 1784246831
+  },
+  {
+    "id": 195494,
+    "id_mal": 61984,
+    "url": "https://anilist.co/anime/195494",
+    "title": {
+      "english": "bâan: The Boundary of Adulthood",
+      "romaji": "bâan: Otona no Kyoukai",
+      "native": "bâan -大人の彊界-"
+    },
+    "description": "A story of two people in search of a new life, who leave their birthplaces - travelling to a whole different world trying to find a place where they truly belong. Set in the fictional world of Euthania, a land rich in nature with various magical races based on South East Asian Mythology, which is connected to Japan via a warp gate.<br><br>\n\n(Source: Official Trailer)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx195494-2siDsNQmaKym.jpg",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/195494-DGeq2GS3YZsB.jpg",
+    "schedule": "Musim: SUMMER 2025",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "SUMMER",
+    "year": 2025,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 18,
+    "status": "FINISHED",
+    "score": 69,
+    "genres": [
+      "Fantasy"
+    ],
+    "updated_at": 1784246829
+  },
+  {
+    "id": 195201,
+    "id_mal": 62547,
+    "url": "https://anilist.co/anime/195201",
+    "title": {
+      "english": "",
+      "romaji": "Kimetsu no Yaiba: Mugenjou-hen Movie 3",
+      "native": "劇場版「鬼滅の刃」無限城編 第終章"
+    },
+    "description": "Part 3 of the theatrical trilogy adaptation of the Infinity Castle Arc.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/default.jpg",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Supernatural"
+    ],
+    "updated_at": 1784246829
+  },
+  {
+    "id": 195200,
+    "id_mal": 62546,
+    "url": "https://anilist.co/anime/195200",
+    "title": {
+      "english": "Demon Slayer: Kimetsu no Yaiba Infinity Castle Part 2",
+      "romaji": "Kimetsu no Yaiba: Mugenjou-hen Movie 2",
+      "native": "劇場版「鬼滅の刃」無限城編 第二章"
+    },
+    "description": "Part 2 of the theatrical trilogy adaptation of the Infinity Castle Arc.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx195200-wJaLJ4mDDKGc.png",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Supernatural"
+    ],
+    "updated_at": 1784246829
+  },
+  {
+    "id": 192809,
+    "id_mal": 59654,
+    "url": "https://anilist.co/anime/192809",
+    "title": {
+      "english": "JUJUTSU KAISEN: Hidden Inventory / Premature Death – The Movie",
+      "romaji": "Jujutsu Kaisen: Kaigyoku・Gyokusetsu",
+      "native": "呪術廻戦 懐玉・玉折"
+    },
+    "description": "<i>\"The strongest duo—A youth they can never return to.\"</i><br><br>\n\nRecompilation film of <i>Jujutsu Kaisen 2nd Season's</i> \"Kaigyoku・Gyokusetsu\" (Hidden Inventory / Premature Death) arc (episodes 1-5 re-edited) with new footage showing glimpses of school memories accompanied by an acoustic version of \"Ao no Sumika\" (Where Our Blue Is) by Tatsuya Kitani.\n\n<br><br>\nBefore they were enemies, Satoru Gojo and Suguru Geto were high school classmates and friends. The two most powerful sorcerers are tasked with protecting Riko Amanai, a student who has been designated to be sacrificed as the Star Plasma Vessel, until she can fulfill her duty. Pursued by a religious cult and other curse users, they are the only sorcerers capable of carrying out such a difficult task – but this mission will set their destinies, and challenge the two sorcerers in ways unimaginable.<br><br>\n\n(Source: GKIDS)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx192809-wRlqABGsx2Qs.jpg",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/192809-GYqoYK9Sfhkk.jpg",
+    "schedule": "Musim: SPRING 2025",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "SPRING",
+    "year": 2025,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 111,
+    "status": "FINISHED",
+    "score": 84,
+    "genres": [
+      "Action",
+      "Drama",
+      "Supernatural"
+    ],
+    "updated_at": 1784246827
   },
   {
     "id": 192002,
@@ -828,6 +1171,35 @@
     "updated_at": 1783945902
   },
   {
+    "id": 184694,
+    "id_mal": 59841,
+    "url": "https://anilist.co/anime/184694",
+    "title": {
+      "english": "Solo Leveling -ReAwakening-",
+      "romaji": "Ore dake Level Up na Ken: ReAwakening",
+      "native": "俺だけレベルアップな件 -ReAwakening-"
+    },
+    "description": "A movie compilation of the first season and first two episodes of the second season of the <i>Solo Leveling</i> series.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx184694-EmVoCuV4uAGv.png",
+    "banner_url": "",
+    "schedule": "Musim: FALL 2024",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "FALL",
+    "year": 2024,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 114,
+    "status": "FINISHED",
+    "score": 80,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "updated_at": 1784246810
+  },
+  {
     "id": 184334,
     "id_mal": 50255,
     "url": "https://anilist.co/anime/184334",
@@ -853,6 +1225,65 @@
       "Drama"
     ],
     "updated_at": 1783944122
+  },
+  {
+    "id": 182317,
+    "id_mal": 59985,
+    "url": "https://anilist.co/anime/182317",
+    "title": {
+      "english": "The Dangers in My Heart: The Movie",
+      "romaji": "Boku no Kokoro no Yabai Yatsu Movie",
+      "native": "劇場版 僕の心のヤバイやつ"
+    },
+    "description": "A re-edit of both anime seasons featuring newly added footage and will depict the story of Ichikawa and Yamada after the events of the TV series.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx182317-zzpOnAECrM2o.png",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/182317-zrOrc3AapwmI.jpg",
+    "schedule": "Musim: WINTER 2026",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "WINTER",
+    "year": 2026,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 102,
+    "status": "FINISHED",
+    "score": 79,
+    "genres": [
+      "Comedy",
+      "Romance",
+      "Slice of Life"
+    ],
+    "updated_at": 1784246807
+  },
+  {
+    "id": 182206,
+    "id_mal": 59971,
+    "url": "https://anilist.co/anime/182206",
+    "title": {
+      "english": "That Time I Got Reincarnated as a Slime the Movie: Tears of the Azure Sea",
+      "romaji": "Tensei Shitara Slime Datta Ken: Soukai no Namida-hen",
+      "native": "劇場版 転生したらスライムだった件 蒼海の涙編"
+    },
+    "description": "The second movie in the <i>Tensei Shitara Slime Datta Ken</i> series.<br><br>\nAfter concluding the opening ceremony of the Demon Kingdom Federation Tempest, Rimuru and his companions are invited by the Celestial Emperor Hermesia of the great elven nation – the Magi Dynasty Salion – to visit her private resort island. As the group enjoys their brief vacation, a mysterious woman named Yura appears. A new incident unfolds against the backdrop of the boundless azure sea.<br><br>\n\n(Source: Crunchyroll)<br><br>\n<i>Note: Relations are provisional and subject to change.</i>",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx182206-LcitQfDLsdnC.png",
+    "banner_url": "",
+    "schedule": "Musim: WINTER 2026",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "WINTER",
+    "year": 2026,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 104,
+    "status": "FINISHED",
+    "score": 74,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Fantasy"
+    ],
+    "updated_at": 1784246807
   },
   {
     "id": 181839,
@@ -882,7 +1313,35 @@
       "Fantasy",
       "Slice of Life"
     ],
-    "updated_at": 1784242996
+    "updated_at": 1784246806
+  },
+  {
+    "id": 180804,
+    "id_mal": 59709,
+    "url": "https://anilist.co/anime/180804",
+    "title": {
+      "english": "",
+      "romaji": "Inazuma Eleven: Soushuuhen - Densetsu no Kickoff",
+      "native": "イナズマイレブン総集編 伝説のキックオフ"
+    },
+    "description": "Compilation film of <i>Inazuma Eleven;</i> a recap of the original video game and the first 26 episodes of the series which focuses on the matches.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx180804-XedQP8o3pUCO.jpg",
+    "banner_url": "",
+    "schedule": "Musim: FALL 2024",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "FALL",
+    "year": 2024,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": null,
+    "status": "FINISHED",
+    "score": 66,
+    "genres": [
+      "Action",
+      "Sports"
+    ],
+    "updated_at": 1784246804
   },
   {
     "id": 179998,
@@ -911,6 +1370,34 @@
       "Sci-Fi"
     ],
     "updated_at": 1783948404
+  },
+  {
+    "id": 179878,
+    "id_mal": 59419,
+    "url": "https://anilist.co/anime/179878",
+    "title": {
+      "english": "COLORFUL STAGE! The Movie: A Miku Who Can't Sing",
+      "romaji": "Project Sekai: Kowareta SEKAI to Utaenai MIKU",
+      "native": "プロジェクトセカイ 壊れたセカイと歌えないミク"
+    },
+    "description": "Set in modern day Shibuya, Ichika Hoshino, a high school girl and street musician, encounters an unknown version of Hatsune Miku after hearing a Miku song that she'd never heard before in a CD store. Ichika learns that this version of Miku is having trouble reaching people with her songs, so together they team up to try to touch the hearts of their audience through music.<br><br>\n\n(Source: Crunchyroll News, edited)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx179878-jG5GTXhe2vou.jpg",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/179878-4z2dGmOfLe1a.jpg",
+    "schedule": "Musim: WINTER 2025",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "WINTER",
+    "year": 2025,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 105,
+    "status": "FINISHED",
+    "score": 76,
+    "genres": [
+      "Drama",
+      "Music"
+    ],
+    "updated_at": 1784246801
   },
   {
     "id": 179874,
@@ -973,6 +1460,64 @@
       "Supernatural"
     ],
     "updated_at": 1783962141
+  },
+  {
+    "id": 178774,
+    "id_mal": 59186,
+    "url": "https://anilist.co/anime/178774",
+    "title": {
+      "english": "Fuuto PI: The Portrait of Kamen Rider Skull",
+      "romaji": "Fuuto Tantei: Kamen Rider Skull no Shouzou",
+      "native": "風都探偵 仮面ライダースカルの肖像"
+    },
+    "description": "<i>What happened to Shoutarou, Phillip, and Sokichi Narumi on the night \"Kamen Rider W\" was born?.....</i><br><br>\n\nAfter the escape from Shadow Fuuto and subsequent battle, Tokime resolves herself seeking out the truth behind the origins of Gaia Memories, Kamen Rider W, and her connection to that shadowy city. Later than night, Shoutarou has a heart to heart with Tokime recounting his painful past and fateful night where everything began, named by Phillip: \"Begins Night\". A story when dopants started to appear in Fuuto and how a young Shoutarou became private investigator Sokichi's assistant, and tried to follow in his footsteps. \n\n<br><br>\n<i>Note: An adaptation of Fuuto P.I. volume #6, which is a extended version of the \"Begins Night\" chapter from the original Live-Action Kamen Rider W series.</i>",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178774-Uyut226cubzL.jpg",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/178774-9yKpdyLQZfLr.jpg",
+    "schedule": "Musim: FALL 2024",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "FALL",
+    "year": 2024,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 82,
+    "status": "FINISHED",
+    "score": 74,
+    "genres": [
+      "Action",
+      "Drama",
+      "Mystery",
+      "Supernatural"
+    ],
+    "updated_at": 1784246798
+  },
+  {
+    "id": 177687,
+    "id_mal": 58919,
+    "url": "https://anilist.co/anime/177687",
+    "title": {
+      "english": "100 METERS",
+      "romaji": "Hyakuemu.",
+      "native": "ひゃくえむ。"
+    },
+    "description": "<i>100 METERS</i> follows Togashi, a track star who is born to run. As a kid, he is naturally gifted and wins every 100-meter race without effort. But in sixth grade, he meets Komiya, a transfer student who is full of determination but lacks technique. In teaching him, Togashi gives Komiya a new purpose: to win no matter what. Years pass by, and Togashi and Komiya meet again as rivals on the track and reveal their true selves.\n<br><br>\n(Source: GKIDS)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177687-T4SrtVjrmW01.png",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/177687-24ePtQwAUb7n.jpg",
+    "schedule": "Musim: SUMMER 2025",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "SUMMER",
+    "year": 2025,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 106,
+    "status": "FINISHED",
+    "score": 83,
+    "genres": [
+      "Drama",
+      "Sports"
+    ],
+    "updated_at": 1784246794
   },
   {
     "id": 177686,
@@ -1055,6 +1600,35 @@
     "updated_at": 1783962141
   },
   {
+    "id": 176299,
+    "id_mal": 58517,
+    "url": "https://anilist.co/anime/176299",
+    "title": {
+      "english": "",
+      "romaji": "Uma Musume: Pretty Derby - ROAD TO THE TOP Movie",
+      "native": "ウマ娘 プリティーダービー ROAD TO THE TOP 劇場用再編集版"
+    },
+    "description": "Theatrical version of <i>Uma Musume: Pretty Derby - ROAD TO THE TOP</i> which includes new extra scenes.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176299-gh7aI0EkiVLT.jpg",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/176299-dtVaXMPJWVrF.jpg",
+    "schedule": "Musim: SPRING 2024",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "SPRING",
+    "year": 2024,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 99,
+    "status": "FINISHED",
+    "score": 79,
+    "genres": [
+      "Drama",
+      "Slice of Life",
+      "Sports"
+    ],
+    "updated_at": 1784246788
+  },
+  {
     "id": 176245,
     "id_mal": 58491,
     "url": "https://anilist.co/anime/176245",
@@ -1109,7 +1683,7 @@
       "Music",
       "Romance"
     ],
-    "updated_at": 1783948398
+    "updated_at": 1784246784
   },
   {
     "id": 175138,
@@ -1168,6 +1742,34 @@
     "updated_at": 1783945915
   },
   {
+    "id": 174788,
+    "id_mal": 58125,
+    "url": "https://anilist.co/anime/174788",
+    "title": {
+      "english": "LOOK BACK",
+      "romaji": "Look Back",
+      "native": "ルックバック"
+    },
+    "description": "Ayumu Fujino is a fourth grader who draws a manga strip for the school newspaper. Her art makes her the star of the class, but one day she's told that Kyomoto, a student who refuses to come to school, would also like to submit a manga for the paper...\n<br><br>\n(Source: MANGA Plus, edited)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx174788-9LsUnn0oEppv.jpg",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/174788-0ZM9g7npJH8X.jpg",
+    "schedule": "Musim: SPRING 2024",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "SPRING",
+    "year": 2024,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 58,
+    "status": "FINISHED",
+    "score": 86,
+    "genres": [
+      "Drama",
+      "Slice of Life"
+    ],
+    "updated_at": 1784246783
+  },
+  {
     "id": 174383,
     "id_mal": 57993,
     "url": "https://anilist.co/anime/174383",
@@ -1221,6 +1823,36 @@
       "Music"
     ],
     "updated_at": 1784242996
+  },
+  {
+    "id": 172420,
+    "id_mal": 57647,
+    "url": "https://anilist.co/anime/172420",
+    "title": {
+      "english": "Umamusume: Pretty Derby - Beginning of a New Era",
+      "romaji": "Uma Musume: Pretty Derby - Shin Jidai no Tobira",
+      "native": "ウマ娘 プリティーダービー 新時代の扉"
+    },
+    "description": "<b>REACH OUT AND GRASP GREATNESS.</b><br><br>\nJungle Pocket, known to her close friends as \"Pokke,\" is a free-spirited Umamusume who has proven her dominance in the freestyle racing scene. Overwhelmed by Fuji Kiseki's majestic performance at a graded Twinkle Series race, she resolves to take on the Twinkle Series herself.\n<br><br>\nShortly after joining the Umamusume training school Tracen Academy, Pokke comes under the wing of Tanabe, a veteran trainer who fostered Fuji Kiseki's talent. Together, they aspire to dominate the Triple Crown series, a set of three races that can only be attempted once in a lifetime. Awaiting them are formidable rivals of Pokke's generation, whose talents surpass even her own.\n<br><br>\nThere's Dantsu Flame, whose diligence and determination to win are second to none; Manhattan Cafe, who chases the shadowy silhouette of a \"friend\" that only she can see; and Agnes Tachyon, a veritable mad scientist seeking to push the very boundaries of what is possible for Umamusume.\n<br><br>\nThese four runners take to the track with their very pride, spirit, and souls on the line. Past the finish of their epic clash is a door waiting to be opened—one that leads to the beginning of a new era.\n<br><br>\n<i>\"It doesn't matter who stands in my way! I'm gonna be the greatest!\"</i><br><br>\n(Source: Umamusume: Pretty Derby - Beginning of a New Era Site)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx172420-4LjhmwpNMHti.jpg",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/172420-QVRFOAha7oy5.jpg",
+    "schedule": "Musim: SPRING 2024",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "SPRING",
+    "year": 2024,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 108,
+    "status": "FINISHED",
+    "score": 87,
+    "genres": [
+      "Drama",
+      "Psychological",
+      "Slice of Life",
+      "Sports"
+    ],
+    "updated_at": 1784246781
   },
   {
     "id": 171627,
@@ -1535,6 +2167,90 @@
     "updated_at": 1784242996
   },
   {
+    "id": 165670,
+    "id_mal": 55566,
+    "url": "https://anilist.co/anime/165670",
+    "title": {
+      "english": "",
+      "romaji": "WASTED CHEF",
+      "native": "WASTED CHEF"
+    },
+    "description": "A young chef chasing a lost flavor lands in a ruined city without taste. Saved by Kasumi, his cooking awakens forgotten memories. But a dark force threatens to erase all desire — making his quest the last hope to save both worlds.<br><br>\n(Source: Variety)<br><br>\n\n<i>Note: Title is provisional and subject to change.</i>",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx165670-RvvAAmfSe8F9.png",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "MOVIE",
+    "episodes": null,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Sci-Fi"
+    ],
+    "updated_at": 1784246768
+  },
+  {
+    "id": 165253,
+    "id_mal": 55357,
+    "url": "https://anilist.co/anime/165253",
+    "title": {
+      "english": "BOCCHI THE ROCK! Recap Part 1",
+      "romaji": "Bocchi the Rock! Re:",
+      "native": "ぼっち・ざ・ろっく！Re:"
+    },
+    "description": "Compilation film of <i>Bocchi the Rock!</i> featuring new animation intro footage. The first of the Bocchi compilation movie duology.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx165253-nAwyrMZm4jBA.jpg",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/165253-jcWVeZEnL2dq.jpg",
+    "schedule": "Musim: SPRING 2024",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "SPRING",
+    "year": 2024,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 92,
+    "status": "FINISHED",
+    "score": 83,
+    "genres": [
+      "Comedy",
+      "Music",
+      "Slice of Life"
+    ],
+    "updated_at": 1784246767
+  },
+  {
+    "id": 164226,
+    "id_mal": 55115,
+    "url": "https://anilist.co/anime/164226",
+    "title": {
+      "english": "The Concierge",
+      "romaji": "Hokkyoku Hyakkaten no Concierge-san",
+      "native": "北極百貨店のコンシェルジュさん"
+    },
+    "description": "<i>“The word ‘no’ doesn’t exist in a concierge’s dictionary.” </i> <br><br> That’s just one of the demanding rules that Akino must abide by in her new job as a saleswoman at the elegant and expansive Hokkyoku Department Store. It’s a very special store — the customers are all animals, and the most valued among them are of extinct species. Sea minks, laughing owls, Japanese wolves, even an enormous mammoth — that’s Mr. Woolly, the celebrated sculptor whose works are showcased at the store. It’s still a luxury retail space, though, and anxious Akino finds her hands full with the customers’ challenging requests. These range from hard-to-find merchandise to more complicated matters of the heart. Can the inexperienced Akino fulfill their whims and meet their expectations? If she wants to keep her job, she’ll have to succeed while under constant observation by the fussy floor manager Mr. Toudou, a creepy consultant eager to downsize the staff, and the store’s enigmatic president (who is not a penguin, by the way!).\n<br><br>\n(Source: Fantasia International Film Festival, edited)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx164226-ijzVauNA4AsN.png",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/164226-F7xQ3csUvKFM.jpg",
+    "schedule": "Musim: FALL 2023",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "FALL",
+    "year": 2023,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 70,
+    "status": "FINISHED",
+    "score": 74,
+    "genres": [
+      "Fantasy",
+      "Romance"
+    ],
+    "updated_at": 1784246767
+  },
+  {
     "id": 163147,
     "id_mal": 54866,
     "url": "https://anilist.co/anime/163147",
@@ -1561,7 +2277,7 @@
       "Drama",
       "Sports"
     ],
-    "updated_at": 1783948174
+    "updated_at": 1784246765
   },
   {
     "id": 162987,
@@ -1590,7 +2306,7 @@
       "Music",
       "Romance"
     ],
-    "updated_at": 1783948308
+    "updated_at": 1784246765
   },
   {
     "id": 161474,
@@ -1620,7 +2336,39 @@
       "Romance",
       "Supernatural"
     ],
-    "updated_at": 1783947660
+    "updated_at": 1784246763
+  },
+  {
+    "id": 160275,
+    "id_mal": 54250,
+    "url": "https://anilist.co/anime/160275",
+    "title": {
+      "english": "",
+      "romaji": "Made in Abyss: Mezameru Shinpi",
+      "native": "メイドインアビス 目覚める神秘"
+    },
+    "description": "Sequel to <i>Made in Abyss: Retsujitsu no Ougonkyou.</i><br><br>\n",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx160275-cBOWJpcCGeMq.jpg",
+    "banner_url": "",
+    "schedule": "Episode 1 tayang pada 22/10/2026, 22.00.00 WIB",
+    "next_episode": 1,
+    "next_airing_timestamp": 1792681200,
+    "season": "FALL",
+    "year": 2026,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Fantasy",
+      "Horror",
+      "Mystery",
+      "Sci-Fi"
+    ],
+    "updated_at": 1784246763
   },
   {
     "id": 158928,
@@ -1651,7 +2399,7 @@
       "Slice of Life",
       "Supernatural"
     ],
-    "updated_at": 1783947774
+    "updated_at": 1784246762
   },
   {
     "id": 158896,
@@ -1682,6 +2430,62 @@
       "Supernatural"
     ],
     "updated_at": 1784242996
+  },
+  {
+    "id": 158641,
+    "id_mal": 54603,
+    "url": "https://anilist.co/anime/158641",
+    "title": {
+      "english": "GHOST CAT ANZU",
+      "romaji": "Bakeneko Anzu-chan",
+      "native": "化け猫あんずちゃん"
+    },
+    "description": "Precocious tween Karin finds herself abandoned by her father in rural Japan. Living in a temple with her grandfather, she meets Anzu, a giant “ghost cat” and notorious layabout tasked with looking after her. Distrustful of her new guardian, Karin sabotages Anzu’s odd jobs for the townsfolk and befriends the eccentric local forest spirits. In an effort to win Karin over, Anzu accidentally makes a deal with the devil, and all Hell breaks loose. <br><br>\n(Source: GKIDS)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx158641-U6U1cGjI1pTM.png",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/158641-bkDINiMbR8ie.jpg",
+    "schedule": "Musim: SUMMER 2024",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "SUMMER",
+    "year": 2024,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 90,
+    "status": "FINISHED",
+    "score": 70,
+    "genres": [
+      "Fantasy",
+      "Slice of Life",
+      "Supernatural"
+    ],
+    "updated_at": 1784246761
+  },
+  {
+    "id": 158166,
+    "id_mal": 53747,
+    "url": "https://anilist.co/anime/158166",
+    "title": {
+      "english": "The Colors Within",
+      "romaji": "Kimi no Iro",
+      "native": "きみの色"
+    },
+    "description": "Totsuko is a high school student with the ability to see the 'colors' of others. Colors of bliss, excitement, and serenity, plus a color she treasures as her favorite. Kimi, a classmate at her school, gives off the most beautiful color of all. Although she doesn’t play an instrument, Totsuko forms a band with Kimi and Rui, a quiet music enthusiast they meet at a used bookstore in a far corner of town. As they practice at an old church on a remote island, music brings them together, forming friendships and stirring affections. Will they discover their true 'colors'?<br>\n<br>\n(Source: GKIDS)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx158166-TZxLtPvXEVUQ.jpg",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/158166-uieFhPp1ECVO.jpg",
+    "schedule": "Musim: SUMMER 2024",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "SUMMER",
+    "year": 2024,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 100,
+    "status": "FINISHED",
+    "score": 78,
+    "genres": [
+      "Music"
+    ],
+    "updated_at": 1784246760
   },
   {
     "id": 156841,
@@ -1738,7 +2542,7 @@
       "Psychological",
       "Supernatural"
     ],
-    "updated_at": 1783945837
+    "updated_at": 1784246757
   },
   {
     "id": 154392,
@@ -1770,6 +2574,34 @@
     "updated_at": 1783948413
   },
   {
+    "id": 154064,
+    "id_mal": 54740,
+    "url": "https://anilist.co/anime/154064",
+    "title": {
+      "english": "",
+      "romaji": "MAKE A GIRL",
+      "native": "メイクアガール"
+    },
+    "description": "The story is centered around the main character, Akira, and his scientifically created girlfriend, No. 0.<br>\n<br>\n(Source: Crunchyroll)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx154064-qYnRF4BQsuM6.png",
+    "banner_url": "",
+    "schedule": "Musim: WINTER 2025",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "WINTER",
+    "year": 2025,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 90,
+    "status": "FINISHED",
+    "score": 61,
+    "genres": [
+      "Romance",
+      "Sci-Fi"
+    ],
+    "updated_at": 1784246754
+  },
+  {
     "id": 153658,
     "id_mal": 52742,
     "url": "https://anilist.co/anime/153658",
@@ -1796,7 +2628,7 @@
       "Drama",
       "Sports"
     ],
-    "updated_at": 1783947724
+    "updated_at": 1784246753
   },
   {
     "id": 151117,
@@ -2025,7 +2857,7 @@
       "Mystery",
       "Supernatural"
     ],
-    "updated_at": 1783947890
+    "updated_at": 1784246739
   },
   {
     "id": 142769,
@@ -2054,7 +2886,37 @@
       "Romance",
       "Supernatural"
     ],
-    "updated_at": 1783947675
+    "updated_at": 1784246739
+  },
+  {
+    "id": 142684,
+    "id_mal": 50587,
+    "url": "https://anilist.co/anime/142684",
+    "title": {
+      "english": "Gridman Universe",
+      "romaji": "GRIDMAN UNIVERSE",
+      "native": "グリッドマン ユニバース"
+    },
+    "description": "Theatrical follow-up to <i>SSSS.GRIDMAN</i> and <i>SSSS.DYNAZENON.</i><br><br>\n\nA year has passed since the events of <i>SSSS.GRIDMAN</i>. The world is at peace and no one except for Rikka and Utsumi remembers the kaiju, Gridman, or Akane Shinjou. This includes Yuuta, who despite serving as Gridman's host, has no memory of the most important moments of his life. So when a new Kaiju appears, he leaps at the chance to prove to himself that he too can be the hero by merging with Gridman once more.<br><br>\n\n(Source: Anime News Network)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx142684-Ce7iZaaqO35y.png",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/142684-bP6AQuVuEDxy.jpg",
+    "schedule": "Musim: WINTER 2023",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "WINTER",
+    "year": 2023,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 118,
+    "status": "FINISHED",
+    "score": 81,
+    "genres": [
+      "Action",
+      "Mecha",
+      "Romance",
+      "Sci-Fi"
+    ],
+    "updated_at": 1784246739
   },
   {
     "id": 142629,
@@ -2169,7 +3031,7 @@
       "Fantasy",
       "Music"
     ],
-    "updated_at": 1783947777
+    "updated_at": 1784246737
   },
   {
     "id": 140337,
@@ -2198,7 +3060,37 @@
       "Music",
       "Supernatural"
     ],
-    "updated_at": 1783948162
+    "updated_at": 1784246734
+  },
+  {
+    "id": 139498,
+    "id_mal": 49877,
+    "url": "https://anilist.co/anime/139498",
+    "title": {
+      "english": "That Time I Got Reincarnated as a Slime the Movie: Scarlet Bond",
+      "romaji": "Tensei Shitara Slime Datta Ken: Guren no Kizuna-hen",
+      "native": "劇場版 転生したらスライムだった件 紅蓮の絆編"
+    },
+    "description": "A long-running conspiracy is swirling over a mysterious power known as “Queen” in Raja, a small country west of Tempest. When a slime who evolved into a Demon Lord named Rimuru Tempest crosses paths with Hiiro, a survivor of the Ogre race, an incredible adventure packed with new characters begins. The power of bonds will be put to the test!\n<br>\n<br>\n(Source: Crunchyroll)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx139498-DdVASeAj7ag4.jpg",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/139498-f6sMOwOTBQv4.jpg",
+    "schedule": "Musim: FALL 2022",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "FALL",
+    "year": 2022,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 108,
+    "status": "FINISHED",
+    "score": 77,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Fantasy"
+    ],
+    "updated_at": 1784246725
   },
   {
     "id": 139311,
@@ -2315,6 +3207,34 @@
     "updated_at": 1783962141
   },
   {
+    "id": 137075,
+    "id_mal": 49661,
+    "url": "https://anilist.co/anime/137075",
+    "title": {
+      "english": "",
+      "romaji": "VOY@GER",
+      "native": "VOY@GER"
+    },
+    "description": "<i>This is a world of the near future. The five shining stars invite you to this wonderful journey. Are you ready? To the future!!!!!</i> <br><br>\n\nA concept movie celebrating the 16th Anniversary of the THE iDOLM@STER series, directed by Atsushi Nishigori featuring the aptly titled song <i>VOY@GER</i> by THE IDOLM@STER FIVE STARS!!!!! The movie is animated by studio CloverWorks, with joint effort by Studio Khara on the visual production.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx137075-EW0wiADgbSlk.jpg",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/137075-ooCsz49X19QQ.jpg",
+    "schedule": "Musim: SUMMER 2021",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "SUMMER",
+    "year": 2021,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 8,
+    "status": "FINISHED",
+    "score": 75,
+    "genres": [
+      "Music",
+      "Sci-Fi"
+    ],
+    "updated_at": 1784246719
+  },
+  {
     "id": 136192,
     "id_mal": 49310,
     "url": "https://anilist.co/anime/136192",
@@ -2340,7 +3260,7 @@
       "Drama",
       "Romance"
     ],
-    "updated_at": 1783945915
+    "updated_at": 1784246718
   },
   {
     "id": 136149,
@@ -2488,6 +3408,62 @@
     "updated_at": 1783944122
   },
   {
+    "id": 133007,
+    "id_mal": 48820,
+    "url": "https://anilist.co/anime/133007",
+    "title": {
+      "english": "Puella Magi Madoka Magica the Movie -Walpurgisnacht: Rising-",
+      "romaji": "Mahou Shoujo Madoka☆Magica: Walpurgis no Kaiten",
+      "native": "劇場版 魔法少女まどか☆マギカ〈ワルプルギスの廻天〉"
+    },
+    "description": "The 10th anniversary online event for the <i>Mahou Shoujo Madoka☆Magica</i> anime revealed that the franchise is getting a new anime film titled <i>Mahou Shoujo Madoka☆Magica: Walpurgis no Kaiten</i>. The film will be an official sequel to the <i>Mahou Shoujo Madoka☆Magica: Hangyaku no Monogatari</i> film that opened in October 2013. The tagline on the new film's visual reads, <i>\"Now, let's continue the story.\"</i><br><br>\n(Source: Anime News Network, edited)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx133007-5gOUXDvzxy9S.jpg",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/133007-NkSVqsR7CTgT.jpg",
+    "schedule": "Episode 1 tayang pada 27/8/2026, 22.00.00 WIB",
+    "next_episode": 1,
+    "next_airing_timestamp": 1787842800,
+    "season": "SUMMER",
+    "year": 2026,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Mahou Shoujo"
+    ],
+    "updated_at": 1784246715
+  },
+  {
+    "id": 132545,
+    "id_mal": 48780,
+    "url": "https://anilist.co/anime/132545",
+    "title": {
+      "english": "DAKAICHI -I'm being harassed by the sexiest man of the year- the Movie: Spain Arc",
+      "romaji": "Dakaretai Otoko 1-i ni Odosarete Imasu.: Spain-hen",
+      "native": "劇場版 抱かれたい男1位に脅されています。～スペイン編～"
+    },
+    "description": "Azumaya and Takato are set to star in “Blood Wedding,” a two-person play that incorporates flamenco dancing. Takato begins rehearsing but realizes how vast the skill difference is between him and Azumaya. So he decides to travel to Spain in order to learn about passion. Azumaya is still stuck in the part of his past when Takato said goodbye to him without giving him any say in the matter...\n<br><br>\n(Source: Crunchyroll)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx132545-nENYhlJhAohn.jpg",
+    "banner_url": "",
+    "schedule": "Musim: FALL 2021",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "FALL",
+    "year": 2021,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 78,
+    "status": "FINISHED",
+    "score": 74,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "updated_at": 1784246715
+  },
+  {
     "id": 132232,
     "id_mal": 48624,
     "url": "https://anilist.co/anime/132232",
@@ -2516,6 +3492,94 @@
       "Supernatural"
     ],
     "updated_at": 1783962141
+  },
+  {
+    "id": 131680,
+    "id_mal": 48585,
+    "url": "https://anilist.co/anime/131680",
+    "title": {
+      "english": "Black Clover: Sword of the Wizard King",
+      "romaji": "Black Clover: Mahou Tei no Ken",
+      "native": "ブラッククローバー 魔法帝の剣"
+    },
+    "description": "As a lionhearted boy who can’t wield magic strives for the title of Wizard King, four banished Wizard Kings of yore return to crush the Clover Kingdom.<br><br>\n(Source: Netflix)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx131680-gjs8mMQPmkOQ.png",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/131680-6jyC01S1Gila.jpg",
+    "schedule": "Musim: SPRING 2023",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "SPRING",
+    "year": 2023,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 113,
+    "status": "FINISHED",
+    "score": 80,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Fantasy"
+    ],
+    "updated_at": 1784246713
+  },
+  {
+    "id": 131573,
+    "id_mal": 48561,
+    "url": "https://anilist.co/anime/131573",
+    "title": {
+      "english": "JUJUTSU KAISEN 0",
+      "romaji": "Jujutsu Kaisen 0",
+      "native": "呪術廻戦 0"
+    },
+    "description": "Yuta Okkotsu is a nervous high school student who is suffering from a serious problem—his childhood friend Rika has turned into a curse and won't leave him alone. Since Rika is no ordinary curse, his plight is noticed by Satoru Gojo, a teacher at Jujutsu High, a school where fledgling exorcists learn how to combat curses. Gojo convinces Yuta to enroll, but can he learn enough in time to confront the curse that haunts him?\n<br><br>\n(Source: VIZ Media)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx131573-rpl82vDEDRm6.jpg",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/131573-3veuVz5p0z2I.jpg",
+    "schedule": "Musim: FALL 2021",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "FALL",
+    "year": 2021,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 105,
+    "status": "FINISHED",
+    "score": 83,
+    "genres": [
+      "Action",
+      "Supernatural"
+    ],
+    "updated_at": 1784246713
+  },
+  {
+    "id": 131520,
+    "id_mal": 48548,
+    "url": "https://anilist.co/anime/131520",
+    "title": {
+      "english": "The Quintessential Quintuplets Movie",
+      "romaji": "Go-toubun no Hanayome Movie",
+      "native": "映画 五等分の花嫁"
+    },
+    "description": "A sequel film to <i>Go-toubun no Hanayome ∬</i>. <br><br>\nWhen five lovely young girls who hate studying hire part-time tutor Futaro, he guides not only their education but also their hearts. Time spent has brought them all closer, with feelings growing within the girls and Futaro. As they finish their third year of high school and their last school festival approaches, they set their sights on what’s next. Is there a future with one of them and Futaro?  <br><br> \n(Source: Crunchyroll)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx131520-89Qfo8JnGHI3.png",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/131520-0zIxc7ANJThw.jpg",
+    "schedule": "Musim: SPRING 2022",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "SPRING",
+    "year": 2022,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 136,
+    "status": "FINISHED",
+    "score": 78,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance",
+      "Slice of Life"
+    ],
+    "updated_at": 1784246712
   },
   {
     "id": 130622,
@@ -2694,6 +3758,37 @@
     "updated_at": 1783948413
   },
   {
+    "id": 128740,
+    "id_mal": 46420,
+    "url": "https://anilist.co/anime/128740",
+    "title": {
+      "english": "The Seven Deadly Sins: Cursed by Light",
+      "romaji": "Nanatsu no Taizai: Hikari ni Norowareshi Mono-tachi",
+      "native": "七つの大罪 光に呪われし者たち"
+    },
+    "description": "Taking place in-between the final two episodes of <i>Nanatsu no Taizai: Fundo no Shinpan</i>, Meliodas and his friends jump back into action when the new era of peace is threatened by a powerful magical alliance that could spell the end for all. The original film also adapts the manga's last chapter.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx128740-xpjfCO2kpFdz.png",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/128740-S637ZLKVe6S9.jpg",
+    "schedule": "Musim: SUMMER 2021",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "SUMMER",
+    "year": 2021,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 80,
+    "status": "FINISHED",
+    "score": 70,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Ecchi",
+      "Fantasy"
+    ],
+    "updated_at": 1784246707
+  },
+  {
     "id": 128207,
     "id_mal": 45649,
     "url": "https://anilist.co/anime/128207",
@@ -2748,7 +3843,7 @@
       "Mystery",
       "Sci-Fi"
     ],
-    "updated_at": 1784242996
+    "updated_at": 1784246705
   },
   {
     "id": 126649,
@@ -2809,6 +3904,36 @@
     "updated_at": 1783962141
   },
   {
+    "id": 124140,
+    "id_mal": 42916,
+    "url": "https://anilist.co/anime/124140",
+    "title": {
+      "english": "Sword Art Online the Movie -Progressive- Aria of a Starless Night",
+      "romaji": "Sword Art Online: Progressive - Hoshinaki Yoru no Aria",
+      "native": "劇場版 ソードアート・オンライン プログレッシブ 星なき夜のアリア"
+    },
+    "description": "Return to the death game where it all began—Sword Art Online. In this new Aincrad Arc by original creator Reki Kawahara, the story is seen through Asuna’s eyes. What at first seems like a dream come true quickly becomes a nightmare when newbie gamer Asuna Yuuki learns the only way to escape the virtual world of Aincrad is to beat all 100 levels—but “Game Over” means you die in the real world. <br><br>\n(Source: Crunchyroll)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx124140-HNL0CpH6ig6y.png",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/124140-rkA3sbYSFSo9.jpg",
+    "schedule": "Musim: FALL 2021",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "FALL",
+    "year": 2021,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 97,
+    "status": "FINISHED",
+    "score": 78,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy",
+      "Romance"
+    ],
+    "updated_at": 1784246699
+  },
+  {
     "id": 124132,
     "id_mal": 42894,
     "url": "https://anilist.co/anime/124132",
@@ -2837,6 +3962,34 @@
       "Supernatural"
     ],
     "updated_at": 1783948385
+  },
+  {
+    "id": 123899,
+    "id_mal": 42847,
+    "url": "https://anilist.co/anime/123899",
+    "title": {
+      "english": "Sing a Bit of Harmony",
+      "romaji": "Ai no Utagoe wo Kikasete",
+      "native": "アイの歌声を聴かせて"
+    },
+    "description": "When the beautiful and mysterious Shion transfers to Keibu High School, she quickly becomes popular for her open-hearted personality and exceptional athletic talent… but she turns out to be an AI in the testing phase! Shion’s goal is to bring chronic loner Satomi \"happiness\". But her strategy is something no human would expect: she serenades Satomi in the middle of the classroom.<br>\n<br>\nAfter finding out that Shion is an AI, Satomi and her childhood friend, engineering geek Touma, steadily warm up to the new student. Along with the popular and attractive Gocchan, the strong-willed Aya, and judo club member \"Thunder\", they become more and more moved by Shion’s singing voice and earnestness even as her antics bewilder them. But what Shion does for Satomi’s sake ends up involving them all in some serious pandemonium…<br>\n<br>\n(Source: Funimation)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx123899-AimlRWzAqpHC.jpg",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/123899-tPrvw6W9hBW6.jpg",
+    "schedule": "Musim: FALL 2021",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "FALL",
+    "year": 2021,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 109,
+    "status": "FINISHED",
+    "score": 75,
+    "genres": [
+      "Music",
+      "Sci-Fi"
+    ],
+    "updated_at": 1784246698
   },
   {
     "id": 121114,
@@ -2921,6 +4074,89 @@
       "Mystery"
     ],
     "updated_at": 1783944122
+  },
+  {
+    "id": 117765,
+    "id_mal": 41782,
+    "url": "https://anilist.co/anime/117765",
+    "title": {
+      "english": "",
+      "romaji": "BanG Dream! Poppin' Dream!",
+      "native": "BanG Dream! ぽっぴん'どりーむ!"
+    },
+    "description": "After performing at the Budokan Live, the stage of their dreams, a mysterious woman appears before Kasumi and the others.\n<br><br>Poppin'Party's next stage will be... overseas?!",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx117765-R9vazugUMUE0.jpg",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/117765-hh20BZbBRwBw.jpg",
+    "schedule": "Musim: WINTER 2022",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "WINTER",
+    "year": 2022,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 70,
+    "status": "FINISHED",
+    "score": 78,
+    "genres": [
+      "Music"
+    ],
+    "updated_at": 1784246684
+  },
+  {
+    "id": 117764,
+    "id_mal": 41781,
+    "url": "https://anilist.co/anime/117764",
+    "title": {
+      "english": "BanG Dream! Episode of Roselia II: Song I am",
+      "romaji": "BanG Dream! Episode of Roselia II: Song I am.",
+      "native": "BanG Dream! Episode of Roselia II: Song I am."
+    },
+    "description": "After overcoming numerous tribulations, the members of Roselia promised to appear on FUTURE WORLD FES.\n<br>It is now Autumn...\n<br><br>\nThrough writing the lyrics of \"Promise,\" Lisa has matured. Watching the change of color in the autumn leaves, Yukina and Sayo expressed their resolve in a picture letter to their future selves. Driven by the wish to do something for Roselia, Rinko has started to compose a new song. \"The remaining quests are the contest, the tournament, and FUTURE WORLD FES...\" Reflecting on their goals, Ako starts to feel anxious.\n<br><br>\nWhat view will the five of them see beyond FUTURE WORLD FES? <br>\n<br>\n(Source: Bang Dream Official Site)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx117764-oRXvH4cc5Ux2.jpg",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/117764-XG52GZWSmM4k.jpg",
+    "schedule": "Musim: SUMMER 2021",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "SUMMER",
+    "year": 2021,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 71,
+    "status": "FINISHED",
+    "score": 79,
+    "genres": [
+      "Music"
+    ],
+    "updated_at": 1784246684
+  },
+  {
+    "id": 117556,
+    "id_mal": 41674,
+    "url": "https://anilist.co/anime/117556",
+    "title": {
+      "english": "",
+      "romaji": "ARIA The CREPUSCOLO",
+      "native": "ARIA The CREPUSCOLO"
+    },
+    "description": "The season is fall and the city of Neo-Venezia is covered in fallen leaves. Something is bothering Anya, who works at Orange Planet. Her senior colleagues Alice and Athena haven’t seen each other due to their busy schedules, which is making Athena feel sad. But for some reason, Alice seems to be avoiding her altogether. With her friends Ai and Azusa’s help, Anya tries to find a definitive way for Alice and Athena to get together. But during this time, Anya learns of a situation that only she can see because of where she stands.<br>\n<br>\n(Source: Shochiku Films)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx117556-SbGBjNw0MDp2.jpg",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/117556-JG7Z5kTjJAAz.jpg",
+    "schedule": "Musim: WINTER 2021",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "WINTER",
+    "year": 2021,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 60,
+    "status": "FINISHED",
+    "score": 78,
+    "genres": [
+      "Fantasy",
+      "Sci-Fi",
+      "Slice of Life"
+    ],
+    "updated_at": 1784246684
   },
   {
     "id": 116069,
@@ -3094,7 +4330,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1783962141
+    "updated_at": 1784246679
   },
   {
     "id": 114564,
