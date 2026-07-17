@@ -9063,5 +9063,33 @@
       "Sci-Fi"
     ],
     "updated_at": 1783950924
+  },
+  {
+    "id": 6504,
+    "id_mal": null,
+    "url": "https://anilist.co/anime/6504",
+    "title": {
+      "english": "",
+      "romaji": "Despera",
+      "native": "ですぺら"
+    },
+    "description": "The story centers around Ain, a 14-year-old girl who builds devices despite the lack of the scientific background required for them. \n<br><br>\nThe science-fiction story is set in Japan's Taisho era in 1922 — one year before the 1923 Great Kanto earthquake in the Tokyo area.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx6504-hZ8PYSEFN8l7.jpg",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/6504-gHr7UdQ57oD1.jpg",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "TV",
+    "episodes": null,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Drama",
+      "Sci-Fi"
+    ],
+    "updated_at": 1784312307
   }
 ]
