@@ -195,7 +195,7 @@
       "Comedy",
       "Romance"
     ],
-    "updated_at": 1784246844
+    "updated_at": 1784297599
   },
   {
     "id": 214044,
@@ -416,6 +416,31 @@
     "score": null,
     "genres": [],
     "updated_at": 1784253710
+  },
+  {
+    "id": 213877,
+    "id_mal": 64555,
+    "url": "https://anilist.co/anime/213877",
+    "title": {
+      "english": "",
+      "romaji": "MURCIÉLAGO",
+      "native": "ムルシエラゴ"
+    },
+    "description": "Mass murderers may not have much by way of career skills, but Kuroko Koumori seems to have landed her dream job as a hitwoman for the Tokyo police! A license to kill other killers? That's some serious job satisfaction, right there!<br>\n<br>\n(Source: Yen Press)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx213877-FNlcMmE3UgeL.jpg",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "TV",
+    "episodes": null,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [],
+    "updated_at": 1784297606
   },
   {
     "id": 213873,
@@ -984,7 +1009,7 @@
       "Action",
       "Comedy"
     ],
-    "updated_at": 1784246843
+    "updated_at": 1784297602
   },
   {
     "id": 213581,
@@ -1012,7 +1037,7 @@
       "Comedy",
       "Romance"
     ],
-    "updated_at": 1784268121
+    "updated_at": 1784297606
   },
   {
     "id": 213580,
@@ -1042,7 +1067,7 @@
       "Fantasy",
       "Supernatural"
     ],
-    "updated_at": 1784253710
+    "updated_at": 1784297606
   },
   {
     "id": 213579,
@@ -1216,7 +1241,7 @@
       "Comedy",
       "Romance"
     ],
-    "updated_at": 1784246842
+    "updated_at": 1784297606
   },
   {
     "id": 213396,
@@ -1423,7 +1448,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784246842
+    "updated_at": 1784297603
   },
   {
     "id": 213067,
@@ -1849,6 +1874,36 @@
       "Fantasy"
     ],
     "updated_at": 1784246842
+  },
+  {
+    "id": 212391,
+    "id_mal": 64213,
+    "url": "https://anilist.co/anime/212391",
+    "title": {
+      "english": "",
+      "romaji": "GIGANT",
+      "native": "GIGANT"
+    },
+    "description": "Rei dreams of becoming a big-ticket film director, but when he stumbles into a chance meeting with a busty adult film star, his high school life takes a turn for the strange. Not only does his favorite porn star like him, she gains the power to grow to an enormous, towering size! Is alien technology to blame? Time travel? The end of the world? All manner of bizarre trouble lies ahead, and a gigantic, gorgeous woman is just the tip of the iceberg!\n<br><br>\n(Source: Seven Seas Entertainment)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b212391-g1dD510WO9Hz.png",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Drama",
+      "Ecchi",
+      "Romance",
+      "Sci-Fi"
+    ],
+    "updated_at": 1784297606
   },
   {
     "id": 212272,
@@ -2368,7 +2423,7 @@
       "Romance",
       "Thriller"
     ],
-    "updated_at": 1784286117
+    "updated_at": 1784297606
   },
   {
     "id": 209984,
@@ -2631,7 +2686,7 @@
       "Comedy",
       "Romance"
     ],
-    "updated_at": 1784253710
+    "updated_at": 1784297603
   },
   {
     "id": 209499,
@@ -2748,6 +2803,38 @@
       "Fantasy"
     ],
     "updated_at": 1784286117
+  },
+  {
+    "id": 209219,
+    "id_mal": 63712,
+    "url": "https://anilist.co/anime/209219",
+    "title": {
+      "english": "",
+      "romaji": "Tensei Goblin Dakedo Shitsumon Aru?",
+      "native": "転生ゴブリンだけど質問ある？"
+    },
+    "description": "Office worker Akira Yagami’s altruistic nature usually gets him the short end of the stick. When he dies after saving a kid from oncoming traffic...he reincarnates in another world as a goblin?! Normally, goblins only live for seven days, but Akira’s newfound powers let him defy the species’ normal life span...and are the key to his path to becoming the strongest goblin ever!\n<br><br>\n(Source: Yen Press)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx209219-vU7uIlcKmVlW.jpg",
+    "banner_url": "",
+    "schedule": "Musim: FALL 2026",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "FALL",
+    "year": 2026,
+    "format": "TV",
+    "episodes": null,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Drama",
+      "Fantasy",
+      "Romance"
+    ],
+    "updated_at": 1784297606
   },
   {
     "id": 209032,
@@ -2951,6 +3038,36 @@
     "updated_at": 1784268093
   },
   {
+    "id": 207329,
+    "id_mal": 63431,
+    "url": "https://anilist.co/anime/207329",
+    "title": {
+      "english": "",
+      "romaji": "Tsuihou Sareta Cheat Fuyo Majutsushi wa Kimama na Second Life wo Ouka Suru.: Ore wa Buki dake ja Naku, Arayuru Mono ni \"Kyouka Point\" wo Fuyo Dekiru shi, Ore no Ishi de Itsudemo Kouka wo Kaijo Dekiru kedo, Nokotta Hitotachi Daijoubu?",
+      "native": "追放されたチート付与魔術師は気ままなセカンドライフを謳歌する。　～俺は武器だけじゃなく、あらゆるものに『強化ポイント』を付与できるし、俺の意思でいつでも効果を解除できるけど、残った人たち大丈夫？～"
+    },
+    "description": "Rain Garland, an enchantment mage belonging to the ‘Fangs of the Royal Beast’, one of the continent's five great guilds, was suddenly expelled from the guild one day. Filled with bitter disappointment at being betrayed by those he trusted, Rain retrieved all the Enhancement Points he had placed on the guild's armor. He then tried applying them to his own sword and clothes instead the cheap copper sword gained destructive power rivaling legendary blades, and the simple cloth garments gained defense comparable to orichalcum!? Moreover, Rain's enchantment magic held a cheat-level secret that allowed it to evolve even further!?<br><br>\nAfter meeting new companions like the renowned beautiful knight Lily, who came upon hearing rumors of Rain, and the noble lady Martina, a candidate for the title of Hero, Rain begins to grow into a great adventurer...!?<br><br>(Source: Kodansha, translated)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx207329-SsC5hikUQJ4I.jpg",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/207329-9IqRSKIsM3TC.jpg",
+    "schedule": "Musim: FALL 2026",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "FALL",
+    "year": 2026,
+    "format": "TV",
+    "episodes": null,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Fantasy",
+      "Slice of Life"
+    ],
+    "updated_at": 1784297606
+  },
+  {
     "id": 207328,
     "id_mal": 63424,
     "url": "https://anilist.co/anime/207328",
@@ -3007,6 +3124,34 @@
       "Romance"
     ],
     "updated_at": 1784268096
+  },
+  {
+    "id": 207251,
+    "id_mal": 63419,
+    "url": "https://anilist.co/anime/207251",
+    "title": {
+      "english": "",
+      "romaji": "Mairimashita! Iruma-kun: If Episode of Mafia",
+      "native": "魔入りました！入間くん if Episode of 魔フィア"
+    },
+    "description": "In this brand-new spinoff of the runaway hit series, Iruma is a dirt-poor but kind young boy who grows up in a ruthless city slum. One day, Iruma gives a severely injured old man his last loaf of bread and nurses the stranger back to health—only to find out that the elder gent is none other than Don Sullivan, leader of the Babel Mafia! Soon after, Don Sullivan comes back, whisks Iruma away, and begs the boy to become his grandson. And just like that, the curtains rise on Iruma’s chaotic new life as the next in line to a gigantic gang of—dare we say<i>demonic</i> mafiosos!\n<br><br>\n(Source: Kodansha USA)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx207251-szD9KkC2G4nx.jpg",
+    "banner_url": "",
+    "schedule": "Musim: WINTER 2027",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "WINTER",
+    "year": 2027,
+    "format": "TV",
+    "episodes": null,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Action",
+      "Comedy"
+    ],
+    "updated_at": 1784297606
   },
   {
     "id": 207191,
@@ -3260,7 +3405,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784275323
+    "updated_at": 1784297606
   },
   {
     "id": 205619,
@@ -3552,7 +3697,7 @@
       "Sci-Fi",
       "Supernatural"
     ],
-    "updated_at": 1784246837
+    "updated_at": 1784297606
   },
   {
     "id": 204579,
@@ -3637,7 +3782,7 @@
     "genres": [
       "Slice of Life"
     ],
-    "updated_at": 1784246836
+    "updated_at": 1784297606
   },
   {
     "id": 204429,
@@ -3696,7 +3841,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784275323
+    "updated_at": 1784297606
   },
   {
     "id": 204363,
@@ -3724,7 +3869,7 @@
       "Action",
       "Comedy"
     ],
-    "updated_at": 1784268121
+    "updated_at": 1784297606
   },
   {
     "id": 204362,
@@ -3980,7 +4125,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784286117
+    "updated_at": 1784297606
   },
   {
     "id": 203129,
@@ -4093,7 +4238,7 @@
       "Ecchi",
       "Romance"
     ],
-    "updated_at": 1784246836
+    "updated_at": 1784297603
   },
   {
     "id": 202503,
@@ -4733,7 +4878,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784282525
+    "updated_at": 1784297606
   },
   {
     "id": 199185,
@@ -4909,6 +5054,36 @@
     "updated_at": 1784289619
   },
   {
+    "id": 198696,
+    "id_mal": 60563,
+    "url": "https://anilist.co/anime/198696",
+    "title": {
+      "english": "",
+      "romaji": "Ye De Ming Ming Shu",
+      "native": "夜的命名术"
+    },
+    "description": "After a difficult upbringing, Qingchen's life takes a drastic turn when a mysterious countdown emerges on his arm. He is taken to Prison No. 18, a dangerous parallel universe, when it reaches zero. He overcomes severe adversity and gains the respect of the demigod Li Shutong by using his cunning and bravery. He then becomes his disciple and embarks on a journey of genuine transformation.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b198696-r3AyjpgccVlc.jpg",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "ONA",
+    "episodes": 12,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Mystery",
+      "Sci-Fi"
+    ],
+    "updated_at": 1784297606
+  },
+  {
     "id": 198692,
     "id_mal": 62469,
     "url": "https://anilist.co/anime/198692",
@@ -5080,7 +5255,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784253677
+    "updated_at": 1784297606
   },
   {
     "id": 195703,
@@ -6039,6 +6214,35 @@
     "updated_at": 1784246821
   },
   {
+    "id": 187316,
+    "id_mal": 61140,
+    "url": "https://anilist.co/anime/187316",
+    "title": {
+      "english": "",
+      "romaji": "Gensou Suikoden",
+      "native": "幻想水滸伝"
+    },
+    "description": "During Suikoden Live Broadcast, Konami announced <i>Suikoden: The Anime</i>, an anime adaptation of <i>Suikoden II</i>. <i>Suikoden: The Anime</i> will be the first anime series directly handled by Konami Animation.<br><br>\n(Source: finalweapon.net)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx187316-GUxnlngO2dR2.jpg",
+    "banner_url": "",
+    "schedule": "Musim: FALL 2026",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "FALL",
+    "year": 2026,
+    "format": "TV",
+    "episodes": null,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "updated_at": 1784297606
+  },
+  {
     "id": 187261,
     "id_mal": 61125,
     "url": "https://anilist.co/anime/187261",
@@ -6065,7 +6269,7 @@
       "Drama",
       "Sports"
     ],
-    "updated_at": 1784282525
+    "updated_at": 1784297606
   },
   {
     "id": 186822,
@@ -6431,7 +6635,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784275323
+    "updated_at": 1784297599
   },
   {
     "id": 185543,
@@ -6490,7 +6694,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784246812
+    "updated_at": 1784297606
   },
   {
     "id": 184376,
@@ -7010,7 +7214,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784246795
+    "updated_at": 1784297606
   },
   {
     "id": 177704,
@@ -8022,6 +8226,35 @@
       "Mahou Shoujo"
     ],
     "updated_at": 1784246721
+  },
+  {
+    "id": 137669,
+    "id_mal": 49566,
+    "url": "https://anilist.co/anime/137669",
+    "title": {
+      "english": "",
+      "romaji": "Nuan Yang",
+      "native": "暖阳"
+    },
+    "description": "I wish to have you by my left shoulder, with a smile by my right—I wish to run freely in your eyes. —I wish for one look to last a lifetime.\n<br><br>\nJiang Cheng, an accomplished student, was \"exiled\" to the steel mill where his biological father worked. This strange, foreign environment, coupled with his rather vulgar biological father, caused Jiang Cheng to feel quite depressed. That is, until one day, he met Gu Fei, the \"Delinquent of the Steel Mill\", by chance. Thus begins the story of Jiang Cheng and Gu Fei, a story of salvation and hope.\n<br><br>\n(Source: Kuaikan Manhua, translated)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx137669-hypWN4LENotQ.jpg",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "ONA",
+    "episodes": null,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Drama",
+      "Psychological",
+      "Slice of Life"
+    ],
+    "updated_at": 1784297606
   },
   {
     "id": 133904,

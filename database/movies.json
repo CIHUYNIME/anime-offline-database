@@ -50,7 +50,7 @@
     "status": "FINISHED",
     "score": null,
     "genres": [],
-    "updated_at": 1784275323
+    "updated_at": 1784297606
   },
   {
     "id": 214071,
@@ -289,12 +289,42 @@
     "episodes": 1,
     "duration": 12,
     "status": "FINISHED",
-    "score": null,
+    "score": 55,
     "genres": [
       "Drama",
       "Supernatural"
     ],
-    "updated_at": 1784246843
+    "updated_at": 1784297606
+  },
+  {
+    "id": 212391,
+    "id_mal": 64213,
+    "url": "https://anilist.co/anime/212391",
+    "title": {
+      "english": "",
+      "romaji": "GIGANT",
+      "native": "GIGANT"
+    },
+    "description": "Rei dreams of becoming a big-ticket film director, but when he stumbles into a chance meeting with a busty adult film star, his high school life takes a turn for the strange. Not only does his favorite porn star like him, she gains the power to grow to an enormous, towering size! Is alien technology to blame? Time travel? The end of the world? All manner of bizarre trouble lies ahead, and a gigantic, gorgeous woman is just the tip of the iceberg!\n<br><br>\n(Source: Seven Seas Entertainment)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b212391-g1dD510WO9Hz.png",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Drama",
+      "Ecchi",
+      "Romance",
+      "Sci-Fi"
+    ],
+    "updated_at": 1784297606
   },
   {
     "id": 212105,
@@ -1889,6 +1919,35 @@
     "updated_at": 1784289672
   },
   {
+    "id": 178782,
+    "id_mal": 59190,
+    "url": "https://anilist.co/anime/178782",
+    "title": {
+      "english": "",
+      "romaji": "Genjitsu no Yohane: SUNSHINE in the MIRROR Movie",
+      "native": "幻日のヨハネ -SUNSHINE in the MIRROR- 劇場総集編"
+    },
+    "description": "Theatrical compilation of <i>Genjitsu no Yohane: Sunshine in the Mirror</i> announced during the <i>Love Live! Sunshine! Aqours 9th Anniversary Project Presentation</i>.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178782-mku5CEwIWOhO.jpg",
+    "banner_url": "",
+    "schedule": "Musim: FALL 2024",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "FALL",
+    "year": 2024,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 89,
+    "status": "FINISHED",
+    "score": 62,
+    "genres": [
+      "Fantasy",
+      "Music",
+      "Slice of Life"
+    ],
+    "updated_at": 1784297606
+  },
+  {
     "id": 178774,
     "id_mal": 59186,
     "url": "https://anilist.co/anime/178774",
@@ -2114,6 +2173,36 @@
     "updated_at": 1783962141
   },
   {
+    "id": 176470,
+    "id_mal": 58549,
+    "url": "https://anilist.co/anime/176470",
+    "title": {
+      "english": "",
+      "romaji": "30-sai made Doutei da to Mahou Tsukai ni Nareru Rashii: Tokubetsu-hen",
+      "native": "30歳まで童貞だと魔法使いになれるらしい 特別編"
+    },
+    "description": "Movie compiling <i>30-sai made Doutei da to Mahou Tsukai ni Nareru Rashii</i> which also has new footage content not in the TV anime.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176470-PAF5APQWvjfK.png",
+    "banner_url": "",
+    "schedule": "Musim: FALL 2024",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "FALL",
+    "year": 2024,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 60,
+    "status": "FINISHED",
+    "score": 67,
+    "genres": [
+      "Comedy",
+      "Romance",
+      "Slice of Life",
+      "Supernatural"
+    ],
+    "updated_at": 1784297606
+  },
+  {
     "id": 176373,
     "id_mal": 63973,
     "url": "https://anilist.co/anime/176373",
@@ -2336,7 +2425,7 @@
       "Comedy",
       "Slice of Life"
     ],
-    "updated_at": 1784286117
+    "updated_at": 1784297606
   },
   {
     "id": 173935,
@@ -2684,7 +2773,7 @@
       "Comedy",
       "Slice of Life"
     ],
-    "updated_at": 1784275323
+    "updated_at": 1784297606
   },
   {
     "id": 166975,
@@ -3380,7 +3469,7 @@
       "Slice of Life",
       "Supernatural"
     ],
-    "updated_at": 1784282824
+    "updated_at": 1784297606
   },
   {
     "id": 158621,
@@ -4024,6 +4113,33 @@
     "updated_at": 1784268121
   },
   {
+    "id": 145442,
+    "id_mal": 57677,
+    "url": "https://anilist.co/anime/145442",
+    "title": {
+      "english": "",
+      "romaji": "BIBLIOMANIA",
+      "native": "BIBLIOMANIA"
+    },
+    "description": "A reimagination of Alice in Wonderland set in modern Japan dealing with themes of bullying, lack of work, household breakdown, child care issues, social media addiction, etc.\n<br><br>\nThe animation uses a combination of pixilation, hand-drawn animation, and CG.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b145442-kJ9lus7GYQCa.png",
+    "banner_url": "",
+    "schedule": "Musim: SPRING 2013",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "SPRING",
+    "year": 2013,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 22,
+    "status": "FINISHED",
+    "score": 59,
+    "genres": [
+      "Fantasy"
+    ],
+    "updated_at": 1784297600
+  },
+  {
     "id": 144687,
     "id_mal": 50963,
     "url": "https://anilist.co/anime/144687",
@@ -4286,6 +4402,36 @@
     "updated_at": 1784289675
   },
   {
+    "id": 140999,
+    "id_mal": 50275,
+    "url": "https://anilist.co/anime/140999",
+    "title": {
+      "english": "Sword Art Online the Movie -Progressive- Scherzo of Deep Night",
+      "romaji": "Sword Art Online: Progressive - Kuraki Yuuyami no Scherzo",
+      "native": "劇場版 ソードアート・オンライン プログレッシブ 冥き夕闇のスケルツォ"
+    },
+    "description": "Theatrical follow-up to <i>Sword Art Online: Progressive - Hoshinaki Yoru no Aria</i>. <br><br>\nThis may be a game, but it's not something you play.\n<br><br>\nThe world's first VRMMORPG (Sword Art Online) became a game of death. Over a month has passed since 10,000 users were trapped inside the game world. Asuna, who cleared the first floor of the floating iron castle of Aincrad, joined up with Kirito and continued her journey to reach the top floor. With the support of female Information Broker Argo, clearing the floors seemed to be progressing smoothly, but…\n<br><br>\nConflict erupts between two major guilds who should be working together – the top player groups ALS (the Aincrad Liberation Squad) and DKB (the Dragon Knights Brigade). And meanwhile, behind the scenes exists a mysterious figure pulling the strings….\n<br><br>\nIn a dangerous battle of death, there is an assault that differs from the threat, and it will involve Asuna and Kirito…!<br><br>\n(Source: Aniplex)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx140999-8nRYAPkywhbl.jpg",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/140999-5HOS2XYm1mVK.jpg",
+    "schedule": "Musim: FALL 2022",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "FALL",
+    "year": 2022,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 100,
+    "status": "FINISHED",
+    "score": 76,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy",
+      "Romance"
+    ],
+    "updated_at": 1784297604
+  },
+  {
     "id": 140337,
     "id_mal": 50159,
     "url": "https://anilist.co/anime/140337",
@@ -4400,7 +4546,7 @@
       "Romance",
       "Sci-Fi"
     ],
-    "updated_at": 1784253703
+    "updated_at": 1784297606
   },
   {
     "id": 139310,
@@ -4543,7 +4689,7 @@
       "Comedy",
       "Drama"
     ],
-    "updated_at": 1784275323
+    "updated_at": 1784297606
   },
   {
     "id": 136192,
@@ -5268,7 +5414,7 @@
       "Mystery",
       "Sci-Fi"
     ],
-    "updated_at": 1784289658
+    "updated_at": 1784297606
   },
   {
     "id": 127227,
@@ -7284,7 +7430,7 @@
       "Fantasy",
       "Supernatural"
     ],
-    "updated_at": 1784286117
+    "updated_at": 1784297606
   },
   {
     "id": 116226,
@@ -7311,7 +7457,7 @@
     "genres": [
       "Fantasy"
     ],
-    "updated_at": 1784286117
+    "updated_at": 1784297606
   },
   {
     "id": 116069,
@@ -7514,7 +7660,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1783948350
+    "updated_at": 1784297606
   },
   {
     "id": 114129,
@@ -7798,7 +7944,7 @@
       "Music",
       "Psychological"
     ],
-    "updated_at": 1784289893
+    "updated_at": 1784297601
   },
   {
     "id": 113023,
@@ -8109,7 +8255,7 @@
       "Drama",
       "Slice of Life"
     ],
-    "updated_at": 1784290136
+    "updated_at": 1784297606
   },
   {
     "id": 112023,
@@ -8499,6 +8645,33 @@
       "Sports"
     ],
     "updated_at": 1784290490
+  },
+  {
+    "id": 111128,
+    "id_mal": 35395,
+    "url": "https://anilist.co/anime/111128",
+    "title": {
+      "english": "At the Circus",
+      "romaji": "Manga Misemono kenbutsu",
+      "native": "漫画 見世物見物"
+    },
+    "description": "Two girls were watching a street performer. The girls sang out loud and the performer brought them up front so that they could sing for the audience. Originally, this work was a record talkie (silent film with synchronized sound on disc). However, with the record now missing, the lyrics and tunes are unknown.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b111128-UPqINKu67tJr.png",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 3,
+    "status": "FINISHED",
+    "score": 36,
+    "genres": [
+      "Comedy"
+    ],
+    "updated_at": 1784297606
   },
   {
     "id": 110900,
@@ -9552,7 +9725,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784291248
+    "updated_at": 1784297606
   },
   {
     "id": 108577,
@@ -9611,7 +9784,7 @@
       "Action",
       "Sci-Fi"
     ],
-    "updated_at": 1784291276
+    "updated_at": 1784297606
   },
   {
     "id": 108487,
@@ -10409,7 +10582,7 @@
       "Fantasy",
       "Sci-Fi"
     ],
-    "updated_at": 1784292198
+    "updated_at": 1784297606
   },
   {
     "id": 106286,
@@ -10785,7 +10958,7 @@
       "Sci-Fi",
       "Thriller"
     ],
-    "updated_at": 1784242996
+    "updated_at": 1784297606
   },
   {
     "id": 104867,
@@ -11468,7 +11641,7 @@
       "Horror",
       "Mystery"
     ],
-    "updated_at": 1783947321
+    "updated_at": 1784297606
   },
   {
     "id": 104286,
@@ -12551,7 +12724,7 @@
       "Action",
       "Fantasy"
     ],
-    "updated_at": 1783947595
+    "updated_at": 1784297606
   },
   {
     "id": 103221,
@@ -14416,7 +14589,7 @@
       "Comedy",
       "Mystery"
     ],
-    "updated_at": 1783949345
+    "updated_at": 1784297601
   },
   {
     "id": 101344,
@@ -14913,7 +15086,7 @@
       "Fantasy",
       "Slice of Life"
     ],
-    "updated_at": 1783950260
+    "updated_at": 1784297606
   },
   {
     "id": 100744,
@@ -14972,7 +15145,7 @@
       "Drama",
       "Sci-Fi"
     ],
-    "updated_at": 1783950283
+    "updated_at": 1784297603
   },
   {
     "id": 100675,
@@ -15180,7 +15353,7 @@
       "Fantasy",
       "Mystery"
     ],
-    "updated_at": 1784286117
+    "updated_at": 1784297606
   },
   {
     "id": 100361,
@@ -15408,7 +15581,7 @@
       "Fantasy",
       "Sci-Fi"
     ],
-    "updated_at": 1783950802
+    "updated_at": 1784297606
   },
   {
     "id": 100178,
@@ -15578,7 +15751,7 @@
       "Comedy",
       "Drama"
     ],
-    "updated_at": 1783951014
+    "updated_at": 1784297606
   },
   {
     "id": 99750,
@@ -15811,6 +15984,33 @@
     "updated_at": 1784253709
   },
   {
+    "id": 99197,
+    "id_mal": 35425,
+    "url": "https://anilist.co/anime/99197",
+    "title": {
+      "english": "Laughing Under the Clouds: Gaiden Part 3",
+      "romaji": "Donten ni Warau Gaiden: Ouka, Tenbou no Kakehashi",
+      "native": "曇天に笑う＜外伝＞ ～桜華、天望の架橋～"
+    },
+    "description": "The third part in an anime film trilogy adaptation of the <i>Donten ni Warau Gaiden</i> spinoff manga.\n<br><br>\nOne day, Soramaru is attacked by a mysterious man with large snake scales. The mysterious man somewhat resembles Tenka and demands to know where Tenka is. Soramaru later finds that this man was the result of an experiment using cells of the Orochi. While Soramaru and members of the Yamainu search for answers, they will uncover many secrets, and fight old friends along the way in search of the truth. \n<br><br>\n(Source: Eleven Arts)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx99197-7wj0FlYEi1UW.jpg",
+    "banner_url": "",
+    "schedule": "Musim: SUMMER 2018",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "SUMMER",
+    "year": 2018,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 58,
+    "status": "FINISHED",
+    "score": 69,
+    "genres": [
+      "Action"
+    ],
+    "updated_at": 1784297606
+  },
+  {
     "id": 98884,
     "id_mal": 35110,
     "url": "https://anilist.co/anime/98884",
@@ -15866,7 +16066,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784289655
+    "updated_at": 1784297606
   },
   {
     "id": 98873,
@@ -16069,6 +16269,37 @@
       "Sci-Fi"
     ],
     "updated_at": 1784242996
+  },
+  {
+    "id": 98402,
+    "id_mal": 34962,
+    "url": "https://anilist.co/anime/98402",
+    "title": {
+      "english": "Digimon Adventure tri. Chapter 5: Coexistance",
+      "romaji": "Digimon Adventure tri. 5: Kyousei",
+      "native": "デジモンアドベンチャー tri. 第5章「共生」"
+    },
+    "description": "The fifth movie in the new <i>Digimon Adventure</i> series.<br><br>\nMeicoomon rampages after witnessing Meiko Mochizuki being injured by the man bearing Gennai's likeness. \"It would have been better if you hadn't been born...\" Meicoomon disappears into the Real World, which has since become distorted. Possessing overwhelming power, she's the key to the world's destruction.<br><br>\n(Source: Crunchyroll)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx98402-jXy8K00gwEPU.png",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/98402-tmWWWsBIrVOS.jpg",
+    "schedule": "Musim: SUMMER 2017",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "SUMMER",
+    "year": 2017,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 120,
+    "status": "FINISHED",
+    "score": 68,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Fantasy",
+      "Sci-Fi"
+    ],
+    "updated_at": 1784297606
   },
   {
     "id": 98384,
@@ -16359,7 +16590,7 @@
       "Mecha",
       "Sci-Fi"
     ],
-    "updated_at": 1783948350
+    "updated_at": 1784297606
   },
   {
     "id": 97858,
@@ -16422,6 +16653,61 @@
       "Supernatural"
     ],
     "updated_at": 1784275323
+  },
+  {
+    "id": 97661,
+    "id_mal": null,
+    "url": "https://anilist.co/anime/97661",
+    "title": {
+      "english": "",
+      "romaji": "Force of Will The Movie",
+      "native": ""
+    },
+    "description": "Six stories form \"Force of Will the Movie.\"<br>\n<br>\nCthulhu<br>\nThe first, \"L.S,\" is based on the Cthulhu mythos.<br>\nWhen letters written by a young girl, haunted by « Word » spread to all over the world, the evil tyrant who threatens the world makes its presence known...<br>\n<br>\nMonkey King<br>\nThe second is \"A Journey to the West\" inspired.<br>\n<br>\nZombie<br>\nThe third is zombie-themed.<br>\n<br>\nPinocchio<br>\nThe fourth is based on the classic Pinocchio story.<br>\n<br>\nRaam: The Bridge to Lanka<br>\nThe fifth is based on the Ramayana.<br>\n<br>\nDragon<br>\nThe sixth and last is an original fairy tale story with a parent and child.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/97661-UOxUTrJnW7cD.jpg",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/97661-Bg2CrpNQeP7B.png",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": null,
+    "status": "CANCELLED",
+    "score": null,
+    "genres": [],
+    "updated_at": 1784297614
+  },
+  {
+    "id": 97619,
+    "id_mal": 34021,
+    "url": "https://anilist.co/anime/97619",
+    "title": {
+      "english": "Lupin the IIIrd: Goemon's Blood Spray",
+      "romaji": "LUPIN THE IIIRD: Chikemuri no Ishikawa Goemon",
+      "native": "LUPIN THE IIIRD 血煙の石川五ェ門"
+    },
+    "description": "A yakuza boss hires Goemon Ishikawa, a modern day samurai, to protect him aboard his cruise ship casino. Everything goes sideways however when a terrifyingly powerful man— the so called “Ghost of Bermuda”— shows up to put world-famous thief Lupin in the ground... right when Lupin’s trying to rob the very same ship! With his employer dead in the ensuing chaos, Goemon’s honor is at stake, and the only way to preserve it is with blood.<br>\n<br>\nBut this opponent is like no other, and to make things right, Goemon may need to sharpen not only his sword, but himself as well! With a little help from Lupin and Jigen, of course.<br>\n<br>\n(Source: Discotek Media)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97619-DJWojwxLj8cn.jpg",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/97619-uh97gBtxbSrX.jpg",
+    "schedule": "Musim: WINTER 2017",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "WINTER",
+    "year": 2017,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 53,
+    "status": "FINISHED",
+    "score": 77,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Drama"
+    ],
+    "updated_at": 1784297641
   },
   {
     "id": 87458,
@@ -16811,6 +17097,37 @@
     "updated_at": 1783945899
   },
   {
+    "id": 21596,
+    "id_mal": 32551,
+    "url": "https://anilist.co/anime/21596",
+    "title": {
+      "english": "Digimon Adventure tri. Chapter 3: Confession",
+      "romaji": "Digimon Adventure tri. 3: Kokuhaku",
+      "native": "デジモンアドベンチャー tri. 第3章「告白」"
+    },
+    "description": "The third movie in the new <i>Digimon Adventure</i> series. <br><br>\nAfter seeing Meicoomon's abrupt transformation and killing of Leomon, Agumon and the other Digimon are kept isolated in Koushiro's office in order to prevent them from infection, but signs of infection begin to appear in Patamon.<br><br>\n(Source: Crunchyroll)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21596-KnjJA2qwVtdI.jpg",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/21596-9GRglt3LYkED.jpg",
+    "schedule": "Musim: SUMMER 2016",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "SUMMER",
+    "year": 2016,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 105,
+    "status": "FINISHED",
+    "score": 73,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Fantasy",
+      "Sci-Fi"
+    ],
+    "updated_at": 1784297606
+  },
+  {
     "id": 21519,
     "id_mal": 32281,
     "url": "https://anilist.co/anime/21519",
@@ -17021,7 +17338,7 @@
       "Romance",
       "Sci-Fi"
     ],
-    "updated_at": 1783945845
+    "updated_at": 1784297602
   },
   {
     "id": 21400,
@@ -17173,7 +17490,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1783951251
+    "updated_at": 1784297606
   },
   {
     "id": 21289,
@@ -17203,6 +17520,35 @@
       "Sports"
     ],
     "updated_at": 1783947867
+  },
+  {
+    "id": 21266,
+    "id_mal": 25805,
+    "url": "https://anilist.co/anime/21266",
+    "title": {
+      "english": "Pokémon the Movie: Hoopa and the Clash of Ages",
+      "romaji": "Pokémon The Movie XY: Ring no Chou Majin Hoopa",
+      "native": "ポケモン・ザ・ムービーXY 光輪の超魔神 フーパ"
+    },
+    "description": "When Ash, Pikachu, and their friends visit a desert city by the sea, they meet the Mythical Pokémon Hoopa, who has the ability to summon things-including people and Pokémon-through its magic ring. After a scary incident, they learn a story about a brave hero who stopped the rampage of a terrifying Pokémon long ago. Now, the threat that has been bottled up for years is in danger of breaking loose again! Can Ash help his new friend overcome the darkness within...or will a dangerous secret erupt into a clash of legends?<br>\n<br>\n(Source: VIZ Media)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21266-5okUsTjY5nJl.png",
+    "banner_url": "",
+    "schedule": "Musim: SUMMER 2015",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "SUMMER",
+    "year": 2015,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 78,
+    "status": "FINISHED",
+    "score": 64,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "updated_at": 1784297606
   },
   {
     "id": 21220,
@@ -18225,7 +18571,7 @@
       "Slice of Life",
       "Supernatural"
     ],
-    "updated_at": 1784282525
+    "updated_at": 1784297606
   },
   {
     "id": 20766,
@@ -18527,7 +18873,7 @@
       "Drama",
       "Fantasy"
     ],
-    "updated_at": 1784253706
+    "updated_at": 1784297606
   },
   {
     "id": 20559,
@@ -19111,6 +19457,35 @@
     "updated_at": 1784275315
   },
   {
+    "id": 17269,
+    "id_mal": 17269,
+    "url": "https://anilist.co/anime/17269",
+    "title": {
+      "english": "Harlock: Space Pirate",
+      "romaji": "Uchuu Kaizoku Captain Harlock",
+      "native": "宇宙海賊キャプテンハーロック"
+    },
+    "description": "Many years into the future, battle has been raging across the galaxies as 500 billion humans, whose forebears were exiled from Earth, plan to return to what is still called home. Forced to flee a ravaged Earth, humans have now depleted the corners of the galaxy to which they fled. Earth has now become the most valued and precious resource of all, controlled by the corrupt Gaia Coalition which governs the human race across the different galaxies. Captain Harlock and his trusted crew are the only hope mankind has of discovering the secrets that the Gaia have kept hidden.\n",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx17269-PTlucMYOYZWn.jpg",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/n17269-3gBPCOLabtCt.jpg",
+    "schedule": "Musim: FALL 2013",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "FALL",
+    "year": 2013,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 115,
+    "status": "FINISHED",
+    "score": 70,
+    "genres": [
+      "Action",
+      "Drama",
+      "Sci-Fi"
+    ],
+    "updated_at": 1784297598
+  },
+  {
     "id": 17113,
     "id_mal": 17113,
     "url": "https://anilist.co/anime/17113",
@@ -19164,7 +19539,7 @@
       "Action",
       "Supernatural"
     ],
-    "updated_at": 1784275320
+    "updated_at": 1784297606
   },
   {
     "id": 16870,
@@ -19256,7 +19631,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784282525
+    "updated_at": 1784297606
   },
   {
     "id": 16664,
@@ -19452,7 +19827,7 @@
       "Slice of Life",
       "Supernatural"
     ],
-    "updated_at": 1783962141
+    "updated_at": 1784297606
   },
   {
     "id": 15335,
@@ -19805,7 +20180,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784286117
+    "updated_at": 1784297606
   },
   {
     "id": 14175,
@@ -19834,7 +20209,7 @@
       "Drama",
       "Slice of Life"
     ],
-    "updated_at": 1784286117
+    "updated_at": 1784297606
   },
   {
     "id": 13709,
@@ -20119,6 +20494,34 @@
     "updated_at": 1784282525
   },
   {
+    "id": 12857,
+    "id_mal": 12857,
+    "url": "https://anilist.co/anime/12857",
+    "title": {
+      "english": "",
+      "romaji": "Star Driver THE MOVIE",
+      "native": "スタードライバー THE MOVIE"
+    },
+    "description": "Star Driver takes place on the fictional Southern Cross Isle. One night, a boy named Takuto washes up on shore swimming from the mainland. He later enrolls in Southern Cross High School as a freshman and makes new friends. <br><br>\n(Source: Official website)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx12857-1RQBIEeRVw3I.jpg",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/12857-cFZZdqIeytqC.jpg",
+    "schedule": "Musim: WINTER 2013",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "WINTER",
+    "year": 2013,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 150,
+    "status": "FINISHED",
+    "score": 64,
+    "genres": [
+      "Action",
+      "Mecha"
+    ],
+    "updated_at": 1784297606
+  },
+  {
     "id": 12783,
     "id_mal": 12783,
     "url": "https://anilist.co/anime/12783",
@@ -20177,7 +20580,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784268121
+    "updated_at": 1784297606
   },
   {
     "id": 12499,
@@ -20386,7 +20789,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784286117
+    "updated_at": 1784297606
   },
   {
     "id": 12001,
@@ -20479,7 +20882,7 @@
       "Psychological",
       "Thriller"
     ],
-    "updated_at": 1783947670
+    "updated_at": 1784297606
   },
   {
     "id": 11577,
@@ -21152,6 +21555,35 @@
     "updated_at": 1784275323
   },
   {
+    "id": 9751,
+    "id_mal": 9751,
+    "url": "https://anilist.co/anime/9751",
+    "title": {
+      "english": "Strike Witches: The Movie",
+      "romaji": "Strike Witches Movie",
+      "native": "ストライクウィッチーズ 劇場版"
+    },
+    "description": "In 1945, Yoshika Miyafuji, who lost her witch powers during the Strike Witches' last assignment, has been studying to become a doctor. Shizuka Hattori, one of her cadets in the Imperial Fuso Navy, then arrives to deliver a message: Yoshika is to be transferred for study abroad in Europe. <br><br>\nWhen their enemy reappears more powerful than ever, the Strike Witches must form up once again. But can they do it without Yoshika Miyafuji?<br><br>\n(Source: Kadokawa, Crunchyroll)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx9751-HZPD9Jz8pK12.jpg",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/9751-Ay33wplrvqbc.jpg",
+    "schedule": "Musim: SPRING 2012",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "SPRING",
+    "year": 2012,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 97,
+    "status": "FINISHED",
+    "score": 74,
+    "genres": [
+      "Action",
+      "Ecchi",
+      "Sci-Fi"
+    ],
+    "updated_at": 1784297606
+  },
+  {
     "id": 9544,
     "id_mal": 9544,
     "url": "https://anilist.co/anime/9544",
@@ -21529,7 +21961,7 @@
       "Action",
       "Supernatural"
     ],
-    "updated_at": 1784282525
+    "updated_at": 1784297606
   },
   {
     "id": 8246,
@@ -21557,7 +21989,7 @@
       "Action",
       "Comedy"
     ],
-    "updated_at": 1784282525
+    "updated_at": 1784297606
   },
   {
     "id": 8245,
@@ -21586,7 +22018,7 @@
       "Comedy",
       "Sports"
     ],
-    "updated_at": 1783944122
+    "updated_at": 1784297595
   },
   {
     "id": 8142,
@@ -21702,7 +22134,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784282525
+    "updated_at": 1784297606
   },
   {
     "id": 7472,
@@ -21907,6 +22339,61 @@
       "Supernatural"
     ],
     "updated_at": 1784282525
+  },
+  {
+    "id": 6795,
+    "id_mal": 6795,
+    "url": "https://anilist.co/anime/6795",
+    "title": {
+      "english": "",
+      "romaji": "Genius Party Beyond",
+      "native": "ジーニアスパーティービヨンド"
+    },
+    "description": "The sequel to Genius Party. It includes most of the films which were eventually finished but not included in the original Genius Party.<br><br>\n\n1.) <b>Gala</b> (directed by Mahiro Maeda)<br>\nA massive object lands near a village filled with strange creatures. A boy and girl sense that it is alive and when they start playing music it begins to grow.\n <br><br>\n2.) <b>Moondrive</b> (directed by Kazuto Nakazawa)<br>\nA group of violent criminals seek a rumored treasure on Giants Island, but after only finding huge disappointment, they destroy the entire island.\n <br><br>\n3.) <b>'Wanwa' the Doggy</b> (directed by Shinya Ohira)<br>\nWhile his mother prepares to give birth to another child, a child has vivid dreams revealing a bizarre mix of fears, hopes and joy.\n <br><br>\n4.) <b>Toujin Kit</b> (directed by Tatsuyuki Tanaka)<br>\nIn a steam punk world, a young woman illegally creates alien life forms inside stuffed animals, but the authorities eventually catch up with her.\n <br><br>\n5.) <b>Dimension Bomb</b> (directed by Kouji Morimoto)<br>\nAn eccentric young girl summons boy from another dimension but their relationship changes resulting in an explosion of visual pyrotechnics as they each follow their own destiny.\n <br><br>\n(Source: Wikipedia)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx6795-kJCWa2pHHa7s.jpg",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/6795-nfBGvne5dAm7.jpg",
+    "schedule": "Musim: FALL 2008",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "FALL",
+    "year": 2008,
+    "format": "MOVIE",
+    "episodes": 5,
+    "duration": 15,
+    "status": "FINISHED",
+    "score": 67,
+    "genres": [
+      "Action",
+      "Fantasy",
+      "Music",
+      "Sci-Fi"
+    ],
+    "updated_at": 1784297606
+  },
+  {
+    "id": 6769,
+    "id_mal": 6769,
+    "url": "https://anilist.co/anime/6769",
+    "title": {
+      "english": "",
+      "romaji": "Mura Matsuri",
+      "native": "村祭り"
+    },
+    "description": "A few minutes long black and white anime which shows the traditional Japanese harvest festival, featuring a song by Eiko Hirai.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6769.jpg",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 2,
+    "status": "FINISHED",
+    "score": 43,
+    "genres": [],
+    "updated_at": 1784297606
   },
   {
     "id": 6675,
@@ -22142,7 +22629,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784282525
+    "updated_at": 1784297606
   },
   {
     "id": 5916,
@@ -22170,6 +22657,33 @@
       "Drama"
     ],
     "updated_at": 1784242996
+  },
+  {
+    "id": 5812,
+    "id_mal": 5812,
+    "url": "https://anilist.co/anime/5812",
+    "title": {
+      "english": "",
+      "romaji": "Doubutsu Sumo Taikai",
+      "native": "動物相撲大会"
+    },
+    "description": "Short movie from 1931.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5812.jpg",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 1,
+    "status": "FINISHED",
+    "score": 40,
+    "genres": [
+      "Action"
+    ],
+    "updated_at": 1784297606
   },
   {
     "id": 5681,
@@ -22654,7 +23168,7 @@
       "Action",
       "Supernatural"
     ],
-    "updated_at": 1784268121
+    "updated_at": 1784297606
   },
   {
     "id": 4398,
@@ -22682,6 +23196,33 @@
       "Fantasy"
     ],
     "updated_at": 1784242996
+  },
+  {
+    "id": 4391,
+    "id_mal": 4391,
+    "url": "https://anilist.co/anime/4391",
+    "title": {
+      "english": "",
+      "romaji": "Saru Masamune",
+      "native": "猿正宗"
+    },
+    "description": "Short movie from 1930 about a soldier traveling a great distance to deliver a letter. Along the way he receives a sword from a monkey.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4391.jpg",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 10,
+    "status": "FINISHED",
+    "score": 48,
+    "genres": [
+      "Adventure"
+    ],
+    "updated_at": 1784297606
   },
   {
     "id": 4155,
@@ -22744,7 +23285,7 @@
       "Romance",
       "Sci-Fi"
     ],
-    "updated_at": 1783948374
+    "updated_at": 1784297606
   },
   {
     "id": 4106,
@@ -22830,6 +23371,34 @@
       "Supernatural"
     ],
     "updated_at": 1784286117
+  },
+  {
+    "id": 3929,
+    "id_mal": 3929,
+    "url": "https://anilist.co/anime/3929",
+    "title": {
+      "english": "",
+      "romaji": "Ugokie Kori no Tatehiki",
+      "native": "動絵狐狸達引"
+    },
+    "description": "Movie from 1933. Fox spirit turns into a samurai and picks on a racoon spirit. The racoon spirit gets his father and they team up againist the fox spirit.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b3929-S6wMk7p0rdE1.jpg",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 11,
+    "status": "FINISHED",
+    "score": 50,
+    "genres": [
+      "Comedy",
+      "Supernatural"
+    ],
+    "updated_at": 1784297606
   },
   {
     "id": 3848,
@@ -23443,7 +24012,7 @@
       "Drama",
       "Fantasy"
     ],
-    "updated_at": 1784282525
+    "updated_at": 1784297606
   },
   {
     "id": 2761,
@@ -23588,6 +24157,33 @@
       "Fantasy"
     ],
     "updated_at": 1783948370
+  },
+  {
+    "id": 2660,
+    "id_mal": 2660,
+    "url": "https://anilist.co/anime/2660",
+    "title": {
+      "english": "Doraemon: Nobita's the Night Before a Wedding",
+      "romaji": "Doraemon: Nobita no Kekkon Zenya - The night before a wedding",
+      "native": "ドラえもん のび太の結婚前夜 The night before a wedding"
+    },
+    "description": "Nobita and Doraemon travel into the future to see whether or not Nobita will marry Shizuka. Once they arrive, they find out that instead of travelling to the day of the wedding, they travelled to the day before the wedding. Afterwards, the pair follow the future Nobita and his friends as they try to return a lost cat to its owner.\n<br><br>\n(Source: Anime News Network)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2660-frb2VTHLjMVS.jpg",
+    "banner_url": "",
+    "schedule": "Musim: SPRING 1999",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "SPRING",
+    "year": 1999,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 26,
+    "status": "FINISHED",
+    "score": 67,
+    "genres": [
+      "Fantasy"
+    ],
+    "updated_at": 1784297606
   },
   {
     "id": 2625,
@@ -23843,7 +24439,7 @@
       "Adventure",
       "Comedy"
     ],
-    "updated_at": 1784282525
+    "updated_at": 1784297606
   },
   {
     "id": 2314,
@@ -23986,6 +24582,35 @@
       "Mystery"
     ],
     "updated_at": 1783945902
+  },
+  {
+    "id": 2154,
+    "id_mal": 2154,
+    "url": "https://anilist.co/anime/2154",
+    "title": {
+      "english": "Tekkonkinkreet",
+      "romaji": "Tekkon Kinkreet",
+      "native": "鉄コン筋クリート"
+    },
+    "description": "Black and White are two orphans who roam the streets of Treasure Town, beating down any thug or yakuza who gets in their way. When mysterious foreign entrepreneurs appear with the intention of tearing down Treasure Town and replacing it with an amusement park, Black and White face their greatest adversaries yet. It is up to the destructive Black to save the fate of the city and up to the gentle White to save Black from his own dark nature.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx2154-R7xZo22O9FjK.png",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/2154-Y9c0h2i4VJWD.jpg",
+    "schedule": "Musim: FALL 2006",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "FALL",
+    "year": 2006,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 111,
+    "status": "FINISHED",
+    "score": 77,
+    "genres": [
+      "Action",
+      "Psychological",
+      "Supernatural"
+    ],
+    "updated_at": 1784297606
   },
   {
     "id": 2144,
@@ -24303,7 +24928,7 @@
       "Sci-Fi",
       "Thriller"
     ],
-    "updated_at": 1784289657
+    "updated_at": 1784297599
   },
   {
     "id": 1930,
@@ -24454,7 +25079,7 @@
       "Romance",
       "Supernatural"
     ],
-    "updated_at": 1783962141
+    "updated_at": 1784297599
   },
   {
     "id": 1689,
@@ -24655,7 +25280,7 @@
       "Psychological",
       "Sci-Fi"
     ],
-    "updated_at": 1784268111
+    "updated_at": 1784297598
   },
   {
     "id": 1430,
@@ -25122,7 +25747,7 @@
       "Sci-Fi",
       "Supernatural"
     ],
-    "updated_at": 1784282525
+    "updated_at": 1784297606
   },
   {
     "id": 1121,
@@ -25153,7 +25778,7 @@
       "Drama",
       "Fantasy"
     ],
-    "updated_at": 1784282525
+    "updated_at": 1784297606
   },
   {
     "id": 1120,
@@ -25245,7 +25870,7 @@
       "Drama",
       "Fantasy"
     ],
-    "updated_at": 1784253674
+    "updated_at": 1784297606
   },
   {
     "id": 1117,
@@ -25275,7 +25900,7 @@
       "Drama",
       "Fantasy"
     ],
-    "updated_at": 1784253674
+    "updated_at": 1784297606
   },
   {
     "id": 1107,
@@ -25423,7 +26048,7 @@
       "Mecha",
       "Sci-Fi"
     ],
-    "updated_at": 1784275323
+    "updated_at": 1784297603
   },
   {
     "id": 1092,
@@ -25483,7 +26108,7 @@
       "Mecha",
       "Sci-Fi"
     ],
-    "updated_at": 1784286117
+    "updated_at": 1784297606
   },
   {
     "id": 1090,
@@ -25866,7 +26491,7 @@
       "Adventure",
       "Sci-Fi"
     ],
-    "updated_at": 1784268121
+    "updated_at": 1784297601
   },
   {
     "id": 901,
@@ -26775,7 +27400,7 @@
       "Fantasy",
       "Sci-Fi"
     ],
-    "updated_at": 1784253674
+    "updated_at": 1784297606
   },
   {
     "id": 523,
@@ -27197,6 +27822,37 @@
     "updated_at": 1784253710
   },
   {
+    "id": 449,
+    "id_mal": 449,
+    "url": "https://anilist.co/anime/449",
+    "title": {
+      "english": "InuYasha the Movie 4: Fire on the Mystic Island",
+      "romaji": "Inuyasha: Guren no Houraijima",
+      "native": "犬夜叉 紅蓮の蓬莱島"
+    },
+    "description": "The mysterious island of Houraijima has reappeared after 50 years, and with its reappearance has brought the attack of four gods, the Shitoushin, who have their eyes set on the powers that protect and sustain the island. Now it's up to Inuyasha and his friends, along with Sesshoumaru, to find a way to defeat the powerful Shitoushin.\n<br><br>\n(Source: Anime News Network)\n<br>",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx449-B9HGKZFh0wUC.jpg",
+    "banner_url": "",
+    "schedule": "Musim: FALL 2004",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "FALL",
+    "year": 2004,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 88,
+    "status": "FINISHED",
+    "score": 73,
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Drama",
+      "Fantasy",
+      "Romance"
+    ],
+    "updated_at": 1784297606
+  },
+  {
     "id": 442,
     "id_mal": 442,
     "url": "https://anilist.co/anime/442",
@@ -27375,6 +28031,38 @@
     "updated_at": 1784268121
   },
   {
+    "id": 393,
+    "id_mal": 393,
+    "url": "https://anilist.co/anime/393",
+    "title": {
+      "english": "Escaflowne: A Girl in Gaea",
+      "romaji": "Escaflowne",
+      "native": "エスカフローネ"
+    },
+    "description": "Hitomi Kanzaki is in a very depressed mood. She only wants to sleep and fade away. Her misery summons Lord Folken who sends her to Gaea. The people of Gaea think she is the Wing Goddess, who can call upon the legendary Dragon Armor called Escaflowne. On Gaea, King Van, the sole survior of the White Dragon Clan, is also in a depressed state. Swearing an oath to get his revenge on the Black Dragon Clan that oblierated Van's kingdom, he lives by the sword. Now that the Wing Goddess has finally appeared, she posseses Gaea's world fate in her heart. Escaflowne will either lead Gaea to peace or total ruin.\n<br><br>\n(Source: Anime News Network)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx393-KAkauYiiSWGa.jpg",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/n393-0MCOvJoiF2pr.jpg",
+    "schedule": "Musim: SUMMER 2000",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "SUMMER",
+    "year": 2000,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 97,
+    "status": "FINISHED",
+    "score": 66,
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Fantasy",
+      "Mecha",
+      "Romance",
+      "Sci-Fi"
+    ],
+    "updated_at": 1784297606
+  },
+  {
     "id": 371,
     "id_mal": 371,
     "url": "https://anilist.co/anime/371",
@@ -27401,7 +28089,7 @@
       "Fantasy",
       "Mahou Shoujo"
     ],
-    "updated_at": 1784275323
+    "updated_at": 1784297606
   },
   {
     "id": 317,
@@ -27582,6 +28270,36 @@
     "updated_at": 1783945915
   },
   {
+    "id": 54,
+    "id_mal": 54,
+    "url": "https://anilist.co/anime/54",
+    "title": {
+      "english": "Appleseed (Movie)",
+      "romaji": "Appleseed (Movie)",
+      "native": "アップルシード"
+    },
+    "description": "Growing out of the chaos of a global war, the city of Utopia is populated by humans and bioroids (artificial humans). On the surface, everything is harmonious, but tensions lurk. Into this seemingly perfect society comes a survivor of the wars, Deunan Knute, who carries a legacy that will turn out to be of critical importance to the future of humanity. <br><br>\n(Source: Anime News Network)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx54-NRZifY4de4u4.jpg",
+    "banner_url": "",
+    "schedule": "Musim: SPRING 2004",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "SPRING",
+    "year": 2004,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 105,
+    "status": "FINISHED",
+    "score": 65,
+    "genres": [
+      "Action",
+      "Drama",
+      "Mecha",
+      "Sci-Fi"
+    ],
+    "updated_at": 1784297606
+  },
+  {
     "id": 47,
     "id_mal": 47,
     "url": "https://anilist.co/anime/47",
@@ -27759,6 +28477,6 @@
       "Mystery",
       "Sci-Fi"
     ],
-    "updated_at": 1784268110
+    "updated_at": 1784297606
   }
 ]
