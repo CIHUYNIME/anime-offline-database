@@ -1,5 +1,33 @@
 [
   {
+    "id": 214129,
+    "id_mal": null,
+    "url": "https://anilist.co/anime/214129",
+    "title": {
+      "english": "",
+      "romaji": "Deng Xia Jiu Fa",
+      "native": "登霞九法"
+    },
+    "description": "Chu Sheng, a street punk, accidentally stumbles into the world of cultivation. Hoping to latch onto an immortal sect to easily counterattack and win at life, he discovers instead that the \"Nine Laws of Ascension\" is a psychotic evil art that uses living people as nourishment. The future world has long since been refined into a land crawling with evil spirits, and even Chu Sheng himself, a Heavenly Dao Walker with the ability to \"merge all things\", is nothing more than a spare ration for the immortals.\n<br>\nGathering a group of absurd teammates, he travels to the future to purge the evil spirits, using his Heavenly Dao abilities to clash head-on with evil arts in blood-and-flesh combat filled with nonsensical humor. The path to ascension offers only one chance of survival in ten thousand. Want to become an immortal? Survive tonight first.\n<br><br>\n(Source: BiliBili, translated)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx214129-JWOkyC14kdyI.png",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "ONA",
+    "episodes": null,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Action",
+      "Comedy"
+    ],
+    "updated_at": 1784256116
+  },
+  {
     "id": 214075,
     "id_mal": 63298,
     "url": "https://anilist.co/anime/214075",
@@ -53,7 +81,7 @@
       "Action",
       "Sci-Fi"
     ],
-    "updated_at": 1784246844
+    "updated_at": 1784253710
   },
   {
     "id": 214068,
@@ -100,9 +128,9 @@
     "next_airing_timestamp": 1784401200,
     "season": "",
     "year": null,
-    "format": "",
-    "episodes": null,
-    "duration": null,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 20,
     "status": "NOT_YET_RELEASED",
     "score": null,
     "genres": [
@@ -110,7 +138,7 @@
       "Comedy",
       "Sci-Fi"
     ],
-    "updated_at": 1784242996
+    "updated_at": 1784258444
   },
   {
     "id": 214049,
@@ -166,7 +194,7 @@
       "Comedy",
       "Romance"
     ],
-    "updated_at": 1784246844
+    "updated_at": 1784253638
   },
   {
     "id": 214018,
@@ -336,6 +364,31 @@
     "updated_at": 1783947662
   },
   {
+    "id": 213878,
+    "id_mal": null,
+    "url": "https://anilist.co/anime/213878",
+    "title": {
+      "english": "",
+      "romaji": "4th Project (Provisional Title)",
+      "native": "4th Project（仮）"
+    },
+    "description": "The next flagship title from TRIGGER, directed by Hiroyuki Imaishi and written by Kazuki Nakashima.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx213878-P0cHS1je1dkH.jpg",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "",
+    "episodes": null,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [],
+    "updated_at": 1784253710
+  },
+  {
     "id": 213873,
     "id_mal": 64552,
     "url": "https://anilist.co/anime/213873",
@@ -419,7 +472,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784246844
+    "updated_at": 1784253710
   },
   {
     "id": 213847,
@@ -473,7 +526,7 @@
     "status": "NOT_YET_RELEASED",
     "score": null,
     "genres": [],
-    "updated_at": 1784246843
+    "updated_at": 1784253634
   },
   {
     "id": 213845,
@@ -562,6 +615,36 @@
       "Music"
     ],
     "updated_at": 1783948388
+  },
+  {
+    "id": 213805,
+    "id_mal": 64534,
+    "url": "https://anilist.co/anime/213805",
+    "title": {
+      "english": "The Ramparts of Ice Season 2",
+      "romaji": "Koori no Jouheki 2nd Season",
+      "native": "氷の城壁 第2期"
+    },
+    "description": "The second season of <i>Koori no Jouheki</i>.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx213805-kQXiLbsLBkX4.png",
+    "banner_url": "",
+    "schedule": "Episode 1 tayang pada 1/10/2026, 09.56.00 WIB",
+    "next_episode": 1,
+    "next_airing_timestamp": 1790823360,
+    "season": "FALL",
+    "year": 2026,
+    "format": "TV",
+    "episodes": null,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance",
+      "Slice of Life"
+    ],
+    "updated_at": 1784253640
   },
   {
     "id": 213796,
@@ -787,7 +870,7 @@
     "genres": [
       "Sports"
     ],
-    "updated_at": 1783948353
+    "updated_at": 1784253709
   },
   {
     "id": 213656,
@@ -930,7 +1013,7 @@
       "Fantasy",
       "Supernatural"
     ],
-    "updated_at": 1784246843
+    "updated_at": 1784253710
   },
   {
     "id": 213579,
@@ -1165,7 +1248,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784246842
+    "updated_at": 1784253710
   },
   {
     "id": 213360,
@@ -1427,6 +1510,36 @@
     "updated_at": 1784246842
   },
   {
+    "id": 212888,
+    "id_mal": 64340,
+    "url": "https://anilist.co/anime/212888",
+    "title": {
+      "english": "Overgeared",
+      "romaji": "Temppal: Item no Chikara",
+      "native": "テムパル～アイテムの力～"
+    },
+    "description": "Sin Yeong-U (a.k.a. Grid), an unlucky man in life and a low-level player in the popular VR game “Satisfy,” finds a powerful item that earns him a rare legendary class title: “Pagma’s Successor.” He’s now a skilled blacksmith who can forge unique weapons and equip the game’s most powerful gear. Grid resolves to use his new abilities to achieve fame and fortune, but as his very existence begins to stir up trouble in Satisfy, he realizes that life as a legend may be more than he bargained for….<br><br>\n\n(Source: Tapas, edited)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx212888-kUNSF4ad60C8.jpg",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/212888-ZsnNegBCKXQq.jpg",
+    "schedule": "Musim: FALL 2026",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "FALL",
+    "year": 2026,
+    "format": "TV",
+    "episodes": null,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Fantasy"
+    ],
+    "updated_at": 1784253696
+  },
+  {
     "id": 212799,
     "id_mal": 64326,
     "url": "https://anilist.co/anime/212799",
@@ -1631,6 +1744,35 @@
     "updated_at": 1784242996
   },
   {
+    "id": 212105,
+    "id_mal": 64154,
+    "url": "https://anilist.co/anime/212105",
+    "title": {
+      "english": "",
+      "romaji": "Umi ga Hashiru End Roll",
+      "native": "海が走るエンドロール"
+    },
+    "description": "Umiko, a grandma, realizes that she has the same desire to make movies as university student Kai—and soon she enrolls in Kai's film school!\n<br><br>\n<i>\"It's not the movies you like…you like watching the people watching the movies.\"</i>\n<br><br>\nJust what are you going to do with the rest of your life? It's the question you'll always have to answer, no matter your age. Umiko Chino is a 65-year-old retired woman in mourning for her late husband. Remembering how they used to watch films together, Umiko goes to the movie theater for the first time in years, where she meets Kai, an attractive, ambiguous young man who studies filmmaking at a nearby art school.\n<br><br>\nThey would seem to have nothing in common, except for this—both of them sometimes like to look more at the way the audience reacts to a movie than the movie itself. Kai believes Umiko has the same deep desire he possesses to experience how people respond to something they made… and challenges her to stake the rest of her life discovering that thrill.\n<br><br>\nSoon Umiko surprises herself by enrolling in the same film school as Kai. But sailing into this new sea, she's suddenly inside the currents of her fellow students' lives, a much younger generation that she struggles to understand, driven by their own passions and their own relationships. Who's really experienced at life, and is it old age or observation that brings wisdom? And does what you're looking for change when you look with your eyes instead of through a camera lens…?\n<br><br>\n(Source: Dark Horse)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b212105-f5L7q8C22ga2.png",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Slice of Life"
+    ],
+    "updated_at": 1784253693
+  },
+  {
     "id": 211877,
     "id_mal": 64131,
     "url": "https://anilist.co/anime/211877",
@@ -1657,7 +1799,7 @@
       "Ecchi",
       "Romance"
     ],
-    "updated_at": 1783948010
+    "updated_at": 1784253710
   },
   {
     "id": 211778,
@@ -1770,7 +1912,7 @@
       "Drama",
       "Fantasy"
     ],
-    "updated_at": 1784246842
+    "updated_at": 1784253701
   },
   {
     "id": 211495,
@@ -1976,7 +2118,7 @@
       "Mystery",
       "Supernatural"
     ],
-    "updated_at": 1784246841
+    "updated_at": 1784253667
   },
   {
     "id": 210309,
@@ -2096,7 +2238,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784246841
+    "updated_at": 1784253685
   },
   {
     "id": 209963,
@@ -2125,7 +2267,7 @@
       "Drama",
       "Fantasy"
     ],
-    "updated_at": 1784246841
+    "updated_at": 1784253710
   },
   {
     "id": 209939,
@@ -2213,7 +2355,7 @@
       "Psychological",
       "Supernatural"
     ],
-    "updated_at": 1784246841
+    "updated_at": 1784253650
   },
   {
     "id": 209762,
@@ -2298,7 +2440,7 @@
       "Comedy",
       "Romance"
     ],
-    "updated_at": 1784246841
+    "updated_at": 1784253710
   },
   {
     "id": 209247,
@@ -2444,6 +2586,36 @@
     "updated_at": 1784246840
   },
   {
+    "id": 208025,
+    "id_mal": 63509,
+    "url": "https://anilist.co/anime/208025",
+    "title": {
+      "english": "I'm Dating a Dark Summoner",
+      "romaji": "Dark Summoner to Dekiteiru",
+      "native": "ダークサモナーとデキている"
+    },
+    "description": "Amona, a dark summoner and demi-human who uses demonic powers, is the newest addition to the party of the uptight cleric Roni. Everyone expected the two to dislike each other and to have nothing to do with each other. But to their surprise, on their first day together as an adventuring party, they had a one-night stand...!\n<br><br>\n(Source: Comic Dragon Age, translated)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx208025-PnD29aNdmSCt.jpg",
+    "banner_url": "",
+    "schedule": "Musim: FALL 2026",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "FALL",
+    "year": 2026,
+    "format": "TV_SHORT",
+    "episodes": null,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Comedy",
+      "Ecchi",
+      "Fantasy",
+      "Romance"
+    ],
+    "updated_at": 1784253710
+  },
+  {
     "id": 207782,
     "id_mal": 63476,
     "url": "https://anilist.co/anime/207782",
@@ -2530,7 +2702,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784246840
+    "updated_at": 1784253710
   },
   {
     "id": 207328,
@@ -2591,6 +2763,34 @@
     "updated_at": 1784246840
   },
   {
+    "id": 207191,
+    "id_mal": 63409,
+    "url": "https://anilist.co/anime/207191",
+    "title": {
+      "english": "",
+      "romaji": "Doumo, Suki na Hito ni Horegusuri wo Irai Sareta Majo desu.",
+      "native": "どうも、好きな人に惚れ薬を依頼された魔女です。"
+    },
+    "description": "<b>“Make me a love potion.”</b>\n<br><br>\nAnd with that single sentence, the Good Witch of the Lake’s secret crush on the dashing Sir Harij ends in heartbreak. Still, when he promises to help her gather the ingredients, Rose is thrilled at the chance to gaze upon a man she’d normally never get to interact with. She learns to brace her pounding heart for their usual stilted conversations…but what is she to do when he inexplicably shows up at her doorstep with bread and a jar of apple butter?\n<br><br>\n(Source: Yen Press)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx207191-JVPvPlAJED4S.jpg",
+    "banner_url": "",
+    "schedule": "Musim: FALL 2026",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "FALL",
+    "year": 2026,
+    "format": "TV",
+    "episodes": null,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Fantasy",
+      "Romance"
+    ],
+    "updated_at": 1784253706
+  },
+  {
     "id": 206874,
     "id_mal": 63632,
     "url": "https://anilist.co/anime/206874",
@@ -2623,33 +2823,6 @@
     "updated_at": 1784246840
   },
   {
-    "id": 206819,
-    "id_mal": 63366,
-    "url": "https://anilist.co/anime/206819",
-    "title": {
-      "english": "",
-      "romaji": "Kimi to Hanabi to Yakusoku to",
-      "native": "君と花火と約束と"
-    },
-    "description": "The story centers on two Tokyo high schoolers who connect over a painting of fireworks. They trace the painting to the Nagaoka Fireworks Festival in Niigata, one of Japan's three major fireworks festivals, and to a mysterious promise that connects the two to the past.<br><br>\n\n(Source: Crunchyroll News, edited) \n",
-    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx206819-9VJOdSC6yFET.jpg",
-    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/206819-4oLkAimSr18r.jpg",
-    "schedule": "Episode 1 tayang pada 16/7/2026, 22.00.00 WIB",
-    "next_episode": 1,
-    "next_airing_timestamp": 1784214000,
-    "season": "SUMMER",
-    "year": 2026,
-    "format": "MOVIE",
-    "episodes": 1,
-    "duration": null,
-    "status": "NOT_YET_RELEASED",
-    "score": null,
-    "genres": [
-      "Romance"
-    ],
-    "updated_at": 1783948118
-  },
-  {
     "id": 206812,
     "id_mal": 63368,
     "url": "https://anilist.co/anime/206812",
@@ -2675,7 +2848,7 @@
       "Action",
       "Adventure"
     ],
-    "updated_at": 1784246839
+    "updated_at": 1784253645
   },
   {
     "id": 206798,
@@ -2961,7 +3134,7 @@
       "Sci-Fi",
       "Supernatural"
     ],
-    "updated_at": 1783948413
+    "updated_at": 1784253672
   },
   {
     "id": 204738,
@@ -3106,7 +3279,7 @@
       "Drama",
       "Fantasy"
     ],
-    "updated_at": 1784246836
+    "updated_at": 1784253710
   },
   {
     "id": 204431,
@@ -3163,7 +3336,7 @@
       "Horror",
       "Supernatural"
     ],
-    "updated_at": 1784246836
+    "updated_at": 1784253653
   },
   {
     "id": 204363,
@@ -3219,7 +3392,7 @@
       "Action",
       "Sci-Fi"
     ],
-    "updated_at": 1783962141
+    "updated_at": 1784253674
   },
   {
     "id": 204293,
@@ -3761,6 +3934,34 @@
     "updated_at": 1784246835
   },
   {
+    "id": 200927,
+    "id_mal": 62841,
+    "url": "https://anilist.co/anime/200927",
+    "title": {
+      "english": "",
+      "romaji": "Kusuriya no Hitorigoto 3rd Season Part 2",
+      "native": "薬屋のひとりごと 第3期 第2クール"
+    },
+    "description": "The second cour of the third season of <i>Kusuriya no Hitorigoto</i>.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx200927-IXFYyIb728bM.png",
+    "banner_url": "",
+    "schedule": "Musim: SPRING 2027",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "SPRING",
+    "year": 2027,
+    "format": "TV",
+    "episodes": null,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Drama",
+      "Mystery"
+    ],
+    "updated_at": 1784253700
+  },
+  {
     "id": 200578,
     "id_mal": 62808,
     "url": "https://anilist.co/anime/200578",
@@ -3821,7 +4022,7 @@
       "Slice of Life",
       "Supernatural"
     ],
-    "updated_at": 1784246835
+    "updated_at": 1784253695
   },
   {
     "id": 199597,
@@ -3907,7 +4108,7 @@
       "Drama",
       "Sports"
     ],
-    "updated_at": 1784246834
+    "updated_at": 1784253666
   },
   {
     "id": 199357,
@@ -4084,7 +4285,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784246834
+    "updated_at": 1784253627
   },
   {
     "id": 199006,
@@ -4112,6 +4313,38 @@
       "Fantasy"
     ],
     "updated_at": 1784246833
+  },
+  {
+    "id": 198966,
+    "id_mal": 62516,
+    "url": "https://anilist.co/anime/198966",
+    "title": {
+      "english": "",
+      "romaji": "Dandadan 3rd Season",
+      "native": "ダンダダン 第3期"
+    },
+    "description": "The third season of <i>Dandadan</i>.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx198966-9Ji1GwIyRiiu.jpg",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "TV",
+    "episodes": null,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Drama",
+      "Fantasy",
+      "Sci-Fi",
+      "Supernatural"
+    ],
+    "updated_at": 1784253645
   },
   {
     "id": 198727,
@@ -4285,7 +4518,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784246831
+    "updated_at": 1784253677
   },
   {
     "id": 195703,
@@ -4461,7 +4694,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784246829
+    "updated_at": 1784253674
   },
   {
     "id": 195350,
@@ -4490,7 +4723,7 @@
       "Comedy",
       "Supernatural"
     ],
-    "updated_at": 1784246829
+    "updated_at": 1784253706
   },
   {
     "id": 195210,
@@ -4926,7 +5159,7 @@
       "Slice of Life",
       "Sports"
     ],
-    "updated_at": 1784246825
+    "updated_at": 1784253695
   },
   {
     "id": 188892,
@@ -5376,7 +5609,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784246812
+    "updated_at": 1784253692
   },
   {
     "id": 185543,
@@ -5781,7 +6014,7 @@
       "Action",
       "Fantasy"
     ],
-    "updated_at": 1783948413
+    "updated_at": 1784253668
   },
   {
     "id": 179876,
@@ -5896,7 +6129,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784246796
+    "updated_at": 1784253675
   },
   {
     "id": 178031,
@@ -6040,7 +6273,65 @@
       "Drama",
       "Sports"
     ],
-    "updated_at": 1783945915
+    "updated_at": 1784253653
+  },
+  {
+    "id": 172192,
+    "id_mal": 57612,
+    "url": "https://anilist.co/anime/172192",
+    "title": {
+      "english": "A Returner's Magic Should be Special Season 2",
+      "romaji": "Kikansha no Mahou wa Tokubetsu desu 2nd Season",
+      "native": "帰還者の魔法は特別です 第2期"
+    },
+    "description": "The second season of <i>Kikansha no Mahou wa Tokubetsu desu</i>.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx172192-UzIbLgOQPY6m.jpg",
+    "banner_url": "",
+    "schedule": "Musim: FALL 2026",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "FALL",
+    "year": 2026,
+    "format": "TV",
+    "episodes": null,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "updated_at": 1784253659
+  },
+  {
+    "id": 171952,
+    "id_mal": 57584,
+    "url": "https://anilist.co/anime/171952",
+    "title": {
+      "english": "",
+      "romaji": "Kage no Jitsuryokusha ni Naritakute!: Zankyou-hen",
+      "native": "劇場版 陰の実力者になりたくて！ 残響編"
+    },
+    "description": "Theatrical follow-up to <i>Kage no Jitsuryokusha ni Naritakute! 2nd season</i>.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171952-uB8CTTCBI1u5.jpg",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Fantasy"
+    ],
+    "updated_at": 1784253681
   },
   {
     "id": 171630,
@@ -6067,7 +6358,7 @@
     "genres": [
       "Adventure"
     ],
-    "updated_at": 1784246780
+    "updated_at": 1784253683
   },
   {
     "id": 171513,
@@ -6183,7 +6474,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784242996
+    "updated_at": 1784253707
   },
   {
     "id": 169579,
@@ -6588,7 +6879,7 @@
       "Mystery",
       "Sci-Fi"
     ],
-    "updated_at": 1784246763
+    "updated_at": 1784253702
   },
   {
     "id": 159042,
@@ -6618,6 +6909,35 @@
       "Fantasy"
     ],
     "updated_at": 1784246762
+  },
+  {
+    "id": 156631,
+    "id_mal": 53529,
+    "url": "https://anilist.co/anime/156631",
+    "title": {
+      "english": "",
+      "romaji": "Sword Art Online: Integral Domain",
+      "native": "ソードアート・オンライン - インテグラル・ドメイン -"
+    },
+    "description": "A new original movie for <i>Sword Art Online</i>.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx156631-4Qsjbjpx8kE7.jpg",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "MOVIE",
+    "episodes": null,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "updated_at": 1784253694
   },
   {
     "id": 154765,
@@ -6707,6 +7027,35 @@
       "Supernatural"
     ],
     "updated_at": 1784246752
+  },
+  {
+    "id": 143103,
+    "id_mal": 50668,
+    "url": "https://anilist.co/anime/143103",
+    "title": {
+      "english": "Witch on the Holy Night",
+      "romaji": "Mahoutsukai no Yoru",
+      "native": "魔法使いの夜"
+    },
+    "description": "Near the end of the Showa era in the late 1980s, in Misaki town, an old mansion is rumored to be the home of a witch. After moving into the mansion, Aoko Aozaki begins to learn sorcery from a young mage, Alice Kuonji, the rumored witch of the mansion. The Aozaki family oversees the land on which Misaki is built and the heir (Aoko) is tasked with protecting it.<br>\n<br>\nMysterious intruders have been disrupting the bounded field in Misaki, leading Alice and Aoko to investigate. A mannequin or puppet attacks them and is incinerated. As this happens, both of them spot someone running away, a civilian who must not get away having seen magic alive.<br>\n<br>\nUnexpectedly, a young boy named Soujuurou Shizuki is drawn to the mansion and comes to reside with them as well.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx143103-yED3c4CaRLXO.png",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/143103-KwDRPfPl4OwL.jpg",
+    "schedule": "Episode 1 tayang pada 19/11/2026, 22.00.00 WIB",
+    "next_episode": 1,
+    "next_airing_timestamp": 1795100400,
+    "season": "FALL",
+    "year": 2026,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Action",
+      "Drama",
+      "Fantasy"
+    ],
+    "updated_at": 1784253686
   },
   {
     "id": 141953,
@@ -6819,7 +7168,7 @@
     "genres": [
       "Mahou Shoujo"
     ],
-    "updated_at": 1784246715
+    "updated_at": 1784253695
   },
   {
     "id": 115566,
