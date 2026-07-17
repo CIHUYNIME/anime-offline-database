@@ -50,7 +50,7 @@
     "status": "FINISHED",
     "score": null,
     "genres": [],
-    "updated_at": 1784268095
+    "updated_at": 1784275323
   },
   {
     "id": 214071,
@@ -75,7 +75,7 @@
     "status": "FINISHED",
     "score": null,
     "genres": [],
-    "updated_at": 1784268121
+    "updated_at": 1784275323
   },
   {
     "id": 214070,
@@ -266,7 +266,7 @@
     "genres": [
       "Music"
     ],
-    "updated_at": 1783948388
+    "updated_at": 1784275323
   },
   {
     "id": 213667,
@@ -667,6 +667,35 @@
     "updated_at": 1783962141
   },
   {
+    "id": 204949,
+    "id_mal": 62518,
+    "url": "https://anilist.co/anime/204949",
+    "title": {
+      "english": "Milky☆Subway: The Galactic Limited Express – the Movie",
+      "romaji": "Ginga Tokkyuu Milky☆Subway: Kakueki Teisha Gekijou Yuki",
+      "native": "銀河特急 ミルキー☆サブウェイ 各駅停車劇場行き"
+    },
+    "description": "Theatrical version of <i>Ginga Tokkyuu Milky☆Subway</i> with additional new scenes.\n<br><br>\nSix delinquents are tasked with cleaning a train as part of a community service program. But when the train suddenly takes off, chaos ensues.\n<br><br>\n(Source: Netflix)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx204949-1eneer7CutVn.jpg",
+    "banner_url": "",
+    "schedule": "Musim: WINTER 2026",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "WINTER",
+    "year": 2026,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 47,
+    "status": "FINISHED",
+    "score": 75,
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Sci-Fi"
+    ],
+    "updated_at": 1784275323
+  },
+  {
     "id": 204066,
     "id_mal": 62392,
     "url": "https://anilist.co/anime/204066",
@@ -1017,6 +1046,34 @@
     "updated_at": 1784246829
   },
   {
+    "id": 194167,
+    "id_mal": 61806,
+    "url": "https://anilist.co/anime/194167",
+    "title": {
+      "english": "",
+      "romaji": "Love Live! Hasunosora Jogakuin School Idol Club: Bloom Garden Party",
+      "native": "ラブライブ！蓮ノ空女学院スクールアイドルクラブ Bloom Garden Party"
+    },
+    "description": "The Bloom Garden Party is finally here. It’s the stage where everyone will “someday, surely” bloom—the goal Kaho and the others have been chasing for a whole year. This is the first step.\n<br><br>\nThe long-awaited day has finally arrived — the day when the promise they made with the graduates will come true. It was also the last day for the 103rd-year students, on the verge of graduation, could spend with their friends as students of Hasunosora.\n<br><br>\n―Even so, the girls race through their “youth” with all their might. This is the story of girls who struggled to bloom, a tale of dreams made real together.<br><br>\n\n(Source: Love Live! Hasunosora Jogakuin School Idol Club: Bloom Garden Party Site, translated)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx194167-kPUIZQFObAau.jpg",
+    "banner_url": "",
+    "schedule": "Musim: SPRING 2026",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "SPRING",
+    "year": 2026,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 75,
+    "status": "FINISHED",
+    "score": 72,
+    "genres": [
+      "Music",
+      "Slice of Life"
+    ],
+    "updated_at": 1784275323
+  },
+  {
     "id": 194116,
     "id_mal": 64019,
     "url": "https://anilist.co/anime/194116",
@@ -1102,7 +1159,7 @@
       "Romance",
       "Sci-Fi"
     ],
-    "updated_at": 1784242996
+    "updated_at": 1784275323
   },
   {
     "id": 190574,
@@ -1160,6 +1217,35 @@
       "Supernatural"
     ],
     "updated_at": 1784242996
+  },
+  {
+    "id": 188035,
+    "id_mal": 61230,
+    "url": "https://anilist.co/anime/188035",
+    "title": {
+      "english": "",
+      "romaji": "Saishuu Gakushou Hibike! Euphonium - Zenpen",
+      "native": "最終楽章 響け！ユーフォニアム 前編"
+    },
+    "description": "The music isn’t over yet!<br><br>\n\n<i>“Sound! Euphonium, The Final Movie”</i> is coming in 2026!",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx188035-wTA4Yse8APa1.png",
+    "banner_url": "",
+    "schedule": "Musim: SPRING 2026",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "SPRING",
+    "year": 2026,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 120,
+    "status": "FINISHED",
+    "score": 69,
+    "genres": [
+      "Drama",
+      "Music",
+      "Slice of Life"
+    ],
+    "updated_at": 1784275323
   },
   {
     "id": 187892,
@@ -1691,6 +1777,36 @@
     "updated_at": 1784246798
   },
   {
+    "id": 178707,
+    "id_mal": 59174,
+    "url": "https://anilist.co/anime/178707",
+    "title": {
+      "english": "The Irregular at Magic High School THE MOVIE -Yotsuba Succession Arc-",
+      "romaji": "Mahouka Koukou no Rettousei: Yotsuba Keishou-hen",
+      "native": "劇場版 魔法科高校の劣等生 四葉継承編"
+    },
+    "description": "Movie adaptation of <i>Mahouka Koukou no Rettousei's</i> Yotsuba Succession Arc.<br>\n<br>\nThe invitation has arrived. It is time for the New Year’s Reception at the Yotsuba family residence. This year, Miyuki and other candidates will gather there to decide who will be the next leader of their powerful clan. If chosen as the successor, she would never have to see her brother live as a pariah ever again. At the same time, such a position surely entails a political marriage, plunging her mind into complete turmoil. Complicating matters, the current head of their family sows doubt with the shocking claim that Miyuki is not Tatsuya’s sister. When the new year comes, their relationship may be changed forever...<br>\n<br>\n(Source: Yen Press)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178707-Ys8zvR7BLECi.jpg",
+    "banner_url": "",
+    "schedule": "Musim: SPRING 2026",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "SPRING",
+    "year": 2026,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 103,
+    "status": "FINISHED",
+    "score": 71,
+    "genres": [
+      "Action",
+      "Romance",
+      "Sci-Fi",
+      "Supernatural"
+    ],
+    "updated_at": 1784275315
+  },
+  {
     "id": 177778,
     "id_mal": 58964,
     "url": "https://anilist.co/anime/177778",
@@ -2049,7 +2165,7 @@
     "genres": [
       "Music"
     ],
-    "updated_at": 1784242996
+    "updated_at": 1784275323
   },
   {
     "id": 172420,
@@ -2310,7 +2426,7 @@
       "Comedy",
       "Slice of Life"
     ],
-    "updated_at": 1784242996
+    "updated_at": 1784275323
   },
   {
     "id": 166975,
@@ -2507,6 +2623,35 @@
     "updated_at": 1784246767
   },
   {
+    "id": 163788,
+    "id_mal": 60020,
+    "url": "https://anilist.co/anime/163788",
+    "title": {
+      "english": "",
+      "romaji": "Yeonui Pyeonji",
+      "native": "연의 편지"
+    },
+    "description": "Sori is a unique young girl: kind, caring and principled well beyond her years. Unfortunately, these qualities also make her a prime target for bullying. She transfers schools, and just when it looks like history is about to repeat itself, stumbles across a mysterious trail of letters that takes her on a magical scavenger hunt through a hidden world that exists just beneath the surface of her new middle school... A scavenger hunt that will lead her to rediscover friendship, the wonders of nature, and the goodness that still exists within humanity.<br><br>(Source: WEBTOONS)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx163788-Wum8nKlWpcQj.png",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/163788-OjnhYBFdLdz3.jpg",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 97,
+    "status": "FINISHED",
+    "score": 73,
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Mystery"
+    ],
+    "updated_at": 1784275323
+  },
+  {
     "id": 163147,
     "id_mal": 54866,
     "url": "https://anilist.co/anime/163147",
@@ -2592,7 +2737,7 @@
       "Music",
       "Romance"
     ],
-    "updated_at": 1784268097
+    "updated_at": 1784275323
   },
   {
     "id": 161474,
@@ -2623,6 +2768,34 @@
       "Supernatural"
     ],
     "updated_at": 1784246763
+  },
+  {
+    "id": 161441,
+    "id_mal": 54398,
+    "url": "https://anilist.co/anime/161441",
+    "title": {
+      "english": "Resident Evil: Death Island",
+      "romaji": "Biohazard: Death Island",
+      "native": "バイオハザード：デスアイランド"
+    },
+    "description": "D.S.O. agent Leon S. Kennedy is on a mission to rescue Dr. Antonio Taylor from kidnappers, when a mysterious woman thwarts his pursuit. Meanwhile, B.S.A.A. agent Chris Redfield is investigating a zombie outbreak in San Francisco, where the cause of the infection cannot be identified. The only thing the victims have in common is that they all visited Alcatraz Island recently. Following that clue, Chris and his team head to the island, where a new horror awaits them. <br><br>\n\n(Source: Sony Pictures Entertainment)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx161441-khY8HUI3vfzX.jpg",
+    "banner_url": "",
+    "schedule": "Musim: SUMMER 2023",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "SUMMER",
+    "year": 2023,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 91,
+    "status": "FINISHED",
+    "score": 64,
+    "genres": [
+      "Action",
+      "Horror"
+    ],
+    "updated_at": 1784275323
   },
   {
     "id": 160275,
@@ -2889,6 +3062,34 @@
     "updated_at": 1784253694
   },
   {
+    "id": 155525,
+    "id_mal": 52992,
+    "url": "https://anilist.co/anime/155525",
+    "title": {
+      "english": "Aikatsu Planet! The Movie",
+      "romaji": "Aikatsu Planet! Movie",
+      "native": "劇場版アイカツプラネット！"
+    },
+    "description": "<i>Aikatsu Planet! The Movie is the movie adaptation of Aikatsu Planet! series. Screened alongside the movie Aikatsu! 10th STORY: Mirai e no STARWAY.</i><br><br>\nMao Otoha, who is now a second year high school student at Seirei Private High School, is now performing as the top idol Hana in Aikatsu Planet!<br><br>\n\nA few months after the Planet Princess Grand Prix, her schedule is packed everyday. The reason why Mao can be an active idol is\nbecause of the bond she has with her fans, in which she has changed and felt touched, and now would like to deliver her gratitude to those important around her by launching the \"Aikatsu Planet! Gratitude Festival\".",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx155525-cN3SUvjpq5Nl.png",
+    "banner_url": "",
+    "schedule": "Musim: SUMMER 2022",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "SUMMER",
+    "year": 2022,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 43,
+    "status": "FINISHED",
+    "score": 59,
+    "genres": [
+      "Music",
+      "Slice of Life"
+    ],
+    "updated_at": 1784275323
+  },
+  {
     "id": 154967,
     "id_mal": 53129,
     "url": "https://anilist.co/anime/154967",
@@ -3058,6 +3259,33 @@
     "score": null,
     "genres": [],
     "updated_at": 1783948382
+  },
+  {
+    "id": 148833,
+    "id_mal": null,
+    "url": "https://anilist.co/anime/148833",
+    "title": {
+      "english": "At a certain riverbed",
+      "romaji": "Aru Kasenshiki Nite",
+      "native": "ある河川敷にて"
+    },
+    "description": "Graduation work of Kohei Nagasaka at Tama Art University.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b148833-oRZX7PMkOqL6.png",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/148833-S3eANxLeDfzk.jpg",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 3,
+    "status": "FINISHED",
+    "score": null,
+    "genres": [
+      "Slice of Life"
+    ],
+    "updated_at": 1784275316
   },
   {
     "id": 148824,
@@ -3463,7 +3691,7 @@
       "Fantasy",
       "Music"
     ],
-    "updated_at": 1784253663
+    "updated_at": 1784275322
   },
   {
     "id": 140337,
@@ -3492,7 +3720,37 @@
       "Music",
       "Supernatural"
     ],
-    "updated_at": 1784253678
+    "updated_at": 1784275323
+  },
+  {
+    "id": 140113,
+    "id_mal": 39833,
+    "url": "https://anilist.co/anime/140113",
+    "title": {
+      "english": "JUNK HEAD",
+      "romaji": "JUNK HEAD",
+      "native": "JUNK HEAD"
+    },
+    "description": "Mankind can no longer reproduce because of gene manipulation aimed at making life longer. The clones ruling the bottomless underworld may have become fertile. Parton is selected to go on a mission through a subterranean labyrinth crawling with monsters to secure humanity's future.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx140113-OP80L0tn5JEM.jpg",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/140113-nXnARZpRypF6.jpg",
+    "schedule": "Musim: SUMMER 2017",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "SUMMER",
+    "year": 2017,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 101,
+    "status": "FINISHED",
+    "score": 67,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "updated_at": 1784275323
   },
   {
     "id": 139498,
@@ -3665,6 +3923,35 @@
       "Sci-Fi"
     ],
     "updated_at": 1784246719
+  },
+  {
+    "id": 136302,
+    "id_mal": 49345,
+    "url": "https://anilist.co/anime/136302",
+    "title": {
+      "english": "Goodbye, Don Glees!",
+      "romaji": "Goodbye, Don Glees!",
+      "native": "グッバイ、ドン・グリーズ！"
+    },
+    "description": "Teen misfits Roma, Toto, and Drop call themselves the “Don Glees”, an informal name for their backyard adventures. One day, when the trio gets blamed for a nearby forest fire, they set off into the woods to prove their innocence. As disaster strikes their expedition, tensions flare between the friends as they realize that growing up has taken them on wildly different paths in life. <br><br>\n(Source: GKIDS, edited)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx136302-4R03xBOGWrcq.jpg",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/136302-bVY7pyrAH95A.jpg",
+    "schedule": "Musim: WINTER 2022",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "WINTER",
+    "year": 2022,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 94,
+    "status": "FINISHED",
+    "score": 73,
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Drama"
+    ],
+    "updated_at": 1784275323
   },
   {
     "id": 136192,
@@ -4304,7 +4591,7 @@
       "Mystery",
       "Sci-Fi"
     ],
-    "updated_at": 1784246705
+    "updated_at": 1784275323
   },
   {
     "id": 126649,
@@ -4531,7 +4818,7 @@
     "genres": [
       "Action"
     ],
-    "updated_at": 1784253708
+    "updated_at": 1784275323
   },
   {
     "id": 119113,
@@ -4728,7 +5015,7 @@
     "genres": [
       "Fantasy"
     ],
-    "updated_at": 1784268121
+    "updated_at": 1784275323
   },
   {
     "id": 116069,
@@ -4991,7 +5278,7 @@
       "Mecha",
       "Sci-Fi"
     ],
-    "updated_at": 1784268121
+    "updated_at": 1784275323
   },
   {
     "id": 113692,
@@ -5104,7 +5391,7 @@
     "genres": [
       "Romance"
     ],
-    "updated_at": 1784268121
+    "updated_at": 1784275323
   },
   {
     "id": 112788,
@@ -5300,7 +5587,7 @@
       "Drama",
       "Slice of Life"
     ],
-    "updated_at": 1784242996
+    "updated_at": 1784275323
   },
   {
     "id": 112023,
@@ -6253,7 +6540,7 @@
       "Action",
       "Drama"
     ],
-    "updated_at": 1783945548
+    "updated_at": 1784275323
   },
   {
     "id": 108815,
@@ -6656,7 +6943,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1783946366
+    "updated_at": 1784275323
   },
   {
     "id": 107623,
@@ -6744,7 +7031,7 @@
       "Adventure",
       "Comedy"
     ],
-    "updated_at": 1783948413
+    "updated_at": 1784275323
   },
   {
     "id": 107208,
@@ -7403,7 +7690,7 @@
       "Romance",
       "Sci-Fi"
     ],
-    "updated_at": 1783947279
+    "updated_at": 1784275323
   },
   {
     "id": 104557,
@@ -7542,7 +7829,7 @@
       "Comedy",
       "Slice of Life"
     ],
-    "updated_at": 1784268121
+    "updated_at": 1784275323
   },
   {
     "id": 104456,
@@ -8417,7 +8704,7 @@
       "Mahou Shoujo",
       "Romance"
     ],
-    "updated_at": 1783947492
+    "updated_at": 1784275321
   },
   {
     "id": 103712,
@@ -8447,7 +8734,7 @@
       "Mahou Shoujo",
       "Romance"
     ],
-    "updated_at": 1783947493
+    "updated_at": 1784275321
   },
   {
     "id": 103692,
@@ -9502,7 +9789,7 @@
     "genres": [
       "Sports"
     ],
-    "updated_at": 1783948747
+    "updated_at": 1784275323
   },
   {
     "id": 102563,
@@ -11100,7 +11387,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1783949536
+    "updated_at": 1784275323
   },
   {
     "id": 101166,
@@ -11628,7 +11915,7 @@
       "Action",
       "Supernatural"
     ],
-    "updated_at": 1783950475
+    "updated_at": 1784275323
   },
   {
     "id": 100465,
@@ -11658,7 +11945,7 @@
       "Fantasy",
       "Mystery"
     ],
-    "updated_at": 1784268102
+    "updated_at": 1784275323
   },
   {
     "id": 100361,
@@ -11826,7 +12113,7 @@
       "Slice of Life",
       "Supernatural"
     ],
-    "updated_at": 1783950719
+    "updated_at": 1784275323
   },
   {
     "id": 100248,
@@ -12400,7 +12687,7 @@
       "Horror",
       "Supernatural"
     ],
-    "updated_at": 1783948413
+    "updated_at": 1784275323
   },
   {
     "id": 98496,
@@ -12519,6 +12806,34 @@
       "Supernatural"
     ],
     "updated_at": 1784268121
+  },
+  {
+    "id": 98332,
+    "id_mal": 32806,
+    "url": "https://anilist.co/anime/98332",
+    "title": {
+      "english": "",
+      "romaji": "Aikatsu!: Nerawareta Mahou no Aikatsu! Card",
+      "native": "アイカツ！～ねらわれた魔法のアイカツ！カード～"
+    },
+    "description": "An event turned into a movie, with our director being Ichigo Hoshimiya and our main heroine being the idol who just became the Starlight Queen, Akari Oozora!\nA slapstick story about finding that one Aikatsu! Card.\nThe final stage of the 25 idols.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx98332-a7C5eIwq1WIo.jpg",
+    "banner_url": "",
+    "schedule": "Musim: SUMMER 2016",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "SUMMER",
+    "year": 2016,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 28,
+    "status": "FINISHED",
+    "score": 72,
+    "genres": [
+      "Comedy",
+      "Music"
+    ],
+    "updated_at": 1784275323
   },
   {
     "id": 98298,
@@ -12665,7 +12980,7 @@
       "Horror",
       "Supernatural"
     ],
-    "updated_at": 1784268097
+    "updated_at": 1784275323
   },
   {
     "id": 97917,
@@ -12757,6 +13072,37 @@
     "updated_at": 1784268121
   },
   {
+    "id": 97669,
+    "id_mal": 34136,
+    "url": "https://anilist.co/anime/97669",
+    "title": {
+      "english": "Orange: Future",
+      "romaji": "orange: Mirai",
+      "native": "orange -未来-"
+    },
+    "description": "This film retells the main story from the viewpoint of Hiroto Suwa, as he continues to support Kakeru and Naho's relationship. The film also features an original story which takes place after the events in the manga and anime series.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx97669-7nJlcraO2dwm.jpg",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/97669-mdCdz7nOcrt6.jpg",
+    "schedule": "Musim: FALL 2016",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "FALL",
+    "year": 2016,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 65,
+    "status": "FINISHED",
+    "score": 73,
+    "genres": [
+      "Drama",
+      "Psychological",
+      "Romance",
+      "Sci-Fi",
+      "Supernatural"
+    ],
+    "updated_at": 1784275323
+  },
+  {
     "id": 87458,
     "id_mal": 33783,
     "url": "https://anilist.co/anime/87458",
@@ -12783,6 +13129,35 @@
       "Sci-Fi"
     ],
     "updated_at": 1783948406
+  },
+  {
+    "id": 87438,
+    "id_mal": 31201,
+    "url": "https://anilist.co/anime/87438",
+    "title": {
+      "english": "",
+      "romaji": "Doraemon: Shin Nobita no Nippon Tanjou",
+      "native": "映画ドラえもん　新・のび太の日本誕生"
+    },
+    "description": "<i>The 36th Doraemon movie</i>. This is a remake of the 1989 film <i>Doraemon: Nobita no Nippon Tanjou</i>.\n<br><br>\nNobita wants to run away from home, again. He finds out that there is nowhere for him to go. All the land is owned by someone. His friends end up wanting to run away also, even Doraemon. They figure out that the only way to find land that isn't owned by anyone is to go back in time to when no humans existed. They end up helping a prehistoric boy rescue his tribe from Gigazombie.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx87438-GcZMWkkCFL2S.jpg",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/87438-JkFzpwp1LZLA.jpg",
+    "schedule": "Musim: WINTER 2016",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "WINTER",
+    "year": 2016,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 104,
+    "status": "FINISHED",
+    "score": 71,
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Fantasy"
+    ],
+    "updated_at": 1784275323
   },
   {
     "id": 21893,
@@ -12934,7 +13309,7 @@
       "Mecha",
       "Sci-Fi"
     ],
-    "updated_at": 1783944122
+    "updated_at": 1784275323
   },
   {
     "id": 21757,
@@ -13419,7 +13794,7 @@
       "Drama",
       "Fantasy"
     ],
-    "updated_at": 1784268121
+    "updated_at": 1784275323
   },
   {
     "id": 21296,
@@ -14503,6 +14878,34 @@
     "updated_at": 1783962141
   },
   {
+    "id": 20766,
+    "id_mal": 24997,
+    "url": "https://anilist.co/anime/20766",
+    "title": {
+      "english": "Love Live! The School Idol Movie",
+      "romaji": "Love Live! The School Idol Movie",
+      "native": "ラブライブ！The School Idol Movie"
+    },
+    "description": "Although μ's, the defending champions of the school idol tournament, plans to dissolve their group after the graduation of their senior members, they receive news that leads them to holding a concert event! The 9 girls continue to learn and grow in this new and unfamiliar world. What is the last thing that these girls can do as school idols? With the clock ticking, what kind of meaning will the μ's members find in performing the most exciting live performance?<br>\n<br>\n(Source: NIS America)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20766-9A9Z6hawqdLe.png",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/20766-M4rqjELIprpa.jpg",
+    "schedule": "Musim: SPRING 2015",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "SPRING",
+    "year": 2015,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 102,
+    "status": "FINISHED",
+    "score": 77,
+    "genres": [
+      "Music",
+      "Slice of Life"
+    ],
+    "updated_at": 1784275323
+  },
+  {
     "id": 20741,
     "id_mal": 24655,
     "url": "https://anilist.co/anime/20741",
@@ -15122,6 +15525,34 @@
     "updated_at": 1784242996
   },
   {
+    "id": 18617,
+    "id_mal": 18617,
+    "url": "https://anilist.co/anime/18617",
+    "title": {
+      "english": "Girls und Panzer der Film",
+      "romaji": "Girls und Panzer Movie",
+      "native": "ガールズ&パンツァー 劇場版"
+    },
+    "description": "When the Ministry of Education goes back on its promise to keep Ooarai Girls Academy open, the task of saving the five-mile-long Academy Ship from the wreckers falls to Miho and her barely-seasoned tankery team. However, things go off track almost immediately. While the Oorai tank crew may have won the high school tournament, they’re now facing a larger and more experienced university team, and if they fail, their armored vehicles will be forfeit! Will they be swapping their tanks for the memories? It’s possible, but winning a tank battle is all about tactics and teamwork, and the fledgling Ooarai students have more friends and allies than anyone suspects.<br>\n<br>\n(Source: Sentai Filmworks)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx18617-bzfsyLDahhm8.jpg",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/18617-Wyk9axRcIrjv.jpg",
+    "schedule": "Musim: FALL 2015",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "FALL",
+    "year": 2015,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 120,
+    "status": "FINISHED",
+    "score": 81,
+    "genres": [
+      "Action",
+      "Sports"
+    ],
+    "updated_at": 1784275323
+  },
+  {
     "id": 17947,
     "id_mal": 17947,
     "url": "https://anilist.co/anime/17947",
@@ -15184,6 +15615,35 @@
     "updated_at": 1783948413
   },
   {
+    "id": 17573,
+    "id_mal": 17573,
+    "url": "https://anilist.co/anime/17573",
+    "title": {
+      "english": "",
+      "romaji": "Planetarium Uchuu Kyoudai: Itten no Hikari",
+      "native": "プラネタリウム 宇宙兄弟 ～一点のひかり～"
+    },
+    "description": "The anime's original story features Mutta and Hibito during one summer when they were children. During the summer when Mutta and Hibito made their promise to go to space, they met a young girl who also had a wish.\n<br><br>\n(Source: Anime News Network)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/17573.jpg",
+    "banner_url": "",
+    "schedule": "Musim: SUMMER 2012",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "SUMMER",
+    "year": 2012,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 38,
+    "status": "FINISHED",
+    "score": 61,
+    "genres": [
+      "Comedy",
+      "Sci-Fi",
+      "Slice of Life"
+    ],
+    "updated_at": 1784275315
+  },
+  {
     "id": 17113,
     "id_mal": 17113,
     "url": "https://anilist.co/anime/17113",
@@ -15237,7 +15697,7 @@
       "Action",
       "Supernatural"
     ],
-    "updated_at": 1783944122
+    "updated_at": 1784275320
   },
   {
     "id": 16870,
@@ -15359,6 +15819,34 @@
       "Romance"
     ],
     "updated_at": 1783945915
+  },
+  {
+    "id": 16662,
+    "id_mal": 16662,
+    "url": "https://anilist.co/anime/16662",
+    "title": {
+      "english": "The Wind Rises",
+      "romaji": "Kaze Tachinu",
+      "native": "風立ちぬ"
+    },
+    "description": "Although Jirou Horikoshi's nearsightedness prevents him from ever becoming a pilot, he leaves his hometown to study aeronautical engineering at Tokyo Imperial University for one simple purpose: to design and build planes just like his hero, Italian aircraft pioneer Giovanni Battista Caproni. His arrival in the capital coincides with the Great Kanto Earthquake of 1923, during which he saves a maid serving the family of a young girl named Naoko Satomi; this disastrous event marks the beginning of over two decades of social unrest and malaise leading up to Japan's eventual surrender in World War II.\n",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx16662-HUI8irtoTdOJ.jpg",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/16662-XLmadbKVsRW2.jpg",
+    "schedule": "Musim: SUMMER 2013",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "SUMMER",
+    "year": 2013,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 126,
+    "status": "FINISHED",
+    "score": 80,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "updated_at": 1784275323
   },
   {
     "id": 16442,
@@ -15734,6 +16222,35 @@
     "updated_at": 1783945904
   },
   {
+    "id": 14669,
+    "id_mal": 14669,
+    "url": "https://anilist.co/anime/14669",
+    "title": {
+      "english": "Aura",
+      "romaji": "AURA: Maryuuinkouga Saigo no Tatakai",
+      "native": "AURA～魔竜院光牙最後の闘い～"
+    },
+    "description": "Ichirou Satou once lived a life of adolescent delusion as the great “Maryuin Koga.” Bullied by his peers and shunned by his classmates, Ichirou transferred schools in an effort star anew. But when he encounters a girl in a blue cape claiming to be an otherworldly researcher, it seems like his fresh start won’t be as easy as he thought. Although Ichirou tries his hardest to avoid this girl, he soon finds himself defending her as he attempts to bring her back down to the real world.<br>\n<br>\n(Source: Sentai Filmworks)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx14669-PIkxcol3IZiZ.jpg",
+    "banner_url": "",
+    "schedule": "Musim: SPRING 2013",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "SPRING",
+    "year": 2013,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 83,
+    "status": "FINISHED",
+    "score": 70,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "updated_at": 1784275323
+  },
+  {
     "id": 14407,
     "id_mal": 14407,
     "url": "https://anilist.co/anime/14407",
@@ -15934,7 +16451,7 @@
       "Mecha",
       "Sci-Fi"
     ],
-    "updated_at": 1784268108
+    "updated_at": 1784275323
   },
   {
     "id": 13271,
@@ -16018,6 +16535,91 @@
       "Supernatural"
     ],
     "updated_at": 1784268121
+  },
+  {
+    "id": 13119,
+    "id_mal": 13119,
+    "url": "https://anilist.co/anime/13119",
+    "title": {
+      "english": "HAKUOKI: WARRIOR SPIRIT OF THE BLUE SKY",
+      "romaji": "Hakuouki Movie 2: Shikon Soukyuu",
+      "native": "劇場版 薄桜鬼 第二章 士魂蒼穹"
+    },
+    "description": "Second and last part of the movies that remake season 1 and 2.\n<br><br>\nThe battle at Koufu Castle has been lost, the Furies are no longer restrained by daylight, and while the individual members of the Shinsengumi still survive, the links that bound them together have been torn and shattered.\n<br><br>\nAs Harada, Shinpachi, and Saito try to fight their way out of Koufu, Chizuru holds true to her oath to Hijikata, standing guard over Kondou, while he and Okita fight to recover from their gunshot wounds.\n<br><br>\nAnd Hijikata faces the greatest test of all. Having partaken of the Water Of Life, he must now balance his humanity against a need for blood and the deeds the Fury's power makes possible.\n<br><br>\n(Source: SENTAI FILMWORKS)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx13119-VsSwIwKDqxVc.png",
+    "banner_url": "",
+    "schedule": "Musim: WINTER 2014",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "WINTER",
+    "year": 2014,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 87,
+    "status": "FINISHED",
+    "score": 72,
+    "genres": [
+      "Action",
+      "Drama",
+      "Supernatural"
+    ],
+    "updated_at": 1784275323
+  },
+  {
+    "id": 13117,
+    "id_mal": 13117,
+    "url": "https://anilist.co/anime/13117",
+    "title": {
+      "english": "HAKUOKI: WILD DANCE OF TOKYO",
+      "romaji": "Hakuouki Movie 1: Kyoto Ranbu",
+      "native": "劇場版 薄桜鬼 第一章 京都乱舞"
+    },
+    "description": "First part of movies that remake season 1 and 2.\n<br><br>\nThere's a war going on in ancient Kyoto. A war fought in shadows, between the forces of the Shogunate's armed enforcers, the Shinsengumi, and the vampire-like Ronin warriors known as the Rasetsu or Furies. And trapped in the middle is a young woman disguised as a man.\n<br><br>\nSeeking her missing father, Chizuru Yukimura comes to Kyoto only to find her fate forever intertwined with the destinies of Shinsengumi Vice commander Toshizo Hijikata and his elite force of swordsmen. Because Chizuru's father has created a secret elixir that enhances the user's strength, speed and healing, and the furies will do anything and kill anyone in order to control that power! \n<br><br>\n(Source: SENTAI FILMWORKS)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx13117-SnbqHc88xWaP.png",
+    "banner_url": "",
+    "schedule": "Musim: SUMMER 2013",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "SUMMER",
+    "year": 2013,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 95,
+    "status": "FINISHED",
+    "score": 72,
+    "genres": [
+      "Action",
+      "Drama",
+      "Supernatural"
+    ],
+    "updated_at": 1784275323
+  },
+  {
+    "id": 12867,
+    "id_mal": 12867,
+    "url": "https://anilist.co/anime/12867",
+    "title": {
+      "english": "",
+      "romaji": "Tsuki no Sango",
+      "native": "月の珊瑚"
+    },
+    "description": "The story takes place in approximately the year 3000, when humankind arrived at the peak of its civilization, but is losing its will to keep living. It follows a girl, called \"princess\" by those around her, who lives on a small island with a fifty-person colony and a shining coral reef. She is a descendant of the Moon people, and the story focuses on how her ancestors supposedly came to Earth.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx12867-W69RpK1X1BdX.png",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/12867-d92H0WwOtJ2j.jpg",
+    "schedule": "Musim: FALL 2010",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "FALL",
+    "year": 2010,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 4,
+    "status": "FINISHED",
+    "score": 59,
+    "genres": [
+      "Drama"
+    ],
+    "updated_at": 1784275323
   },
   {
     "id": 12859,
@@ -16258,7 +16860,7 @@
       "Horror",
       "Supernatural"
     ],
-    "updated_at": 1784268121
+    "updated_at": 1784275323
   },
   {
     "id": 12053,
@@ -16877,6 +17479,35 @@
     "updated_at": 1784268121
   },
   {
+    "id": 10074,
+    "id_mal": 10074,
+    "url": "https://anilist.co/anime/10074",
+    "title": {
+      "english": "",
+      "romaji": "Toriko 3D: Kaimaku Gourmet Adventure!!",
+      "native": "トリコ３Ｄ 開幕グルメアドベンチャー！！"
+    },
+    "description": "A Toriko movie, the action in it takes place before the beginning of the TV series. The story follows a kid, Peck, who lives in a village attacked by a Gerold. So, he seeks the help of Toriko.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/10074.jpg",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/n10074-Xq9zlRSzWPxX.jpg",
+    "schedule": "Musim: SPRING 2011",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "SPRING",
+    "year": 2011,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 40,
+    "status": "FINISHED",
+    "score": 61,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy"
+    ],
+    "updated_at": 1784275323
+  },
+  {
     "id": 10029,
     "id_mal": 10029,
     "url": "https://anilist.co/anime/10029",
@@ -17051,7 +17682,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784242996
+    "updated_at": 1784275323
   },
   {
     "id": 9544,
@@ -17108,7 +17739,7 @@
       "Action",
       "Sci-Fi"
     ],
-    "updated_at": 1784242996
+    "updated_at": 1784275323
   },
   {
     "id": 9288,
@@ -18749,6 +19380,35 @@
     "updated_at": 1783945915
   },
   {
+    "id": 3446,
+    "id_mal": 3446,
+    "url": "https://anilist.co/anime/3446",
+    "title": {
+      "english": "Resident Evil: Degeneration",
+      "romaji": "Biohazard: Degeneration",
+      "native": "バイオハザード ディジェネレーション"
+    },
+    "description": "A zombie attack brings chaos to Harvardville Airport. Leon S. Kennedy and Claire Redfield who fought the sinister Umbrella Corporation during the Raccoon City tragedy 7 years ago, are back. In high-octane Resident Evil style, they're ready to battle a rogue warrior who is seeking revenge after his family was killed in Raccoon City. The deadly G-Virus is unleashed and a new mutated monster goes on the rampage. Will Claire and Leon be able to terminate the virus before history repeats itself? <br><br>\n\n(Source: Sony Pictures Entertainment)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx3446-XRV0WtztbCSq.jpg",
+    "banner_url": "",
+    "schedule": "Musim: FALL 2008",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "FALL",
+    "year": 2008,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 97,
+    "status": "FINISHED",
+    "score": 64,
+    "genres": [
+      "Action",
+      "Horror",
+      "Sci-Fi"
+    ],
+    "updated_at": 1784275323
+  },
+  {
     "id": 3220,
     "id_mal": 3220,
     "url": "https://anilist.co/anime/3220",
@@ -18832,7 +19492,7 @@
       "Action",
       "Sci-Fi"
     ],
-    "updated_at": 1784242996
+    "updated_at": 1784275323
   },
   {
     "id": 3067,
@@ -19292,6 +19952,35 @@
       "Slice of Life"
     ],
     "updated_at": 1783948413
+  },
+  {
+    "id": 2560,
+    "id_mal": 2560,
+    "url": "https://anilist.co/anime/2560",
+    "title": {
+      "english": "Toward the Terra",
+      "romaji": "Terra e...",
+      "native": "地球へ..."
+    },
+    "description": "In the future, mankind's seemingly utopian society is strictly controlled by the government, and anything that threatens to disrupt the status quo is ruthlessly suppressed. When 14-year-old Jomy begins to question the way the society is run, he suddenly becomes a target for both the government and the Mu, an outcast race with extra-sensory abilities who have been fighting against the government for generations. Now, each is determined to hunt him down - one to kill him and the other to save him.<br><br>\n(Source: RightStuf)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2560-fGJFfEvVBGMB.png",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/2560-IwgxLlDphkwQ.jpg",
+    "schedule": "Musim: SPRING 1980",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "SPRING",
+    "year": 1980,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 111,
+    "status": "FINISHED",
+    "score": 61,
+    "genres": [
+      "Action",
+      "Drama",
+      "Sci-Fi"
+    ],
+    "updated_at": 1784275323
   },
   {
     "id": 2472,
@@ -19897,7 +20586,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1783948378
+    "updated_at": 1784275323
   },
   {
     "id": 1815,
@@ -20362,6 +21051,34 @@
     "updated_at": 1783962141
   },
   {
+    "id": 1290,
+    "id_mal": 1290,
+    "url": "https://anilist.co/anime/1290",
+    "title": {
+      "english": "Mobile Police Patlabor: WXIII",
+      "romaji": "WXIII Kidou Keisatsu Patlabor",
+      "native": "WXIII 機動警察パトレイバー"
+    },
+    "description": "When the level of Labor accidents begin to escalate around Tokyo Bay, police detectives Kusumi and Hata are assigned to investigate. What they discover leads to a series of government cover-ups, conspiracy concerning a new biological weapon entitled WXIII-Wasted Thirteen and a tragic, personal connection to Hata. The only hope to stop this threat is to cooperate with the military and lead WXIII into a showdown with the Labors of Special Vehicle Division 2. <br><br>\n(Source: Anime News Network)<br><br>\n\nThis Movie is a Side Story that takes place in between Patlabor Movie 1 and 2",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1290-EpimlnTcvT2i.png",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/1290-mXuwA7p2aO2R.jpg",
+    "schedule": "Musim: SPRING 2002",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "SPRING",
+    "year": 2002,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 102,
+    "status": "FINISHED",
+    "score": 63,
+    "genres": [
+      "Mecha",
+      "Sci-Fi"
+    ],
+    "updated_at": 1784275323
+  },
+  {
     "id": 1211,
     "id_mal": 1211,
     "url": "https://anilist.co/anime/1211",
@@ -20448,6 +21165,35 @@
       "Fantasy"
     ],
     "updated_at": 1783945891
+  },
+  {
+    "id": 1144,
+    "id_mal": 1144,
+    "url": "https://anilist.co/anime/1144",
+    "title": {
+      "english": "Tenchi Forever",
+      "romaji": "Tenchi Muyou! in LOVE 2: Haruka Naru Omoi",
+      "native": "天地無用! in LOVE2 遥かなる想い"
+    },
+    "description": "Tenchi walks into the mountains and disappears. After searching all over Japan for Tenchi, Ayeka and Ryoko finally locate him in Tokyo where he is now several years older. Tenchi appears to be in a parallel world with a mysterious girl, named Haruna, and doesn't remember Ayeka and Ryoko! What is the mysterious connection between Haruna and Tenchi's grandfather, Yosho? It's up to Ayeka and Ryoko to discover what Haruna wants with Tenchi and to rescue him before he disappears forever!<br>\n<br>\n(Source: Geneon Entertainment)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1144-pN5vygIZrfxQ.jpg",
+    "banner_url": "",
+    "schedule": "Musim: SPRING 1999",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "SPRING",
+    "year": 1999,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 95,
+    "status": "FINISHED",
+    "score": 69,
+    "genres": [
+      "Drama",
+      "Romance",
+      "Sci-Fi"
+    ],
+    "updated_at": 1784275318
   },
   {
     "id": 1122,
@@ -20635,6 +21381,38 @@
     "updated_at": 1784253674
   },
   {
+    "id": 1107,
+    "id_mal": 1107,
+    "url": "https://anilist.co/anime/1107",
+    "title": {
+      "english": "Wicked City",
+      "romaji": "Youjuu Toshi",
+      "native": "妖獣都市"
+    },
+    "description": "Beyond the boundaries of our ordinary existence lies a dreadful parallel world where demons dwell and humans dare not tread. For centuries, peace has existed between our world and theirs. To preserve that fragile balance and to ensure the survival of humankind, a new deal must be brokered, but dark and powerful forces lust to destroy the accord. When a militant group rises from the shadows, two elite agents are mobilized to counter the destructive forces and preserve the balance of our universe.<br><br>\n(Source: Sentai Filmworks)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx1107-YRi1VB2Y80g3.png",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/n1107-UBCtRLTeFSdp.jpg",
+    "schedule": "Musim: SPRING 1987",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "SPRING",
+    "year": 1987,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 82,
+    "status": "FINISHED",
+    "score": 61,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Ecchi",
+      "Horror",
+      "Supernatural"
+    ],
+    "updated_at": 1784275323
+  },
+  {
     "id": 1106,
     "id_mal": 1106,
     "url": "https://anilist.co/anime/1106",
@@ -20689,7 +21467,7 @@
       "Comedy",
       "Sci-Fi"
     ],
-    "updated_at": 1784268121
+    "updated_at": 1784275318
   },
   {
     "id": 1096,
@@ -20748,7 +21526,7 @@
       "Mecha",
       "Sci-Fi"
     ],
-    "updated_at": 1784268121
+    "updated_at": 1784275323
   },
   {
     "id": 1092,
@@ -20897,6 +21675,36 @@
       "Slice of Life"
     ],
     "updated_at": 1783962141
+  },
+  {
+    "id": 1006,
+    "id_mal": 1006,
+    "url": "https://anilist.co/anime/1006",
+    "title": {
+      "english": "Tenchi Muyo! In Love",
+      "romaji": "Tenchi Muyou! in Love",
+      "native": "天地無用! in Love"
+    },
+    "description": "The demonic space criminal Kain has escaped from prison and destroyed the Galaxy Police headquarters. To ensure that the Jurai will not stop him, Kain travels back to 1970 to eliminate Tenchi's mother before he is even born. Now, Tenchi and the gang must travel to the past to stop him before he ceases to exist. <br><br>\n(Source: Anime News Network)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/n1006-A3i2EkdddUYv.png",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/n1006-TkltpSRSM2wp.jpg",
+    "schedule": "Musim: SPRING 1996",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "SPRING",
+    "year": 1996,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 94,
+    "status": "FINISHED",
+    "score": 71,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Romance",
+      "Sci-Fi"
+    ],
+    "updated_at": 1784275318
   },
   {
     "id": 906,
@@ -21070,7 +21878,7 @@
       "Adventure",
       "Sci-Fi"
     ],
-    "updated_at": 1784253704
+    "updated_at": 1784275323
   },
   {
     "id": 900,
@@ -21128,7 +21936,7 @@
       "Adventure",
       "Sci-Fi"
     ],
-    "updated_at": 1784253705
+    "updated_at": 1784275323
   },
   {
     "id": 898,
@@ -21476,7 +22284,7 @@
       "Comedy",
       "Sports"
     ],
-    "updated_at": 1784242996
+    "updated_at": 1784275323
   },
   {
     "id": 791,
@@ -21681,6 +22489,36 @@
     "updated_at": 1783962141
   },
   {
+    "id": 585,
+    "id_mal": 585,
+    "url": "https://anilist.co/anime/585",
+    "title": {
+      "english": "Whisper of the Heart",
+      "romaji": "Mimi wo Sumaseba",
+      "native": "耳をすませば"
+    },
+    "description": "During summer vacation, a schoolgirl named Shizuku, who longs to discover her true talents, observes an ordinary-looking cat riding by himself on the train. Intrigued, she decides to follow him. This chance encounter leads her to the mysterious Seiji, a boy who is determined to follow his dreams, and The Baron, a magical cat figurine who helps her listen to the whispers in her heart. Soon, Shizuku's exciting adventures carry her far beyond the boundaries of her imagination.<br><br>\n(Source: Disney)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx585-5uq7j2xNNVmN.jpg",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/585-GowCYxa1c8WR.jpg",
+    "schedule": "Musim: SUMMER 1995",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "SUMMER",
+    "year": 1995,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 111,
+    "status": "FINISHED",
+    "score": 81,
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Romance",
+      "Slice of Life"
+    ],
+    "updated_at": 1784275323
+  },
+  {
     "id": 578,
     "id_mal": 578,
     "url": "https://anilist.co/anime/578",
@@ -21800,7 +22638,7 @@
       "Romance",
       "Sci-Fi"
     ],
-    "updated_at": 1784253659
+    "updated_at": 1784275323
   },
   {
     "id": 536,
@@ -22428,7 +23266,36 @@
       "Fantasy",
       "Mahou Shoujo"
     ],
-    "updated_at": 1783948413
+    "updated_at": 1784275323
+  },
+  {
+    "id": 317,
+    "id_mal": 317,
+    "url": "https://anilist.co/anime/317",
+    "title": {
+      "english": "",
+      "romaji": "Final Fantasy VII: Advent Children",
+      "native": "ファイナルファンタジーVII アドベントチルドレン"
+    },
+    "description": "Two years after the end of Final Fantasy VII the world is starting to get back on it's feet and is working towards a new future. However, there is a new threat from a new illness called Geo-stigma, and three men that seem to be seeking Jenova. Cloud and his friends from the orginal game must once again reunite to combat the new threat.\n<br><br>\n(Source: Anime News Network)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b317-ay0Rw7kxgLVD.jpg",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/n317-I8gaZ4rexNQX.jpg",
+    "schedule": "Musim: FALL 2005",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "FALL",
+    "year": 2005,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 101,
+    "status": "FINISHED",
+    "score": 72,
+    "genres": [
+      "Action",
+      "Fantasy",
+      "Sci-Fi"
+    ],
+    "updated_at": 1784275323
   },
   {
     "id": 199,
@@ -22519,7 +23386,7 @@
       "Mecha",
       "Sci-Fi"
     ],
-    "updated_at": 1784242996
+    "updated_at": 1784275323
   },
   {
     "id": 87,
@@ -22548,7 +23415,7 @@
       "Mecha",
       "Sci-Fi"
     ],
-    "updated_at": 1783945915
+    "updated_at": 1784275323
   },
   {
     "id": 83,
