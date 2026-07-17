@@ -81,7 +81,7 @@
       "Action",
       "Sci-Fi"
     ],
-    "updated_at": 1784307728
+    "updated_at": 1784322117
   },
   {
     "id": 214068,
@@ -167,7 +167,7 @@
       "Adventure",
       "Sci-Fi"
     ],
-    "updated_at": 1784318461
+    "updated_at": 1784322117
   },
   {
     "id": 214049,
@@ -363,7 +363,7 @@
       "Mystery",
       "Supernatural"
     ],
-    "updated_at": 1784268121
+    "updated_at": 1784322117
   },
   {
     "id": 213879,
@@ -498,6 +498,34 @@
       "Fantasy"
     ],
     "updated_at": 1784246844
+  },
+  {
+    "id": 213867,
+    "id_mal": 64554,
+    "url": "https://anilist.co/anime/213867",
+    "title": {
+      "english": "Milky☆Byway Spring Special: Terror on Chelovin's Day",
+      "romaji": "Milky☆Byway Spring Special: Kyoufu no Chelovin Party",
+      "native": "ミルキー☆バイウェイ スプリングスペシャル “恐怖のチェロビン・パーティー”"
+    },
+    "description": "Production of a new short anime 「TERROR ON CHELOVIN'S DAY」confirmed！<br><br>\n(Source: Official Twitter)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b213867-nZsdp1SSiuh7.jpg",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "SPECIAL",
+    "episodes": null,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Comedy",
+      "Sci-Fi"
+    ],
+    "updated_at": 1784322117
   },
   {
     "id": 213860,
@@ -641,7 +669,7 @@
       "Mystery",
       "Romance"
     ],
-    "updated_at": 1784300508
+    "updated_at": 1784322117
   },
   {
     "id": 213814,
@@ -726,7 +754,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784304124
+    "updated_at": 1784322112
   },
   {
     "id": 213782,
@@ -755,7 +783,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784300508
+    "updated_at": 1784322117
   },
   {
     "id": 213752,
@@ -981,7 +1009,7 @@
     "genres": [
       "Sci-Fi"
     ],
-    "updated_at": 1784300508
+    "updated_at": 1784322117
   },
   {
     "id": 213628,
@@ -1302,7 +1330,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784318451
+    "updated_at": 1784322117
   },
   {
     "id": 213360,
@@ -1476,7 +1504,7 @@
       "Action",
       "Mecha"
     ],
-    "updated_at": 1784318493
+    "updated_at": 1784322117
   },
   {
     "id": 213067,
@@ -1702,6 +1730,33 @@
       "Supernatural"
     ],
     "updated_at": 1784246842
+  },
+  {
+    "id": 212653,
+    "id_mal": null,
+    "url": "https://anilist.co/anime/212653",
+    "title": {
+      "english": "",
+      "romaji": "Kidou Keisatsu Patlabor EZY File 3",
+      "native": "機動警察パトレイバー EZY File 3"
+    },
+    "description": "The third part of <i>Kidou Keisatsu Patlabor EZY</i>.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx212653-agl4kBS8zY9n.png",
+    "banner_url": "",
+    "schedule": "Musim: WINTER 2027",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "WINTER",
+    "year": 2027,
+    "format": "OVA",
+    "episodes": 2,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Mecha"
+    ],
+    "updated_at": 1784322117
   },
   {
     "id": 212618,
@@ -2075,7 +2130,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784286117
+    "updated_at": 1784322117
   },
   {
     "id": 211711,
@@ -2541,7 +2596,7 @@
       "Drama",
       "Fantasy"
     ],
-    "updated_at": 1784282525
+    "updated_at": 1784322107
   },
   {
     "id": 209939,
@@ -2599,7 +2654,7 @@
       "Drama",
       "Supernatural"
     ],
-    "updated_at": 1784318437
+    "updated_at": 1784322115
   },
   {
     "id": 209827,
@@ -3581,6 +3636,36 @@
     "updated_at": 1784246837
   },
   {
+    "id": 205375,
+    "id_mal": 63235,
+    "url": "https://anilist.co/anime/205375",
+    "title": {
+      "english": "",
+      "romaji": "Long Zu 3",
+      "native": "龍族Ⅲ 黑月之潮"
+    },
+    "description": "Third season of <i>Long Zu</i>.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx205375-ZMmjcJPs82rw.png",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "ONA",
+    "episodes": null,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Fantasy"
+    ],
+    "updated_at": 1784322117
+  },
+  {
     "id": 205081,
     "id_mal": 63212,
     "url": "https://anilist.co/anime/205081",
@@ -3786,6 +3871,66 @@
     "updated_at": 1784307728
   },
   {
+    "id": 204585,
+    "id_mal": 57095,
+    "url": "https://anilist.co/anime/204585",
+    "title": {
+      "english": "",
+      "romaji": "Princess Principal: Crown Handler - Chapter 6",
+      "native": "プリンセス・プリンシパル Crown Handler 第6章"
+    },
+    "description": "The last out of six movie sequels to the Princess Principal TV series.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/default.jpg",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Mystery",
+      "Sci-Fi"
+    ],
+    "updated_at": 1784322117
+  },
+  {
+    "id": 204584,
+    "id_mal": 57094,
+    "url": "https://anilist.co/anime/204584",
+    "title": {
+      "english": "",
+      "romaji": "Princess Principal: Crown Handler - Chapter 5",
+      "native": "プリンセス・プリンシパル Crown Handler 第5章"
+    },
+    "description": "The fifth out of six movie sequels to the <i>Princess Principal</i> TV series.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx204584-PQNlQHRVeuGe.png",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Mystery",
+      "Sci-Fi"
+    ],
+    "updated_at": 1784322117
+  },
+  {
     "id": 204579,
     "id_mal": 63174,
     "url": "https://anilist.co/anime/204579",
@@ -3812,7 +3957,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784268121
+    "updated_at": 1784322117
   },
   {
     "id": 204436,
@@ -4124,7 +4269,7 @@
     "status": "NOT_YET_RELEASED",
     "score": null,
     "genres": [],
-    "updated_at": 1784246836
+    "updated_at": 1784322117
   },
   {
     "id": 203473,
@@ -4211,7 +4356,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784304124
+    "updated_at": 1784322117
   },
   {
     "id": 203129,
@@ -4408,7 +4553,7 @@
       "Action",
       "Sports"
     ],
-    "updated_at": 1784242996
+    "updated_at": 1784322117
   },
   {
     "id": 202282,
@@ -4702,7 +4847,7 @@
       "Slice of Life",
       "Supernatural"
     ],
-    "updated_at": 1784318493
+    "updated_at": 1784322117
   },
   {
     "id": 199597,
@@ -4871,7 +5016,7 @@
       "Mystery",
       "Supernatural"
     ],
-    "updated_at": 1783945903
+    "updated_at": 1784322117
   },
   {
     "id": 199342,
@@ -5134,7 +5279,7 @@
     "genres": [
       "Action"
     ],
-    "updated_at": 1784268121
+    "updated_at": 1784322117
   },
   {
     "id": 198727,
@@ -5427,6 +5572,35 @@
     "updated_at": 1784318417
   },
   {
+    "id": 195571,
+    "id_mal": 61999,
+    "url": "https://anilist.co/anime/195571",
+    "title": {
+      "english": "The Vermilion Mask",
+      "romaji": "Shuiro no Kamen",
+      "native": "朱色の仮面"
+    },
+    "description": "\"The Mask” gives power to anyone who wears it.<br><br>\n\nAt times, that means endless possibility, or unimaginable tragedy…<br><br>\n\nPeru, pupil of the legendary mask maker Gaston Roux, becomes controlled by the “Mask of the Warrior God,” and unintentionally kills his friends, and even his own master.\n<br><br>\nIn order to prevent this type of tragedy from reoccurring, Peru swears to destroy all of Gaston’s masks that are spread around the world. Confronting the sins that he has committed, he embarks on his voyage. Meeting new friends, then confronting powerful foes. The boy continues on. Until the day he can atone for his sins against his master.\n<br><br>\n(Source: The Vermillion Mask English Site)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx195571-Pamu2vEgJtTB.jpg",
+    "banner_url": "",
+    "schedule": "Musim: FALL 2026",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "FALL",
+    "year": 2026,
+    "format": "",
+    "episodes": null,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Action",
+      "Drama",
+      "Supernatural"
+    ],
+    "updated_at": 1784322108
+  },
+  {
     "id": 195539,
     "id_mal": 61990,
     "url": "https://anilist.co/anime/195539",
@@ -5600,7 +5774,7 @@
       "Comedy",
       "Supernatural"
     ],
-    "updated_at": 1784304124
+    "updated_at": 1784322117
   },
   {
     "id": 195210,
@@ -7035,7 +7209,7 @@
       "Mahou Shoujo",
       "Slice of Life"
     ],
-    "updated_at": 1784286117
+    "updated_at": 1784322108
   },
   {
     "id": 181951,
@@ -7466,7 +7640,37 @@
       "Drama",
       "Sports"
     ],
-    "updated_at": 1784318497
+    "updated_at": 1784322117
+  },
+  {
+    "id": 174427,
+    "id_mal": 57990,
+    "url": "https://anilist.co/anime/174427",
+    "title": {
+      "english": "",
+      "romaji": "Zombie no Afureta Sekai de Ore dake ga Osowarenai",
+      "native": "ゾンビのあふれた世界で俺だけが襲われない"
+    },
+    "description": "In an instant, the daily life of Takemura, an office worker who hates people, changed. Before he knew it, he found himself in a world full of zombies. But for some reason, he is the only one who is not attacked by the zombies.\n<br><br>\n\"Helping people? Why would I do that? I'm going to live in this world as I please.\" In a post-apocalyptic world where civilization is on the verge of collapse, Takemura has unexpectedly gained great power. As the only person that the zombies won't touch, will he be a hero, or is he just another......?\n<br><br>\n(Source: Frontier Works, translated)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx174427-QVsd8EMdlfHM.jpg",
+    "banner_url": "",
+    "schedule": "Musim: WINTER 2027",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "WINTER",
+    "year": 2027,
+    "format": "TV",
+    "episodes": null,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Action",
+      "Ecchi",
+      "Supernatural",
+      "Thriller"
+    ],
+    "updated_at": 1784322117
   },
   {
     "id": 172192,
@@ -7869,7 +8073,7 @@
     "genres": [
       "Sci-Fi"
     ],
-    "updated_at": 1784307728
+    "updated_at": 1784322117
   },
   {
     "id": 165523,
@@ -8069,7 +8273,7 @@
       "Mahou Shoujo",
       "Thriller"
     ],
-    "updated_at": 1784282622
+    "updated_at": 1784322117
   },
   {
     "id": 160275,
@@ -8246,7 +8450,7 @@
       "Drama",
       "Sports"
     ],
-    "updated_at": 1784300508
+    "updated_at": 1784322117
   },
   {
     "id": 152677,
@@ -9032,7 +9236,7 @@
       "Romance",
       "Sci-Fi"
     ],
-    "updated_at": 1783949158
+    "updated_at": 1784322117
   },
   {
     "id": 100130,
@@ -9091,6 +9295,31 @@
       "Sci-Fi"
     ],
     "updated_at": 1783950924
+  },
+  {
+    "id": 10089,
+    "id_mal": null,
+    "url": "https://anilist.co/anime/10089",
+    "title": {
+      "english": "",
+      "romaji": "Girls' Work",
+      "native": "ガールズワーク"
+    },
+    "description": "<i>Note: First announced as an all-ages visual novel in the June 2008 issue of Tech Gian along with Mahou Tsukai no Yoru and the Tsukihime remake. In December 2010, it was announced that Girls' Work would be released as an anime series instead of a visual novel.</i>",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx10089-OoG8qY6kAzJO.jpg",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "TV",
+    "episodes": null,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [],
+    "updated_at": 1784322117
   },
   {
     "id": 6504,

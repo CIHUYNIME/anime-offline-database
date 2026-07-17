@@ -52,7 +52,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784314921
+    "updated_at": 1784322117
   },
   {
     "id": 213861,
@@ -108,7 +108,7 @@
       "Ecchi",
       "Supernatural"
     ],
-    "updated_at": 1784318418
+    "updated_at": 1784322006
   },
   {
     "id": 213703,
@@ -136,7 +136,7 @@
       "Fantasy",
       "Sci-Fi"
     ],
-    "updated_at": 1784293296
+    "updated_at": 1784322072
   },
   {
     "id": 213666,
@@ -164,7 +164,7 @@
       "Drama",
       "Romance"
     ],
-    "updated_at": 1784318040
+    "updated_at": 1784322092
   },
   {
     "id": 213665,
@@ -192,7 +192,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784315011
+    "updated_at": 1784322117
   },
   {
     "id": 213638,
@@ -276,7 +276,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784318003
+    "updated_at": 1784322020
   },
   {
     "id": 213427,
@@ -387,7 +387,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784318498
+    "updated_at": 1784322034
   },
   {
     "id": 213188,
@@ -639,7 +639,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784315094
+    "updated_at": 1784322117
   },
   {
     "id": 210687,
@@ -725,7 +725,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784317998
+    "updated_at": 1784322006
   },
   {
     "id": 209983,
@@ -754,7 +754,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784318404
+    "updated_at": 1784322004
   },
   {
     "id": 209982,
@@ -835,7 +835,7 @@
     "genres": [
       "Hentai"
     ],
-    "updated_at": 1784318045
+    "updated_at": 1784322117
   },
   {
     "id": 209800,
@@ -864,7 +864,7 @@
       "Adventure",
       "Sci-Fi"
     ],
-    "updated_at": 1784318060
+    "updated_at": 1784322111
   },
   {
     "id": 209669,
@@ -894,7 +894,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784318426
+    "updated_at": 1784322004
   },
   {
     "id": 209541,
@@ -952,7 +952,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784318035
+    "updated_at": 1784322012
   },
   {
     "id": 208824,
@@ -977,7 +977,7 @@
     "status": "RELEASING",
     "score": null,
     "genres": [],
-    "updated_at": 1784318019
+    "updated_at": 1784322117
   },
   {
     "id": 208749,
@@ -1004,7 +1004,7 @@
     "genres": [
       "Hentai"
     ],
-    "updated_at": 1784307728
+    "updated_at": 1784322089
   },
   {
     "id": 208685,
@@ -1140,7 +1140,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784318033
+    "updated_at": 1784322046
   },
   {
     "id": 208105,
@@ -1224,7 +1224,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784318407
+    "updated_at": 1784322004
   },
   {
     "id": 207809,
@@ -1255,7 +1255,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784318415
+    "updated_at": 1784322058
   },
   {
     "id": 207674,
@@ -1284,7 +1284,7 @@
       "Ecchi",
       "Supernatural"
     ],
-    "updated_at": 1784318406
+    "updated_at": 1784322006
   },
   {
     "id": 207534,
@@ -1342,7 +1342,7 @@
       "Drama",
       "Sci-Fi"
     ],
-    "updated_at": 1784318442
+    "updated_at": 1784322047
   },
   {
     "id": 207141,
@@ -1370,7 +1370,7 @@
       "Comedy",
       "Slice of Life"
     ],
-    "updated_at": 1784318406
+    "updated_at": 1784322008
   },
   {
     "id": 207084,
@@ -1400,7 +1400,7 @@
       "Supernatural",
       "Thriller"
     ],
-    "updated_at": 1784304124
+    "updated_at": 1784322047
   },
   {
     "id": 207035,
@@ -1482,7 +1482,7 @@
     "genres": [
       "Hentai"
     ],
-    "updated_at": 1784311302
+    "updated_at": 1784322075
   },
   {
     "id": 206523,
@@ -1509,7 +1509,7 @@
     "genres": [
       "Music"
     ],
-    "updated_at": 1784318464
+    "updated_at": 1784322046
   },
   {
     "id": 206521,
@@ -1536,7 +1536,7 @@
     "genres": [
       "Drama"
     ],
-    "updated_at": 1784318416
+    "updated_at": 1784322017
   },
   {
     "id": 206425,
@@ -1564,7 +1564,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784318087
+    "updated_at": 1784322088
   },
   {
     "id": 206270,
@@ -1593,7 +1593,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784318030
+    "updated_at": 1784322050
   },
   {
     "id": 206249,
@@ -1621,7 +1621,7 @@
       "Action",
       "Supernatural"
     ],
-    "updated_at": 1784318023
+    "updated_at": 1784322050
   },
   {
     "id": 206194,
@@ -1649,7 +1649,7 @@
       "Action",
       "Fantasy"
     ],
-    "updated_at": 1784311302
+    "updated_at": 1784322081
   },
   {
     "id": 206154,
@@ -1784,7 +1784,7 @@
     "genres": [
       "Slice of Life"
     ],
-    "updated_at": 1784318087
+    "updated_at": 1784322091
   },
   {
     "id": 204560,
@@ -1841,7 +1841,7 @@
       "Romance",
       "Supernatural"
     ],
-    "updated_at": 1784318407
+    "updated_at": 1784322006
   },
   {
     "id": 204463,
@@ -1923,7 +1923,7 @@
       "Action",
       "Comedy"
     ],
-    "updated_at": 1784318427
+    "updated_at": 1784322006
   },
   {
     "id": 203880,
@@ -1952,7 +1952,7 @@
       "Horror",
       "Supernatural"
     ],
-    "updated_at": 1784318408
+    "updated_at": 1784322003
   },
   {
     "id": 203490,
@@ -1981,7 +1981,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784318406
+    "updated_at": 1784322006
   },
   {
     "id": 203367,
@@ -2008,7 +2008,7 @@
     "genres": [
       "Hentai"
     ],
-    "updated_at": 1784279459
+    "updated_at": 1784322079
   },
   {
     "id": 202957,
@@ -2036,7 +2036,7 @@
       "Mahou Shoujo",
       "Mystery"
     ],
-    "updated_at": 1784318436
+    "updated_at": 1784322038
   },
   {
     "id": 202895,
@@ -2175,7 +2175,7 @@
       "Mystery",
       "Slice of Life"
     ],
-    "updated_at": 1784318419
+    "updated_at": 1784322011
   },
   {
     "id": 202386,
@@ -2231,7 +2231,7 @@
       "Drama",
       "Romance"
     ],
-    "updated_at": 1784318425
+    "updated_at": 1784322013
   },
   {
     "id": 201910,
@@ -2285,7 +2285,7 @@
       "Slice of Life",
       "Supernatural"
     ],
-    "updated_at": 1784318442
+    "updated_at": 1784322026
   },
   {
     "id": 201514,
@@ -2313,7 +2313,7 @@
       "Comedy",
       "Romance"
     ],
-    "updated_at": 1784318413
+    "updated_at": 1784322006
   },
   {
     "id": 201153,
@@ -2369,7 +2369,7 @@
       "Ecchi",
       "Romance"
     ],
-    "updated_at": 1784318418
+    "updated_at": 1784322012
   },
   {
     "id": 200375,
@@ -2425,7 +2425,7 @@
       "Horror",
       "Supernatural"
     ],
-    "updated_at": 1784318048
+    "updated_at": 1784322072
   },
   {
     "id": 200228,
@@ -2481,7 +2481,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784318405
+    "updated_at": 1784322004
   },
   {
     "id": 199418,
@@ -2510,7 +2510,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784318419
+    "updated_at": 1784322019
   },
   {
     "id": 199408,
@@ -2538,7 +2538,7 @@
       "Drama",
       "Fantasy"
     ],
-    "updated_at": 1784318433
+    "updated_at": 1784322010
   },
   {
     "id": 199363,
@@ -2567,7 +2567,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784318087
+    "updated_at": 1784322091
   },
   {
     "id": 199164,
@@ -2650,7 +2650,7 @@
       "Slice of Life",
       "Sports"
     ],
-    "updated_at": 1784318421
+    "updated_at": 1784322024
   },
   {
     "id": 199066,
@@ -2679,7 +2679,7 @@
       "Romance",
       "Supernatural"
     ],
-    "updated_at": 1784318429
+    "updated_at": 1784322031
   },
   {
     "id": 198946,
@@ -2708,7 +2708,7 @@
       "Drama",
       "Fantasy"
     ],
-    "updated_at": 1784318405
+    "updated_at": 1784322005
   },
   {
     "id": 198709,
@@ -2738,7 +2738,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784318404
+    "updated_at": 1784322012
   },
   {
     "id": 198706,
@@ -2767,7 +2767,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784318070
+    "updated_at": 1784322117
   },
   {
     "id": 198701,
@@ -2824,7 +2824,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784307728
+    "updated_at": 1784322039
   },
   {
     "id": 198409,
@@ -2853,7 +2853,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784318012
+    "updated_at": 1784322005
   },
   {
     "id": 198376,
@@ -2883,7 +2883,7 @@
       "Music",
       "Slice of Life"
     ],
-    "updated_at": 1784318414
+    "updated_at": 1784322006
   },
   {
     "id": 198048,
@@ -2993,7 +2993,7 @@
       "Drama",
       "Psychological"
     ],
-    "updated_at": 1784318408
+    "updated_at": 1784322008
   },
   {
     "id": 197715,
@@ -3023,7 +3023,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784318428
+    "updated_at": 1784322009
   },
   {
     "id": 196974,
@@ -3050,7 +3050,7 @@
     "genres": [
       "Fantasy"
     ],
-    "updated_at": 1784318015
+    "updated_at": 1784322037
   },
   {
     "id": 196750,
@@ -3133,7 +3133,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784315092
+    "updated_at": 1784322117
   },
   {
     "id": 196547,
@@ -3215,7 +3215,7 @@
       "Comedy",
       "Slice of Life"
     ],
-    "updated_at": 1784318005
+    "updated_at": 1784322007
   },
   {
     "id": 196219,
@@ -3276,7 +3276,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784318404
+    "updated_at": 1784322007
   },
   {
     "id": 196187,
@@ -3305,7 +3305,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784318405
+    "updated_at": 1784322008
   },
   {
     "id": 196116,
@@ -3357,7 +3357,7 @@
     "status": "RELEASING",
     "score": 68,
     "genres": [],
-    "updated_at": 1784318416
+    "updated_at": 1784322007
   },
   {
     "id": 196012,
@@ -3387,7 +3387,7 @@
       "Romance",
       "Supernatural"
     ],
-    "updated_at": 1784318435
+    "updated_at": 1784322012
   },
   {
     "id": 195885,
@@ -3417,7 +3417,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784318076
+    "updated_at": 1784322117
   },
   {
     "id": 195833,
@@ -3445,7 +3445,7 @@
       "Comedy",
       "Sports"
     ],
-    "updated_at": 1784318011
+    "updated_at": 1784322041
   },
   {
     "id": 195600,
@@ -3476,7 +3476,7 @@
       "Fantasy",
       "Supernatural"
     ],
-    "updated_at": 1784318409
+    "updated_at": 1784322011
   },
   {
     "id": 195360,
@@ -3557,7 +3557,7 @@
     "genres": [
       "Hentai"
     ],
-    "updated_at": 1784279989
+    "updated_at": 1784322076
   },
   {
     "id": 195033,
@@ -3614,7 +3614,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784318404
+    "updated_at": 1784322005
   },
   {
     "id": 194389,
@@ -3697,7 +3697,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784318430
+    "updated_at": 1784322022
   },
   {
     "id": 193883,
@@ -3807,7 +3807,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784318435
+    "updated_at": 1784322013
   },
   {
     "id": 192452,
@@ -3866,6 +3866,33 @@
     "updated_at": 1784280214
   },
   {
+    "id": 191451,
+    "id_mal": null,
+    "url": "https://anilist.co/anime/191451",
+    "title": {
+      "english": "",
+      "romaji": "Kyou wa Yubiwa wo Hazusu kara......",
+      "native": "今日は指輪を外すから……"
+    },
+    "description": "<i>\"Yeah, you're doing well. You've grown up.\"</i> Shinsuke is praised by his admired senior Miyuki. He was carefully trained from the time he was a new employee, encouraged by her consideration, admired and had feelings for her. Recently, she has been working remotely from home, and meetings are held over the internet. He was happy to get a glimpse of her home, but what he saw on the screen when he forgot to turn it off... Shinsuke, seeing her in a shameless state that would be bad if anyone knew about it, takes his married senior to the hotel, overwriting her as if he's tearing her apart. Miyuki, overflowing without resistance as if she's given up, is absorbed in their fleeting intercourse as if she's lost herself. What happens to them is...",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx191451-weddKt3utNpb.png",
+    "banner_url": "",
+    "schedule": "Musim: SUMMER 2025",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "SUMMER",
+    "year": 2025,
+    "format": "OVA",
+    "episodes": null,
+    "duration": 20,
+    "status": "RELEASING",
+    "score": 50,
+    "genres": [
+      "Hentai"
+    ],
+    "updated_at": 1784322077
+  },
+  {
     "id": 190569,
     "id_mal": 61483,
     "url": "https://anilist.co/anime/190569",
@@ -3890,7 +3917,7 @@
     "genres": [
       "Drama"
     ],
-    "updated_at": 1784317999
+    "updated_at": 1784322013
   },
   {
     "id": 189046,
@@ -3923,7 +3950,7 @@
       "Romance",
       "Thriller"
     ],
-    "updated_at": 1784318411
+    "updated_at": 1784322005
   },
   {
     "id": 188933,
@@ -4032,7 +4059,7 @@
       "Comedy",
       "Slice of Life"
     ],
-    "updated_at": 1784318410
+    "updated_at": 1784322004
   },
   {
     "id": 188388,
@@ -4062,7 +4089,7 @@
       "Fantasy",
       "Sci-Fi"
     ],
-    "updated_at": 1784318451
+    "updated_at": 1784322058
   },
   {
     "id": 188139,
@@ -4090,7 +4117,7 @@
       "Drama",
       "Romance"
     ],
-    "updated_at": 1784318428
+    "updated_at": 1784322016
   },
   {
     "id": 187538,
@@ -4121,7 +4148,7 @@
       "Sci-Fi",
       "Supernatural"
     ],
-    "updated_at": 1784318404
+    "updated_at": 1784322006
   },
   {
     "id": 187304,
@@ -4177,7 +4204,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784318406
+    "updated_at": 1784322010
   },
   {
     "id": 187166,
@@ -4205,7 +4232,7 @@
       "Comedy",
       "Music"
     ],
-    "updated_at": 1784318440
+    "updated_at": 1784322007
   },
   {
     "id": 186863,
@@ -4233,7 +4260,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784318416
+    "updated_at": 1784322048
   },
   {
     "id": 186837,
@@ -4263,7 +4290,7 @@
       "Drama",
       "Fantasy"
     ],
-    "updated_at": 1784300508
+    "updated_at": 1784322103
   },
   {
     "id": 186833,
@@ -4347,7 +4374,7 @@
       "Mystery",
       "Psychological"
     ],
-    "updated_at": 1784315093
+    "updated_at": 1784322117
   },
   {
     "id": 186308,
@@ -4374,7 +4401,7 @@
     "genres": [
       "Hentai"
     ],
-    "updated_at": 1784311302
+    "updated_at": 1784322075
   },
   {
     "id": 186307,
@@ -4515,7 +4542,7 @@
     "genres": [
       "Hentai"
     ],
-    "updated_at": 1784280607
+    "updated_at": 1784322075
   },
   {
     "id": 185725,
@@ -4545,7 +4572,7 @@
       "Fantasy",
       "Sci-Fi"
     ],
-    "updated_at": 1784318073
+    "updated_at": 1784322117
   },
   {
     "id": 185720,
@@ -4604,7 +4631,7 @@
       "Fantasy",
       "Mahou Shoujo"
     ],
-    "updated_at": 1784318445
+    "updated_at": 1784322010
   },
   {
     "id": 185646,
@@ -4661,7 +4688,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784318001
+    "updated_at": 1784322022
   },
   {
     "id": 185506,
@@ -4854,7 +4881,7 @@
       "Fantasy",
       "Supernatural"
     ],
-    "updated_at": 1784318408
+    "updated_at": 1784322011
   },
   {
     "id": 184356,
@@ -4883,7 +4910,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784318405
+    "updated_at": 1784322011
   },
   {
     "id": 183742,
@@ -5048,7 +5075,7 @@
       "Action",
       "Adventure"
     ],
-    "updated_at": 1784318409
+    "updated_at": 1784322006
   },
   {
     "id": 182205,
@@ -5078,7 +5105,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784318404
+    "updated_at": 1784322004
   },
   {
     "id": 182104,
@@ -5132,7 +5159,7 @@
     "genres": [
       "Hentai"
     ],
-    "updated_at": 1784282525
+    "updated_at": 1784322045
   },
   {
     "id": 180704,
@@ -5159,7 +5186,7 @@
     "genres": [
       "Hentai"
     ],
-    "updated_at": 1784297606
+    "updated_at": 1784322061
   },
   {
     "id": 180533,
@@ -5186,7 +5213,7 @@
     "genres": [
       "Hentai"
     ],
-    "updated_at": 1784315106
+    "updated_at": 1784322076
   },
   {
     "id": 180136,
@@ -5214,7 +5241,7 @@
       "Action",
       "Fantasy"
     ],
-    "updated_at": 1784318406
+    "updated_at": 1784322009
   },
   {
     "id": 179916,
@@ -5381,7 +5408,7 @@
       "Ecchi",
       "Fantasy"
     ],
-    "updated_at": 1784318417
+    "updated_at": 1784322014
   },
   {
     "id": 178557,
@@ -5492,7 +5519,7 @@
       "Psychological",
       "Sci-Fi"
     ],
-    "updated_at": 1784318406
+    "updated_at": 1784322004
   },
   {
     "id": 177637,
@@ -5520,7 +5547,7 @@
       "Romance",
       "Supernatural"
     ],
-    "updated_at": 1784318404
+    "updated_at": 1784322007
   },
   {
     "id": 177255,
@@ -5709,7 +5736,7 @@
     "genres": [
       "Hentai"
     ],
-    "updated_at": 1784281459
+    "updated_at": 1784322005
   },
   {
     "id": 174633,
@@ -5791,7 +5818,7 @@
       "Fantasy",
       "Hentai"
     ],
-    "updated_at": 1784281488
+    "updated_at": 1784322061
   },
   {
     "id": 172218,
@@ -5847,7 +5874,7 @@
       "Fantasy",
       "Slice of Life"
     ],
-    "updated_at": 1784318430
+    "updated_at": 1784322022
   },
   {
     "id": 170599,
@@ -5929,7 +5956,7 @@
       "Comedy",
       "Romance"
     ],
-    "updated_at": 1784318421
+    "updated_at": 1784322011
   },
   {
     "id": 169582,
@@ -5960,7 +5987,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784318425
+    "updated_at": 1784322025
   },
   {
     "id": 169080,
@@ -5988,7 +6015,7 @@
       "Ecchi",
       "Slice of Life"
     ],
-    "updated_at": 1784311262
+    "updated_at": 1784322006
   },
   {
     "id": 168947,
@@ -6239,7 +6266,7 @@
       "Action",
       "Sci-Fi"
     ],
-    "updated_at": 1784318494
+    "updated_at": 1784322101
   },
   {
     "id": 165524,
@@ -6326,7 +6353,7 @@
       "Adventure",
       "Sports"
     ],
-    "updated_at": 1784318021
+    "updated_at": 1784322067
   },
   {
     "id": 164240,
@@ -6408,7 +6435,7 @@
     "genres": [
       "Romance"
     ],
-    "updated_at": 1784315106
+    "updated_at": 1784322111
   },
   {
     "id": 161680,
@@ -6437,6 +6464,33 @@
       "Romance"
     ],
     "updated_at": 1784311302
+  },
+  {
+    "id": 160701,
+    "id_mal": 54353,
+    "url": "https://anilist.co/anime/160701",
+    "title": {
+      "english": "",
+      "romaji": "Kokuhaku......",
+      "native": "告白……"
+    },
+    "description": "Tidak ada deskripsi.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx160701-UuWLpshlhjVG.jpg",
+    "banner_url": "",
+    "schedule": "Episode 4 tayang pada 27/8/2026, 22.00.00 WIB",
+    "next_episode": 4,
+    "next_airing_timestamp": 1787842800,
+    "season": "SPRING",
+    "year": 2023,
+    "format": "OVA",
+    "episodes": null,
+    "duration": 24,
+    "status": "RELEASING",
+    "score": 54,
+    "genres": [
+      "Hentai"
+    ],
+    "updated_at": 1784322077
   },
   {
     "id": 159454,
@@ -6493,7 +6547,7 @@
       "Mecha",
       "Romance"
     ],
-    "updated_at": 1784318408
+    "updated_at": 1784322005
   },
   {
     "id": 158871,
@@ -6522,7 +6576,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784318020
+    "updated_at": 1784322009
   },
   {
     "id": 156162,
@@ -6549,7 +6603,7 @@
     "genres": [
       "Hentai"
     ],
-    "updated_at": 1784318087
+    "updated_at": 1784322077
   },
   {
     "id": 155723,
@@ -6743,7 +6797,7 @@
     "genres": [
       "Hentai"
     ],
-    "updated_at": 1784300508
+    "updated_at": 1784322080
   },
   {
     "id": 146837,
@@ -6798,7 +6852,7 @@
       "Action",
       "Sci-Fi"
     ],
-    "updated_at": 1784315106
+    "updated_at": 1784322116
   },
   {
     "id": 142274,
@@ -6882,7 +6936,7 @@
       "Comedy",
       "Slice of Life"
     ],
-    "updated_at": 1784318017
+    "updated_at": 1784322013
   },
   {
     "id": 138450,
@@ -6969,7 +7023,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784318087
+    "updated_at": 1784322028
   },
   {
     "id": 137671,
@@ -7028,7 +7082,7 @@
       "Drama",
       "Fantasy"
     ],
-    "updated_at": 1784314884
+    "updated_at": 1784322072
   },
   {
     "id": 136862,
@@ -7084,7 +7138,7 @@
       "Action",
       "Fantasy"
     ],
-    "updated_at": 1784318409
+    "updated_at": 1784322004
   },
   {
     "id": 134469,
@@ -7249,7 +7303,7 @@
     "genres": [
       "Drama"
     ],
-    "updated_at": 1784318415
+    "updated_at": 1784322013
   },
   {
     "id": 124082,
@@ -7304,7 +7358,7 @@
     "genres": [
       "Hentai"
     ],
-    "updated_at": 1784297606
+    "updated_at": 1784322080
   },
   {
     "id": 119080,
@@ -7361,7 +7415,7 @@
       "Adventure",
       "Comedy"
     ],
-    "updated_at": 1784318087
+    "updated_at": 1784322014
   },
   {
     "id": 113947,
@@ -7470,7 +7524,7 @@
       "Action",
       "Supernatural"
     ],
-    "updated_at": 1784318425
+    "updated_at": 1784322026
   },
   {
     "id": 103303,
@@ -7498,7 +7552,7 @@
       "Adventure",
       "Romance"
     ],
-    "updated_at": 1784318422
+    "updated_at": 1784322007
   },
   {
     "id": 102763,
@@ -7609,7 +7663,7 @@
     "genres": [
       "Hentai"
     ],
-    "updated_at": 1784307728
+    "updated_at": 1784322045
   },
   {
     "id": 18941,
@@ -7667,7 +7721,7 @@
       "Comedy",
       "Sci-Fi"
     ],
-    "updated_at": 1784311795
+    "updated_at": 1784322117
   },
   {
     "id": 8336,
@@ -7893,7 +7947,7 @@
       "Mystery",
       "Psychological"
     ],
-    "updated_at": 1784316928
+    "updated_at": 1784322022
   },
   {
     "id": 21,
@@ -7924,6 +7978,6 @@
       "Drama",
       "Fantasy"
     ],
-    "updated_at": 1784317993
+    "updated_at": 1784322004
   }
 ]
