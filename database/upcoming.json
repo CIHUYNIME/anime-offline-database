@@ -25,7 +25,7 @@
       "Action",
       "Comedy"
     ],
-    "updated_at": 1784282525
+    "updated_at": 1784289648
   },
   {
     "id": 214075,
@@ -760,7 +760,7 @@
       "Drama",
       "Romance"
     ],
-    "updated_at": 1783948319
+    "updated_at": 1784289633
   },
   {
     "id": 213740,
@@ -2309,7 +2309,7 @@
       "Mystery",
       "Supernatural"
     ],
-    "updated_at": 1784253667
+    "updated_at": 1784289629
   },
   {
     "id": 210309,
@@ -2487,7 +2487,7 @@
       "Drama",
       "Fantasy"
     ],
-    "updated_at": 1784246841
+    "updated_at": 1784289639
   },
   {
     "id": 209895,
@@ -2516,7 +2516,7 @@
       "Drama",
       "Supernatural"
     ],
-    "updated_at": 1784246841
+    "updated_at": 1784289617
   },
   {
     "id": 209827,
@@ -2546,7 +2546,7 @@
       "Psychological",
       "Supernatural"
     ],
-    "updated_at": 1784268104
+    "updated_at": 1784289666
   },
   {
     "id": 209762,
@@ -3667,7 +3667,7 @@
       "Horror",
       "Supernatural"
     ],
-    "updated_at": 1784253653
+    "updated_at": 1784289665
   },
   {
     "id": 204389,
@@ -4531,6 +4531,34 @@
     "updated_at": 1784246835
   },
   {
+    "id": 199426,
+    "id_mal": 62590,
+    "url": "https://anilist.co/anime/199426",
+    "title": {
+      "english": "",
+      "romaji": "Hotel Inhumans 2nd Season",
+      "native": "ホテル・インヒューマンズ 第2期"
+    },
+    "description": "The second season of <i>Hotel Inhumans</i>.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199426-nLcvtPfuWcms.jpg",
+    "banner_url": "",
+    "schedule": "Musim: FALL 2026",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "FALL",
+    "year": 2026,
+    "format": "TV",
+    "episodes": null,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Action",
+      "Drama"
+    ],
+    "updated_at": 1784289673
+  },
+  {
     "id": 199404,
     "id_mal": 62589,
     "url": "https://anilist.co/anime/199404",
@@ -4878,7 +4906,7 @@
       "Comedy",
       "Romance"
     ],
-    "updated_at": 1784275323
+    "updated_at": 1784289619
   },
   {
     "id": 198692,
@@ -4935,6 +4963,34 @@
       "Sci-Fi"
     ],
     "updated_at": 1784246832
+  },
+  {
+    "id": 197543,
+    "id_mal": 62270,
+    "url": "https://anilist.co/anime/197543",
+    "title": {
+      "english": "",
+      "romaji": "BanG Dream! Ave Mujica: prima aurora",
+      "native": "BanG Dream! Ave Mujica prima aurora"
+    },
+    "description": "<i>Note: Relations are provisional and subject to change when more info is announced.</i>",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx197543-xBfqUnKFxzMK.png",
+    "banner_url": "",
+    "schedule": "Musim: FALL 2026",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "FALL",
+    "year": 2026,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Drama",
+      "Music"
+    ],
+    "updated_at": 1784289621
   },
   {
     "id": 197095,
@@ -5082,7 +5138,36 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784246829
+    "updated_at": 1784289619
+  },
+  {
+    "id": 195539,
+    "id_mal": 61990,
+    "url": "https://anilist.co/anime/195539",
+    "title": {
+      "english": "Cyberpunk: Edgerunners 2",
+      "romaji": "Cyberpunk: Edgerunners 2",
+      "native": "サイバーパンク: エッジランナーズ2"
+    },
+    "description": "<i>Cyberpunk: Edgerunners 2</i> presents a new standalone 10-episode story from the world of Cyberpunk 2077— a raw chronicle of redemption and revenge.<br><br>\n\nWhen the world is blinded by spectacle, what extremes do you have to go to make your story matter?<br><br>\n(Source: Official Twitter)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx195539-jaarfaxv6K0Z.jpg",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/195539-2obqrBzqrOSR.jpg",
+    "schedule": "Musim: FALL 2026",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "FALL",
+    "year": 2026,
+    "format": "ONA",
+    "episodes": 10,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Action",
+      "Drama",
+      "Sci-Fi"
+    ],
+    "updated_at": 1784289638
   },
   {
     "id": 195516,
@@ -5635,7 +5720,7 @@
       "Romance",
       "Supernatural"
     ],
-    "updated_at": 1784282525
+    "updated_at": 1784289675
   },
   {
     "id": 189796,
@@ -5807,7 +5892,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784242996
+    "updated_at": 1784289675
   },
   {
     "id": 187990,
@@ -6033,7 +6118,7 @@
     "status": "NOT_YET_RELEASED",
     "score": null,
     "genres": [],
-    "updated_at": 1784246818
+    "updated_at": 1784289675
   },
   {
     "id": 186742,
@@ -6061,7 +6146,7 @@
       "Action",
       "Sci-Fi"
     ],
-    "updated_at": 1784282525
+    "updated_at": 1784289619
   },
   {
     "id": 186741,
@@ -6985,6 +7070,33 @@
     "updated_at": 1783962141
   },
   {
+    "id": 176373,
+    "id_mal": 63973,
+    "url": "https://anilist.co/anime/176373",
+    "title": {
+      "english": "",
+      "romaji": "Shiranuhi",
+      "native": "しらぬひ"
+    },
+    "description": "The short is set in a coastal town in Kumamoto at the tail end of summer 1996. The 10-year-old boy Minato lives a precarious life with his drunkard father. Minato's only source of strength is Ben-chan, a goddess in the form of a young girl that appeared in Benten Island. The time he spends with her are the only times where he feels like himself. But when he is about to be separated from Ben-chan due to being sent to a children's home, Minato prays to a Shiranuhi, a mysterious light floating above the sea, to grant him one wish. His wish, filled with hatred towards his father, eventually becomes a curse.<br><br>\n(Source: Anime News Network)<br><br>\n<i>Note: Initially teased at AnimeJapan 2024 in the CoMix Wave Films booth, a visual of this project was shown off with a description being a new animation project by a \"rookie director\".</i>",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176373-355WYOUefrCt.jpg",
+    "banner_url": "",
+    "schedule": "Episode 1 tayang pada 20/8/2026, 22.00.00 WIB",
+    "next_episode": 1,
+    "next_airing_timestamp": 1787238000,
+    "season": "SUMMER",
+    "year": 2026,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Supernatural"
+    ],
+    "updated_at": 1784289615
+  },
+  {
     "id": 176314,
     "id_mal": 58518,
     "url": "https://anilist.co/anime/176314",
@@ -7851,7 +7963,7 @@
       "Drama",
       "Fantasy"
     ],
-    "updated_at": 1784253686
+    "updated_at": 1784289620
   },
   {
     "id": 141953,
@@ -8285,7 +8397,7 @@
     "status": "NOT_YET_RELEASED",
     "score": null,
     "genres": [],
-    "updated_at": 1783944387
+    "updated_at": 1784290607
   },
   {
     "id": 110356,
@@ -8313,7 +8425,7 @@
       "Adventure",
       "Sci-Fi"
     ],
-    "updated_at": 1783962141
+    "updated_at": 1784290784
   },
   {
     "id": 110275,
@@ -8341,7 +8453,7 @@
       "Action",
       "Sci-Fi"
     ],
-    "updated_at": 1783945009
+    "updated_at": 1784290918
   },
   {
     "id": 110206,
