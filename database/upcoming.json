@@ -25,7 +25,7 @@
       "Action",
       "Comedy"
     ],
-    "updated_at": 1784256116
+    "updated_at": 1784282525
   },
   {
     "id": 214075,
@@ -250,7 +250,7 @@
     "genres": [
       "Sci-Fi"
     ],
-    "updated_at": 1783945915
+    "updated_at": 1784282525
   },
   {
     "id": 213987,
@@ -616,7 +616,7 @@
       "Mystery",
       "Romance"
     ],
-    "updated_at": 1784242996
+    "updated_at": 1784282525
   },
   {
     "id": 213814,
@@ -730,7 +730,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1783962141
+    "updated_at": 1784282525
   },
   {
     "id": 213752,
@@ -1333,7 +1333,7 @@
       "Comedy",
       "Drama"
     ],
-    "updated_at": 1784268121
+    "updated_at": 1784282525
   },
   {
     "id": 213316,
@@ -1394,7 +1394,7 @@
       "Comedy",
       "Romance"
     ],
-    "updated_at": 1784246842
+    "updated_at": 1784282525
   },
   {
     "id": 213106,
@@ -1450,7 +1450,7 @@
     "genres": [
       "Hentai"
     ],
-    "updated_at": 1784242996
+    "updated_at": 1784282525
   },
   {
     "id": 213066,
@@ -2253,7 +2253,7 @@
       "Ecchi",
       "Fantasy"
     ],
-    "updated_at": 1784268121
+    "updated_at": 1784282525
   },
   {
     "id": 210482,
@@ -2433,7 +2433,7 @@
       "Drama",
       "Fantasy"
     ],
-    "updated_at": 1784268092
+    "updated_at": 1784282525
   },
   {
     "id": 209939,
@@ -2804,7 +2804,7 @@
       "Mecha",
       "Sci-Fi"
     ],
-    "updated_at": 1784246840
+    "updated_at": 1784282525
   },
   {
     "id": 208025,
@@ -4651,7 +4651,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784246834
+    "updated_at": 1784282525
   },
   {
     "id": 199185,
@@ -4737,7 +4737,7 @@
     "genres": [
       "Fantasy"
     ],
-    "updated_at": 1784246833
+    "updated_at": 1784282525
   },
   {
     "id": 198966,
@@ -4852,7 +4852,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784246832
+    "updated_at": 1784282525
   },
   {
     "id": 198663,
@@ -5555,6 +5555,35 @@
     "updated_at": 1784246827
   },
   {
+    "id": 190054,
+    "id_mal": 61440,
+    "url": "https://anilist.co/anime/190054",
+    "title": {
+      "english": "",
+      "romaji": "Watashi no Shiawase na Kekkon (Shinsaku Anime)",
+      "native": "わたしの幸せな結婚 (新作アニメ)"
+    },
+    "description": "New anime project for <i>Watashi no Shiawase na Kekkon.</i>\n<br><br>\n<i>Note: Title and relations are provisional and subject to change.</i>",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx190054-8h0AuqQjwcCL.png",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "SPECIAL",
+    "episodes": 3,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Drama",
+      "Romance",
+      "Supernatural"
+    ],
+    "updated_at": 1784282525
+  },
+  {
     "id": 189796,
     "id_mal": 61398,
     "url": "https://anilist.co/anime/189796",
@@ -5611,7 +5640,7 @@
       "Fantasy",
       "Sci-Fi"
     ],
-    "updated_at": 1784246825
+    "updated_at": 1784282525
   },
   {
     "id": 189123,
@@ -5871,6 +5900,35 @@
     "updated_at": 1784246821
   },
   {
+    "id": 187261,
+    "id_mal": 61125,
+    "url": "https://anilist.co/anime/187261",
+    "title": {
+      "english": "",
+      "romaji": "Haikyuu!!: Bakemono-tachi no Iku Tokoro",
+      "native": "ハイキュー!! バケモノたちの行くところ"
+    },
+    "description": "The quarterfinals of the Spring High School Volleyball Tournament, featuring Fukuroudani Academy, led by Koutarou Bokuto, and Mujinazaka High, led by Wakatsu Kiryuu. \n<br><br>\n(Source: Official Site, translated)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx187261-HMpnWUy9K7VC.png",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "SPECIAL",
+    "episodes": null,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Sports"
+    ],
+    "updated_at": 1784282525
+  },
+  {
     "id": 186822,
     "id_mal": 61035,
     "url": "https://anilist.co/anime/186822",
@@ -5922,6 +5980,34 @@
     "score": null,
     "genres": [],
     "updated_at": 1784246818
+  },
+  {
+    "id": 186742,
+    "id_mal": 61014,
+    "url": "https://anilist.co/anime/186742",
+    "title": {
+      "english": "",
+      "romaji": "Toaru Anbu no ITEM",
+      "native": "とある暗部の少女共棲"
+    },
+    "description": "This is a story of four girls living in the \"Dark Side\" of Academy City.<br>\n<br>\nIn Academy City where \"ESP\" has been recognized as a general science. Behind the peace, there is a Dark Side organization that undertakes missions that cannot be made public.<br>\n<br>\n\"ITEM\" is an elite unit consisting of four girls. Takitsubo Rikou is able to read and track the AIM fields emitted by those with abilities. Frenda Seivelun, who excels in combat using explosives and traps.<br>\n<br>\nKinuhata Saiai, who can manipulate nitrogen at will and plays a defensive role. And one of the 7 Espers that Academy City is proud of: Mugino Shizuri. They live freely in the darkness of the Academy City, and quietly set their sights on their target...!<br>\n<br>\nThis is a story of encounter, friendship, and darkness that eventually leads to a terrible incident!<br>\n<br>\n(Source: Kadokawa, translated)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186742-Q9IOgWxAxfSR.jpg",
+    "banner_url": "",
+    "schedule": "Episode 1 tayang pada 9/10/2026, 22.30.00 WIB",
+    "next_episode": 1,
+    "next_airing_timestamp": 1791559800,
+    "season": "FALL",
+    "year": 2026,
+    "format": "TV",
+    "episodes": null,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Action",
+      "Sci-Fi"
+    ],
+    "updated_at": 1784282525
   },
   {
     "id": 186741,
@@ -6123,7 +6209,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784246814
+    "updated_at": 1784282525
   },
   {
     "id": 185697,
@@ -7415,7 +7501,7 @@
     "status": "NOT_YET_RELEASED",
     "score": null,
     "genres": [],
-    "updated_at": 1784246763
+    "updated_at": 1784282581
   },
   {
     "id": 160803,
@@ -7445,7 +7531,7 @@
       "Mahou Shoujo",
       "Thriller"
     ],
-    "updated_at": 1783951252
+    "updated_at": 1784282622
   },
   {
     "id": 160275,
@@ -7477,7 +7563,7 @@
       "Mystery",
       "Sci-Fi"
     ],
-    "updated_at": 1784253702
+    "updated_at": 1784282669
   },
   {
     "id": 159042,
@@ -7506,7 +7592,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784246762
+    "updated_at": 1784282778
   },
   {
     "id": 157330,
@@ -7564,7 +7650,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784253694
+    "updated_at": 1784282999
   },
   {
     "id": 154765,
