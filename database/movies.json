@@ -50,7 +50,7 @@
     "status": "FINISHED",
     "score": null,
     "genres": [],
-    "updated_at": 1784297606
+    "updated_at": 1784325887
   },
   {
     "id": 214071,
@@ -266,7 +266,7 @@
     "genres": [
       "Music"
     ],
-    "updated_at": 1784275323
+    "updated_at": 1784325887
   },
   {
     "id": 213667,
@@ -661,6 +661,33 @@
     "updated_at": 1784322114
   },
   {
+    "id": 206856,
+    "id_mal": 63317,
+    "url": "https://anilist.co/anime/206856",
+    "title": {
+      "english": "",
+      "romaji": "Sinbi Apateu 10-junyeon Geugjangpan: Han Beon Deo, Sohwan",
+      "native": "신비아파트 10주년 극장판: 한 번 더, 소환"
+    },
+    "description": "Tidak ada deskripsi.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b206856-K3T38n8LQJRh.png",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 86,
+    "status": "FINISHED",
+    "score": null,
+    "genres": [
+      "Fantasy"
+    ],
+    "updated_at": 1784325887
+  },
+  {
     "id": 206819,
     "id_mal": 63366,
     "url": "https://anilist.co/anime/206819",
@@ -952,7 +979,7 @@
       "Drama",
       "Supernatural"
     ],
-    "updated_at": 1784322113
+    "updated_at": 1784325887
   },
   {
     "id": 203100,
@@ -1034,7 +1061,7 @@
     "genres": [
       "Drama"
     ],
-    "updated_at": 1783951256
+    "updated_at": 1784325887
   },
   {
     "id": 202390,
@@ -1614,7 +1641,7 @@
       "Romance",
       "Sci-Fi"
     ],
-    "updated_at": 1784318453
+    "updated_at": 1784325887
   },
   {
     "id": 190574,
@@ -2082,7 +2109,7 @@
       "Drama",
       "Romance"
     ],
-    "updated_at": 1784289672
+    "updated_at": 1784325887
   },
   {
     "id": 181839,
@@ -2288,7 +2315,7 @@
       "Psychological",
       "Supernatural"
     ],
-    "updated_at": 1784289672
+    "updated_at": 1784325887
   },
   {
     "id": 178788,
@@ -2408,7 +2435,7 @@
       "Sci-Fi",
       "Supernatural"
     ],
-    "updated_at": 1784275315
+    "updated_at": 1784325887
   },
   {
     "id": 178436,
@@ -3207,7 +3234,7 @@
       "Adventure",
       "Sci-Fi"
     ],
-    "updated_at": 1784300508
+    "updated_at": 1784325887
   },
   {
     "id": 167984,
@@ -3458,7 +3485,7 @@
       "Drama",
       "Mystery"
     ],
-    "updated_at": 1784275323
+    "updated_at": 1784325879
   },
   {
     "id": 163363,
@@ -3516,7 +3543,7 @@
       "Drama",
       "Sports"
     ],
-    "updated_at": 1784318482
+    "updated_at": 1784325887
   },
   {
     "id": 163143,
@@ -3575,7 +3602,34 @@
       "Music",
       "Romance"
     ],
-    "updated_at": 1784275323
+    "updated_at": 1784325887
+  },
+  {
+    "id": 162904,
+    "id_mal": 54764,
+    "url": "https://anilist.co/anime/162904",
+    "title": {
+      "english": "",
+      "romaji": "Madogiwa no Totto-chan",
+      "native": "窓ぎわのトットちゃん"
+    },
+    "description": "This engaging series of childhood recollections tells about an ideal school in Tokyo during World War II that combined learning with fun, freedom, and love. This unusual school had old railroad cars for classrooms, and it was run by an extraordinary man-its founder and headmaster, Sosaku Kobayashi--who was a firm believer in freedom of expression and activity.\n<br><br>\nIn real life, the Totto-chan of the book has become one of Japan's most popular television personalities--Tetsuko Kuroyanagi. She attributes her success in life to this wonderful school and its headmaster.\n<br><br>\nThe charm of this account has won the hearts of millions of people of all ages and made this book a runaway bestseller in Japan, with sales hitting the 4.5 million mark in its first year.<br><br>\n(Source: Kodansha)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx162904-q2ZHTwOZ9hj7.jpg",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/162904-Nl7uDNXmRYFP.jpg",
+    "schedule": "Musim: FALL 2023",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "FALL",
+    "year": 2023,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 114,
+    "status": "FINISHED",
+    "score": 75,
+    "genres": [
+      "Slice of Life"
+    ],
+    "updated_at": 1784325887
   },
   {
     "id": 161474,
@@ -3870,7 +3924,7 @@
       "Mecha",
       "Sci-Fi"
     ],
-    "updated_at": 1784282783
+    "updated_at": 1784325887
   },
   {
     "id": 158928,
@@ -4375,7 +4429,7 @@
       "Sci-Fi",
       "Thriller"
     ],
-    "updated_at": 1784318480
+    "updated_at": 1784325887
   },
   {
     "id": 153658,
@@ -4462,7 +4516,7 @@
       "Psychological",
       "Supernatural"
     ],
-    "updated_at": 1784318491
+    "updated_at": 1784325887
   },
   {
     "id": 149088,
@@ -4542,7 +4596,7 @@
       "Fantasy",
       "Slice of Life"
     ],
-    "updated_at": 1784242996
+    "updated_at": 1784325887
   },
   {
     "id": 148179,
@@ -4688,7 +4742,7 @@
       "Sci-Fi",
       "Slice of Life"
     ],
-    "updated_at": 1784300508
+    "updated_at": 1784325887
   },
   {
     "id": 145442,
@@ -4862,7 +4916,7 @@
       "Romance",
       "Sci-Fi"
     ],
-    "updated_at": 1784289675
+    "updated_at": 1784325887
   },
   {
     "id": 142629,
@@ -5154,7 +5208,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784318440
+    "updated_at": 1784325887
   },
   {
     "id": 139311,
@@ -5267,7 +5321,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784300508
+    "updated_at": 1784325887
   },
   {
     "id": 137612,
@@ -5441,7 +5495,7 @@
       "Drama",
       "Sports"
     ],
-    "updated_at": 1784282525
+    "updated_at": 1784325887
   },
   {
     "id": 133904,
@@ -5469,7 +5523,7 @@
       "Action",
       "Comedy"
     ],
-    "updated_at": 1784304124
+    "updated_at": 1784325887
   },
   {
     "id": 133898,
@@ -5499,7 +5553,7 @@
       "Fantasy",
       "Sci-Fi"
     ],
-    "updated_at": 1784268121
+    "updated_at": 1784325887
   },
   {
     "id": 133845,
@@ -5556,7 +5610,7 @@
       "Drama",
       "Sports"
     ],
-    "updated_at": 1784286117
+    "updated_at": 1784325887
   },
   {
     "id": 133007,
@@ -5935,7 +5989,7 @@
       "Sci-Fi",
       "Supernatural"
     ],
-    "updated_at": 1784322109
+    "updated_at": 1784325887
   },
   {
     "id": 128740,
@@ -8263,7 +8317,7 @@
       "Mecha",
       "Sci-Fi"
     ],
-    "updated_at": 1783948373
+    "updated_at": 1784325887
   },
   {
     "id": 115914,
@@ -8293,7 +8347,7 @@
       "Mecha",
       "Sci-Fi"
     ],
-    "updated_at": 1783947779
+    "updated_at": 1784325887
   },
   {
     "id": 115566,
@@ -9249,7 +9303,7 @@
       "Music",
       "Romance"
     ],
-    "updated_at": 1784318452
+    "updated_at": 1784325887
   },
   {
     "id": 111312,
@@ -9557,7 +9611,7 @@
       "Adventure",
       "Mystery"
     ],
-    "updated_at": 1784290761
+    "updated_at": 1784325874
   },
   {
     "id": 110381,
@@ -10502,7 +10556,7 @@
       "Slice of Life",
       "Supernatural"
     ],
-    "updated_at": 1784304124
+    "updated_at": 1784325887
   },
   {
     "id": 108553,
@@ -10706,7 +10760,7 @@
       "Mystery",
       "Thriller"
     ],
-    "updated_at": 1784291446
+    "updated_at": 1784325878
   },
   {
     "id": 107875,
@@ -10846,7 +10900,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784291469
+    "updated_at": 1784325887
   },
   {
     "id": 107625,
@@ -11674,7 +11728,7 @@
       "Drama",
       "Fantasy"
     ],
-    "updated_at": 1784292465
+    "updated_at": 1784325885
   },
   {
     "id": 105018,
@@ -13499,7 +13553,7 @@
       "Action",
       "Fantasy"
     ],
-    "updated_at": 1784297606
+    "updated_at": 1784325887
   },
   {
     "id": 103221,
@@ -14082,6 +14136,33 @@
     "score": 42,
     "genres": [],
     "updated_at": 1783948752
+  },
+  {
+    "id": 102511,
+    "id_mal": 37661,
+    "url": "https://anilist.co/anime/102511",
+    "title": {
+      "english": "I am Nezha",
+      "romaji": "Wo Shi Nezha",
+      "native": "我是哪吒"
+    },
+    "description": "I Am Nezha is a 2016 Chinese animated film directed by Shu Zhan and is based on Fengshen Yanyi's Nezha.\n<br><br>\n(Source: Wikipedia)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/102511-jw7mMFWy1EO3.jpg",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 82,
+    "status": "FINISHED",
+    "score": 56,
+    "genres": [
+      "Fantasy"
+    ],
+    "updated_at": 1784325880
   },
   {
     "id": 102439,
@@ -15110,7 +15191,7 @@
       "Drama",
       "Slice of Life"
     ],
-    "updated_at": 1783949179
+    "updated_at": 1784325881
   },
   {
     "id": 101554,
@@ -17835,6 +17916,33 @@
     "updated_at": 1784302123
   },
   {
+    "id": 21864,
+    "id_mal": null,
+    "url": "https://anilist.co/anime/21864",
+    "title": {
+      "english": "",
+      "romaji": "Koro-sensei Q!",
+      "native": "殺せんせーQ！"
+    },
+    "description": "A spin-off of Assassination Classroom (Ansatsu Kyoushitsu). Aired in Japanese cinemas alongside Assassination Classroom the Movie: 365 Days‘ Time (Ansatsu Kyoushitsu Movie: 365-Nichi no Jikan), and later reused as episode 2 of the ONA series Koro-sensei Q!",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21864-bFjoUkaADLzr.jpg",
+    "banner_url": "",
+    "schedule": "Musim: FALL 2016",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "FALL",
+    "year": 2016,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 9,
+    "status": "FINISHED",
+    "score": 65,
+    "genres": [
+      "Comedy"
+    ],
+    "updated_at": 1784325887
+  },
+  {
     "id": 21846,
     "id_mal": 33390,
     "url": "https://anilist.co/anime/21846",
@@ -18215,7 +18323,7 @@
       "Music",
       "Slice of Life"
     ],
-    "updated_at": 1784303006
+    "updated_at": 1784325887
   },
   {
     "id": 21681,
@@ -19135,7 +19243,7 @@
       "Drama",
       "Sports"
     ],
-    "updated_at": 1784304713
+    "updated_at": 1784325887
   },
   {
     "id": 21114,
@@ -19222,7 +19330,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784304772
+    "updated_at": 1784325887
   },
   {
     "id": 21071,
@@ -19338,7 +19446,7 @@
       "Mystery",
       "Sci-Fi"
     ],
-    "updated_at": 1784305034
+    "updated_at": 1784325887
   },
   {
     "id": 21008,
@@ -19896,7 +20004,7 @@
       "Fantasy",
       "Sci-Fi"
     ],
-    "updated_at": 1784305796
+    "updated_at": 1784325887
   },
   {
     "id": 20791,
@@ -20602,7 +20710,7 @@
       "Action",
       "Sci-Fi"
     ],
-    "updated_at": 1784322110
+    "updated_at": 1784325887
   },
   {
     "id": 20512,
@@ -21896,7 +22004,7 @@
       "Action",
       "Supernatural"
     ],
-    "updated_at": 1784308085
+    "updated_at": 1784325887
   },
   {
     "id": 16870,
@@ -22495,7 +22603,7 @@
       "Sports",
       "Supernatural"
     ],
-    "updated_at": 1784309467
+    "updated_at": 1784325887
   },
   {
     "id": 15771,
@@ -22639,7 +22747,7 @@
       "Mecha",
       "Sci-Fi"
     ],
-    "updated_at": 1784309513
+    "updated_at": 1784325887
   },
   {
     "id": 15197,
@@ -23581,7 +23689,7 @@
       "Comedy",
       "Drama"
     ],
-    "updated_at": 1784322117
+    "updated_at": 1784325884
   },
   {
     "id": 12857,
@@ -23727,7 +23835,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784309905
+    "updated_at": 1784325887
   },
   {
     "id": 12561,
@@ -23988,7 +24096,7 @@
       "Horror",
       "Supernatural"
     ],
-    "updated_at": 1784310217
+    "updated_at": 1784325887
   },
   {
     "id": 12113,
@@ -24020,7 +24128,7 @@
       "Horror",
       "Supernatural"
     ],
-    "updated_at": 1784310243
+    "updated_at": 1784325887
   },
   {
     "id": 12053,
@@ -24079,7 +24187,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784310260
+    "updated_at": 1784325887
   },
   {
     "id": 12035,
@@ -24319,6 +24427,35 @@
       "Comedy"
     ],
     "updated_at": 1784310373
+  },
+  {
+    "id": 11737,
+    "id_mal": 11737,
+    "url": "https://anilist.co/anime/11737",
+    "title": {
+      "english": "Blue Exorcist: The Movie",
+      "romaji": "Ao no Exorcist Movie",
+      "native": "青の祓魔師 -劇場版-"
+    },
+    "description": "The atmosphere in True Cross Academy is lively and boisterous in the days leading up to the grand festival held once every 11 years. During this time, Okumura Rin is entrusted with the responsibility of suppressing the berserk Phantom Train. In the midst of his mission, he meets a devil whose appearance is that of a young boy.<br><br>\r\n(Source: Official Site)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx11737-49ya7CBO5wEq.jpg",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/n11737-34qhsBR8V3Bc.jpg",
+    "schedule": "Musim: FALL 2012",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "FALL",
+    "year": 2012,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 88,
+    "status": "FINISHED",
+    "score": 73,
+    "genres": [
+      "Action",
+      "Fantasy",
+      "Supernatural"
+    ],
+    "updated_at": 1784325887
   },
   {
     "id": 11577,
@@ -25013,7 +25150,7 @@
       "Romance",
       "Sci-Fi"
     ],
-    "updated_at": 1784253710
+    "updated_at": 1784325887
   },
   {
     "id": 9760,
@@ -25251,6 +25388,33 @@
     "updated_at": 1784286117
   },
   {
+    "id": 9254,
+    "id_mal": 9254,
+    "url": "https://anilist.co/anime/9254",
+    "title": {
+      "english": "",
+      "romaji": "Mianhada Saranghanda",
+      "native": "미안하다 사랑한다"
+    },
+    "description": "When hit KBS drama I'm Sorry, I Love You aired in 2004, it recorded high TV ratings, won the acclaim of critics, and quickly became one of the flagbearers of the Korean Wave. The tragic love story of Mu Hyeok (So Ji Sub of What Happened in Bali) and Eun Chae (Yim Soo Jung of Lump Sugar and I'm a Cyborg, But That's OK) made stars out of its leads and attracted an enormous fanbase throughout Asia. Two years later, G&amp;G Entertainment released a 35-minute animated version of the drama, Between of One Year, consisting of highlights from the drama and new scenes dealing with the final moments of Eun Chae and Mu Hyeok's relationship. The script was supervised by the writer of the original live-action drama, Lee Kyung Hee.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9254.jpg",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 35,
+    "status": "FINISHED",
+    "score": 45,
+    "genres": [
+      "Drama"
+    ],
+    "updated_at": 1784325887
+  },
+  {
     "id": 9135,
     "id_mal": 9135,
     "url": "https://anilist.co/anime/9135",
@@ -25365,7 +25529,7 @@
     "genres": [
       "Adventure"
     ],
-    "updated_at": 1784322114
+    "updated_at": 1784325887
   },
   {
     "id": 8888,
@@ -27539,7 +27703,7 @@
     "genres": [
       "Comedy"
     ],
-    "updated_at": 1784312103
+    "updated_at": 1784325887
   },
   {
     "id": 7330,
@@ -27739,7 +27903,7 @@
     "genres": [
       "Drama"
     ],
-    "updated_at": 1784312118
+    "updated_at": 1784325887
   },
   {
     "id": 7259,
@@ -28377,7 +28541,7 @@
     "genres": [
       "Adventure"
     ],
-    "updated_at": 1784312183
+    "updated_at": 1784325887
   },
   {
     "id": 6950,
@@ -31486,7 +31650,7 @@
       "Drama",
       "Fantasy"
     ],
-    "updated_at": 1784322116
+    "updated_at": 1784325887
   },
   {
     "id": 4107,
@@ -31518,7 +31682,7 @@
       "Romance",
       "Sci-Fi"
     ],
-    "updated_at": 1784313704
+    "updated_at": 1784325887
   },
   {
     "id": 4106,
@@ -31952,7 +32116,7 @@
       "Adventure",
       "Horror"
     ],
-    "updated_at": 1784318491
+    "updated_at": 1784325887
   },
   {
     "id": 3602,
@@ -32944,6 +33108,34 @@
     "updated_at": 1783948413
   },
   {
+    "id": 2621,
+    "id_mal": 2621,
+    "url": "https://anilist.co/anime/2621",
+    "title": {
+      "english": "",
+      "romaji": "Natsu e no Tobira",
+      "native": "夏への扉"
+    },
+    "description": "Marion is a young schoolboy who prides himself on his adherence to a philosophy he calls \"rationalism\". Because of his disdain for emotional display, he ignores anything remotely akin to affection. But when he's entangled in a romantic affair with an older courtesan, his rationalism is revealed to be little more than a cover for his own emotional immaturity. Learning to love, Marion blossoms under his older lover's care but unfortunately, Marion has yet to learn the true price of the affair.\n<br><br>\n(Source: Anime News Network)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx2621-OIooipkDFqGn.jpg",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/2621-VfCYmhtJm0Wo.jpg",
+    "schedule": "Musim: SPRING 1981",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "SPRING",
+    "year": 1981,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 59,
+    "status": "FINISHED",
+    "score": 58,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "updated_at": 1784325887
+  },
+  {
     "id": 2611,
     "id_mal": 2611,
     "url": "https://anilist.co/anime/2611",
@@ -33240,6 +33432,63 @@
     "updated_at": 1784268121
   },
   {
+    "id": 2450,
+    "id_mal": 2450,
+    "url": "https://anilist.co/anime/2450",
+    "title": {
+      "english": "Crayon Shin-chan: Fierceness That Invites Storm! The Adult Empire Strikes Back",
+      "romaji": "Crayon Shin-chan: Arashi wo Yobu Mouretsu! Otona Teikoku no Gyakushuu",
+      "native": "映画　クレヨンしんちゃん　嵐を呼ぶモーレツ！オトナ帝国の逆襲"
+    },
+    "description": "As the 21st century approaches, a new 20th-century museum has opened in town, for the adults to relive their childhood. However, the owners of the museum seem to have other plans for it. The adults start to behave strangely, and one morning, they abandon their children for the 20th-century museum. Shinnosuke, along with his friends, must now rescue his parents and stop the world from returning to the 20th century before they get captured.\n<br><br>\n(Source: Anime News Network)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2450-0Iwi4jr32Xe8.jpg",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/2450-qwf7Fuv9BMQZ.jpg",
+    "schedule": "Musim: SPRING 2001",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "SPRING",
+    "year": 2001,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 89,
+    "status": "FINISHED",
+    "score": 78,
+    "genres": [
+      "Comedy",
+      "Slice of Life"
+    ],
+    "updated_at": 1784325887
+  },
+  {
+    "id": 2423,
+    "id_mal": 2423,
+    "url": "https://anilist.co/anime/2423",
+    "title": {
+      "english": "",
+      "romaji": "GREY: Digital Target",
+      "native": "ＧＲＥＹ デジタル・ターゲット"
+    },
+    "description": "Grey is a laconic trooper in a rough, futuristic military system which rewards success in battle with high pay and promotions, but only three percent of troopers live long enough for the final goal - citizenship and the chance for a life above the misery of most of the populace. Grey has managed to keep coming back alive, even earning the nickname Grey Death. But is the society he's fought for worth it?\n<br><br>\n(Source: Anime News Network)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2423.jpg",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/2423-v00Q8HxqH02Z.jpg",
+    "schedule": "Musim: FALL 1986",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "FALL",
+    "year": 1986,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 73,
+    "status": "FINISHED",
+    "score": 56,
+    "genres": [
+      "Action",
+      "Fantasy",
+      "Sci-Fi"
+    ],
+    "updated_at": 1784325887
+  },
+  {
     "id": 2418,
     "id_mal": 2418,
     "url": "https://anilist.co/anime/2418",
@@ -33409,7 +33658,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784253709
+    "updated_at": 1784325887
   },
   {
     "id": 2175,
@@ -34047,6 +34296,33 @@
     "updated_at": 1784318432
   },
   {
+    "id": 1824,
+    "id_mal": 1824,
+    "url": "https://anilist.co/anime/1824",
+    "title": {
+      "english": "Barefoot Gen",
+      "romaji": "Hadashi no Gen",
+      "native": "はだしのゲン"
+    },
+    "description": "It's the summer of 1945. 3 years have elapsed since the war between Japan and USA began. Gen is a young boy living a struggling yet satisfying life in the city of Hiroshima, that has been strangely spared by the bombing taken in almost every other Japanese City. Food is scarce, and Gen's family is suffering from severe malnutrition, which endangeres his pregnant mother. There isn't much spare time as Gen and his little brother Shinji help their father and mother at work and try to make sure their family survives the tought times. Little do they know, what the Americans have in store for the city of Hiroshima and as of the 6th of August 1945, their lives are about to change dramatically.\n<br><br>\n(Source: Anime News Network)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b1824-YN6bpoNBh0eK.jpg",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/1824-cmusZCf5PMld.png",
+    "schedule": "Musim: SUMMER 1983",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "SUMMER",
+    "year": 1983,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 83,
+    "status": "FINISHED",
+    "score": 74,
+    "genres": [
+      "Drama"
+    ],
+    "updated_at": 1784325887
+  },
+  {
     "id": 1815,
     "id_mal": 1815,
     "url": "https://anilist.co/anime/1815",
@@ -34079,6 +34355,39 @@
     "updated_at": 1784304124
   },
   {
+    "id": 1793,
+    "id_mal": 1793,
+    "url": "https://anilist.co/anime/1793",
+    "title": {
+      "english": "A Wind Named Amnesia",
+      "romaji": "Kaze no Na wa Amnesia",
+      "native": "風の名はアムネジア"
+    },
+    "description": "It happened quite suddenly, with no warning - all the memories of all the people on Earth, swept away as if by a sudden wind. In a post-catastrophic Earth populated mostly by savages without memories of their past civilisation, one man travels on a journey of enlightenment and hope, across a devastated America.\n<br><br>\n(Source: Anime News Network)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1793.jpg",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/1793-aD9cfQhORr2L.jpg",
+    "schedule": "Musim: FALL 1990",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "FALL",
+    "year": 1990,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 80,
+    "status": "FINISHED",
+    "score": 58,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Mecha",
+      "Mystery",
+      "Psychological",
+      "Sci-Fi"
+    ],
+    "updated_at": 1784325887
+  },
+  {
     "id": 1689,
     "id_mal": 1689,
     "url": "https://anilist.co/anime/1689",
@@ -34106,6 +34415,36 @@
       "Slice of Life"
     ],
     "updated_at": 1784253641
+  },
+  {
+    "id": 1686,
+    "id_mal": 1686,
+    "url": "https://anilist.co/anime/1686",
+    "title": {
+      "english": "Bleach the Movie: Memories of Nobody",
+      "romaji": "BLEACH: MEMORIES OF NOBODY",
+      "native": "BLEACH MEMORIES OF NOBODY"
+    },
+    "description": "In Karakura Town, there has been a sudden outbreak of unidentifiable spirits called \"blanks\" (vacant souls) while in the skies of Soul Society, the real world has been reflected. A mysterious female shinigami called Senna has appeared before Ichigo along with a man named Ganryu, leading a group called the \"Dark Ones.\"\n<br><br>\n(Source: Anime News Network)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1686-oZQepxP4SRQ2.jpg",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/n1686-dYv44wJMzT4t.jpg",
+    "schedule": "Musim: FALL 2006",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "FALL",
+    "year": 2006,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 87,
+    "status": "FINISHED",
+    "score": 71,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Supernatural"
+    ],
+    "updated_at": 1784325887
   },
   {
     "id": 1506,
@@ -35466,7 +35805,7 @@
       "Drama",
       "Fantasy"
     ],
-    "updated_at": 1784318491
+    "updated_at": 1784325887
   },
   {
     "id": 1120,
@@ -35976,7 +36315,7 @@
       "Drama",
       "Sci-Fi"
     ],
-    "updated_at": 1784315731
+    "updated_at": 1784325887
   },
   {
     "id": 1033,
@@ -36248,7 +36587,7 @@
       "Adventure",
       "Sci-Fi"
     ],
-    "updated_at": 1784318459
+    "updated_at": 1784325887
   },
   {
     "id": 905,
@@ -36277,7 +36616,7 @@
       "Adventure",
       "Sci-Fi"
     ],
-    "updated_at": 1784315850
+    "updated_at": 1784325887
   },
   {
     "id": 904,
@@ -36364,7 +36703,7 @@
       "Adventure",
       "Sci-Fi"
     ],
-    "updated_at": 1784315854
+    "updated_at": 1784325887
   },
   {
     "id": 901,
@@ -36451,7 +36790,7 @@
       "Adventure",
       "Sci-Fi"
     ],
-    "updated_at": 1784315857
+    "updated_at": 1784325887
   },
   {
     "id": 898,
@@ -36480,7 +36819,7 @@
       "Adventure",
       "Sci-Fi"
     ],
-    "updated_at": 1784315858
+    "updated_at": 1784325887
   },
   {
     "id": 897,
@@ -36509,7 +36848,7 @@
       "Adventure",
       "Sci-Fi"
     ],
-    "updated_at": 1784315859
+    "updated_at": 1784325887
   },
   {
     "id": 896,
@@ -36567,7 +36906,7 @@
       "Adventure",
       "Sci-Fi"
     ],
-    "updated_at": 1784315861
+    "updated_at": 1784325887
   },
   {
     "id": 894,
@@ -36596,7 +36935,7 @@
       "Adventure",
       "Sci-Fi"
     ],
-    "updated_at": 1784315861
+    "updated_at": 1784325887
   },
   {
     "id": 893,
@@ -37325,7 +37664,7 @@
       "Sci-Fi",
       "Supernatural"
     ],
-    "updated_at": 1784322117
+    "updated_at": 1784325872
   },
   {
     "id": 731,
@@ -37620,7 +37959,7 @@
       "Romance",
       "Thriller"
     ],
-    "updated_at": 1784316177
+    "updated_at": 1784325887
   },
   {
     "id": 565,
@@ -37650,7 +37989,7 @@
       "Drama",
       "Sci-Fi"
     ],
-    "updated_at": 1784322115
+    "updated_at": 1784325887
   },
   {
     "id": 544,
@@ -38070,7 +38409,7 @@
       "Drama",
       "Fantasy"
     ],
-    "updated_at": 1784316526
+    "updated_at": 1784325883
   },
   {
     "id": 493,
@@ -38965,7 +39304,7 @@
       "Fantasy",
       "Sci-Fi"
     ],
-    "updated_at": 1784316817
+    "updated_at": 1784325887
   },
   {
     "id": 315,
@@ -39237,7 +39576,7 @@
       "Sci-Fi",
       "Supernatural"
     ],
-    "updated_at": 1784317183
+    "updated_at": 1784325887
   },
   {
     "id": 88,
@@ -39504,7 +39843,7 @@
       "Psychological",
       "Sci-Fi"
     ],
-    "updated_at": 1784317474
+    "updated_at": 1784325887
   },
   {
     "id": 5,
@@ -39534,6 +39873,6 @@
       "Mystery",
       "Sci-Fi"
     ],
-    "updated_at": 1784307728
+    "updated_at": 1784325887
   }
 ]
