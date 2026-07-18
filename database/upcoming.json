@@ -4063,7 +4063,7 @@
       "Mystery",
       "Supernatural"
     ],
-    "updated_at": 1784318498
+    "updated_at": 1784379737
   },
   {
     "id": 204604,
@@ -4723,7 +4723,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784307728
+    "updated_at": 1784379737
   },
   {
     "id": 202429,
@@ -4895,7 +4895,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784368905
+    "updated_at": 1784379737
   },
   {
     "id": 201388,
@@ -5011,7 +5011,7 @@
       "Mystery",
       "Romance"
     ],
-    "updated_at": 1783962141
+    "updated_at": 1784379737
   },
   {
     "id": 200455,
@@ -5649,6 +5649,33 @@
       "Romance"
     ],
     "updated_at": 1784368905
+  },
+  {
+    "id": 198705,
+    "id_mal": 62244,
+    "url": "https://anilist.co/anime/198705",
+    "title": {
+      "english": "",
+      "romaji": "Quanzhi Gaoshou 4",
+      "native": "全职高手4"
+    },
+    "description": "The fourth season of <i>Quanzhi Gaoshou</i>.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx198705-JSOLxMF86quw.jpg",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "ONA",
+    "episodes": null,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Action"
+    ],
+    "updated_at": 1784379737
   },
   {
     "id": 198696,
@@ -7014,7 +7041,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784368905
+    "updated_at": 1784379737
   },
   {
     "id": 187361,
@@ -8963,7 +8990,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784369404
+    "updated_at": 1784379737
   },
   {
     "id": 158987,
@@ -9833,6 +9860,31 @@
     "updated_at": 1783946639
   },
   {
+    "id": 104083,
+    "id_mal": null,
+    "url": "https://anilist.co/anime/104083",
+    "title": {
+      "english": "",
+      "romaji": "Hiroshima: Natsu no Nokgori no Bara",
+      "native": "ヒロシマ・夏の名残のバラ"
+    },
+    "description": "The film is the dying wish of Japanese-American animation director Jimmy Murakami, who passed away in 2004 at 80 years old. Murakami is known for the animated adaptations of When the Wind Blows and The Snowman, both books by Raymond Briggs. During World War II, Murakami was imprisoned at the Tule Lake War Relocation Center internment camp. He had told friends that he wanted his last work to be themed on Hiroshima.\n\nMurakami had wanted the film to be based on the life's work of historian Shigeaki Mori, who has spent more than 40 years gathering details on the 12 U.S. bomber crew members and prisoners of war who were killed during the atomic bombing of Hiroshima in 1945. Mori is himself a survivor of the bombing of Hiroshima, and is the subject of a recent documentary titled Paper Lanterns, which launched digitally and on home video on August 7.\n\nHiroshima: The Last Summer Rose, based on Mori's books, will tell a story of an American prisoner of war and a Japanese nursing student who fall in love, but are torn apart by the atomic bombing. The title comes from the Irish folk song \"The Last Rose of Summer,\" which is itself the basis for the famous Japanese song \"Niwa no Chigusa.\"",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/104083-i4Y9ns7QdHMI.jpg",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "MOVIE",
+    "episodes": null,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [],
+    "updated_at": 1784380066
+  },
+  {
     "id": 102675,
     "id_mal": null,
     "url": "https://anilist.co/anime/102675",
@@ -9862,7 +9914,7 @@
       "Romance",
       "Sci-Fi"
     ],
-    "updated_at": 1783948735
+    "updated_at": 1784380823
   },
   {
     "id": 102674,
@@ -9897,6 +9949,34 @@
     "updated_at": 1783948735
   },
   {
+    "id": 102288,
+    "id_mal": null,
+    "url": "https://anilist.co/anime/102288",
+    "title": {
+      "english": "To the Moon",
+      "romaji": "To the Moon",
+      "native": "To the Moon"
+    },
+    "description": "A story-driven experience about two doctors traversing backwards through a dying man's memories to artificially fulfill his last wish. \n<br><br>\n(Source: Steam)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b102288-at5VI7ByoFpA.jpg",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/102288-elfyquvASV68.jpg",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Romance",
+      "Sci-Fi"
+    ],
+    "updated_at": 1784380896
+  },
+  {
     "id": 101635,
     "id_mal": 36542,
     "url": "https://anilist.co/anime/101635",
@@ -9922,7 +10002,7 @@
       "Romance",
       "Sci-Fi"
     ],
-    "updated_at": 1784322117
+    "updated_at": 1784381241
   },
   {
     "id": 100130,

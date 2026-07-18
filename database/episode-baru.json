@@ -29,65 +29,6 @@
     "updated_at": 1783948413
   },
   {
-    "id": 187538,
-    "id_mal": 61169,
-    "url": "https://anilist.co/anime/187538",
-    "title": {
-      "english": "BLACK TORCH",
-      "romaji": "BLACK TORCH",
-      "native": "BLACK TORCH"
-    },
-    "description": "Jirou Azuma is no average high schooler. A descendant of ninjas and trained in the ancient warrior art of the shinobi, Jirou is also able to talk with animals. After a mysterious encounter with an injured cat named Ragou, Jirou discovers the feline is actually the legendary Black Star of Doom! Joined by the Bureau of Espionage, they fight off swarms of mononoke lying in wait to exploit Ragou’s powers.\n<br><br>\n(Source: Crunchyroll)",
-    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx187538-fXVXKYUA3VV6.jpg",
-    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/187538-287evzCezNl0.jpg",
-    "schedule": "Episode 3 tayang pada 18/7/2026, 20.00.00 WIB",
-    "next_episode": 3,
-    "next_airing_timestamp": 1784379600,
-    "season": "SUMMER",
-    "year": 2026,
-    "format": "TV",
-    "episodes": null,
-    "duration": 24,
-    "status": "RELEASING",
-    "score": 73,
-    "genres": [
-      "Action",
-      "Adventure",
-      "Fantasy",
-      "Sci-Fi",
-      "Supernatural"
-    ],
-    "updated_at": 1784376052
-  },
-  {
-    "id": 206249,
-    "id_mal": 63324,
-    "url": "https://anilist.co/anime/206249",
-    "title": {
-      "english": "Recommendations from Iwamoto-Senpai",
-      "romaji": "Iwamoto-senpai no Suisen",
-      "native": "岩元先輩ノ推薦"
-    },
-    "description": "The year 1910. Iwamoto Kodou is a young boy who has successfully carried out many curious missions under the military's directive. His destinations lead to encounters with the strange, weaving tales of history that have yet to be told.",
-    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx206249-1AUSry416wGz.png",
-    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/206249-gKJUJDCbMjDT.jpg",
-    "schedule": "Episode 3 tayang pada 18/7/2026, 20.30.00 WIB",
-    "next_episode": 3,
-    "next_airing_timestamp": 1784381400,
-    "season": "SUMMER",
-    "year": 2026,
-    "format": "TV",
-    "episodes": null,
-    "duration": 24,
-    "status": "RELEASING",
-    "score": 53,
-    "genres": [
-      "Action",
-      "Supernatural"
-    ],
-    "updated_at": 1784376103
-  },
-  {
     "id": 195600,
     "id_mal": 62001,
     "url": "https://anilist.co/anime/195600",
@@ -116,7 +57,7 @@
       "Fantasy",
       "Supernatural"
     ],
-    "updated_at": 1784376041
+    "updated_at": 1784379640
   },
   {
     "id": 190569,
@@ -143,7 +84,7 @@
     "genres": [
       "Drama"
     ],
-    "updated_at": 1784376079
+    "updated_at": 1784379636
   },
   {
     "id": 196012,
@@ -173,7 +114,7 @@
       "Romance",
       "Supernatural"
     ],
-    "updated_at": 1784376168
+    "updated_at": 1784379642
   },
   {
     "id": 211181,
@@ -202,7 +143,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784376063
+    "updated_at": 1784379728
   },
   {
     "id": 196017,
@@ -227,7 +168,7 @@
     "status": "RELEASING",
     "score": 68,
     "genres": [],
-    "updated_at": 1784376104
+    "updated_at": 1784379670
   },
   {
     "id": 194219,
@@ -256,7 +197,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784376110
+    "updated_at": 1784379640
   },
   {
     "id": 185692,
@@ -317,7 +258,7 @@
       "Fantasy",
       "Mahou Shoujo"
     ],
-    "updated_at": 1784376149
+    "updated_at": 1784379703
   },
   {
     "id": 208225,
@@ -345,7 +286,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784376053
+    "updated_at": 1784379659
   },
   {
     "id": 199066,
@@ -374,7 +315,7 @@
       "Romance",
       "Supernatural"
     ],
-    "updated_at": 1784376052
+    "updated_at": 1784379648
   },
   {
     "id": 201514,
@@ -402,7 +343,7 @@
       "Comedy",
       "Romance"
     ],
-    "updated_at": 1784376072
+    "updated_at": 1784379630
   },
   {
     "id": 208824,
@@ -537,7 +478,7 @@
     "genres": [
       "Slice of Life"
     ],
-    "updated_at": 1784376111
+    "updated_at": 1784379737
   },
   {
     "id": 202957,
@@ -565,7 +506,7 @@
       "Mahou Shoujo",
       "Mystery"
     ],
-    "updated_at": 1784376068
+    "updated_at": 1784379632
   },
   {
     "id": 188388,
@@ -595,7 +536,7 @@
       "Fantasy",
       "Sci-Fi"
     ],
-    "updated_at": 1784366990
+    "updated_at": 1784377314
   },
   {
     "id": 206523,
@@ -622,7 +563,7 @@
     "genres": [
       "Music"
     ],
-    "updated_at": 1784376198
+    "updated_at": 1784379687
   },
   {
     "id": 155723,
@@ -679,7 +620,7 @@
       "Horror",
       "Supernatural"
     ],
-    "updated_at": 1784372439
+    "updated_at": 1784379648
   },
   {
     "id": 210031,
@@ -737,7 +678,7 @@
       "Action",
       "Comedy"
     ],
-    "updated_at": 1784376106
+    "updated_at": 1784379645
   },
   {
     "id": 118123,
@@ -794,7 +735,7 @@
       "Comedy",
       "Slice of Life"
     ],
-    "updated_at": 1784314326
+    "updated_at": 1784379702
   },
   {
     "id": 198409,
@@ -823,7 +764,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784376064
+    "updated_at": 1784379677
   },
   {
     "id": 200637,
@@ -852,7 +793,7 @@
       "Ecchi",
       "Romance"
     ],
-    "updated_at": 1784376044
+    "updated_at": 1784379628
   },
   {
     "id": 103303,
@@ -880,7 +821,7 @@
       "Adventure",
       "Romance"
     ],
-    "updated_at": 1784376042
+    "updated_at": 1784380488
   },
   {
     "id": 21,
@@ -911,7 +852,7 @@
       "Drama",
       "Fantasy"
     ],
-    "updated_at": 1784376042
+    "updated_at": 1784379629
   },
   {
     "id": 196974,
@@ -938,7 +879,7 @@
     "genres": [
       "Fantasy"
     ],
-    "updated_at": 1784372451
+    "updated_at": 1784379648
   },
   {
     "id": 188139,
@@ -966,7 +907,7 @@
       "Drama",
       "Romance"
     ],
-    "updated_at": 1784376063
+    "updated_at": 1784379632
   },
   {
     "id": 178789,
@@ -996,7 +937,7 @@
       "Ecchi",
       "Fantasy"
     ],
-    "updated_at": 1784376045
+    "updated_at": 1784379627
   },
   {
     "id": 177637,
@@ -1024,7 +965,7 @@
       "Romance",
       "Supernatural"
     ],
-    "updated_at": 1784376050
+    "updated_at": 1784379638
   },
   {
     "id": 205116,
@@ -1078,7 +1019,7 @@
     "genres": [
       "Hentai"
     ],
-    "updated_at": 1784372472
+    "updated_at": 1784379737
   },
   {
     "id": 169080,
@@ -1106,7 +1047,7 @@
       "Ecchi",
       "Slice of Life"
     ],
-    "updated_at": 1784376108
+    "updated_at": 1784377293
   },
   {
     "id": 213359,
@@ -1164,7 +1105,7 @@
       "Drama",
       "Fantasy"
     ],
-    "updated_at": 1784376101
+    "updated_at": 1784379664
   },
   {
     "id": 169582,
@@ -1195,7 +1136,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784376039
+    "updated_at": 1784377280
   },
   {
     "id": 202269,
@@ -1223,7 +1164,7 @@
       "Drama",
       "Romance"
     ],
-    "updated_at": 1784376041
+    "updated_at": 1784379629
   },
   {
     "id": 206521,
@@ -1250,7 +1191,7 @@
     "genres": [
       "Drama"
     ],
-    "updated_at": 1784376096
+    "updated_at": 1784379638
   },
   {
     "id": 185542,
@@ -1280,7 +1221,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784372414
+    "updated_at": 1784379636
   },
   {
     "id": 199408,
@@ -1308,7 +1249,7 @@
       "Drama",
       "Fantasy"
     ],
-    "updated_at": 1784376039
+    "updated_at": 1784379662
   },
   {
     "id": 209504,
@@ -1338,7 +1279,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784372451
+    "updated_at": 1784379628
   },
   {
     "id": 195833,
@@ -1366,7 +1307,7 @@
       "Comedy",
       "Sports"
     ],
-    "updated_at": 1784376103
+    "updated_at": 1784379728
   },
   {
     "id": 169583,
@@ -1379,7 +1320,7 @@
     },
     "description": "Seven years after making a childhood promise to always be friends, Hayato is reunited with his formerly tomboyish pal Haruki at a city high school–only now, Haruki has transformed into the girl every guy dreams about! While Haruki’s looks may have changed, with Hayato, she’s still the same pal he remembers. Despite years apart, their promise and feelings remain and deepen into something stronger.\n<br><br>\n(Source: Crunchyroll)",
     "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169583-0ZTdBGrKNIbe.jpg",
-    "banner_url": "",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/169583-wB0yHc7e8Kjk.jpg",
     "schedule": "Episode 3 tayang pada 20/7/2026, 21.30.00 WIB",
     "next_episode": 3,
     "next_airing_timestamp": 1784557800,
@@ -1394,7 +1335,7 @@
       "Comedy",
       "Romance"
     ],
-    "updated_at": 1784376079
+    "updated_at": 1784379711
   },
   {
     "id": 199111,
@@ -1423,7 +1364,7 @@
       "Slice of Life",
       "Sports"
     ],
-    "updated_at": 1784376068
+    "updated_at": 1784379630
   },
   {
     "id": 197754,
@@ -1451,7 +1392,7 @@
       "Drama",
       "Psychological"
     ],
-    "updated_at": 1784376045
+    "updated_at": 1784379637
   },
   {
     "id": 140842,
@@ -1479,7 +1420,7 @@
       "Comedy",
       "Slice of Life"
     ],
-    "updated_at": 1784376141
+    "updated_at": 1784379709
   },
   {
     "id": 213188,
@@ -1537,7 +1478,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784376187
+    "updated_at": 1784379628
   },
   {
     "id": 128757,
@@ -1564,7 +1505,7 @@
     "genres": [
       "Drama"
     ],
-    "updated_at": 1784376108
+    "updated_at": 1784379650
   },
   {
     "id": 187260,
@@ -1593,7 +1534,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784376063
+    "updated_at": 1784379634
   },
   {
     "id": 213665,
@@ -1621,7 +1562,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784376113
+    "updated_at": 1784377278
   },
   {
     "id": 196219,
@@ -1650,7 +1591,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784376113
+    "updated_at": 1784379644
   },
   {
     "id": 177699,
@@ -1679,7 +1620,7 @@
       "Psychological",
       "Sci-Fi"
     ],
-    "updated_at": 1784376055
+    "updated_at": 1784379631
   },
   {
     "id": 209800,
@@ -1708,7 +1649,7 @@
       "Adventure",
       "Sci-Fi"
     ],
-    "updated_at": 1784376102
+    "updated_at": 1784379721
   },
   {
     "id": 198709,
@@ -1738,7 +1679,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784376055
+    "updated_at": 1784379642
   },
   {
     "id": 207809,
@@ -1769,7 +1710,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784376077
+    "updated_at": 1784379643
   },
   {
     "id": 193883,
@@ -1964,7 +1905,7 @@
       "Drama",
       "Fantasy"
     ],
-    "updated_at": 1784376114
+    "updated_at": 1784379640
   },
   {
     "id": 135865,
@@ -1992,7 +1933,7 @@
       "Action",
       "Fantasy"
     ],
-    "updated_at": 1784376043
+    "updated_at": 1784379634
   },
   {
     "id": 213666,
@@ -2020,7 +1961,7 @@
       "Drama",
       "Romance"
     ],
-    "updated_at": 1784376099
+    "updated_at": 1784379726
   },
   {
     "id": 192800,
@@ -2048,7 +1989,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784376072
+    "updated_at": 1784379650
   },
   {
     "id": 196356,
@@ -2076,7 +2017,7 @@
       "Comedy",
       "Slice of Life"
     ],
-    "updated_at": 1784376044
+    "updated_at": 1784379647
   },
   {
     "id": 159309,
@@ -2106,7 +2047,7 @@
       "Mecha",
       "Romance"
     ],
-    "updated_at": 1784376068
+    "updated_at": 1784379640
   },
   {
     "id": 194829,
@@ -2136,7 +2077,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784372406
+    "updated_at": 1784379629
   },
   {
     "id": 205772,
@@ -2191,7 +2132,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784376216
+    "updated_at": 1784377339
   },
   {
     "id": 197715,
@@ -2221,7 +2162,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784376044
+    "updated_at": 1784379647
   },
   {
     "id": 207254,
@@ -2250,7 +2191,7 @@
       "Drama",
       "Sci-Fi"
     ],
-    "updated_at": 1784376181
+    "updated_at": 1784379647
   },
   {
     "id": 209669,
@@ -2280,7 +2221,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784376053
+    "updated_at": 1784379661
   },
   {
     "id": 184356,
@@ -2309,7 +2250,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784376045
+    "updated_at": 1784379630
   },
   {
     "id": 209541,
@@ -2337,7 +2278,7 @@
       "Fantasy",
       "Slice of Life"
     ],
-    "updated_at": 1784376134
+    "updated_at": 1784379737
   },
   {
     "id": 194389,
@@ -2393,7 +2334,7 @@
       "Horror",
       "Supernatural"
     ],
-    "updated_at": 1784376047
+    "updated_at": 1784379637
   },
   {
     "id": 201667,
@@ -2422,7 +2363,7 @@
       "Slice of Life",
       "Supernatural"
     ],
-    "updated_at": 1784376102
+    "updated_at": 1784379642
   },
   {
     "id": 187166,
@@ -2450,7 +2391,7 @@
       "Comedy",
       "Music"
     ],
-    "updated_at": 1784368880
+    "updated_at": 1784379668
   },
   {
     "id": 198376,
@@ -2480,7 +2421,7 @@
       "Music",
       "Slice of Life"
     ],
-    "updated_at": 1784376063
+    "updated_at": 1784377267
   },
   {
     "id": 108992,
@@ -2503,12 +2444,12 @@
     "episodes": null,
     "duration": null,
     "status": "RELEASING",
-    "score": 52,
+    "score": 51,
     "genres": [
       "Action",
       "Supernatural"
     ],
-    "updated_at": 1784376148
+    "updated_at": 1784379668
   },
   {
     "id": 196187,
@@ -2537,7 +2478,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784372407
+    "updated_at": 1784379633
   },
   {
     "id": 208044,
@@ -2566,7 +2507,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784376044
+    "updated_at": 1784379639
   },
   {
     "id": 180136,
@@ -2594,7 +2535,7 @@
       "Action",
       "Fantasy"
     ],
-    "updated_at": 1784376045
+    "updated_at": 1784379635
   },
   {
     "id": 207141,
@@ -2622,7 +2563,7 @@
       "Comedy",
       "Slice of Life"
     ],
-    "updated_at": 1784376047
+    "updated_at": 1784379633
   },
   {
     "id": 204466,
@@ -2651,7 +2592,7 @@
       "Romance",
       "Supernatural"
     ],
-    "updated_at": 1784376039
+    "updated_at": 1784379638
   },
   {
     "id": 8336,
@@ -2707,7 +2648,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784376040
+    "updated_at": 1784379634
   },
   {
     "id": 196218,
@@ -2739,7 +2680,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784376040
+    "updated_at": 1784379627
   },
   {
     "id": 182205,
@@ -2769,7 +2710,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784376039
+    "updated_at": 1784379627
   },
   {
     "id": 188525,
@@ -2797,7 +2738,7 @@
       "Comedy",
       "Slice of Life"
     ],
-    "updated_at": 1784376043
+    "updated_at": 1784379630
   },
   {
     "id": 202508,
@@ -2826,7 +2767,7 @@
       "Mystery",
       "Slice of Life"
     ],
-    "updated_at": 1784376056
+    "updated_at": 1784379662
   },
   {
     "id": 182616,
@@ -2854,7 +2795,7 @@
       "Action",
       "Adventure"
     ],
-    "updated_at": 1784376041
+    "updated_at": 1784379638
   },
   {
     "id": 203490,
@@ -2883,7 +2824,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784376063
+    "updated_at": 1784379628
   },
   {
     "id": 209983,
@@ -2912,7 +2853,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784376046
+    "updated_at": 1784379627
   },
   {
     "id": 207674,
@@ -2941,7 +2882,7 @@
       "Ecchi",
       "Supernatural"
     ],
-    "updated_at": 1784376040
+    "updated_at": 1784379629
   },
   {
     "id": 213831,
@@ -2970,7 +2911,7 @@
       "Ecchi",
       "Supernatural"
     ],
-    "updated_at": 1784376116
+    "updated_at": 1784379682
   },
   {
     "id": 142274,
@@ -3026,7 +2967,7 @@
     "genres": [
       "Comedy"
     ],
-    "updated_at": 1784376092
+    "updated_at": 1784379737
   },
   {
     "id": 183231,
@@ -3054,7 +2995,7 @@
       "Fantasy",
       "Slice of Life"
     ],
-    "updated_at": 1784376064
+    "updated_at": 1784379657
   },
   {
     "id": 137683,
@@ -3084,7 +3025,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784376100
+    "updated_at": 1784379634
   },
   {
     "id": 966,
@@ -3113,7 +3054,7 @@
       "Ecchi",
       "Slice of Life"
     ],
-    "updated_at": 1784372451
+    "updated_at": 1784379737
   },
   {
     "id": 8687,
@@ -3142,7 +3083,7 @@
       "Comedy",
       "Sci-Fi"
     ],
-    "updated_at": 1784376146
+    "updated_at": 1784379737
   },
   {
     "id": 171110,
@@ -3171,7 +3112,7 @@
       "Fantasy",
       "Slice of Life"
     ],
-    "updated_at": 1784376040
+    "updated_at": 1784379628
   },
   {
     "id": 235,
@@ -3201,7 +3142,7 @@
       "Mystery",
       "Psychological"
     ],
-    "updated_at": 1784376073
+    "updated_at": 1784379633
   },
   {
     "id": 184492,
@@ -3230,7 +3171,7 @@
       "Fantasy",
       "Supernatural"
     ],
-    "updated_at": 1784376049
+    "updated_at": 1784379627
   },
   {
     "id": 213356,
@@ -3259,7 +3200,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784376173
+    "updated_at": 1784379721
   },
   {
     "id": 186863,
@@ -3287,7 +3228,66 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784376094
+    "updated_at": 1784379635
+  },
+  {
+    "id": 187538,
+    "id_mal": 61169,
+    "url": "https://anilist.co/anime/187538",
+    "title": {
+      "english": "BLACK TORCH",
+      "romaji": "BLACK TORCH",
+      "native": "BLACK TORCH"
+    },
+    "description": "Jirou Azuma is no average high schooler. A descendant of ninjas and trained in the ancient warrior art of the shinobi, Jirou is also able to talk with animals. After a mysterious encounter with an injured cat named Ragou, Jirou discovers the feline is actually the legendary Black Star of Doom! Joined by the Bureau of Espionage, they fight off swarms of mononoke lying in wait to exploit Ragou’s powers.\n<br><br>\n(Source: Crunchyroll)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx187538-fXVXKYUA3VV6.jpg",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/187538-287evzCezNl0.jpg",
+    "schedule": "Episode 4 tayang pada 25/7/2026, 20.00.00 WIB",
+    "next_episode": 4,
+    "next_airing_timestamp": 1784984400,
+    "season": "SUMMER",
+    "year": 2026,
+    "format": "TV",
+    "episodes": null,
+    "duration": 24,
+    "status": "RELEASING",
+    "score": 73,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy",
+      "Sci-Fi",
+      "Supernatural"
+    ],
+    "updated_at": 1784377289
+  },
+  {
+    "id": 206249,
+    "id_mal": 63324,
+    "url": "https://anilist.co/anime/206249",
+    "title": {
+      "english": "Recommendations from Iwamoto-Senpai",
+      "romaji": "Iwamoto-senpai no Suisen",
+      "native": "岩元先輩ノ推薦"
+    },
+    "description": "The year 1910. Iwamoto Kodou is a young boy who has successfully carried out many curious missions under the military's directive. His destinations lead to encounters with the strange, weaving tales of history that have yet to be told.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx206249-1AUSry416wGz.png",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/206249-gKJUJDCbMjDT.jpg",
+    "schedule": "Episode 4 tayang pada 25/7/2026, 20.30.00 WIB",
+    "next_episode": 4,
+    "next_airing_timestamp": 1784986200,
+    "season": "SUMMER",
+    "year": 2026,
+    "format": "TV",
+    "episodes": null,
+    "duration": 24,
+    "status": "RELEASING",
+    "score": 53,
+    "genres": [
+      "Action",
+      "Supernatural"
+    ],
+    "updated_at": 1784379731
   },
   {
     "id": 204560,
@@ -3371,7 +3371,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784376069
+    "updated_at": 1784377284
   },
   {
     "id": 165159,
@@ -3400,7 +3400,7 @@
       "Adventure",
       "Sports"
     ],
-    "updated_at": 1784376203
+    "updated_at": 1784379697
   },
   {
     "id": 189046,
@@ -3433,7 +3433,7 @@
       "Romance",
       "Thriller"
     ],
-    "updated_at": 1784376040
+    "updated_at": 1784379640
   },
   {
     "id": 210687,
@@ -3462,7 +3462,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784376145
+    "updated_at": 1784379737
   },
   {
     "id": 208264,
@@ -3516,7 +3516,7 @@
     "genres": [
       "Hentai"
     ],
-    "updated_at": 1784376183
+    "updated_at": 1784379737
   },
   {
     "id": 21828,
@@ -3543,7 +3543,7 @@
     "genres": [
       "Hentai"
     ],
-    "updated_at": 1784376151
+    "updated_at": 1784379737
   },
   {
     "id": 196613,
@@ -3572,7 +3572,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784372476
+    "updated_at": 1784379737
   },
   {
     "id": 208361,
@@ -3626,7 +3626,7 @@
     "genres": [
       "Hentai"
     ],
-    "updated_at": 1784376211
+    "updated_at": 1784379737
   },
   {
     "id": 112936,
@@ -3653,6 +3653,6 @@
     "genres": [
       "Hentai"
     ],
-    "updated_at": 1784376151
+    "updated_at": 1784379737
   }
 ]
