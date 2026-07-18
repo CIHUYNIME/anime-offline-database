@@ -50,7 +50,7 @@
     "status": "FINISHED",
     "score": null,
     "genres": [],
-    "updated_at": 1784361747
+    "updated_at": 1784406290
   },
   {
     "id": 214071,
@@ -75,7 +75,7 @@
     "status": "FINISHED",
     "score": null,
     "genres": [],
-    "updated_at": 1784361747
+    "updated_at": 1784406259
   },
   {
     "id": 214070,
@@ -294,7 +294,7 @@
       "Drama",
       "Supernatural"
     ],
-    "updated_at": 1784372518
+    "updated_at": 1784406283
   },
   {
     "id": 213511,
@@ -350,7 +350,7 @@
       "Psychological",
       "Sci-Fi"
     ],
-    "updated_at": 1784397736
+    "updated_at": 1784406300
   },
   {
     "id": 212391,
@@ -380,7 +380,7 @@
       "Romance",
       "Sci-Fi"
     ],
-    "updated_at": 1784297606
+    "updated_at": 1784406300
   },
   {
     "id": 212105,
@@ -655,7 +655,7 @@
       "Action",
       "Adventure"
     ],
-    "updated_at": 1784318458
+    "updated_at": 1784406269
   },
   {
     "id": 208055,
@@ -1057,7 +1057,7 @@
       "Mystery",
       "Sci-Fi"
     ],
-    "updated_at": 1784358109
+    "updated_at": 1784406300
   },
   {
     "id": 204584,
@@ -1087,7 +1087,7 @@
       "Mystery",
       "Sci-Fi"
     ],
-    "updated_at": 1784322117
+    "updated_at": 1784406300
   },
   {
     "id": 204066,
@@ -1116,7 +1116,7 @@
       "Drama",
       "Supernatural"
     ],
-    "updated_at": 1784397736
+    "updated_at": 1784406268
   },
   {
     "id": 203100,
@@ -1226,7 +1226,7 @@
       "Action",
       "Sports"
     ],
-    "updated_at": 1784322117
+    "updated_at": 1784406300
   },
   {
     "id": 200929,
@@ -1435,7 +1435,7 @@
       "Drama",
       "Music"
     ],
-    "updated_at": 1784361747
+    "updated_at": 1784406260
   },
   {
     "id": 197474,
@@ -1778,7 +1778,7 @@
       "Romance",
       "Sci-Fi"
     ],
-    "updated_at": 1784394193
+    "updated_at": 1784406286
   },
   {
     "id": 190574,
@@ -1918,7 +1918,7 @@
     "genres": [
       "Comedy"
     ],
-    "updated_at": 1784390608
+    "updated_at": 1784406293
   },
   {
     "id": 187892,
@@ -2063,7 +2063,7 @@
       "Mystery",
       "Sci-Fi"
     ],
-    "updated_at": 1784253700
+    "updated_at": 1784406300
   },
   {
     "id": 186169,
@@ -2227,7 +2227,7 @@
       "Mecha",
       "Sci-Fi"
     ],
-    "updated_at": 1784300508
+    "updated_at": 1784406278
   },
   {
     "id": 185613,
@@ -2285,7 +2285,36 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784390608
+    "updated_at": 1784406288
+  },
+  {
+    "id": 184369,
+    "id_mal": 57441,
+    "url": "https://anilist.co/anime/184369",
+    "title": {
+      "english": "Detective Conan vs. Kid the Phantom Thief",
+      "romaji": "Meitantei Conan vs Kaitou Kid",
+      "native": "名探偵コナンVS怪盗キッド"
+    },
+    "description": "The movie contains cuts from episodes featuring the confrontations between Conan and Kid the Phantom Thief: “Conan vs. Kid the Phantom Thief” and “The Detectives Come Together! Kudo vs. Kid the Phantom Thief”. From birth of the Moonlight Magician, Kid the Phantom Thief, and the first encounter between the greatest and eternal rival Conan / Shinichi, this is a special compilation film of TV series with new footage!",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx184369-vJd1ox7UogTI.jpg",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/184369-646GI49oZ5mz.jpg",
+    "schedule": "Musim: WINTER 2024",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "WINTER",
+    "year": 2024,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 81,
+    "status": "FINISHED",
+    "score": 66,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Mystery"
+    ],
+    "updated_at": 1784406300
   },
   {
     "id": 184351,
@@ -2545,7 +2574,7 @@
       "Fantasy",
       "Slice of Life"
     ],
-    "updated_at": 1784246806
+    "updated_at": 1784406260
   },
   {
     "id": 181449,
@@ -2721,7 +2750,7 @@
       "Psychological",
       "Supernatural"
     ],
-    "updated_at": 1784350916
+    "updated_at": 1784406300
   },
   {
     "id": 179727,
@@ -2825,7 +2854,7 @@
       "Drama",
       "Sci-Fi"
     ],
-    "updated_at": 1784383565
+    "updated_at": 1784406300
   },
   {
     "id": 178788,
@@ -2945,7 +2974,7 @@
       "Sci-Fi",
       "Supernatural"
     ],
-    "updated_at": 1784394193
+    "updated_at": 1784406300
   },
   {
     "id": 178436,
@@ -3081,8 +3110,10 @@
     "duration": 75,
     "status": "FINISHED",
     "score": 60,
-    "genres": [],
-    "updated_at": 1783948362
+    "genres": [
+      "Drama"
+    ],
+    "updated_at": 1784406300
   },
   {
     "id": 177065,
@@ -3341,7 +3372,7 @@
       "Music",
       "Romance"
     ],
-    "updated_at": 1784397736
+    "updated_at": 1784406300
   },
   {
     "id": 175138,
@@ -5321,7 +5352,7 @@
       "Psychological",
       "Supernatural"
     ],
-    "updated_at": 1784369815
+    "updated_at": 1784406290
   },
   {
     "id": 154392,
@@ -5462,7 +5493,7 @@
       "Drama",
       "Sports"
     ],
-    "updated_at": 1784361747
+    "updated_at": 1784406278
   },
   {
     "id": 151896,
@@ -6465,7 +6496,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784297604
+    "updated_at": 1784406300
   },
   {
     "id": 140879,
@@ -6867,7 +6898,7 @@
       "Mystery",
       "Sci-Fi"
     ],
-    "updated_at": 1784268121
+    "updated_at": 1784406300
   },
   {
     "id": 137310,
@@ -7185,7 +7216,7 @@
       "Drama",
       "Sports"
     ],
-    "updated_at": 1784397736
+    "updated_at": 1784406293
   },
   {
     "id": 133007,
@@ -7699,7 +7730,7 @@
       "Drama",
       "Supernatural"
     ],
-    "updated_at": 1784394193
+    "updated_at": 1784406287
   },
   {
     "id": 129759,
@@ -8099,7 +8130,7 @@
       "Adventure",
       "Sci-Fi"
     ],
-    "updated_at": 1784373465
+    "updated_at": 1784406265
   },
   {
     "id": 126649,
@@ -8298,7 +8329,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784340964
+    "updated_at": 1784406264
   },
   {
     "id": 124132,
@@ -8356,7 +8387,7 @@
       "Action",
       "Sports"
     ],
-    "updated_at": 1784287148
+    "updated_at": 1784406296
   },
   {
     "id": 123899,
@@ -9314,7 +9345,7 @@
       "Fantasy",
       "Mystery"
     ],
-    "updated_at": 1784383565
+    "updated_at": 1784406300
   },
   {
     "id": 118936,
@@ -10491,7 +10522,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784340962
+    "updated_at": 1784406260
   },
   {
     "id": 113576,
@@ -11552,7 +11583,7 @@
       "Adventure",
       "Mystery"
     ],
-    "updated_at": 1784372518
+    "updated_at": 1784406300
   },
   {
     "id": 110381,
@@ -12497,7 +12528,7 @@
       "Slice of Life",
       "Supernatural"
     ],
-    "updated_at": 1784394193
+    "updated_at": 1784406287
   },
   {
     "id": 108553,
@@ -13041,7 +13072,7 @@
       "Action",
       "Sports"
     ],
-    "updated_at": 1784394193
+    "updated_at": 1784406291
   },
   {
     "id": 107203,
@@ -13100,7 +13131,7 @@
       "Slice of Life",
       "Sports"
     ],
-    "updated_at": 1784291887
+    "updated_at": 1784406293
   },
   {
     "id": 107199,
@@ -15891,7 +15922,7 @@
       "Mystery",
       "Supernatural"
     ],
-    "updated_at": 1784390608
+    "updated_at": 1784406291
   },
   {
     "id": 103166,
@@ -16034,7 +16065,7 @@
       "Fantasy",
       "Supernatural"
     ],
-    "updated_at": 1784380755
+    "updated_at": 1784406264
   },
   {
     "id": 102973,
@@ -18191,7 +18222,7 @@
       "Sci-Fi",
       "Thriller"
     ],
-    "updated_at": 1784381174
+    "updated_at": 1784406300
   },
   {
     "id": 101635,
@@ -18654,7 +18685,7 @@
       "Mystery",
       "Sci-Fi"
     ],
-    "updated_at": 1784381396
+    "updated_at": 1784406268
   },
   {
     "id": 101342,
@@ -19382,7 +19413,7 @@
       "Fantasy",
       "Mystery"
     ],
-    "updated_at": 1784390608
+    "updated_at": 1784406263
   },
   {
     "id": 100361,
@@ -19668,7 +19699,7 @@
       "Drama",
       "Fantasy"
     ],
-    "updated_at": 1784394193
+    "updated_at": 1784406300
   },
   {
     "id": 100081,
@@ -19752,7 +19783,7 @@
       "Action",
       "Sports"
     ],
-    "updated_at": 1784394193
+    "updated_at": 1784406291
   },
   {
     "id": 99900,
@@ -19929,7 +19960,7 @@
       "Mecha",
       "Sci-Fi"
     ],
-    "updated_at": 1783951200
+    "updated_at": 1784406290
   },
   {
     "id": 99470,
@@ -20255,7 +20286,7 @@
       "Drama",
       "Sports"
     ],
-    "updated_at": 1784384108
+    "updated_at": 1784406284
   },
   {
     "id": 98884,
@@ -20284,7 +20315,7 @@
       "Drama",
       "Sports"
     ],
-    "updated_at": 1784394193
+    "updated_at": 1784406285
   },
   {
     "id": 98876,
@@ -20342,7 +20373,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784390608
+    "updated_at": 1784406272
   },
   {
     "id": 98873,
@@ -20371,7 +20402,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784397736
+    "updated_at": 1784406278
   },
   {
     "id": 98784,
@@ -20541,7 +20572,7 @@
       "Fantasy",
       "Mahou Shoujo"
     ],
-    "updated_at": 1784384158
+    "updated_at": 1784406288
   },
   {
     "id": 98744,
@@ -20657,7 +20688,7 @@
     "genres": [
       "Sports"
     ],
-    "updated_at": 1784384196
+    "updated_at": 1784406289
   },
   {
     "id": 98576,
@@ -20687,7 +20718,7 @@
       "Sci-Fi",
       "Supernatural"
     ],
-    "updated_at": 1784384230
+    "updated_at": 1784406281
   },
   {
     "id": 98516,
@@ -20775,7 +20806,7 @@
       "Slice of Life",
       "Sports"
     ],
-    "updated_at": 1784384267
+    "updated_at": 1784406294
   },
   {
     "id": 98495,
@@ -20804,7 +20835,7 @@
       "Slice of Life",
       "Sports"
     ],
-    "updated_at": 1784384267
+    "updated_at": 1784406294
   },
   {
     "id": 98471,
@@ -21240,7 +21271,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784384934
+    "updated_at": 1784406294
   },
   {
     "id": 97920,
@@ -21539,7 +21570,7 @@
       "Fantasy",
       "Sci-Fi"
     ],
-    "updated_at": 1784385157
+    "updated_at": 1784406293
   },
   {
     "id": 97669,
@@ -21825,7 +21856,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784340995
+    "updated_at": 1784406282
   },
   {
     "id": 21874,
@@ -22230,7 +22261,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784391107
+    "updated_at": 1784406285
   },
   {
     "id": 21729,
@@ -22325,7 +22356,7 @@
       "Supernatural",
       "Thriller"
     ],
-    "updated_at": 1784391144
+    "updated_at": 1784406282
   },
   {
     "id": 21697,
@@ -23094,7 +23125,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784376216
+    "updated_at": 1784406280
   },
   {
     "id": 21295,
@@ -23207,7 +23238,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784394193
+    "updated_at": 1784406276
   },
   {
     "id": 21265,
@@ -23297,7 +23328,7 @@
       "Adventure",
       "Comedy"
     ],
-    "updated_at": 1784289672
+    "updated_at": 1784406266
   },
   {
     "id": 21194,
@@ -23586,7 +23617,7 @@
       "Drama",
       "Sports"
     ],
-    "updated_at": 1784394193
+    "updated_at": 1784406284
   },
   {
     "id": 21114,
@@ -23910,7 +23941,7 @@
       "Fantasy",
       "Supernatural"
     ],
-    "updated_at": 1784340983
+    "updated_at": 1784406286
   },
   {
     "id": 20978,
@@ -24406,7 +24437,7 @@
       "Psychological",
       "Supernatural"
     ],
-    "updated_at": 1784394496
+    "updated_at": 1784406281
   },
   {
     "id": 20786,
@@ -24524,7 +24555,7 @@
       "Music",
       "Slice of Life"
     ],
-    "updated_at": 1784397736
+    "updated_at": 1784406300
   },
   {
     "id": 20764,
@@ -24823,7 +24854,7 @@
       "Drama",
       "Fantasy"
     ],
-    "updated_at": 1784395054
+    "updated_at": 1784406264
   },
   {
     "id": 20690,
@@ -25533,7 +25564,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784397736
+    "updated_at": 1784406279
   },
   {
     "id": 19271,
@@ -25841,7 +25872,7 @@
       "Action",
       "Sports"
     ],
-    "updated_at": 1784361736
+    "updated_at": 1784406291
   },
   {
     "id": 18591,
@@ -26745,7 +26776,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784386898
+    "updated_at": 1784406265
   },
   {
     "id": 16746,
@@ -26860,7 +26891,7 @@
       "Drama",
       "Romance"
     ],
-    "updated_at": 1784332972
+    "updated_at": 1784406265
   },
   {
     "id": 16570,
@@ -27744,7 +27775,7 @@
       "Comedy",
       "Sci-Fi"
     ],
-    "updated_at": 1784398007
+    "updated_at": 1784406264
   },
   {
     "id": 14821,
@@ -28002,7 +28033,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784398126
+    "updated_at": 1784406266
   },
   {
     "id": 14293,
@@ -28230,7 +28261,7 @@
     "genres": [
       "Action"
     ],
-    "updated_at": 1784398244
+    "updated_at": 1784406276
   },
   {
     "id": 13667,
@@ -28372,7 +28403,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784398611
+    "updated_at": 1784406298
   },
   {
     "id": 13215,
@@ -28939,7 +28970,7 @@
       "Romance",
       "Sci-Fi"
     ],
-    "updated_at": 1784398892
+    "updated_at": 1784406283
   },
   {
     "id": 12355,
@@ -29237,7 +29268,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784398974
+    "updated_at": 1784406300
   },
   {
     "id": 12035,
@@ -30051,7 +30082,7 @@
       "Adventure",
       "Mystery"
     ],
-    "updated_at": 1784304124
+    "updated_at": 1784406300
   },
   {
     "id": 10534,
@@ -30423,7 +30454,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784386898
+    "updated_at": 1784406299
   },
   {
     "id": 9999,
@@ -30936,7 +30967,7 @@
       "Fantasy",
       "Mahou Shoujo"
     ],
-    "updated_at": 1783962141
+    "updated_at": 1784406275
   },
   {
     "id": 9279,
@@ -32079,7 +32110,7 @@
       "Action",
       "Comedy"
     ],
-    "updated_at": 1784390608
+    "updated_at": 1784406266
   },
   {
     "id": 8245,
@@ -32347,7 +32378,7 @@
       "Slice of Life",
       "Supernatural"
     ],
-    "updated_at": 1784386898
+    "updated_at": 1784406287
   },
   {
     "id": 8133,
@@ -32935,7 +32966,7 @@
       "Drama",
       "Fantasy"
     ],
-    "updated_at": 1784390608
+    "updated_at": 1784406282
   },
   {
     "id": 7709,
@@ -35302,7 +35333,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784312323
+    "updated_at": 1784406296
   },
   {
     "id": 6325,
@@ -36522,7 +36553,7 @@
       "Supernatural",
       "Thriller"
     ],
-    "updated_at": 1784383565
+    "updated_at": 1784406273
   },
   {
     "id": 5204,
@@ -36893,7 +36924,7 @@
     "genres": [
       "Action"
     ],
-    "updated_at": 1784329393
+    "updated_at": 1784406276
   },
   {
     "id": 4926,
@@ -37117,7 +37148,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784394193
+    "updated_at": 1784406294
   },
   {
     "id": 4681,
@@ -37173,7 +37204,7 @@
       "Psychological",
       "Sci-Fi"
     ],
-    "updated_at": 1784397736
+    "updated_at": 1784406268
   },
   {
     "id": 4640,
@@ -37399,7 +37430,7 @@
       "Action",
       "Supernatural"
     ],
-    "updated_at": 1784390608
+    "updated_at": 1784406300
   },
   {
     "id": 4406,
@@ -38165,7 +38196,7 @@
       "Mecha",
       "Sci-Fi"
     ],
-    "updated_at": 1784376216
+    "updated_at": 1784406299
   },
   {
     "id": 3848,
@@ -38308,7 +38339,7 @@
       "Psychological",
       "Sci-Fi"
     ],
-    "updated_at": 1784332886
+    "updated_at": 1784406291
   },
   {
     "id": 3785,
@@ -38401,7 +38432,38 @@
       "Supernatural",
       "Thriller"
     ],
-    "updated_at": 1784386898
+    "updated_at": 1784406284
+  },
+  {
+    "id": 3782,
+    "id_mal": 3782,
+    "url": "https://anilist.co/anime/3782",
+    "title": {
+      "english": "the Garden of sinners Chapter 2: …and nothing heart. (Murder Speculation Part A)",
+      "romaji": "Kara no Kyoukai: Satsujin Kousatsu (Zen)",
+      "native": "空の境界 殺人考察(前)"
+    },
+    "description": "March, 1995: Mikiya Kokutou meets a girl who has a mysterious gaze and falls in love with her. That April, he's reunited with her at his high school entrance ceremony. The girl's name is Shiki Ryougi. Meanwhile, the city has been rattled by a series of bizarre murders. There are no known links between victims, and the motive is unclear. An astonishing secret awaits Mikiya, but he doesn't find out until three years later...\r\n<br><br>\r\n(Source: Aniplex USA)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx3782-b8NzFcoYs9vc.jpg",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/3782-psXN8gIQVeof.jpg",
+    "schedule": "Musim: WINTER 2008",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "WINTER",
+    "year": 2008,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 61,
+    "status": "FINISHED",
+    "score": 75,
+    "genres": [
+      "Action",
+      "Mystery",
+      "Romance",
+      "Supernatural",
+      "Thriller"
+    ],
+    "updated_at": 1784406287
   },
   {
     "id": 3760,
@@ -38937,7 +38999,7 @@
       "Action",
       "Sci-Fi"
     ],
-    "updated_at": 1784397736
+    "updated_at": 1784406300
   },
   {
     "id": 3067,
@@ -39088,6 +39150,35 @@
     "updated_at": 1784340990
   },
   {
+    "id": 3016,
+    "id_mal": 3016,
+    "url": "https://anilist.co/anime/3016",
+    "title": {
+      "english": "Legend of the Galactic Heroes: Overture to a New War",
+      "romaji": "Ginga Eiyuu Densetsu: Arata Naru Tatakai no Overture",
+      "native": "銀河英雄伝説外伝　新たなる戦いの序曲[オーヴァチュア]"
+    },
+    "description": "Led by Reinhard von Müsel, the Galactic Empire crushes the Free Planets Alliance in the Fourth Battle of Tiamat. Arriving in the Imperial capital of Odin to a hero's welcome, Reinhard's victory earns him a promotion to High Admiral and the distinguished title of Count von Lohengramm. On the other side, Yang Wen-li safely returns to the Alliance capital of Heinessen without fanfare and reunites with his dear friends.<br>\n<br>\nReinhard and Yang look forward to a long-awaited reprieve. However, at the request of the scheming Duke Otho von Braunschweig, the Imperial High Command orders the new High Admiral to invade the Alliance with a fleet of twenty thousand ships. After the Duke leaks the plan to the Alliance government, three fleets totalling forty thousand ships are sent to counter the incoming attack and recreate the famous Battle of Dagon. But even though Reinhard is outnumbered two to one, he has an ingenious plan—and Yang sees right through it. Will Yang's superiors heed his warning before it is too late?<br>\n<br>\n(Source: MAL Rewrite)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx3016-ubCyMga7qCq6.png",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/3016-dfK5ZHC7tBWe.jpg",
+    "schedule": "Musim: FALL 1993",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "FALL",
+    "year": 1993,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 90,
+    "status": "FINISHED",
+    "score": 78,
+    "genres": [
+      "Action",
+      "Drama",
+      "Sci-Fi"
+    ],
+    "updated_at": 1784406300
+  },
+  {
     "id": 3015,
     "id_mal": 3015,
     "url": "https://anilist.co/anime/3015",
@@ -39228,7 +39319,7 @@
       "Fantasy",
       "Sci-Fi"
     ],
-    "updated_at": 1784329393
+    "updated_at": 1784406282
   },
   {
     "id": 2952,
@@ -39711,7 +39802,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784368905
+    "updated_at": 1784406289
   },
   {
     "id": 2671,
@@ -39986,6 +40077,34 @@
       "Fantasy"
     ],
     "updated_at": 1784390608
+  },
+  {
+    "id": 2648,
+    "id_mal": 2648,
+    "url": "https://anilist.co/anime/2648",
+    "title": {
+      "english": "",
+      "romaji": "Doraemon: 2112-nen Doraemon Tanjou",
+      "native": "ドラえもん ２１１２年ドラえもん誕生"
+    },
+    "description": "The movie is sort of a prequel to the entire series, it showed the life of Doraemon before traveling to the 20th century: How he was made, how he was partially broken, how he lost his ears, how he met the Nobi family and decides to return to the past to help Nobita.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2648.jpg",
+    "banner_url": "",
+    "schedule": "Musim: WINTER 1995",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "WINTER",
+    "year": 1995,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 30,
+    "status": "FINISHED",
+    "score": 68,
+    "genres": [
+      "Comedy",
+      "Fantasy"
+    ],
+    "updated_at": 1784406277
   },
   {
     "id": 2645,
@@ -40414,7 +40533,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784402642
+    "updated_at": 1784406300
   },
   {
     "id": 2470,
@@ -42175,7 +42294,7 @@
       "Sci-Fi",
       "Thriller"
     ],
-    "updated_at": 1784402863
+    "updated_at": 1784406270
   },
   {
     "id": 1931,
@@ -42205,7 +42324,7 @@
       "Fantasy",
       "Mahou Shoujo"
     ],
-    "updated_at": 1784402866
+    "updated_at": 1784406275
   },
   {
     "id": 1930,
@@ -42235,7 +42354,7 @@
       "Fantasy",
       "Mahou Shoujo"
     ],
-    "updated_at": 1784402866
+    "updated_at": 1784406274
   },
   {
     "id": 1923,
@@ -42713,7 +42832,7 @@
       "Psychological",
       "Sci-Fi"
     ],
-    "updated_at": 1784402941
+    "updated_at": 1784406300
   },
   {
     "id": 1777,
@@ -44564,7 +44683,7 @@
       "Romance",
       "Sci-Fi"
     ],
-    "updated_at": 1784403854
+    "updated_at": 1784406300
   },
   {
     "id": 1141,
@@ -44781,7 +44900,7 @@
       "Drama",
       "Fantasy"
     ],
-    "updated_at": 1784403863
+    "updated_at": 1784406275
   },
   {
     "id": 1118,
@@ -44959,7 +45078,7 @@
       "Comedy",
       "Sci-Fi"
     ],
-    "updated_at": 1784403870
+    "updated_at": 1784406300
   },
   {
     "id": 1096,
@@ -45258,7 +45377,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784403903
+    "updated_at": 1784406270
   },
   {
     "id": 1032,
@@ -45317,7 +45436,7 @@
       "Drama",
       "Fantasy"
     ],
-    "updated_at": 1784403904
+    "updated_at": 1784406300
   },
   {
     "id": 1029,
@@ -46113,7 +46232,7 @@
       "Psychological",
       "Romance"
     ],
-    "updated_at": 1784386898
+    "updated_at": 1784406300
   },
   {
     "id": 869,
@@ -46812,7 +46931,7 @@
       "Drama",
       "Fantasy"
     ],
-    "updated_at": 1784386898
+    "updated_at": 1784406293
   },
   {
     "id": 585,
@@ -46931,7 +47050,7 @@
       "Romance",
       "Thriller"
     ],
-    "updated_at": 1784325887
+    "updated_at": 1784406282
   },
   {
     "id": 565,
@@ -47053,7 +47172,7 @@
       "Romance",
       "Sci-Fi"
     ],
-    "updated_at": 1784394193
+    "updated_at": 1784406300
   },
   {
     "id": 536,
@@ -47204,7 +47323,7 @@
       "Romance",
       "Sci-Fi"
     ],
-    "updated_at": 1784390608
+    "updated_at": 1784406271
   },
   {
     "id": 520,
@@ -47293,7 +47412,7 @@
       "Fantasy",
       "Sci-Fi"
     ],
-    "updated_at": 1784379737
+    "updated_at": 1784406272
   },
   {
     "id": 512,
@@ -47323,7 +47442,7 @@
       "Fantasy",
       "Slice of Life"
     ],
-    "updated_at": 1784318419
+    "updated_at": 1784406264
   },
   {
     "id": 504,
@@ -47411,7 +47530,7 @@
       "Drama",
       "Fantasy"
     ],
-    "updated_at": 1784325883
+    "updated_at": 1784406287
   },
   {
     "id": 493,
@@ -47892,7 +48011,7 @@
       "Drama",
       "Supernatural"
     ],
-    "updated_at": 1784316625
+    "updated_at": 1784406274
   },
   {
     "id": 441,
@@ -47953,7 +48072,7 @@
       "Psychological",
       "Thriller"
     ],
-    "updated_at": 1784316668
+    "updated_at": 1784406262
   },
   {
     "id": 433,
@@ -48130,7 +48249,7 @@
       "Drama",
       "Romance"
     ],
-    "updated_at": 1784386898
+    "updated_at": 1784406263
   },
   {
     "id": 415,
@@ -48815,7 +48934,7 @@
       "Psychological",
       "Sci-Fi"
     ],
-    "updated_at": 1784317472
+    "updated_at": 1784406273
   },
   {
     "id": 31,
@@ -48845,7 +48964,7 @@
       "Psychological",
       "Sci-Fi"
     ],
-    "updated_at": 1784376216
+    "updated_at": 1784406300
   },
   {
     "id": 5,

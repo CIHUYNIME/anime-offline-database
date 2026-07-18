@@ -468,7 +468,7 @@
     "status": "NOT_YET_RELEASED",
     "score": null,
     "genres": [],
-    "updated_at": 1784394193
+    "updated_at": 1784406300
   },
   {
     "id": 213873,
@@ -525,7 +525,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784390608
+    "updated_at": 1784406273
   },
   {
     "id": 213867,
@@ -611,7 +611,7 @@
       "Adventure",
       "Sci-Fi"
     ],
-    "updated_at": 1784397736
+    "updated_at": 1784406300
   },
   {
     "id": 213846,
@@ -1093,7 +1093,7 @@
     "genres": [
       "Sci-Fi"
     ],
-    "updated_at": 1784372518
+    "updated_at": 1784406300
   },
   {
     "id": 213628,
@@ -1354,7 +1354,7 @@
       "Sci-Fi",
       "Thriller"
     ],
-    "updated_at": 1784246843
+    "updated_at": 1784406266
   },
   {
     "id": 213422,
@@ -1470,7 +1470,7 @@
     "genres": [
       "Drama"
     ],
-    "updated_at": 1784372518
+    "updated_at": 1784406283
   },
   {
     "id": 213338,
@@ -1901,7 +1901,7 @@
       "Horror",
       "Mystery"
     ],
-    "updated_at": 1784361747
+    "updated_at": 1784406273
   },
   {
     "id": 212617,
@@ -2041,7 +2041,7 @@
       "Psychological",
       "Sci-Fi"
     ],
-    "updated_at": 1784397736
+    "updated_at": 1784406300
   },
   {
     "id": 212507,
@@ -2098,7 +2098,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784372518
+    "updated_at": 1784406282
   },
   {
     "id": 212391,
@@ -2128,7 +2128,7 @@
       "Romance",
       "Sci-Fi"
     ],
-    "updated_at": 1784297606
+    "updated_at": 1784406300
   },
   {
     "id": 212272,
@@ -2298,6 +2298,36 @@
     "score": null,
     "genres": [],
     "updated_at": 1784340948
+  },
+  {
+    "id": 211710,
+    "id_mal": 64105,
+    "url": "https://anilist.co/anime/211710",
+    "title": {
+      "english": "",
+      "romaji": "Go-toubun no Hanayome (Shinsaku OVA)",
+      "native": "五等分の花嫁 新作OVA"
+    },
+    "description": "This project brings to life—in animated form for the very first time—episodes from the original manga that were never featured in the previous anime series.<br><br>\n(Source: Official Website, translated)<br><br>\n<i>Note: Title and relations are provisional and subject to change.</i>",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx211710-Cmeq84reFr56.jpg",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "OVA",
+    "episodes": null,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance",
+      "Slice of Life"
+    ],
+    "updated_at": 1784406279
   },
   {
     "id": 211709,
@@ -2821,7 +2851,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784341006
+    "updated_at": 1784406300
   },
   {
     "id": 209963,
@@ -2950,7 +2980,7 @@
       "native": "真夜中ハートチューン 第2期"
     },
     "description": "The second season of <i>Mayonaka Heart Tune.</i>",
-    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx209762-nOmoRT4ZjGFt.jpg",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx209762-6tyVLvXakCJF.png",
     "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/209762-jLOKIXq1R5G8.jpg",
     "schedule": "Jadwal belum diketahui",
     "next_episode": null,
@@ -2966,7 +2996,7 @@
       "Comedy",
       "Romance"
     ],
-    "updated_at": 1784361747
+    "updated_at": 1784406283
   },
   {
     "id": 209670,
@@ -2995,7 +3025,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784383565
+    "updated_at": 1784406289
   },
   {
     "id": 209562,
@@ -3050,7 +3080,7 @@
       "Comedy",
       "Romance"
     ],
-    "updated_at": 1784383565
+    "updated_at": 1784406272
   },
   {
     "id": 209499,
@@ -3367,7 +3397,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784246840
+    "updated_at": 1784406283
   },
   {
     "id": 207692,
@@ -3397,7 +3427,7 @@
       "Romance",
       "Supernatural"
     ],
-    "updated_at": 1783948413
+    "updated_at": 1784406300
   },
   {
     "id": 207385,
@@ -3717,7 +3747,36 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784246839
+    "updated_at": 1784406300
+  },
+  {
+    "id": 206774,
+    "id_mal": 63381,
+    "url": "https://anilist.co/anime/206774",
+    "title": {
+      "english": "",
+      "romaji": "Mouse Cursor de Genjitsu wo Sousa Dekiru You ni Natta node, Onnanoko wo Ippai Click Shimasu",
+      "native": "マウスカーソルで現実を操作できるようになったので、女の子をいっぱいクリックしまーす"
+    },
+    "description": "What if you could actually use a mouse cursor in real life? Takumi, the nerdy outcast, harbors unrequited feelings for his first love, Mone, who treats him with disdain. During computer class, Takumi discovers that his mouse cursor extends beyond the screen and into the physical world...?! With this newfound power visible only to him, Takumi sees an opportunity for mischief. He uses the cursor to get revenge on Mone, clicking on sensitive areas and reveling in her reactions. But when an \"Intercourse\" button appears unexpectedly, Takumi is thrust into a reality he never imagined possible...\"Intercourse\"?! Could this really be...?!\n<br><br>\n(Source: Coolmic)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx206774-4VI5N6098HPr.png",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "TV",
+    "episodes": null,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Ecchi",
+      "Romance",
+      "Supernatural"
+    ],
+    "updated_at": 1784406300
   },
   {
     "id": 206401,
@@ -3942,7 +4001,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784329393
+    "updated_at": 1784406293
   },
   {
     "id": 205430,
@@ -4147,7 +4206,7 @@
       "Action",
       "Adventure"
     ],
-    "updated_at": 1784341006
+    "updated_at": 1784406300
   },
   {
     "id": 204650,
@@ -4236,7 +4295,7 @@
       "Mystery",
       "Sci-Fi"
     ],
-    "updated_at": 1784358109
+    "updated_at": 1784406300
   },
   {
     "id": 204584,
@@ -4266,7 +4325,7 @@
       "Mystery",
       "Sci-Fi"
     ],
-    "updated_at": 1784322117
+    "updated_at": 1784406300
   },
   {
     "id": 204579,
@@ -4295,7 +4354,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784376216
+    "updated_at": 1784406279
   },
   {
     "id": 204436,
@@ -4324,7 +4383,7 @@
       "Drama",
       "Fantasy"
     ],
-    "updated_at": 1784361747
+    "updated_at": 1784406267
   },
   {
     "id": 204431,
@@ -4582,7 +4641,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784358109
+    "updated_at": 1784406281
   },
   {
     "id": 203651,
@@ -4607,7 +4666,7 @@
     "status": "NOT_YET_RELEASED",
     "score": null,
     "genres": [],
-    "updated_at": 1784394193
+    "updated_at": 1784406300
   },
   {
     "id": 203473,
@@ -4726,6 +4785,34 @@
     "updated_at": 1784383565
   },
   {
+    "id": 203116,
+    "id_mal": null,
+    "url": "https://anilist.co/anime/203116",
+    "title": {
+      "english": "",
+      "romaji": "Charisma",
+      "native": "カリスマ"
+    },
+    "description": "The Charisma are riding the airwaves<br>\nand coming straight into your living room<br><br>\n\nIs this okay? Really okay?<br>\nYes. It’s absolutely okay<br><br>\n\n(Source: Official Twitter)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx203116-VTXVyj1BizOQ.png",
+    "banner_url": "",
+    "schedule": "Musim: WINTER 2027",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "WINTER",
+    "year": 2027,
+    "format": "TV",
+    "episodes": null,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Comedy",
+      "Music"
+    ],
+    "updated_at": 1784406275
+  },
+  {
     "id": 202906,
     "id_mal": 63016,
     "url": "https://anilist.co/anime/202906",
@@ -4807,7 +4894,7 @@
       "Ecchi",
       "Romance"
     ],
-    "updated_at": 1784386898
+    "updated_at": 1784406285
   },
   {
     "id": 202503,
@@ -4891,7 +4978,7 @@
       "Action",
       "Sports"
     ],
-    "updated_at": 1784322117
+    "updated_at": 1784406300
   },
   {
     "id": 202282,
@@ -5093,7 +5180,7 @@
       "Drama",
       "Mystery"
     ],
-    "updated_at": 1784361745
+    "updated_at": 1784406283
   },
   {
     "id": 200578,
@@ -5213,7 +5300,7 @@
       "Slice of Life",
       "Supernatural"
     ],
-    "updated_at": 1784329393
+    "updated_at": 1784406292
   },
   {
     "id": 199597,
@@ -5409,7 +5496,7 @@
       "Drama",
       "Sports"
     ],
-    "updated_at": 1784350913
+    "updated_at": 1784406257
   },
   {
     "id": 199357,
@@ -5467,7 +5554,7 @@
       "Action",
       "Fantasy"
     ],
-    "updated_at": 1784394193
+    "updated_at": 1784406257
   },
   {
     "id": 199342,
@@ -5585,7 +5672,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784386898
+    "updated_at": 1784406274
   },
   {
     "id": 199185,
@@ -5874,7 +5961,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784397736
+    "updated_at": 1784406298
   },
   {
     "id": 198663,
@@ -5960,7 +6047,7 @@
       "Drama",
       "Music"
     ],
-    "updated_at": 1784361747
+    "updated_at": 1784406260
   },
   {
     "id": 197095,
@@ -5990,7 +6077,7 @@
       "Drama",
       "Fantasy"
     ],
-    "updated_at": 1784372518
+    "updated_at": 1784406269
   },
   {
     "id": 197022,
@@ -6493,6 +6580,36 @@
     "updated_at": 1784246829
   },
   {
+    "id": 194456,
+    "id_mal": null,
+    "url": "https://anilist.co/anime/194456",
+    "title": {
+      "english": "",
+      "romaji": "Ninja Kamui Season 3",
+      "native": "Ninja Kamui Season 3"
+    },
+    "description": "Third season of <i>Ninja Kamui</i>.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/default.jpg",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "TV",
+    "episodes": null,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Sci-Fi"
+    ],
+    "updated_at": 1784406300
+  },
+  {
     "id": 194116,
     "id_mal": 64019,
     "url": "https://anilist.co/anime/194116",
@@ -6719,7 +6836,7 @@
     "genres": [
       "Sports"
     ],
-    "updated_at": 1784341006
+    "updated_at": 1784406284
   },
   {
     "id": 191656,
@@ -6952,7 +7069,7 @@
     "genres": [
       "Music"
     ],
-    "updated_at": 1784340957
+    "updated_at": 1784406259
   },
   {
     "id": 188892,
@@ -6980,7 +7097,7 @@
       "Comedy",
       "Romance"
     ],
-    "updated_at": 1784386898
+    "updated_at": 1784406274
   },
   {
     "id": 188889,
@@ -7094,7 +7211,7 @@
       "Ecchi",
       "Fantasy"
     ],
-    "updated_at": 1784361747
+    "updated_at": 1784406300
   },
   {
     "id": 187479,
@@ -7316,7 +7433,7 @@
     "status": "NOT_YET_RELEASED",
     "score": null,
     "genres": [],
-    "updated_at": 1784300508
+    "updated_at": 1784406290
   },
   {
     "id": 186742,
@@ -7461,7 +7578,7 @@
       "Action",
       "Adventure"
     ],
-    "updated_at": 1784386898
+    "updated_at": 1784406297
   },
   {
     "id": 185995,
@@ -7575,7 +7692,7 @@
       "Fantasy",
       "Slice of Life"
     ],
-    "updated_at": 1784286117
+    "updated_at": 1784406275
   },
   {
     "id": 185697,
@@ -7688,7 +7805,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784297606
+    "updated_at": 1784406284
   },
   {
     "id": 184376,
@@ -8009,7 +8126,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784390608
+    "updated_at": 1784406265
   },
   {
     "id": 180894,
@@ -8180,7 +8297,7 @@
       "Drama",
       "Sci-Fi"
     ],
-    "updated_at": 1784383565
+    "updated_at": 1784406300
   },
   {
     "id": 178467,
@@ -8210,7 +8327,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784358109
+    "updated_at": 1784406293
   },
   {
     "id": 178083,
@@ -9596,7 +9713,7 @@
       "Sci-Fi",
       "Supernatural"
     ],
-    "updated_at": 1784397736
+    "updated_at": 1784406274
   },
   {
     "id": 122572,
@@ -9798,6 +9915,34 @@
       "Sci-Fi"
     ],
     "updated_at": 1784286117
+  },
+  {
+    "id": 114720,
+    "id_mal": 41919,
+    "url": "https://anilist.co/anime/114720",
+    "title": {
+      "english": "",
+      "romaji": "Mo Duzhe",
+      "native": "默读者"
+    },
+    "description": "Childhood, upbringing, family background, social relations, traumatic experiences...<br><br>We keep reviewing and seeking out the motives of criminals, exploring the subtlest emotions driving them. It’s not to put ourselves in their shoes and sympathize, or even forgive them; it’s not to find some reasons to exculpate their crimes; it’s not to kneel down before the so-called \"complexity of human nature\"; nor to introspect social conflicts, much less to alienate ourselves into monsters.<br><br>We just want to have a fair trial – for ourselves and for those who still have hope for the world.\n",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx114720-QlE20q1EMniH.jpg",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "ONA",
+    "episodes": 12,
+    "duration": 20,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Drama",
+      "Mystery"
+    ],
+    "updated_at": 1784406275
   },
   {
     "id": 114441,
@@ -10228,7 +10373,7 @@
       "Drama",
       "Fantasy"
     ],
-    "updated_at": 1784394193
+    "updated_at": 1784406300
   },
   {
     "id": 100081,
@@ -10338,6 +10483,6 @@
       "Drama",
       "Sci-Fi"
     ],
-    "updated_at": 1784312307
+    "updated_at": 1784406287
   }
 ]
