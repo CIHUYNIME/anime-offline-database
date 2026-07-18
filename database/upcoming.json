@@ -84,34 +84,6 @@
     "updated_at": 1784386898
   },
   {
-    "id": 214068,
-    "id_mal": 63739,
-    "url": "https://anilist.co/anime/214068",
-    "title": {
-      "english": "Echo",
-      "romaji": "Moshi, Korekara Umarerunonara",
-      "native": "もし、これから生まれるのなら"
-    },
-    "description": "Among a primordial ocean of stars, two innocent, identical children share a vessel. It comes to ground on a strange, liminal world, where a mischievous spirit appears, announcing itself as their guide on the nine-month journey ahead of them. Here in the world we know, meanwhile, a bereaved and pregnant woman struggles with grief and terrible uncertainty.<br><br>\n(Source: Fantasia Festival)<br><br>\n<i>Note: Originally released on March 6, 2026 as a part of \"Gemnibus Vol. 2\" anthology, however was also simultaneously selected to screen, and then later premiered at Fantasia International Film Festival.</i>",
-    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx214068-th35W8qQmycd.png",
-    "banner_url": "",
-    "schedule": "Episode 1 tayang pada 19/7/2026, 02.00.00 WIB",
-    "next_episode": 1,
-    "next_airing_timestamp": 1784401200,
-    "season": "SUMMER",
-    "year": 2026,
-    "format": "MOVIE",
-    "episodes": 1,
-    "duration": 20,
-    "status": "NOT_YET_RELEASED",
-    "score": null,
-    "genres": [
-      "Drama",
-      "Fantasy"
-    ],
-    "updated_at": 1784368905
-  },
-  {
     "id": 214067,
     "id_mal": null,
     "url": "https://anilist.co/anime/214067",
@@ -167,7 +139,7 @@
       "Adventure",
       "Sci-Fi"
     ],
-    "updated_at": 1784394193
+    "updated_at": 1784408567
   },
   {
     "id": 214049,
@@ -223,7 +195,7 @@
       "Comedy",
       "Romance"
     ],
-    "updated_at": 1784372518
+    "updated_at": 1784408567
   },
   {
     "id": 214018,
@@ -496,7 +468,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784372518
+    "updated_at": 1784408547
   },
   {
     "id": 213872,
@@ -870,7 +842,7 @@
       "Fantasy",
       "Psychological"
     ],
-    "updated_at": 1783945880
+    "updated_at": 1784408564
   },
   {
     "id": 213733,
@@ -1093,7 +1065,7 @@
     "genres": [
       "Sci-Fi"
     ],
-    "updated_at": 1784406300
+    "updated_at": 1784408537
   },
   {
     "id": 213628,
@@ -1178,7 +1150,7 @@
       "Comedy",
       "Romance"
     ],
-    "updated_at": 1784383565
+    "updated_at": 1784408567
   },
   {
     "id": 213580,
@@ -1382,7 +1354,7 @@
       "Comedy",
       "Romance"
     ],
-    "updated_at": 1784386898
+    "updated_at": 1784408542
   },
   {
     "id": 213396,
@@ -1499,7 +1471,7 @@
       "Comedy",
       "Drama"
     ],
-    "updated_at": 1784383565
+    "updated_at": 1784408546
   },
   {
     "id": 213316,
@@ -1532,7 +1504,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784361747
+    "updated_at": 1784408541
   },
   {
     "id": 213131,
@@ -1700,7 +1672,7 @@
       "Drama",
       "Romance"
     ],
-    "updated_at": 1784386898
+    "updated_at": 1784408565
   },
   {
     "id": 213020,
@@ -1755,7 +1727,7 @@
       "Sci-Fi",
       "Supernatural"
     ],
-    "updated_at": 1784329393
+    "updated_at": 1784408565
   },
   {
     "id": 212888,
@@ -1814,7 +1786,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784325887
+    "updated_at": 1784408544
   },
   {
     "id": 212667,
@@ -2214,7 +2186,7 @@
       "Drama",
       "Slice of Life"
     ],
-    "updated_at": 1784394193
+    "updated_at": 1784408567
   },
   {
     "id": 211877,
@@ -2243,7 +2215,7 @@
       "Ecchi",
       "Romance"
     ],
-    "updated_at": 1784361747
+    "updated_at": 1784408540
   },
   {
     "id": 211778,
@@ -2272,7 +2244,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784322117
+    "updated_at": 1784408558
   },
   {
     "id": 211711,
@@ -2502,7 +2474,7 @@
       "Fantasy",
       "Mahou Shoujo"
     ],
-    "updated_at": 1784376216
+    "updated_at": 1784408537
   },
   {
     "id": 211304,
@@ -2643,7 +2615,7 @@
       "Action",
       "Fantasy"
     ],
-    "updated_at": 1784376216
+    "updated_at": 1784408538
   },
   {
     "id": 210483,
@@ -2880,7 +2852,7 @@
       "Drama",
       "Fantasy"
     ],
-    "updated_at": 1784386898
+    "updated_at": 1784408567
   },
   {
     "id": 209939,
@@ -3052,7 +3024,7 @@
     "genres": [
       "Mecha"
     ],
-    "updated_at": 1784340997
+    "updated_at": 1784408544
   },
   {
     "id": 209502,
@@ -3257,7 +3229,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784390608
+    "updated_at": 1784408543
   },
   {
     "id": 209032,
@@ -3661,7 +3633,7 @@
       "Supernatural",
       "Thriller"
     ],
-    "updated_at": 1784372518
+    "updated_at": 1784408538
   },
   {
     "id": 206814,
@@ -3689,7 +3661,7 @@
       "Action",
       "Adventure"
     ],
-    "updated_at": 1784340968
+    "updated_at": 1784408546
   },
   {
     "id": 206812,
@@ -3972,7 +3944,7 @@
       "Fantasy",
       "Slice of Life"
     ],
-    "updated_at": 1784376216
+    "updated_at": 1784408539
   },
   {
     "id": 205432,
@@ -4061,6 +4033,35 @@
       "Fantasy"
     ],
     "updated_at": 1784383565
+  },
+  {
+    "id": 205130,
+    "id_mal": 63215,
+    "url": "https://anilist.co/anime/205130",
+    "title": {
+      "english": "",
+      "romaji": "Historié",
+      "native": "ヒストリエ"
+    },
+    "description": "After shocking the world with Parasyte, Hitoshi Iwaaki is back with a series he's been aching to tackle since even before his pro manga debut! A historical epic set in ancient times, Historie tells the story of Eumenes, a young man with quick wits and a vast destiny to fulfill. In time, he'll become a famed army commander and personal secretary to Alexander the Great—but the road to this glory is fraught with danger… \"<br><br>(Source: K Manga)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx205130-dC5WuIvGMMgr.png",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/205130-BDtd2yGv1a7O.jpg",
+    "schedule": "Musim: WINTER 2027",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "WINTER",
+    "year": 2027,
+    "format": "TV",
+    "episodes": null,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Psychological"
+    ],
+    "updated_at": 1784408567
   },
   {
     "id": 205081,
@@ -4410,7 +4411,7 @@
     "genres": [
       "Slice of Life"
     ],
-    "updated_at": 1784325887
+    "updated_at": 1784408567
   },
   {
     "id": 204429,
@@ -4440,7 +4441,7 @@
       "Horror",
       "Supernatural"
     ],
-    "updated_at": 1784318498
+    "updated_at": 1784408567
   },
   {
     "id": 204389,
@@ -4724,7 +4725,7 @@
       "Sci-Fi",
       "Supernatural"
     ],
-    "updated_at": 1784246836
+    "updated_at": 1784408567
   },
   {
     "id": 203275,
@@ -5268,7 +5269,7 @@
       "Comedy",
       "Slice of Life"
     ],
-    "updated_at": 1784397736
+    "updated_at": 1784408543
   },
   {
     "id": 199793,
@@ -5467,7 +5468,7 @@
       "Action",
       "Drama"
     ],
-    "updated_at": 1784361747
+    "updated_at": 1784408543
   },
   {
     "id": 199404,
@@ -5554,7 +5555,7 @@
       "Action",
       "Fantasy"
     ],
-    "updated_at": 1784406257
+    "updated_at": 1784408562
   },
   {
     "id": 199342,
@@ -5585,7 +5586,7 @@
       "Supernatural",
       "Thriller"
     ],
-    "updated_at": 1784318468
+    "updated_at": 1784408567
   },
   {
     "id": 199340,
@@ -5762,7 +5763,7 @@
       "Mystery",
       "Supernatural"
     ],
-    "updated_at": 1784397736
+    "updated_at": 1784408543
   },
   {
     "id": 199006,
@@ -5789,7 +5790,7 @@
     "genres": [
       "Fantasy"
     ],
-    "updated_at": 1784386898
+    "updated_at": 1784408558
   },
   {
     "id": 198966,
@@ -5876,7 +5877,7 @@
       "Comedy",
       "Romance"
     ],
-    "updated_at": 1784368905
+    "updated_at": 1784408567
   },
   {
     "id": 198705,
@@ -5992,6 +5993,33 @@
     "updated_at": 1784246832
   },
   {
+    "id": 198654,
+    "id_mal": 63903,
+    "url": "https://anilist.co/anime/198654",
+    "title": {
+      "english": "",
+      "romaji": "Meitantei Precure! Fushigi na Niwa to Futari no Himitsu",
+      "native": "名探偵プリキュア！不思議な庭と2人の秘密"
+    },
+    "description": "Movie of <i>Meitantei Precure!</i>.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx198654-LUBJZNNefs7J.jpg",
+    "banner_url": "",
+    "schedule": "Episode 1 tayang pada 17/9/2026, 22.00.00 WIB",
+    "next_episode": 1,
+    "next_airing_timestamp": 1789657200,
+    "season": "FALL",
+    "year": 2026,
+    "format": "MOVIE",
+    "episodes": null,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Mahou Shoujo"
+    ],
+    "updated_at": 1784408547
+  },
+  {
     "id": 197620,
     "id_mal": 62312,
     "url": "https://anilist.co/anime/197620",
@@ -6020,6 +6048,35 @@
       "Supernatural"
     ],
     "updated_at": 1784361732
+  },
+  {
+    "id": 197619,
+    "id_mal": 62311,
+    "url": "https://anilist.co/anime/197619",
+    "title": {
+      "english": "",
+      "romaji": "Kekkaishi no Ichirinka",
+      "native": "結界師の一輪華"
+    },
+    "description": "Hana Ichise is from a branch family to one of five barrier-weaving magical clans who protect and support Japan. But in the eyes of her mother and father, she’s an afterthought compared to her talented older twin sister. When Hana’s true potential awakens at age fifteen, she decides to keep her newfound abilities a secret—including from her parents—so she can have a quiet life. But the powerful new head of the elite Ichinomiya clan, Saku Ichinomiya, is looking for a bride…and he has his eyes on Hana!\n<br><br>\n(Source: Yen Press)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx197619-O2aYsJGAy6a6.png",
+    "banner_url": "",
+    "schedule": "Musim: WINTER 2027",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "WINTER",
+    "year": 2027,
+    "format": "TV",
+    "episodes": null,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Drama",
+      "Fantasy",
+      "Romance"
+    ],
+    "updated_at": 1784408567
   },
   {
     "id": 197543,
@@ -6430,7 +6487,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784340992
+    "updated_at": 1784408546
   },
   {
     "id": 195350,
@@ -6636,7 +6693,7 @@
       "Music",
       "Slice of Life"
     ],
-    "updated_at": 1784361747
+    "updated_at": 1784408567
   },
   {
     "id": 194030,
@@ -6723,7 +6780,7 @@
       "Drama",
       "Fantasy"
     ],
-    "updated_at": 1784368905
+    "updated_at": 1784408567
   },
   {
     "id": 193676,
@@ -7211,7 +7268,7 @@
       "Ecchi",
       "Fantasy"
     ],
-    "updated_at": 1784406300
+    "updated_at": 1784408543
   },
   {
     "id": 187479,
@@ -7295,7 +7352,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784379737
+    "updated_at": 1784408567
   },
   {
     "id": 187361,
@@ -7521,7 +7578,7 @@
       "Music",
       "Slice of Life"
     ],
-    "updated_at": 1784372518
+    "updated_at": 1784408567
   },
   {
     "id": 186057,
@@ -7550,7 +7607,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784246815
+    "updated_at": 1784408556
   },
   {
     "id": 186007,
@@ -7892,7 +7949,7 @@
       "Comedy",
       "Sports"
     ],
-    "updated_at": 1784394193
+    "updated_at": 1784408567
   },
   {
     "id": 184072,
@@ -8068,7 +8125,7 @@
       "Mahou Shoujo",
       "Slice of Life"
     ],
-    "updated_at": 1784397736
+    "updated_at": 1784408541
   },
   {
     "id": 181951,
@@ -8902,7 +8959,7 @@
       "Action",
       "Sci-Fi"
     ],
-    "updated_at": 1784394193
+    "updated_at": 1784408567
   },
   {
     "id": 166457,
@@ -8986,7 +9043,7 @@
     "genres": [
       "Sci-Fi"
     ],
-    "updated_at": 1784394193
+    "updated_at": 1784408564
   },
   {
     "id": 165523,
@@ -9214,7 +9271,7 @@
       "Mahou Shoujo",
       "Thriller"
     ],
-    "updated_at": 1784397736
+    "updated_at": 1784408542
   },
   {
     "id": 160275,
@@ -9451,6 +9508,35 @@
     "updated_at": 1784372518
   },
   {
+    "id": 153461,
+    "id_mal": null,
+    "url": "https://anilist.co/anime/153461",
+    "title": {
+      "english": "",
+      "romaji": "Wuxia Shitu Yu Shier Zhan Ji",
+      "native": "无限使徒与十二战姬"
+    },
+    "description": "He is recognized as the strongest existence, standing at the top of the world. Wealth? fame? Power? It was not worth mentioning in his eyes. The strongest apostles fled and startled the human continent for the reason: “Don’t get me wrong! Lao Zi came to look for his future wife! ”Yes, it’s a story about the strongest single apostle ever looking for a wife.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx153461-s9Nx4l19NfoL.png",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "ONA",
+    "episodes": null,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Action",
+      "Fantasy",
+      "Romance"
+    ],
+    "updated_at": 1784408567
+  },
+  {
     "id": 152677,
     "id_mal": 52480,
     "url": "https://anilist.co/anime/152677",
@@ -9650,7 +9736,7 @@
     "genres": [
       "Mahou Shoujo"
     ],
-    "updated_at": 1784318431
+    "updated_at": 1784408539
   },
   {
     "id": 127912,
