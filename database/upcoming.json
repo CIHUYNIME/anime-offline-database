@@ -25,7 +25,7 @@
       "Action",
       "Comedy"
     ],
-    "updated_at": 1784289648
+    "updated_at": 1784358109
   },
   {
     "id": 214075,
@@ -281,6 +281,34 @@
     "updated_at": 1784268121
   },
   {
+    "id": 213952,
+    "id_mal": 64573,
+    "url": "https://anilist.co/anime/213952",
+    "title": {
+      "english": "",
+      "romaji": "Watashi wo Center ni Suru to Chikaimasuka?",
+      "native": "私をセンターにすると誓いますか？"
+    },
+    "description": "\"If you can really make me the Center...then we can get married.\"\n<br><br>\nMeet Mizuki Natsuno, the least popular member of the nationally acclaimed idol group, Melty Strawberry. She has an eternal fan in Koichi Okuta, who is always pouring heart and soul into supporting her. Normally, a fan would never get to interact with their idol beyond the stage. But one thing led to another, and Koichi now finds himself living together with Mizuki in his own house. He vows to make her the new Center of Melty Strawberry, sparking an unconventional tag-team between a devoted fan and his idol. Together, they attempt to elevate Mizuki's career from obscurity to stardom! \n<br><br>\n(Source: K MANGA)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx213952-1DegwC5aES0U.jpg",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "TV",
+    "episodes": null,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "updated_at": 1784358101
+  },
+  {
     "id": 213929,
     "id_mal": null,
     "url": "https://anilist.co/anime/213929",
@@ -440,7 +468,7 @@
     "status": "NOT_YET_RELEASED",
     "score": null,
     "genres": [],
-    "updated_at": 1784304124
+    "updated_at": 1784358109
   },
   {
     "id": 213873,
@@ -982,6 +1010,35 @@
     "updated_at": 1784268121
   },
   {
+    "id": 213657,
+    "id_mal": 64503,
+    "url": "https://anilist.co/anime/213657",
+    "title": {
+      "english": "Mission: Yozakura Family Season 2 Part 2",
+      "romaji": "Yozakura-san Chi no Daisakusen 2nd Season Part 2",
+      "native": "夜桜さんちの大作戦 第2期 第2クール"
+    },
+    "description": "The second cour of the second season of <i>Yozakura-san Chi no Daisakusen</i>.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx213657-810vFC6SN7xd.png",
+    "banner_url": "",
+    "schedule": "Musim: FALL 2026",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "FALL",
+    "year": 2026,
+    "format": "TV",
+    "episodes": null,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Romance"
+    ],
+    "updated_at": 1784358109
+  },
+  {
     "id": 213656,
     "id_mal": 64500,
     "url": "https://anilist.co/anime/213656",
@@ -1121,7 +1178,7 @@
       "Comedy",
       "Romance"
     ],
-    "updated_at": 1784350916
+    "updated_at": 1784358109
   },
   {
     "id": 213580,
@@ -1151,7 +1208,7 @@
       "Fantasy",
       "Supernatural"
     ],
-    "updated_at": 1784329393
+    "updated_at": 1784358109
   },
   {
     "id": 213579,
@@ -2503,7 +2560,7 @@
       "Mystery",
       "Supernatural"
     ],
-    "updated_at": 1784340963
+    "updated_at": 1784358109
   },
   {
     "id": 210309,
@@ -2562,7 +2619,7 @@
       "Romance",
       "Thriller"
     ],
-    "updated_at": 1784350916
+    "updated_at": 1784358109
   },
   {
     "id": 210157,
@@ -2621,7 +2678,7 @@
       "Mystery",
       "Supernatural"
     ],
-    "updated_at": 1784318498
+    "updated_at": 1784358109
   },
   {
     "id": 209980,
@@ -2738,7 +2795,7 @@
       "Drama",
       "Supernatural"
     ],
-    "updated_at": 1784322115
+    "updated_at": 1784358109
   },
   {
     "id": 209827,
@@ -2880,7 +2937,7 @@
       "Comedy",
       "Romance"
     ],
-    "updated_at": 1784341006
+    "updated_at": 1784358106
   },
   {
     "id": 209499,
@@ -3402,7 +3459,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784304124
+    "updated_at": 1784358103
   },
   {
     "id": 206949,
@@ -3461,7 +3518,7 @@
       "Supernatural",
       "Thriller"
     ],
-    "updated_at": 1784340966
+    "updated_at": 1784358109
   },
   {
     "id": 206814,
@@ -3656,7 +3713,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784350912
+    "updated_at": 1784358109
   },
   {
     "id": 205619,
@@ -3772,7 +3829,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784246837
+    "updated_at": 1784358109
   },
   {
     "id": 205375,
@@ -3920,7 +3977,7 @@
       "Slice of Life",
       "Supernatural"
     ],
-    "updated_at": 1784341001
+    "updated_at": 1784358109
   },
   {
     "id": 204688,
@@ -4037,7 +4094,7 @@
       "Mystery",
       "Sci-Fi"
     ],
-    "updated_at": 1784322117
+    "updated_at": 1784358109
   },
   {
     "id": 204584,
@@ -4211,7 +4268,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784325887
+    "updated_at": 1784358109
   },
   {
     "id": 204363,
@@ -4239,7 +4296,7 @@
       "Action",
       "Comedy"
     ],
-    "updated_at": 1784350916
+    "updated_at": 1784358109
   },
   {
     "id": 204362,
@@ -4383,7 +4440,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784350916
+    "updated_at": 1784358109
   },
   {
     "id": 203651,
@@ -4954,7 +5011,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784329393
+    "updated_at": 1784358109
   },
   {
     "id": 200294,
@@ -5072,6 +5129,63 @@
       "Slice of Life"
     ],
     "updated_at": 1784246835
+  },
+  {
+    "id": 199590,
+    "id_mal": 62605,
+    "url": "https://anilist.co/anime/199590",
+    "title": {
+      "english": "",
+      "romaji": "Matsurika Kanriden",
+      "native": "茉莉花官吏伝"
+    },
+    "description": "Matsurika, a female officer in the Inner Palace, had a little special skill, and that was \"a better memory\" than others. One day, she accepted a request to become a practice partner for a marriage meeting of a certain son of a distinguished family. However, the one who appeared was the Emperor, Hakuyou, who wanted to try having a marriage meeting?! And interested in Matsurika's special skill, Hakuyou even said, \"For now, go and pass the civil exam\"...?!\n<br><br>\nA Chinese-style Cinderella story between an emperor and a girl!\n<br><br>\n(Source: Kadokawa, translated)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199590-gMBbisGLCZxa.png",
+    "banner_url": "",
+    "schedule": "Musim: WINTER 2027",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "WINTER",
+    "year": 2027,
+    "format": "TV",
+    "episodes": null,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Drama",
+      "Fantasy",
+      "Romance"
+    ],
+    "updated_at": 1784358104
+  },
+  {
+    "id": 199449,
+    "id_mal": 60566,
+    "url": "https://anilist.co/anime/199449",
+    "title": {
+      "english": "",
+      "romaji": "Nan Hong",
+      "native": "难哄"
+    },
+    "description": "When Wen Yifan returned to her hometown for work, she unexpectedly ran into the rumored \"First-Class Handsome Guy\" at a bar. However, she soon discovered that he was Sang Yan, someone she had hurt and rejected in high school. In a twist of fate, these two individuals who could never get along found themselves constantly crossing paths. They even ended up renting the same unit by chance and becoming housemates. With unspoken feelings buried deep within, strong emotions begin to stir...<br><br>\n\nLet's see how Sang Yan, the \"Peak Ideal Boyfriend,\" interprets and expresses his profound affection and sweet love!<br><br>\n\n(Source: INKR)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b199449-0AXlHs4CZFDc.jpg",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "ONA",
+    "episodes": null,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Romance",
+      "Slice of Life"
+    ],
+    "updated_at": 1784358109
   },
   {
     "id": 199431,
@@ -5244,7 +5358,7 @@
       "Romance",
       "Supernatural"
     ],
-    "updated_at": 1784318454
+    "updated_at": 1784358109
   },
   {
     "id": 199337,
@@ -5474,7 +5588,7 @@
       "Comedy",
       "Romance"
     ],
-    "updated_at": 1784340981
+    "updated_at": 1784358109
   },
   {
     "id": 198696,
@@ -5942,7 +6056,7 @@
       "Mystery",
       "Supernatural"
     ],
-    "updated_at": 1784325887
+    "updated_at": 1784358109
   },
   {
     "id": 195436,
@@ -6320,7 +6434,7 @@
       "Supernatural",
       "Thriller"
     ],
-    "updated_at": 1784318439
+    "updated_at": 1784358109
   },
   {
     "id": 191788,
@@ -6947,7 +7061,7 @@
       "Action",
       "Sci-Fi"
     ],
-    "updated_at": 1784289619
+    "updated_at": 1784358109
   },
   {
     "id": 186741,
@@ -7523,7 +7637,7 @@
       "Mahou Shoujo",
       "Slice of Life"
     ],
-    "updated_at": 1784325887
+    "updated_at": 1784358109
   },
   {
     "id": 181951,
@@ -7723,7 +7837,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784340966
+    "updated_at": 1784358109
   },
   {
     "id": 178467,
@@ -7753,7 +7867,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784340976
+    "updated_at": 1784358109
   },
   {
     "id": 178083,
@@ -9658,7 +9772,7 @@
     "status": "NOT_YET_RELEASED",
     "score": null,
     "genres": [],
-    "updated_at": 1784350916
+    "updated_at": 1784358109
   },
   {
     "id": 6504,

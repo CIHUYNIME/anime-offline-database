@@ -712,7 +712,7 @@
     "genres": [
       "Romance"
     ],
-    "updated_at": 1784318479
+    "updated_at": 1784358101
   },
   {
     "id": 206611,
@@ -948,7 +948,7 @@
       "Mystery",
       "Sci-Fi"
     ],
-    "updated_at": 1784322117
+    "updated_at": 1784358109
   },
   {
     "id": 204584,
@@ -1205,7 +1205,7 @@
       "Romance",
       "Supernatural"
     ],
-    "updated_at": 1784318454
+    "updated_at": 1784358109
   },
   {
     "id": 199150,
@@ -1298,7 +1298,7 @@
       "Slice of Life",
       "Supernatural"
     ],
-    "updated_at": 1784318437
+    "updated_at": 1784358103
   },
   {
     "id": 197543,
@@ -1527,7 +1527,7 @@
       "Music",
       "Slice of Life"
     ],
-    "updated_at": 1784329393
+    "updated_at": 1784358109
   },
   {
     "id": 194116,
@@ -2396,7 +2396,7 @@
       "Drama",
       "Music"
     ],
-    "updated_at": 1784253684
+    "updated_at": 1784358109
   },
   {
     "id": 179874,
@@ -3260,7 +3260,7 @@
       "Music",
       "Slice of Life"
     ],
-    "updated_at": 1784242996
+    "updated_at": 1784358109
   },
   {
     "id": 171026,
@@ -3291,6 +3291,34 @@
       "Supernatural"
     ],
     "updated_at": 1784289674
+  },
+  {
+    "id": 170060,
+    "id_mal": null,
+    "url": "https://anilist.co/anime/170060",
+    "title": {
+      "english": "",
+      "romaji": "Seigi no Runner",
+      "native": "正義のランナー"
+    },
+    "description": "Tomioka does not fail to deliver in his wild and unique take on the world. His multi-coloured animation talents take us on a whirlwind trip of old school trams with weird and wonderful characters.\n<br><br>\n(Source: 25FPS Festival)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b170060-5n0sLwmF8JBz.jpg",
+    "banner_url": "",
+    "schedule": "Musim: SPRING 2002",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "SPRING",
+    "year": 2002,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 4,
+    "status": "FINISHED",
+    "score": null,
+    "genres": [
+      "Comedy",
+      "Sci-Fi"
+    ],
+    "updated_at": 1784358109
   },
   {
     "id": 169766,
@@ -5096,7 +5124,7 @@
       "Sci-Fi",
       "Slice of Life"
     ],
-    "updated_at": 1784325887
+    "updated_at": 1784358109
   },
   {
     "id": 145442,
@@ -5270,7 +5298,7 @@
       "Romance",
       "Sci-Fi"
     ],
-    "updated_at": 1784325887
+    "updated_at": 1784358109
   },
   {
     "id": 142629,
@@ -5381,7 +5409,7 @@
       "Music",
       "Slice of Life"
     ],
-    "updated_at": 1784304124
+    "updated_at": 1784358109
   },
   {
     "id": 141902,
@@ -5472,7 +5500,7 @@
       "Music",
       "Supernatural"
     ],
-    "updated_at": 1784340978
+    "updated_at": 1784358102
   },
   {
     "id": 140113,
@@ -5646,7 +5674,7 @@
       "Mecha",
       "Sci-Fi"
     ],
-    "updated_at": 1784350914
+    "updated_at": 1784358109
   },
   {
     "id": 138425,
@@ -5938,7 +5966,7 @@
       "Fantasy",
       "Sci-Fi"
     ],
-    "updated_at": 1784325887
+    "updated_at": 1784358109
   },
   {
     "id": 133845,
@@ -6285,7 +6313,7 @@
       "Fantasy",
       "Slice of Life"
     ],
-    "updated_at": 1783944122
+    "updated_at": 1784358109
   },
   {
     "id": 130190,
@@ -6573,7 +6601,7 @@
       "Mystery",
       "Sci-Fi"
     ],
-    "updated_at": 1784341000
+    "updated_at": 1784358109
   },
   {
     "id": 127227,
@@ -7676,7 +7704,7 @@
     "genres": [
       "Action"
     ],
-    "updated_at": 1784287751
+    "updated_at": 1784358109
   },
   {
     "id": 119836,
@@ -9242,7 +9270,7 @@
     "genres": [
       "Romance"
     ],
-    "updated_at": 1784300508
+    "updated_at": 1784358109
   },
   {
     "id": 112792,
@@ -10080,7 +10108,7 @@
       "Adventure",
       "Mystery"
     ],
-    "updated_at": 1784329393
+    "updated_at": 1784358109
   },
   {
     "id": 110381,
@@ -10747,7 +10775,7 @@
       "Drama",
       "Romance"
     ],
-    "updated_at": 1784291112
+    "updated_at": 1784358109
   },
   {
     "id": 109125,
@@ -11025,7 +11053,7 @@
       "Slice of Life",
       "Supernatural"
     ],
-    "updated_at": 1784340994
+    "updated_at": 1784358109
   },
   {
     "id": 108553,
@@ -11397,7 +11425,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784340957
+    "updated_at": 1784358109
   },
   {
     "id": 107623,
@@ -12226,7 +12254,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784300508
+    "updated_at": 1784358109
   },
   {
     "id": 104990,
@@ -12256,7 +12284,7 @@
       "Sci-Fi",
       "Thriller"
     ],
-    "updated_at": 1784350916
+    "updated_at": 1784358109
   },
   {
     "id": 104867,
@@ -12967,7 +12995,7 @@
       "Comedy",
       "Slice of Life"
     ],
-    "updated_at": 1783947331
+    "updated_at": 1784358109
   },
   {
     "id": 104215,
@@ -15511,7 +15539,7 @@
       "Sci-Fi",
       "Thriller"
     ],
-    "updated_at": 1784350916
+    "updated_at": 1784358102
   },
   {
     "id": 101812,
@@ -15542,7 +15570,7 @@
       "Sci-Fi",
       "Thriller"
     ],
-    "updated_at": 1784318490
+    "updated_at": 1784358102
   },
   {
     "id": 101811,
@@ -16120,7 +16148,7 @@
       "Sci-Fi",
       "Slice of Life"
     ],
-    "updated_at": 1784268121
+    "updated_at": 1784358109
   },
   {
     "id": 101231,
@@ -17133,7 +17161,7 @@
       "Comedy",
       "Drama"
     ],
-    "updated_at": 1784297606
+    "updated_at": 1784358109
   },
   {
     "id": 99750,
@@ -17252,7 +17280,7 @@
       "Mahou Shoujo",
       "Sci-Fi"
     ],
-    "updated_at": 1784340999
+    "updated_at": 1784358109
   },
   {
     "id": 99547,
@@ -17367,7 +17395,7 @@
       "Mecha",
       "Sci-Fi"
     ],
-    "updated_at": 1784333055
+    "updated_at": 1784358109
   },
   {
     "id": 99208,
@@ -17651,6 +17679,37 @@
     "updated_at": 1783948388
   },
   {
+    "id": 98663,
+    "id_mal": 33520,
+    "url": "https://anilist.co/anime/98663",
+    "title": {
+      "english": "Kabaneri of the Iron Fortress: Life That Burns",
+      "romaji": "Koutetsujou no Kabaneri Soushuuhen Kouhen: Moeru Inochi",
+      "native": "甲鉄城のカバネリ 総集編｛後編｝燃える命"
+    },
+    "description": "When mankind is threatened by a sudden emergence of undead monsters, those who are bitten become \"Kabane\" - one of them. To survive under the rise of Kabanes, the Hinomoto people have built fortress stations and barricaded themselves inside. Kabaneri of the Iron Fortress is the story of those who travel beyond these fortresses.<br><br>\n\nThe movie is a compilation re-telling of the hit TV series Kabaneri of the Iron Fortress, told over two parts: Part 1: Light That Gathers & Part 2: Life That Burns. See special content, new additional scenes that appear only in the film, and a remastering of the ending - different from the original TV series!<br><br>\n\n(Source: Crunchyroll, edited)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/98663-XstxoaIgHhiU.jpg",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/98663-IYUqvNQmUX0u.jpg",
+    "schedule": "Musim: WINTER 2017",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "WINTER",
+    "year": 2017,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 104,
+    "status": "FINISHED",
+    "score": 73,
+    "genres": [
+      "Action",
+      "Drama",
+      "Fantasy",
+      "Horror",
+      "Supernatural"
+    ],
+    "updated_at": 1784358109
+  },
+  {
     "id": 98662,
     "id_mal": 33519,
     "url": "https://anilist.co/anime/98662",
@@ -17855,7 +17914,7 @@
       "Mystery",
       "Supernatural"
     ],
-    "updated_at": 1784333044
+    "updated_at": 1784358109
   },
   {
     "id": 98332,
@@ -18055,7 +18114,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784340995
+    "updated_at": 1784358109
   },
   {
     "id": 97918,
@@ -18435,7 +18494,7 @@
       "Mecha",
       "Sci-Fi"
     ],
-    "updated_at": 1784333035
+    "updated_at": 1784358109
   },
   {
     "id": 21875,
@@ -20147,7 +20206,7 @@
       "Slice of Life",
       "Supernatural"
     ],
-    "updated_at": 1784305054
+    "updated_at": 1784358109
   },
   {
     "id": 20990,
@@ -20703,7 +20762,7 @@
       "Psychological",
       "Supernatural"
     ],
-    "updated_at": 1784333004
+    "updated_at": 1784358109
   },
   {
     "id": 20786,
@@ -20733,7 +20792,7 @@
       "Mecha",
       "Sci-Fi"
     ],
-    "updated_at": 1784306312
+    "updated_at": 1784358109
   },
   {
     "id": 20778,
@@ -20850,7 +20909,7 @@
       "Drama",
       "Sci-Fi"
     ],
-    "updated_at": 1784306460
+    "updated_at": 1784358109
   },
   {
     "id": 20763,
@@ -21379,7 +21438,7 @@
       "Action",
       "Sci-Fi"
     ],
-    "updated_at": 1784350916
+    "updated_at": 1784358109
   },
   {
     "id": 20512,
@@ -21746,7 +21805,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784307850
+    "updated_at": 1784358109
   },
   {
     "id": 19195,
@@ -23879,7 +23938,7 @@
       "Psychological",
       "Thriller"
     ],
-    "updated_at": 1784332959
+    "updated_at": 1784358109
   },
   {
     "id": 14349,
@@ -23907,7 +23966,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784340985
+    "updated_at": 1784358104
   },
   {
     "id": 14293,
@@ -24023,7 +24082,7 @@
       "Drama",
       "Slice of Life"
     ],
-    "updated_at": 1784309633
+    "updated_at": 1784358104
   },
   {
     "id": 13971,
@@ -24105,7 +24164,7 @@
       "Action",
       "Adventure"
     ],
-    "updated_at": 1784318408
+    "updated_at": 1784358109
   },
   {
     "id": 13391,
@@ -25297,7 +25356,7 @@
       "Fantasy",
       "Mystery"
     ],
-    "updated_at": 1784350914
+    "updated_at": 1784358105
   },
   {
     "id": 10904,
@@ -26019,7 +26078,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784350916
+    "updated_at": 1784358109
   },
   {
     "id": 9751,
@@ -26077,7 +26136,7 @@
       "Music",
       "Slice of Life"
     ],
-    "updated_at": 1784322117
+    "updated_at": 1784358109
   },
   {
     "id": 9549,
@@ -28722,6 +28781,34 @@
     "updated_at": 1784332902
   },
   {
+    "id": 7336,
+    "id_mal": 7336,
+    "url": "https://anilist.co/anime/7336",
+    "title": {
+      "english": "Cyborg 009: Legend of the Super Galaxy",
+      "romaji": "Cyborg 009: Chou Ginga Densetsu",
+      "native": "サイボーグ００９・超銀河伝説"
+    },
+    "description": "The cyborgs are no longer on duty, they live normal lives until a mysterious space ship lands on earth. The only survivor on the ship warns about an evil conqueror called Zoa that wants to conquer the universe, which means the cyborgs are back in action...\n<br><br>\n(Source: Anime News Network)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/7336.jpg",
+    "banner_url": "",
+    "schedule": "Musim: FALL 1980",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "FALL",
+    "year": 1980,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 130,
+    "status": "FINISHED",
+    "score": 58,
+    "genres": [
+      "Action",
+      "Sci-Fi"
+    ],
+    "updated_at": 1784358109
+  },
+  {
     "id": 7330,
     "id_mal": 7330,
     "url": "https://anilist.co/anime/7330",
@@ -28864,6 +28951,35 @@
       "Sci-Fi"
     ],
     "updated_at": 1784312117
+  },
+  {
+    "id": 7290,
+    "id_mal": 7290,
+    "url": "https://anilist.co/anime/7290",
+    "title": {
+      "english": "Cyborg 009 and the Monster Wars",
+      "romaji": "Cyborg 009: Kaijuu Sensou",
+      "native": "サイボーグ００９ 怪獣戦争"
+    },
+    "description": "The evil organization 'Black Ghost' attacked around the world, using dinosaur (plesiosaur) type giant robots, and the team of 9 cyborgs launched their quest for the Black Ghost's hideout. 009 meets a girl named Helena...<br><br>\n(Source: upp.so-net.ne.jp)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx7290-K6dxB1fvQQvS.png",
+    "banner_url": "",
+    "schedule": "Musim: SPRING 1967",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "SPRING",
+    "year": 1967,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 60,
+    "status": "FINISHED",
+    "score": 53,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "updated_at": 1784358109
   },
   {
     "id": 7285,
@@ -29926,7 +30042,7 @@
       "Sci-Fi",
       "Sports"
     ],
-    "updated_at": 1784350914
+    "updated_at": 1784358100
   },
   {
     "id": 6654,
@@ -30683,6 +30799,34 @@
       "Fantasy"
     ],
     "updated_at": 1784312403
+  },
+  {
+    "id": 5921,
+    "id_mal": 5921,
+    "url": "https://anilist.co/anime/5921",
+    "title": {
+      "english": "",
+      "romaji": "Utsunomiko",
+      "native": "宇宙皇子"
+    },
+    "description": "In the chaos of the Jinshin-no-Ran civil war of 762, a child with a small horn in his forehead was born. The child's mother condemned him as an oni and cast him away. An elderly sh&#363;genja woman claimed the child and named him Utsunomiko, or 'Divine Child of the Heavens', telling Miko that his horn symbolizes the union of heaven and earth. Miko matured in the wilderness learning the ways of Shugend&#333;, and soon started venturing into villages out of curiosity. He found that the common people of the villages live in poverty and suffering, and began using his spiritual powers to help them. But his anger at the self-serving rulers and their petty power-struggles grew until he came into open conflict with the Imperial Court, setting Miko down a long path as a champion of the oppressed.<br><br>\n(Source: Wikipedia)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5921.jpg",
+    "banner_url": "",
+    "schedule": "Musim: SPRING 1989",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "SPRING",
+    "year": 1989,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 80,
+    "status": "FINISHED",
+    "score": 47,
+    "genres": [
+      "Adventure",
+      "Fantasy"
+    ],
+    "updated_at": 1784358105
   },
   {
     "id": 5917,
@@ -31670,7 +31814,7 @@
       "Mahou Shoujo",
       "Sci-Fi"
     ],
-    "updated_at": 1784312700
+    "updated_at": 1784358109
   },
   {
     "id": 4983,
@@ -31702,7 +31846,7 @@
       "Fantasy",
       "Horror"
     ],
-    "updated_at": 1784312702
+    "updated_at": 1784358109
   },
   {
     "id": 4970,
@@ -33733,6 +33877,34 @@
     "updated_at": 1784350914
   },
   {
+    "id": 3014,
+    "id_mal": 3014,
+    "url": "https://anilist.co/anime/3014",
+    "title": {
+      "english": "Legend of the Galactic Heroes: My Conquest Is the Sea of Stars",
+      "romaji": "Ginga Eiyuu Densetsu: Waga Yuku wa Hoshi no Taikai",
+      "native": "銀河英雄伝説: わが征くは星の大海"
+    },
+    "description": "This movie, based on an anecdote of \"Ginga Eiyuu Densetsu\" written by novelist Tanaka Yoshiki, preludes the 110-episodes TV series by describing the first encounter between the ambitious young man Reinhard von Museal under the imperial flag and the passive Yang Wenli who serves a corrupting democracy. Set in an imaginative future, the story describes the first encounter between Yang and Reinhard and discusses how heroes are born.\n<br><br>\n(Source: Anime News Network)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx3014-HcjYHAbi1bnd.jpg",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/3014-xPKJu0ZRcYHa.jpg",
+    "schedule": "Musim: WINTER 1988",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "WINTER",
+    "year": 1988,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 60,
+    "status": "FINISHED",
+    "score": 76,
+    "genres": [
+      "Action",
+      "Sci-Fi"
+    ],
+    "updated_at": 1784358109
+  },
+  {
     "id": 2981,
     "id_mal": 2981,
     "url": "https://anilist.co/anime/2981",
@@ -33759,7 +33931,7 @@
       "Horror",
       "Psychological"
     ],
-    "updated_at": 1784332882
+    "updated_at": 1784358109
   },
   {
     "id": 2969,
@@ -33788,7 +33960,7 @@
       "Mecha",
       "Sci-Fi"
     ],
-    "updated_at": 1784268121
+    "updated_at": 1784358109
   },
   {
     "id": 2961,
@@ -34666,7 +34838,7 @@
       "Supernatural",
       "Thriller"
     ],
-    "updated_at": 1784332879
+    "updated_at": 1784358109
   },
   {
     "id": 2591,
@@ -34957,6 +35129,37 @@
     "updated_at": 1783948413
   },
   {
+    "id": 2398,
+    "id_mal": 2398,
+    "url": "https://anilist.co/anime/2398",
+    "title": {
+      "english": "Digimon Adventure 02: Revenge of Diaboromon",
+      "romaji": "Digimon Adventure 02: Diablomon no Gyakushuu",
+      "native": "デジモンアドベンチャー02 ディアボロモンの逆襲"
+    },
+    "description": "After the events of 02, everything is finally getting back to normal. That is, until a strangely familiar icon starts showing up on computer systems around the Japan. And not just computer systems... TVs, mobile phones, video games; anything with a screen with online capabilities. And this icon seems to be looking for somone... Yagami Taichi, and Ishida Yamato, who defeated it several years before. Yes, it turns out that this jellyfish digimon is in fact Diablomon, the Virus-type Digimon that was defeated in the second movie. But this time, he's learned to make himself physical, and is sending thousands of copies of himself into the real world.<br><br>\nKoushiro and Ken devise a plan to rid the world of the virus once and for all, but it'll take the help of all the Destined, past and present. Once again, it's a race against time to put a stop to Diablomon's plot... but even that is cloaked in shadow.<br><br>\nWill the revival of Omagamon be enough to stop Diablomon a second time, or will the millions of copies prove enough of a power boost to shrug off the \"Digimon Champion of Justice\"? Of course, he hasn't seen the new breed of Chosen, nor the new techniques. It's a fight to the finish, with the destruction of Tokyo resting on the line. <br><br>\n(Source: AniDB)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2398.jpg",
+    "banner_url": "",
+    "schedule": "Musim: SPRING 2001",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "SPRING",
+    "year": 2001,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 30,
+    "status": "FINISHED",
+    "score": 70,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Drama",
+      "Sci-Fi"
+    ],
+    "updated_at": 1784358109
+  },
+  {
     "id": 2393,
     "id_mal": 2393,
     "url": "https://anilist.co/anime/2393",
@@ -35040,6 +35243,36 @@
       "Drama"
     ],
     "updated_at": 1784253710
+  },
+  {
+    "id": 2273,
+    "id_mal": 2273,
+    "url": "https://anilist.co/anime/2273",
+    "title": {
+      "english": "Mobile Suit Gundam Wing: Endless Waltz",
+      "romaji": "Shin Kidou Senki Gundam Wing: Endless Waltz Tokubetsu-hen",
+      "native": "新機動戦記ガンダムW Endless Waltz 特別篇"
+    },
+    "description": "At the climax of the Eve Wars, on December 24 of the year AC 195, the armies of the World Nation and White Fang met in a ferocious battle. World Nation leader Treize Khushrenada was slain, White Fang leader Zechs Merquise disappeared, and Earth was saved from destruction by the intervention of the five Gundam pilots. Having witnessed the consequences of war and hatred, the people of Earth and the space colonies put aside their differences and together founded a new world government. Under this newly-formed Earth Sphere Unified Nation, a year has passed in peace. The government and the populace have disarmed themselves, and almost every remaining mobile suit has been destroyed. Deciding to follow suit, Gundam pilots Heero Yuy, Duo Maxwell, Trowa Barton, and Quatre Raberba Winner place their mighty mobile suits inside an asteroid and send them on a one-way voyage into the sun. But even as they bid their Gundams farewell, a new conflict is drawing near. <br><br>\r\n(Source: AniDB)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2273-JhR0yaLDKEJp.png",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/2273-cfZkpM6DvIkg.jpg",
+    "schedule": "Musim: SUMMER 1998",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "SUMMER",
+    "year": 1998,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 94,
+    "status": "FINISHED",
+    "score": 73,
+    "genres": [
+      "Action",
+      "Drama",
+      "Mecha",
+      "Sci-Fi"
+    ],
+    "updated_at": 1784358109
   },
   {
     "id": 2236,
@@ -35469,6 +35702,36 @@
     "updated_at": 1784242996
   },
   {
+    "id": 2060,
+    "id_mal": 2060,
+    "url": "https://anilist.co/anime/2060",
+    "title": {
+      "english": "Gall Force 1: Eternal Story",
+      "romaji": "Gall Force: ETERNAL STORY",
+      "native": "ガルフォース ETERNAL STORY"
+    },
+    "description": "Two advanced civilizations, the Paranoids (a race of alien humanoids) and the Solenoids (who are all women) are waging a war that has gone on for centuries. When the Solenoid fleet leaves a battle to defend an experimentally terraformed world from the Paranoids, one damaged Solenoid ship, the Star Leaf, is separated from the fleet. <br><br>\nOnly seven women remain alive on the ship: Eluza, the captain, Rabby, the solid more or less main character, Lufy, the brash pilot, Catty, the mysterious science officer, Pony, the pink-haired ditzy tech, Patty, a solid crew member, and Remy, the cute one. <br><br>\nAfter narrowly escaping the battle, the crew of the Star Leaf decides to continue with their orders and rendezvous at planet Chaos to defend it. It turns out, however, that their ship is the subject of a Paranoid experiment. In the end, it is up to the remaining crew Star Leaf to defend the artificial paradise of Chaos from the Paranoid fleet and the plans of the Solenoid leaders.<br><br>\n(Source: AniDB)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2060-9Dj8Sj9RUF01.jpg",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/2060-QzeWf2zTA57T.jpg",
+    "schedule": "Musim: SUMMER 1986",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "SUMMER",
+    "year": 1986,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 86,
+    "status": "FINISHED",
+    "score": 60,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Mecha",
+      "Sci-Fi"
+    ],
+    "updated_at": 1784358109
+  },
+  {
     "id": 2055,
     "id_mal": 2055,
     "url": "https://anilist.co/anime/2055",
@@ -35826,6 +36089,36 @@
     "updated_at": 1784322117
   },
   {
+    "id": 1861,
+    "id_mal": 1861,
+    "url": "https://anilist.co/anime/1861",
+    "title": {
+      "english": "Slam Dunk: National Domination! Sakuragi Hanamichi",
+      "romaji": "SLAM DUNK: Zenkoku Seiha Da! Sakuragi Hanamichi",
+      "native": "SLAM DUNK 全国制覇だ! 桜木花道"
+    },
+    "description": "Set during the Inter High Championships, Shohoku take on Tsukubu, one of this year's dark horses. It's a clash of acquaintances as Anzai will face his former student which is now the coach of Tsukubu, while Akagi &amp; Kogure meet Godai their former classmate and Tsukubu's captain. Finally Sakuragi is irked by the presence of Nango, Tsukubu's center, who vies for Haruko's attention.<br><br>\n(Source: Anime News Network)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1861-gLafT1OtdB9a.png",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/n1861-snIrGsslYakY.jpg",
+    "schedule": "Musim: SUMMER 1994",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "SUMMER",
+    "year": 1994,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 45,
+    "status": "FINISHED",
+    "score": 71,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Slice of Life",
+      "Sports"
+    ],
+    "updated_at": 1784358109
+  },
+  {
     "id": 1829,
     "id_mal": 1829,
     "url": "https://anilist.co/anime/1829",
@@ -36119,6 +36412,36 @@
       "Supernatural"
     ],
     "updated_at": 1784325887
+  },
+  {
+    "id": 1681,
+    "id_mal": 1681,
+    "url": "https://anilist.co/anime/1681",
+    "title": {
+      "english": "Brave Story",
+      "romaji": "Brave Story",
+      "native": "ブレイブ・ストーリー"
+    },
+    "description": "When 11 year old Wataru's father leaves home and his mother is taken ill to hospital, he decides to change his fate by travelling through the door shown to him by his friend Mitsuru. In a land of magic and monsters, Wataru must summon all his courage and embark on a journey with several comrades to meet the Goddess of Destiny and change this \"mistaken fate\".\n<br><br>\n(Source: Anime News Network)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b1681-G12LPkws93Ub.jpg",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/1681-mRibcfxIyCaV.jpg",
+    "schedule": "Musim: SUMMER 2006",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "SUMMER",
+    "year": 2006,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 112,
+    "status": "FINISHED",
+    "score": 70,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy",
+      "Supernatural"
+    ],
+    "updated_at": 1784358108
   },
   {
     "id": 1626,
@@ -36728,7 +37051,7 @@
       "Drama",
       "Mystery"
     ],
-    "updated_at": 1784315572
+    "updated_at": 1784358109
   },
   {
     "id": 1362,
@@ -37245,7 +37568,7 @@
     "genres": [
       "Sports"
     ],
-    "updated_at": 1784315634
+    "updated_at": 1784358107
   },
   {
     "id": 1208,
@@ -37811,7 +38134,7 @@
       "Mystery",
       "Sci-Fi"
     ],
-    "updated_at": 1784322117
+    "updated_at": 1784358109
   },
   {
     "id": 1095,
@@ -37962,7 +38285,7 @@
       "Romance",
       "Sci-Fi"
     ],
-    "updated_at": 1784315696
+    "updated_at": 1784358109
   },
   {
     "id": 1049,
@@ -38080,7 +38403,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784322117
+    "updated_at": 1784358109
   },
   {
     "id": 1030,
@@ -38906,7 +39229,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784315916
+    "updated_at": 1784358109
   },
   {
     "id": 868,
@@ -38965,7 +39288,7 @@
       "Fantasy",
       "Supernatural"
     ],
-    "updated_at": 1784329393
+    "updated_at": 1784358109
   },
   {
     "id": 866,
@@ -38994,7 +39317,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784315917
+    "updated_at": 1784358109
   },
   {
     "id": 844,
@@ -39196,7 +39519,7 @@
       "Comedy",
       "Ecchi"
     ],
-    "updated_at": 1784315995
+    "updated_at": 1784358109
   },
   {
     "id": 791,
@@ -39787,7 +40110,7 @@
       "Romance",
       "Sci-Fi"
     ],
-    "updated_at": 1784316309
+    "updated_at": 1784358109
   },
   {
     "id": 536,
@@ -39847,7 +40170,7 @@
       "Mahou Shoujo",
       "Romance"
     ],
-    "updated_at": 1784340997
+    "updated_at": 1784358109
   },
   {
     "id": 528,
@@ -41312,7 +41635,7 @@
       "Sci-Fi",
       "Supernatural"
     ],
-    "updated_at": 1784325887
+    "updated_at": 1784358109
   },
   {
     "id": 88,
@@ -41341,7 +41664,7 @@
       "Mecha",
       "Sci-Fi"
     ],
-    "updated_at": 1784317274
+    "updated_at": 1784358109
   },
   {
     "id": 87,
@@ -41429,7 +41752,7 @@
       "Mecha",
       "Sci-Fi"
     ],
-    "updated_at": 1784317348
+    "updated_at": 1784358103
   },
   {
     "id": 47,
