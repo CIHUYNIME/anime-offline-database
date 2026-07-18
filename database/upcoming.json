@@ -109,7 +109,7 @@
       "Drama",
       "Fantasy"
     ],
-    "updated_at": 1784304124
+    "updated_at": 1784368905
   },
   {
     "id": 214067,
@@ -195,7 +195,7 @@
       "Comedy",
       "Romance"
     ],
-    "updated_at": 1784329393
+    "updated_at": 1784368905
   },
   {
     "id": 214044,
@@ -1007,7 +1007,7 @@
     "genres": [
       "Sports"
     ],
-    "updated_at": 1784268121
+    "updated_at": 1784368905
   },
   {
     "id": 213657,
@@ -1499,7 +1499,7 @@
       "Comedy",
       "Drama"
     ],
-    "updated_at": 1784361740
+    "updated_at": 1784368905
   },
   {
     "id": 213316,
@@ -1560,7 +1560,7 @@
       "Comedy",
       "Romance"
     ],
-    "updated_at": 1784282525
+    "updated_at": 1784368905
   },
   {
     "id": 213106,
@@ -2301,6 +2301,35 @@
     "updated_at": 1784246842
   },
   {
+    "id": 211538,
+    "id_mal": 64064,
+    "url": "https://anilist.co/anime/211538",
+    "title": {
+      "english": "",
+      "romaji": "Hokuhokusei ni Kumo to Ike",
+      "native": "北北西に曇と往け"
+    },
+    "description": "The story takes place in Iceland, at land’s end, 64°N.<br>\nKei Miyama is a 17-year-old with three secrets: he can talk to cars, he can’t handle pretty girls, and he works as a private investigator. One case has him searching for a beloved dog, another involves reuniting a woman with a man she fell for at first sight. And then comes a case that strikes close to home—searching for his own little brother.<br>\nTag along as this globe-spanning journey unfolds…\n<br><br>\n(Source: Kodansha USA)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx211538-9DIgBfTibfZh.jpg",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "TV",
+    "episodes": null,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Adventure",
+      "Mystery",
+      "Slice of Life"
+    ],
+    "updated_at": 1784368905
+  },
+  {
     "id": 211496,
     "id_mal": 64058,
     "url": "https://anilist.co/anime/211496",
@@ -2560,7 +2589,7 @@
       "Mystery",
       "Supernatural"
     ],
-    "updated_at": 1784358109
+    "updated_at": 1784368905
   },
   {
     "id": 210309,
@@ -3315,7 +3344,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784350916
+    "updated_at": 1784368905
   },
   {
     "id": 207329,
@@ -4552,7 +4581,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784329393
+    "updated_at": 1784368905
   },
   {
     "id": 203129,
@@ -4665,7 +4694,7 @@
       "Ecchi",
       "Romance"
     ],
-    "updated_at": 1784361743
+    "updated_at": 1784368905
   },
   {
     "id": 202503,
@@ -4777,7 +4806,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1783962141
+    "updated_at": 1784368905
   },
   {
     "id": 202253,
@@ -4866,7 +4895,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784350916
+    "updated_at": 1784368905
   },
   {
     "id": 201388,
@@ -5444,7 +5473,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784307728
+    "updated_at": 1784368905
   },
   {
     "id": 199150,
@@ -5619,7 +5648,7 @@
       "Comedy",
       "Romance"
     ],
-    "updated_at": 1784358109
+    "updated_at": 1784368905
   },
   {
     "id": 198696,
@@ -5677,7 +5706,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784307728
+    "updated_at": 1784368905
   },
   {
     "id": 198663,
@@ -6409,7 +6438,7 @@
       "Drama",
       "Fantasy"
     ],
-    "updated_at": 1784246827
+    "updated_at": 1784368905
   },
   {
     "id": 193676,
@@ -6956,7 +6985,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784329393
+    "updated_at": 1784368905
   },
   {
     "id": 187361,
@@ -8298,7 +8327,7 @@
     "genres": [
       "Adventure"
     ],
-    "updated_at": 1784340965
+    "updated_at": 1784368905
   },
   {
     "id": 171513,
@@ -8648,6 +8677,34 @@
     "updated_at": 1784325887
   },
   {
+    "id": 163794,
+    "id_mal": null,
+    "url": "https://anilist.co/anime/163794",
+    "title": {
+      "english": "",
+      "romaji": "The Boxer",
+      "native": "더 복서"
+    },
+    "description": "You’ve got the raw talent. Or you’re the underdog. But do you have the heart? Do you have what it takes? Let’s see what you’re made of. The real fight starts now! <br>\n<br>\n(Source: WEBTOONS)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/default.jpg",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "TV",
+    "episodes": 12,
+    "duration": 24,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Action",
+      "Sports"
+    ],
+    "updated_at": 1784368933
+  },
+  {
     "id": 163790,
     "id_mal": null,
     "url": "https://anilist.co/anime/163790",
@@ -8705,7 +8762,7 @@
       "Mahou Shoujo",
       "Slice of Life"
     ],
-    "updated_at": 1784246766
+    "updated_at": 1784368974
   },
   {
     "id": 163072,
@@ -8761,7 +8818,7 @@
       "Adventure",
       "Comedy"
     ],
-    "updated_at": 1784361747
+    "updated_at": 1784369064
   },
   {
     "id": 161410,
@@ -8786,7 +8843,7 @@
     "status": "NOT_YET_RELEASED",
     "score": null,
     "genres": [],
-    "updated_at": 1784361747
+    "updated_at": 1784369163
   },
   {
     "id": 160803,
@@ -8816,7 +8873,7 @@
       "Mahou Shoujo",
       "Thriller"
     ],
-    "updated_at": 1784361747
+    "updated_at": 1784369205
   },
   {
     "id": 160275,
@@ -8848,7 +8905,7 @@
       "Mystery",
       "Sci-Fi"
     ],
-    "updated_at": 1784340948
+    "updated_at": 1784369254
   },
   {
     "id": 159042,
@@ -8877,7 +8934,37 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784282778
+    "updated_at": 1784369404
+  },
+  {
+    "id": 158987,
+    "id_mal": null,
+    "url": "https://anilist.co/anime/158987",
+    "title": {
+      "english": "",
+      "romaji": "Jing Wei Wu Jian",
+      "native": "泾渭无间"
+    },
+    "description": "Adapted from the JJWXC novel ‘Jing Wei Qing Shang’ by Qing Jun Mo Xiao/Please Don’t Laugh, this is a romantic story about two incredible young women.  \n<br><br>\nLegend says that the land was once separated by the Luo river. \n<br><br>\nTo the south was the agricultural Wei kingdom, and to the north, the nomadic Jing kingdom. \n<br><br>\nAgula, a Princess of the Jing kingdom, had to become a Prince since birth so that her loving parents could stay together. Nangong Jingnu, a Princess of the Wei kingdom, was meant to live a carefree life, but the political struggles of the court made it necessary for her to follow the footsteps of her father. \n<br><br>\nAfter a war turned Agula into an orphan, she went into hiding for ten years, honing her skills in order to infiltrate the Wei kingdom as a sycophantic official and bring chaos to the world. However, due to a series of events, she was appointed to be Nangong Jingnu’s husband at the Qionglin banquet…",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx158987-r3U5FmQugaRM.png",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/158987-eRE8CSvjPr7l.jpg",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "ONA",
+    "episodes": null,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Psychological",
+      "Romance"
+    ],
+    "updated_at": 1784369409
   },
   {
     "id": 157330,
@@ -8906,7 +8993,7 @@
       "Mecha",
       "Sci-Fi"
     ],
-    "updated_at": 1784361747
+    "updated_at": 1784369587
   },
   {
     "id": 156631,
@@ -8935,7 +9022,34 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784318433
+    "updated_at": 1784369649
+  },
+  {
+    "id": 154968,
+    "id_mal": 53130,
+    "url": "https://anilist.co/anime/154968",
+    "title": {
+      "english": "",
+      "romaji": "EISEN FLÜGEL",
+      "native": "アイゼンフリューゲル"
+    },
+    "description": "In a world where dragons rule the skies, mankind still dreams of flight, of someday dominating the heavens in their stead. Even in times of war, the passionate young pilot Karl Schuniz continues to chase his dreams, taking up his wings of steel - the revolutionary new aircraft, the Blitz Vogel - to challenge the Kaiser Drache, the fastest dragon that can fly at supersonic speeds.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx154968-lhAZOI76TfAe.jpg",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Fantasy"
+    ],
+    "updated_at": 1784369814
   },
   {
     "id": 154765,
@@ -9111,7 +9225,7 @@
       "Fantasy",
       "Mahou Shoujo"
     ],
-    "updated_at": 1784304124
+    "updated_at": 1784368905
   },
   {
     "id": 137669,

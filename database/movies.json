@@ -131,7 +131,7 @@
       "Drama",
       "Fantasy"
     ],
-    "updated_at": 1784304124
+    "updated_at": 1784368905
   },
   {
     "id": 214067,
@@ -488,7 +488,7 @@
     "genres": [
       "Fantasy"
     ],
-    "updated_at": 1784268121
+    "updated_at": 1784368905
   },
   {
     "id": 210309,
@@ -2719,7 +2719,7 @@
       "Drama",
       "Sports"
     ],
-    "updated_at": 1784253644
+    "updated_at": 1784368905
   },
   {
     "id": 177686,
@@ -3430,7 +3430,7 @@
       "Adventure",
       "Mystery"
     ],
-    "updated_at": 1784289675
+    "updated_at": 1784368905
   },
   {
     "id": 169017,
@@ -3794,7 +3794,61 @@
       "Drama",
       "Mystery"
     ],
-    "updated_at": 1784325879
+    "updated_at": 1784368934
+  },
+  {
+    "id": 163785,
+    "id_mal": 60034,
+    "url": "https://anilist.co/anime/163785",
+    "title": {
+      "english": "Exorcism Chronicles: The Beginning",
+      "romaji": "Toemarok",
+      "native": "퇴마록"
+    },
+    "description": "Hyeon-Am trains in Tai Chi Qigong in order to fight the water ghost that killed his sister; Father Park, unable to save his friend's daughter from an unknown evil spirit, chooses to become a priest walking the path of asceticism; Jun-Hu, the only survivor of Eastern Sea Esoteric Buddhism, is a genius who has inherited all the magic of the five guardians of Esoteric Buddhism; Seung-Hui, who has a secret, gets involved in a mysterious case due to her father.\n<br><br>\nAn occult fantasy in which individual exorcists, each driven by their own causes, solve crimes and fight together against evil demons—demons who rule the spiritual and emotional worlds of mankind, and drive society into chaos.<br><br>(Source: Naver, translated)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx163785-9jX5BiS3x6jy.png",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 85,
+    "status": "FINISHED",
+    "score": null,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Supernatural"
+    ],
+    "updated_at": 1784368934
+  },
+  {
+    "id": 163694,
+    "id_mal": 43394,
+    "url": "https://anilist.co/anime/163694",
+    "title": {
+      "english": "One Night in the Art Gallery",
+      "romaji": "Hualang yiye",
+      "native": "画廊一夜"
+    },
+    "description": "An animated parody about the Gang of Four. The 1978 post Cultural Revolution film is Lin Wenxiao’s directorial debut.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx163694-axbtpfoRwYq2.jpg",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 19,
+    "status": "FINISHED",
+    "score": null,
+    "genres": [],
+    "updated_at": 1784368941
   },
   {
     "id": 163363,
@@ -3823,7 +3877,7 @@
       "Slice of Life",
       "Sports"
     ],
-    "updated_at": 1784307728
+    "updated_at": 1784368967
   },
   {
     "id": 163147,
@@ -3852,7 +3906,7 @@
       "Drama",
       "Sports"
     ],
-    "updated_at": 1784325887
+    "updated_at": 1784368996
   },
   {
     "id": 163143,
@@ -3882,7 +3936,7 @@
       "Psychological",
       "Sci-Fi"
     ],
-    "updated_at": 1784268121
+    "updated_at": 1784368999
   },
   {
     "id": 162987,
@@ -3911,7 +3965,7 @@
       "Music",
       "Romance"
     ],
-    "updated_at": 1784325887
+    "updated_at": 1784369023
   },
   {
     "id": 162904,
@@ -3938,7 +3992,34 @@
     "genres": [
       "Slice of Life"
     ],
-    "updated_at": 1784325887
+    "updated_at": 1784369030
+  },
+  {
+    "id": 162682,
+    "id_mal": 54705,
+    "url": "https://anilist.co/anime/162682",
+    "title": {
+      "english": "",
+      "romaji": "Kaitou Queen no Yuuga na Vacances",
+      "native": "怪盗クイーンの優雅な休暇（バカンス）"
+    },
+    "description": "Announced at the \"Mirage QUEEN Prefers Parties\" event, that a new <i>Mirage QUEEN</i> anime has been greenlit.<br><br>\n(Source: Anime News Network, edited)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx162682-HxgVCRRBRykN.jpg",
+    "banner_url": "",
+    "schedule": "Musim: SPRING 2025",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "SPRING",
+    "year": 2025,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 88,
+    "status": "FINISHED",
+    "score": null,
+    "genres": [
+      "Mystery"
+    ],
+    "updated_at": 1784369052
   },
   {
     "id": 161474,
@@ -3968,7 +4049,7 @@
       "Romance",
       "Supernatural"
     ],
-    "updated_at": 1784318457
+    "updated_at": 1784369157
   },
   {
     "id": 161441,
@@ -3996,7 +4077,7 @@
       "Action",
       "Horror"
     ],
-    "updated_at": 1784282577
+    "updated_at": 1784369159
   },
   {
     "id": 161440,
@@ -4024,6 +4105,62 @@
       "Music"
     ],
     "updated_at": 1784282577
+  },
+  {
+    "id": 160982,
+    "id_mal": 54662,
+    "url": "https://anilist.co/anime/160982",
+    "title": {
+      "english": "",
+      "romaji": "Yishu Xueyuan",
+      "native": "艺术学院"
+    },
+    "description": "Lao Wang is a middle-aged man. He works in a security department of a college which is located at a big school town. He lives a calm life. Xiao Wang is a freshman. He has a conflict with his roommate and is taken to the security department by his counselor. In a room of this foggy winter day, Lao Wang and Xiao Li are tasting the life of their own, and something unexpected is just about to happen... The school town is waiting quietly for the next day as it always be.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx160982-0qtR3Nv4EG92.png",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 118,
+    "status": "FINISHED",
+    "score": null,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "updated_at": 1784369191
+  },
+  {
+    "id": 160856,
+    "id_mal": 52452,
+    "url": "https://anilist.co/anime/160856",
+    "title": {
+      "english": "Anpanman: Dororin and the Transformation Carnival",
+      "romaji": "Sore Ike! Anpanman: Dororin to Bakeru Carnival",
+      "native": "それいけ！アンパンマン ドロリンとバケ～るカーニバル"
+    },
+    "description": "The film is set in Obake Town, a town where everything can change into something else. Anpanman and the others receive an invitation to the town's Bakeru Carnival, where those skilled at transforming can use their skills to entertain people. However, a resident of the town named Dororin is unskilled at transforming, and is unable to enjoy the Carnival from the bottom of his heart. He has a chance meeting with Cream Panda and strike up a friendship. Together, they venture into a forest in search of the Black Cape, said to hold the world's greatest powers of transformation. But Baikinman is also after the cloak for its power that will allow him to rule Obake Town. Now it is up to Anpanman, Cream Panda, and Dororin to protect the town. <br><br>\n(Source: Anime News Network)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx160856-qDvHSW1lYOGi.jpg",
+    "banner_url": "",
+    "schedule": "Musim: SUMMER 2022",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "SUMMER",
+    "year": 2022,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 65,
+    "status": "FINISHED",
+    "score": null,
+    "genres": [
+      "Comedy",
+      "Fantasy"
+    ],
+    "updated_at": 1784369201
   },
   {
     "id": 160850,
@@ -4055,7 +4192,7 @@
       "Mahou Shoujo",
       "Romance"
     ],
-    "updated_at": 1784282618
+    "updated_at": 1784369201
   },
   {
     "id": 160275,
@@ -4087,7 +4224,7 @@
       "Mystery",
       "Sci-Fi"
     ],
-    "updated_at": 1784340948
+    "updated_at": 1784369254
   },
   {
     "id": 159886,
@@ -4116,7 +4253,7 @@
       "Fantasy",
       "Sci-Fi"
     ],
-    "updated_at": 1784282702
+    "updated_at": 1784369294
   },
   {
     "id": 159429,
@@ -4148,7 +4285,7 @@
       "Mystery",
       "Supernatural"
     ],
-    "updated_at": 1784282738
+    "updated_at": 1784369359
   },
   {
     "id": 159417,
@@ -4198,13 +4335,13 @@
     "episodes": 1,
     "duration": 121,
     "status": "FINISHED",
-    "score": 62,
+    "score": 63,
     "genres": [
       "Action",
       "Mecha",
       "Sci-Fi"
     ],
-    "updated_at": 1784282783
+    "updated_at": 1784369409
   },
   {
     "id": 158990,
@@ -4264,7 +4401,7 @@
       "Slice of Life",
       "Supernatural"
     ],
-    "updated_at": 1784340965
+    "updated_at": 1784369416
   },
   {
     "id": 158896,
@@ -4294,7 +4431,7 @@
       "Fantasy",
       "Supernatural"
     ],
-    "updated_at": 1784282797
+    "updated_at": 1784369427
   },
   {
     "id": 158641,
@@ -4323,7 +4460,7 @@
       "Slice of Life",
       "Supernatural"
     ],
-    "updated_at": 1784297606
+    "updated_at": 1784369452
   },
   {
     "id": 158621,
@@ -4375,7 +4512,7 @@
     "genres": [
       "Comedy"
     ],
-    "updated_at": 1784282828
+    "updated_at": 1784369457
   },
   {
     "id": 158166,
@@ -4402,7 +4539,7 @@
     "genres": [
       "Music"
     ],
-    "updated_at": 1784318495
+    "updated_at": 1784369495
   },
   {
     "id": 157330,
@@ -4431,7 +4568,7 @@
       "Mecha",
       "Sci-Fi"
     ],
-    "updated_at": 1784361747
+    "updated_at": 1784369587
   },
   {
     "id": 157176,
@@ -4484,7 +4621,35 @@
       "Drama",
       "Mystery"
     ],
-    "updated_at": 1784340998
+    "updated_at": 1784369631
+  },
+  {
+    "id": 156727,
+    "id_mal": 53534,
+    "url": "https://anilist.co/anime/156727",
+    "title": {
+      "english": "",
+      "romaji": "i☆Ris the Movie: Full Energy!!",
+      "native": "i☆Ris the Movie -Full Energy!!-"
+    },
+    "description": "i☆Ris has reached the 10th anniversary of their debut and is enjoying smooth sailing, but there was a thought that came to the minds of the girls. \"What will happen to us in the next 10 years?\"\n<br><br>\nOn the day of a live concert, a mysterious talking white squirrel suddenly appears from a T-shirt of goods delivered to i☆Ris' dressing room! Suddenly, they are enveloped in a dazzling light, and what spreads out before their eyes is a mysterious world with many big rainbows floating on it. This is Risu Risu Land, a world where you can be anything you want to be!\n<br><br>\nThe five of them are enjoying themselves in this fun and wonderful place, fulfilling their dreams, but they realize that there is something \"missing\" in this world. There is no \"song\" in this world. Shirorisu asks i☆Ris for help to bring back the \"song\"....\n<br><br>\nWhy did the \"song\" disappear? Can they bring \"Song\" back to this world once again? And at the end of this journey, will the girls find what they really want to be?　<br><br>\n(Source: Crunchyroll News)\n",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx156727-dySorVrt1aEz.jpg",
+    "banner_url": "",
+    "schedule": "Musim: SPRING 2024",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "SPRING",
+    "year": 2024,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 60,
+    "status": "FINISHED",
+    "score": 62,
+    "genres": [
+      "Fantasy",
+      "Music"
+    ],
+    "updated_at": 1784369641
   },
   {
     "id": 156631,
@@ -4513,7 +4678,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784318433
+    "updated_at": 1784369649
   },
   {
     "id": 156153,
@@ -4600,6 +4765,33 @@
     "updated_at": 1784283166
   },
   {
+    "id": 154968,
+    "id_mal": 53130,
+    "url": "https://anilist.co/anime/154968",
+    "title": {
+      "english": "",
+      "romaji": "EISEN FLÜGEL",
+      "native": "アイゼンフリューゲル"
+    },
+    "description": "In a world where dragons rule the skies, mankind still dreams of flight, of someday dominating the heavens in their stead. Even in times of war, the passionate young pilot Karl Schuniz continues to chase his dreams, taking up his wings of steel - the revolutionary new aircraft, the Blitz Vogel - to challenge the Kaiser Drache, the fastest dragon that can fly at supersonic speeds.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx154968-lhAZOI76TfAe.jpg",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Fantasy"
+    ],
+    "updated_at": 1784369814
+  },
+  {
     "id": 154967,
     "id_mal": 53129,
     "url": "https://anilist.co/anime/154967",
@@ -4626,7 +4818,7 @@
       "Psychological",
       "Supernatural"
     ],
-    "updated_at": 1784318454
+    "updated_at": 1784369815
   },
   {
     "id": 154392,
@@ -5150,7 +5342,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784307728
+    "updated_at": 1784368905
   },
   {
     "id": 146609,
@@ -5962,7 +6154,7 @@
       "Drama",
       "Romance"
     ],
-    "updated_at": 1784286117
+    "updated_at": 1784368905
   },
   {
     "id": 136149,
@@ -6714,7 +6906,7 @@
       "Mystery",
       "Sci-Fi"
     ],
-    "updated_at": 1784358109
+    "updated_at": 1784368905
   },
   {
     "id": 127227,
@@ -8700,7 +8892,7 @@
       "Sci-Fi",
       "Slice of Life"
     ],
-    "updated_at": 1784329393
+    "updated_at": 1784368905
   },
   {
     "id": 117074,
@@ -8728,7 +8920,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784350915
+    "updated_at": 1784368905
   },
   {
     "id": 116756,
@@ -9132,6 +9324,35 @@
       "Slice of Life"
     ],
     "updated_at": 1784329393
+  },
+  {
+    "id": 113669,
+    "id_mal": 40044,
+    "url": "https://anilist.co/anime/113669",
+    "title": {
+      "english": "",
+      "romaji": "Doraemon: Nobita no Shin Kyoryuu",
+      "native": "映画ドラえもん のび太の新恐竜"
+    },
+    "description": "Tidak ada deskripsi.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx113669-HwhNxy2BQmqR.jpg",
+    "banner_url": "",
+    "schedule": "Musim: SUMMER 2020",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "SUMMER",
+    "year": 2020,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 110,
+    "status": "FINISHED",
+    "score": 74,
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Sci-Fi"
+    ],
+    "updated_at": 1784368905
   },
   {
     "id": 113596,
@@ -11538,7 +11759,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784358109
+    "updated_at": 1784368905
   },
   {
     "id": 107623,
@@ -12397,7 +12618,7 @@
       "Sci-Fi",
       "Thriller"
     ],
-    "updated_at": 1784358109
+    "updated_at": 1784368905
   },
   {
     "id": 104867,
@@ -14192,7 +14413,7 @@
       "Mystery",
       "Supernatural"
     ],
-    "updated_at": 1784322117
+    "updated_at": 1784368905
   },
   {
     "id": 103050,
@@ -20084,7 +20305,7 @@
       "Drama",
       "Sports"
     ],
-    "updated_at": 1784361741
+    "updated_at": 1784368905
   },
   {
     "id": 21114,
@@ -21551,7 +21772,7 @@
       "Action",
       "Sci-Fi"
     ],
-    "updated_at": 1784358109
+    "updated_at": 1784368905
   },
   {
     "id": 20512,
@@ -21579,7 +21800,7 @@
       "Music",
       "Slice of Life"
     ],
-    "updated_at": 1784300508
+    "updated_at": 1784368905
   },
   {
     "id": 20501,
@@ -22818,7 +23039,7 @@
       "Sci-Fi",
       "Thriller"
     ],
-    "updated_at": 1784361733
+    "updated_at": 1784368905
   },
   {
     "id": 17121,
@@ -24051,7 +24272,7 @@
       "Psychological",
       "Thriller"
     ],
-    "updated_at": 1784358109
+    "updated_at": 1784368905
   },
   {
     "id": 14349,
@@ -24195,7 +24416,7 @@
       "Drama",
       "Slice of Life"
     ],
-    "updated_at": 1784358104
+    "updated_at": 1784368905
   },
   {
     "id": 13971,
@@ -26137,6 +26358,34 @@
     "updated_at": 1784242996
   },
   {
+    "id": 9798,
+    "id_mal": 9798,
+    "url": "https://anilist.co/anime/9798",
+    "title": {
+      "english": "Mr. Dough and the Egg Princess",
+      "romaji": "Pandane to Tamago-hime",
+      "native": "パン種とタマゴ姫"
+    },
+    "description": "A short film screened at the Ghibli Museum in Mitaka and Ghibli Park in Nagakute. The story unfolds under the spell of Joe Hisaishi's arrangement of Antonio Vivaldi's <i>La Folia.</i> <br><br>\n\nIn a lonesome water mill deep in a forest of briers and brambles lives a witch named Baba Yaga. There the witch keeps her servant the Egg Princess confined and forces the tiny egg-girl to do all the hard daily chores around the mill. One night, a large batch of kneaded dough resting in a trough suddenly comes to life from the witch's spell. Fearful of the witch, the Egg Princess and her new friend decide to run away. What will lay ahead for the two of them...?<br><br>\n(Source: Ghibli Museum)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx9798-SkF2AfeGOata.jpg",
+    "banner_url": "",
+    "schedule": "Musim: FALL 2010",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "FALL",
+    "year": 2010,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 12,
+    "status": "FINISHED",
+    "score": 62,
+    "genres": [
+      "Adventure",
+      "Fantasy"
+    ],
+    "updated_at": 1784368905
+  },
+  {
     "id": 9790,
     "id_mal": 9790,
     "url": "https://anilist.co/anime/9790",
@@ -26337,7 +26586,7 @@
       "Horror",
       "Sci-Fi"
     ],
-    "updated_at": 1783948413
+    "updated_at": 1784368905
   },
   {
     "id": 9488,
@@ -27048,7 +27297,7 @@
       "Sci-Fi",
       "Supernatural"
     ],
-    "updated_at": 1784340992
+    "updated_at": 1784368905
   },
   {
     "id": 8490,
@@ -30715,6 +30964,34 @@
     "updated_at": 1784312351
   },
   {
+    "id": 6189,
+    "id_mal": 6189,
+    "url": "https://anilist.co/anime/6189",
+    "title": {
+      "english": "",
+      "romaji": "Baton",
+      "native": "バトン"
+    },
+    "description": "Project to mark Yokohama City's 150th anniversary.<br>\nOn Planet Abel, humans and robots co-exist. One day a mysterious stowaway on a transport vessel tries to invade the planet, but is discovered by Apollo (Hayato Ichihara), a robot that looks like a human; and Mikaru (Aya Ueto), a human that looks like a robot. The stowaway had in his possession a memory chip containing the latest in camouflage software, the mysterious &ldquo;Cipher&rdquo; OS. Apollo takes the Cipher chip simply for fun, but has no idea what he&rsquo;s getting himself into. He suddenly starts acting strange, but Mikaru has no idea what&rsquo;s wrong or that Cipher is behind it. What exactly is Cipher? What sort of secrets does it hold? Apollo and Mikaru will unravel a mystery encompassing the past, present, and future to find out.<br><br>\n(Source: Nippon Cinema)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6189.jpg",
+    "banner_url": "",
+    "schedule": "Musim: SPRING 2009",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "SPRING",
+    "year": 2009,
+    "format": "MOVIE",
+    "episodes": 3,
+    "duration": 20,
+    "status": "FINISHED",
+    "score": 46,
+    "genres": [
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "updated_at": 1784368905
+  },
+  {
     "id": 6178,
     "id_mal": 6178,
     "url": "https://anilist.co/anime/6178",
@@ -30801,7 +31078,7 @@
       "Fantasy",
       "Supernatural"
     ],
-    "updated_at": 1784361735
+    "updated_at": 1784368905
   },
   {
     "id": 6162,
@@ -32326,7 +32603,7 @@
       "Psychological",
       "Sci-Fi"
     ],
-    "updated_at": 1784332890
+    "updated_at": 1784368905
   },
   {
     "id": 4640,
@@ -33040,7 +33317,7 @@
       "Romance",
       "Sci-Fi"
     ],
-    "updated_at": 1784350916
+    "updated_at": 1784368905
   },
   {
     "id": 4106,
@@ -33616,7 +33893,7 @@
       "Horror",
       "Sci-Fi"
     ],
-    "updated_at": 1784275323
+    "updated_at": 1784368905
   },
   {
     "id": 3220,
@@ -33842,7 +34119,7 @@
       "Drama",
       "Psychological"
     ],
-    "updated_at": 1784350916
+    "updated_at": 1784368905
   },
   {
     "id": 3087,
@@ -33870,7 +34147,7 @@
       "Action",
       "Sci-Fi"
     ],
-    "updated_at": 1784341006
+    "updated_at": 1784368905
   },
   {
     "id": 3067,
@@ -34302,7 +34579,7 @@
       "Drama",
       "Supernatural"
     ],
-    "updated_at": 1784307728
+    "updated_at": 1784368905
   },
   {
     "id": 2848,
@@ -34561,7 +34838,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1783948370
+    "updated_at": 1784368905
   },
   {
     "id": 2671,
@@ -34951,7 +35228,7 @@
       "Fantasy",
       "Sci-Fi"
     ],
-    "updated_at": 1784340990
+    "updated_at": 1784368905
   },
   {
     "id": 2594,
@@ -35038,7 +35315,7 @@
     "genres": [
       "Adventure"
     ],
-    "updated_at": 1784361744
+    "updated_at": 1784368905
   },
   {
     "id": 2560,
@@ -35067,7 +35344,7 @@
       "Drama",
       "Sci-Fi"
     ],
-    "updated_at": 1784275323
+    "updated_at": 1784368905
   },
   {
     "id": 2511,
@@ -35536,6 +35813,34 @@
     "updated_at": 1784325887
   },
   {
+    "id": 2178,
+    "id_mal": 2178,
+    "url": "https://anilist.co/anime/2178",
+    "title": {
+      "english": "Highlander: The Search for Vengeance",
+      "romaji": "Highlander",
+      "native": "ハイランダー"
+    },
+    "description": "Colin MacLeod, the immortal Scottish Highlander, travels with the wise-cracking ghost Amergan in search of the immortal despot Marcus Octavius, who killed Colin's lover on the Celtic plains centuries earlier. The once great city of New York is now submerged under water, with only one dominant fortress towering over the sea, the fortress of Marcus Octavius. MacLeod is torn between saving the survivors of New York and hunting down his nemesis.\n<br><br>\n(Source: Anime News Network)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2178.jpg",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/2178-D8Km9Hoh8FQy.jpg",
+    "schedule": "Musim: WINTER 2007",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "WINTER",
+    "year": 2007,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 86,
+    "status": "FINISHED",
+    "score": 63,
+    "genres": [
+      "Action",
+      "Sci-Fi"
+    ],
+    "updated_at": 1784368905
+  },
+  {
     "id": 2175,
     "id_mal": 2175,
     "url": "https://anilist.co/anime/2175",
@@ -35676,7 +35981,7 @@
       "Fantasy",
       "Sci-Fi"
     ],
-    "updated_at": 1784340990
+    "updated_at": 1784368905
   },
   {
     "id": 2121,
@@ -36614,7 +36919,7 @@
       "Drama",
       "Supernatural"
     ],
-    "updated_at": 1784325887
+    "updated_at": 1784368905
   },
   {
     "id": 1681,
@@ -38878,7 +39183,7 @@
       "Adventure",
       "Sci-Fi"
     ],
-    "updated_at": 1784325887
+    "updated_at": 1784368905
   },
   {
     "id": 904,
@@ -39081,7 +39386,7 @@
       "Adventure",
       "Sci-Fi"
     ],
-    "updated_at": 1784325887
+    "updated_at": 1784368905
   },
   {
     "id": 897,
@@ -39692,7 +39997,7 @@
       "Psychological",
       "Supernatural"
     ],
-    "updated_at": 1784329393
+    "updated_at": 1784368905
   },
   {
     "id": 792,
@@ -40251,7 +40556,7 @@
       "Drama",
       "Sci-Fi"
     ],
-    "updated_at": 1784361739
+    "updated_at": 1784368905
   },
   {
     "id": 544,
@@ -41566,7 +41871,7 @@
       "Fantasy",
       "Sci-Fi"
     ],
-    "updated_at": 1784325887
+    "updated_at": 1784368905
   },
   {
     "id": 315,
