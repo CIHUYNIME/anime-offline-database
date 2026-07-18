@@ -335,7 +335,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784275323
+    "updated_at": 1784361747
   },
   {
     "id": 213908,
@@ -782,7 +782,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784322112
+    "updated_at": 1784361747
   },
   {
     "id": 213782,
@@ -1470,7 +1470,7 @@
     "genres": [
       "Drama"
     ],
-    "updated_at": 1784268108
+    "updated_at": 1784361747
   },
   {
     "id": 213338,
@@ -1499,7 +1499,7 @@
       "Comedy",
       "Drama"
     ],
-    "updated_at": 1784304124
+    "updated_at": 1784361740
   },
   {
     "id": 213316,
@@ -1532,7 +1532,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784300508
+    "updated_at": 1784361747
   },
   {
     "id": 213131,
@@ -1589,7 +1589,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784297603
+    "updated_at": 1784361747
   },
   {
     "id": 213068,
@@ -1617,7 +1617,7 @@
       "Action",
       "Mecha"
     ],
-    "updated_at": 1784340981
+    "updated_at": 1784361747
   },
   {
     "id": 213067,
@@ -1901,7 +1901,7 @@
       "Horror",
       "Mystery"
     ],
-    "updated_at": 1784325875
+    "updated_at": 1784361747
   },
   {
     "id": 212617,
@@ -2214,7 +2214,7 @@
       "Ecchi",
       "Romance"
     ],
-    "updated_at": 1784253710
+    "updated_at": 1784361747
   },
   {
     "id": 211778,
@@ -2500,7 +2500,7 @@
       "Action",
       "Fantasy"
     ],
-    "updated_at": 1784300508
+    "updated_at": 1784361747
   },
   {
     "id": 210483,
@@ -2853,7 +2853,7 @@
       "Comedy",
       "Romance"
     ],
-    "updated_at": 1784350916
+    "updated_at": 1784361747
   },
   {
     "id": 209670,
@@ -3114,7 +3114,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784297606
+    "updated_at": 1784361747
   },
   {
     "id": 209032,
@@ -3226,7 +3226,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784340973
+    "updated_at": 1784361747
   },
   {
     "id": 207782,
@@ -3459,7 +3459,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784358103
+    "updated_at": 1784361747
   },
   {
     "id": 206949,
@@ -3685,7 +3685,7 @@
       "Drama",
       "Romance"
     ],
-    "updated_at": 1784246837
+    "updated_at": 1784361747
   },
   {
     "id": 205896,
@@ -3948,7 +3948,7 @@
       "Sci-Fi",
       "Supernatural"
     ],
-    "updated_at": 1784340962
+    "updated_at": 1784361734
   },
   {
     "id": 204738,
@@ -4182,7 +4182,7 @@
       "Drama",
       "Fantasy"
     ],
-    "updated_at": 1784340944
+    "updated_at": 1784361747
   },
   {
     "id": 204431,
@@ -4665,7 +4665,7 @@
       "Ecchi",
       "Romance"
     ],
-    "updated_at": 1784341006
+    "updated_at": 1784361743
   },
   {
     "id": 202503,
@@ -4951,7 +4951,7 @@
       "Drama",
       "Mystery"
     ],
-    "updated_at": 1784253700
+    "updated_at": 1784361745
   },
   {
     "id": 200578,
@@ -5238,7 +5238,7 @@
       "Action",
       "Drama"
     ],
-    "updated_at": 1784325887
+    "updated_at": 1784361747
   },
   {
     "id": 199404,
@@ -5477,6 +5477,37 @@
     "updated_at": 1784268108
   },
   {
+    "id": 199007,
+    "id_mal": 62524,
+    "url": "https://anilist.co/anime/199007",
+    "title": {
+      "english": "",
+      "romaji": "#Zombie Sagashitemasu",
+      "native": "#ゾンビさがしてます"
+    },
+    "description": "The manga is set in a world where 90 percent of humans on Earth have contracted and died from a deadly, virulent disease; only to then rise again as zombies who only attack people. 13 years after that \"Red Day\" of societal and civilizational collapse, the surviving humans survive away from the big cities, while still hoping to retake them someday. An entirely new generation of people who know nothing of the pre-Red Day world are now coming into their own. The story begins when Aki and her close friends Haru and Natsuki begin a journey to find Aki's missing father.\n<br><br>\n(Source: Anime News Network)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199007-VkhbbXfdugl8.png",
+    "banner_url": "",
+    "schedule": "Musim: FALL 2026",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "FALL",
+    "year": 2026,
+    "format": "TV",
+    "episodes": null,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Horror",
+      "Mystery",
+      "Supernatural"
+    ],
+    "updated_at": 1784361747
+  },
+  {
     "id": 199006,
     "id_mal": 62503,
     "url": "https://anilist.co/anime/199006",
@@ -5501,7 +5532,7 @@
     "genres": [
       "Fantasy"
     ],
-    "updated_at": 1784282525
+    "updated_at": 1784361747
   },
   {
     "id": 198966,
@@ -5677,6 +5708,36 @@
     "updated_at": 1784246832
   },
   {
+    "id": 197620,
+    "id_mal": 62312,
+    "url": "https://anilist.co/anime/197620",
+    "title": {
+      "english": "Sekiro: No Defeat",
+      "romaji": "SEKIRO: NO DEFEAT",
+      "native": "SEKIRO: NO DEFEAT"
+    },
+    "description": "The time is Sengoku.<br>\n<br>\nJapan is fractured into many independent nations entangled in ceaseless war. At the center lies Ashina, a land of sacred earth and ancient mystery. Two decades after Sword Saint Isshin Ashina reclaimed the region in a brutal coup, a new threat emerges from within: The Interior Ministry. Desperate to protect his homeland, Isshin's grandson Genichiro turns to forbidden powers. The only hope lies in a kidnapped boy — the Divine Heir — and his silent protector: a loyal shinobi known only as Sekiro.<br>\n<br>\nThis is the story of a lord and his retainer — and their quest to restore balance to a nation on the edge.<br>\n<br>\n(Source: Crunchyroll)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx197620-L0qFQZzbmj5z.png",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/197620-G1ENu89amdst.jpg",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "TV",
+    "episodes": null,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy",
+      "Supernatural"
+    ],
+    "updated_at": 1784361732
+  },
+  {
     "id": 197543,
     "id_mal": 62270,
     "url": "https://anilist.co/anime/197543",
@@ -5702,7 +5763,7 @@
       "Drama",
       "Music"
     ],
-    "updated_at": 1784289621
+    "updated_at": 1784361747
   },
   {
     "id": 197095,
@@ -6261,7 +6322,7 @@
       "Music",
       "Slice of Life"
     ],
-    "updated_at": 1784268099
+    "updated_at": 1784361747
   },
   {
     "id": 194030,
@@ -6607,7 +6668,7 @@
       "Comedy",
       "Romance"
     ],
-    "updated_at": 1784350916
+    "updated_at": 1784361745
   },
   {
     "id": 189323,
@@ -6836,7 +6897,7 @@
       "Ecchi",
       "Fantasy"
     ],
-    "updated_at": 1784341006
+    "updated_at": 1784361747
   },
   {
     "id": 187477,
@@ -7520,7 +7581,7 @@
       "Comedy",
       "Slice of Life"
     ],
-    "updated_at": 1784340956
+    "updated_at": 1784361747
   },
   {
     "id": 183960,
@@ -7637,7 +7698,7 @@
       "Mahou Shoujo",
       "Slice of Life"
     ],
-    "updated_at": 1784358109
+    "updated_at": 1784361734
   },
   {
     "id": 181951,
@@ -7838,6 +7899,35 @@
       "Fantasy"
     ],
     "updated_at": 1784358109
+  },
+  {
+    "id": 178972,
+    "id_mal": 59217,
+    "url": "https://anilist.co/anime/178972",
+    "title": {
+      "english": "",
+      "romaji": "GROTESQQQUE",
+      "native": "GROTESQQQUE -グロテスク-"
+    },
+    "description": "Anthology movie consisting of three original animation segments:<br><br>\n\n<b>Q1 - ÆLIENS (エリィアンズ):</b><br>\nEarth has entered an era of intergalatic exchange. <br>\nAmidst swirling prejudice and fear of aliens, Elie, an alien girl, arrives as a space goodwill ambassador. She loves Earth's culture and its often absurd daily life, and has teamed up with a civil servant working at the space agency to search for \"friends\".<br><br>\n\n<b>Q2 - Yotsuyushika★Shoujo (夜露死駆★少女):</b><br>\nGALs TOKYO, a city where morning never comes.<br>\nNight after night, girls who have lost their place in reality, known as \"Gal P\", gather here. Their goal is to become the winner, the \"Queen\" in a game called \"Queen of Butterfly\" or \"QoB\" for short.<br><br>\n\n<b>Q3 - Nocturne: Kono Grotesque Yoru ni (ノクターン～このグロテスクな夜に～):</b><br>\nA world after humanity has perished.<br>\nTraveling in a van are Ayame, a pure-blooded vampire, and three girls who survived by being bitten and \"infected\" by her. There, they find a sky full of stars that illuminate the night as brightly as day, and fields of glittering golden grass—even a desolate world looks so beautiful through the eyes of a vampire.<br>\nThey enjoy a simple everyday life in this world left behind.<br><br>\n\n(Souce: Official Website, translated)<br><br>",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178972-wk88qoyg9HvZ.jpg",
+    "banner_url": "",
+    "schedule": "Episode 1 tayang pada 5/11/2026, 22.00.00 WIB",
+    "next_episode": 1,
+    "next_airing_timestamp": 1793890800,
+    "season": "FALL",
+    "year": 2026,
+    "format": "MOVIE",
+    "episodes": 3,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Action",
+      "Drama",
+      "Sci-Fi"
+    ],
+    "updated_at": 1784361747
   },
   {
     "id": 178467,
@@ -8442,7 +8532,7 @@
       "Action",
       "Sci-Fi"
     ],
-    "updated_at": 1784300508
+    "updated_at": 1784361747
   },
   {
     "id": 166457,
@@ -8671,7 +8761,7 @@
       "Adventure",
       "Comedy"
     ],
-    "updated_at": 1784325887
+    "updated_at": 1784361747
   },
   {
     "id": 161410,
@@ -8696,7 +8786,7 @@
     "status": "NOT_YET_RELEASED",
     "score": null,
     "genres": [],
-    "updated_at": 1784282581
+    "updated_at": 1784361747
   },
   {
     "id": 160803,
@@ -8726,7 +8816,7 @@
       "Mahou Shoujo",
       "Thriller"
     ],
-    "updated_at": 1784329393
+    "updated_at": 1784361747
   },
   {
     "id": 160275,
@@ -8816,7 +8906,7 @@
       "Mecha",
       "Sci-Fi"
     ],
-    "updated_at": 1784268099
+    "updated_at": 1784361747
   },
   {
     "id": 156631,
@@ -8934,7 +9024,7 @@
       "Romance",
       "Supernatural"
     ],
-    "updated_at": 1784340951
+    "updated_at": 1784361747
   },
   {
     "id": 143103,
@@ -8970,7 +9060,7 @@
     "id_mal": 60568,
     "url": "https://anilist.co/anime/141953",
     "title": {
-      "english": "",
+      "english": "False Memory",
       "romaji": "Jiyi Guanli Ju",
       "native": "记忆管理局"
     },
@@ -8992,7 +9082,7 @@
       "Mystery",
       "Psychological"
     ],
-    "updated_at": 1783962141
+    "updated_at": 1784361747
   },
   {
     "id": 138511,

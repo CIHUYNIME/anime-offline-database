@@ -50,7 +50,7 @@
     "status": "FINISHED",
     "score": null,
     "genres": [],
-    "updated_at": 1784350916
+    "updated_at": 1784361747
   },
   {
     "id": 214071,
@@ -75,7 +75,7 @@
     "status": "FINISHED",
     "score": null,
     "genres": [],
-    "updated_at": 1784275323
+    "updated_at": 1784361747
   },
   {
     "id": 214070,
@@ -1326,7 +1326,7 @@
       "Drama",
       "Music"
     ],
-    "updated_at": 1784289621
+    "updated_at": 1784361747
   },
   {
     "id": 197474,
@@ -1556,7 +1556,7 @@
       "Music",
       "Slice of Life"
     ],
-    "updated_at": 1784268099
+    "updated_at": 1784361747
   },
   {
     "id": 194029,
@@ -2049,7 +2049,34 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784246810
+    "updated_at": 1784361742
+  },
+  {
+    "id": 184351,
+    "id_mal": 62497,
+    "url": "https://anilist.co/anime/184351",
+    "title": {
+      "english": "ANOTHER WORLD",
+      "romaji": "Shi Wai",
+      "native": "世外"
+    },
+    "description": "While helping lost souls to get reborn, the spirit Gudo meets a girl called Yuri. He embarks on a 1,000-year journey to help her through her various incarnations to remove her Seed of Evil, a kernel within her that turns her into a monstrous Wrath if she gets consumed by anger. He learns that helping her find self-forgiveness for the tragic loss of her brother is the only way to save her.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx184351-iVieRSswcAT1.png",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/184351-P2YbuvB6isdF.jpg",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 111,
+    "status": "FINISHED",
+    "score": 66,
+    "genres": [
+      "Fantasy"
+    ],
+    "updated_at": 1784361747
   },
   {
     "id": 184334,
@@ -2221,7 +2248,7 @@
       "Drama",
       "Romance"
     ],
-    "updated_at": 1784325887
+    "updated_at": 1784361747
   },
   {
     "id": 181970,
@@ -2459,6 +2486,35 @@
       "Supernatural"
     ],
     "updated_at": 1784350916
+  },
+  {
+    "id": 178972,
+    "id_mal": 59217,
+    "url": "https://anilist.co/anime/178972",
+    "title": {
+      "english": "",
+      "romaji": "GROTESQQQUE",
+      "native": "GROTESQQQUE -グロテスク-"
+    },
+    "description": "Anthology movie consisting of three original animation segments:<br><br>\n\n<b>Q1 - ÆLIENS (エリィアンズ):</b><br>\nEarth has entered an era of intergalatic exchange. <br>\nAmidst swirling prejudice and fear of aliens, Elie, an alien girl, arrives as a space goodwill ambassador. She loves Earth's culture and its often absurd daily life, and has teamed up with a civil servant working at the space agency to search for \"friends\".<br><br>\n\n<b>Q2 - Yotsuyushika★Shoujo (夜露死駆★少女):</b><br>\nGALs TOKYO, a city where morning never comes.<br>\nNight after night, girls who have lost their place in reality, known as \"Gal P\", gather here. Their goal is to become the winner, the \"Queen\" in a game called \"Queen of Butterfly\" or \"QoB\" for short.<br><br>\n\n<b>Q3 - Nocturne: Kono Grotesque Yoru ni (ノクターン～このグロテスクな夜に～):</b><br>\nA world after humanity has perished.<br>\nTraveling in a van are Ayame, a pure-blooded vampire, and three girls who survived by being bitten and \"infected\" by her. There, they find a sky full of stars that illuminate the night as brightly as day, and fields of glittering golden grass—even a desolate world looks so beautiful through the eyes of a vampire.<br>\nThey enjoy a simple everyday life in this world left behind.<br><br>\n\n(Souce: Official Website, translated)<br><br>",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178972-wk88qoyg9HvZ.jpg",
+    "banner_url": "",
+    "schedule": "Episode 1 tayang pada 5/11/2026, 22.00.00 WIB",
+    "next_episode": 1,
+    "next_airing_timestamp": 1793890800,
+    "season": "FALL",
+    "year": 2026,
+    "format": "MOVIE",
+    "episodes": 3,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Action",
+      "Drama",
+      "Sci-Fi"
+    ],
+    "updated_at": 1784361747
   },
   {
     "id": 178788,
@@ -2829,7 +2885,7 @@
       "Slice of Life",
       "Sports"
     ],
-    "updated_at": 1784300508
+    "updated_at": 1784361738
   },
   {
     "id": 176245,
@@ -3114,7 +3170,7 @@
       "Slice of Life",
       "Sports"
     ],
-    "updated_at": 1784253688
+    "updated_at": 1784361737
   },
   {
     "id": 171952,
@@ -4375,7 +4431,7 @@
       "Mecha",
       "Sci-Fi"
     ],
-    "updated_at": 1784268099
+    "updated_at": 1784361747
   },
   {
     "id": 157176,
@@ -4711,7 +4767,7 @@
       "Drama",
       "Sports"
     ],
-    "updated_at": 1784268100
+    "updated_at": 1784361747
   },
   {
     "id": 151743,
@@ -4819,7 +4875,7 @@
       "Psychological",
       "Supernatural"
     ],
-    "updated_at": 1784340950
+    "updated_at": 1784361747
   },
   {
     "id": 150084,
@@ -5500,7 +5556,7 @@
       "Music",
       "Supernatural"
     ],
-    "updated_at": 1784358102
+    "updated_at": 1784361747
   },
   {
     "id": 140113,
@@ -5618,7 +5674,7 @@
       "Romance",
       "Sci-Fi"
     ],
-    "updated_at": 1784318462
+    "updated_at": 1784361747
   },
   {
     "id": 139310,
@@ -5646,7 +5702,7 @@
       "Romance",
       "Sci-Fi"
     ],
-    "updated_at": 1784318498
+    "updated_at": 1784361747
   },
   {
     "id": 139273,
@@ -5677,6 +5733,35 @@
     "updated_at": 1784358109
   },
   {
+    "id": 138899,
+    "id_mal": 49402,
+    "url": "https://anilist.co/anime/138899",
+    "title": {
+      "english": "Ghost in the Shell: SAC_2045 Sustainable War",
+      "romaji": "Koukaku Kidoutai: SAC_2045 - Jizoku Kanou Sensou",
+      "native": "攻殻機動隊 SAC_2045 持続可能戦争"
+    },
+    "description": "Film compiling the first season of <i>Koukaku Kidoutai: SAC_2045</i> with the addition of new scenes and full re-color grading of all footage.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx138899-mtjPqyGw7Yxf.jpg",
+    "banner_url": "",
+    "schedule": "Musim: FALL 2021",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "FALL",
+    "year": 2021,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 120,
+    "status": "FINISHED",
+    "score": 60,
+    "genres": [
+      "Action",
+      "Mystery",
+      "Sci-Fi"
+    ],
+    "updated_at": 1784361747
+  },
+  {
     "id": 138425,
     "id_mal": 49722,
     "url": "https://anilist.co/anime/138425",
@@ -5704,6 +5789,34 @@
       "Slice of Life"
     ],
     "updated_at": 1784325887
+  },
+  {
+    "id": 138379,
+    "id_mal": 49665,
+    "url": "https://anilist.co/anime/138379",
+    "title": {
+      "english": "",
+      "romaji": "Blue Thermal",
+      "native": "ブルーサーマル"
+    },
+    "description": "\"I want to experience a love that sparkles!\" Arriving from Nagasaki with her wishful mantra is Tamaki Tsuru, who in high school could think only about volleyball. Things don’t begin well, however, when she looks for an extracurricular club to join and proceeds to immediately ding a glider at aviation club tryouts ending up having to work it off. She is initially disillusioned with campus life. Then Kuramochi, the club leader and glider pilot, takes Tamaki under his wing, and from the moment he takes her up for a flight in a glider, Tamaki becomes a captive of the vast beauty of the skies.<br>\n<br>\n(Source: Eleven Arts)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx138379-9oCYnGuO5bud.jpg",
+    "banner_url": "",
+    "schedule": "Musim: WINTER 2022",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "WINTER",
+    "year": 2022,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 104,
+    "status": "FINISHED",
+    "score": 66,
+    "genres": [
+      "Drama",
+      "Sports"
+    ],
+    "updated_at": 1784361747
   },
   {
     "id": 137612,
@@ -6023,7 +6136,7 @@
       "Drama",
       "Sports"
     ],
-    "updated_at": 1784350916
+    "updated_at": 1784361747
   },
   {
     "id": 133007,
@@ -6167,7 +6280,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784350916
+    "updated_at": 1784361747
   },
   {
     "id": 131573,
@@ -6369,7 +6482,7 @@
       "Drama",
       "Supernatural"
     ],
-    "updated_at": 1784329393
+    "updated_at": 1784361747
   },
   {
     "id": 129759,
@@ -7869,7 +7982,7 @@
     "genres": [
       "Fantasy"
     ],
-    "updated_at": 1784288076
+    "updated_at": 1784361747
   },
   {
     "id": 119258,
@@ -7928,7 +8041,7 @@
       "Fantasy",
       "Mystery"
     ],
-    "updated_at": 1784350916
+    "updated_at": 1784361747
   },
   {
     "id": 118936,
@@ -8043,7 +8156,7 @@
       "Adventure",
       "Supernatural"
     ],
-    "updated_at": 1784288276
+    "updated_at": 1784361747
   },
   {
     "id": 118126,
@@ -9214,7 +9327,7 @@
       "Music",
       "Psychological"
     ],
-    "updated_at": 1784329393
+    "updated_at": 1784361747
   },
   {
     "id": 113023,
@@ -10307,7 +10420,7 @@
       "Fantasy",
       "Supernatural"
     ],
-    "updated_at": 1784290970
+    "updated_at": 1784361747
   },
   {
     "id": 109931,
@@ -11939,7 +12052,7 @@
       "Romance",
       "Sci-Fi"
     ],
-    "updated_at": 1784329393
+    "updated_at": 1784361734
   },
   {
     "id": 106206,
@@ -12027,7 +12140,7 @@
       "Mecha",
       "Sci-Fi"
     ],
-    "updated_at": 1784322117
+    "updated_at": 1784361747
   },
   {
     "id": 105445,
@@ -12424,7 +12537,7 @@
       "Romance",
       "Sci-Fi"
     ],
-    "updated_at": 1784275323
+    "updated_at": 1784361747
   },
   {
     "id": 104557,
@@ -12563,7 +12676,7 @@
       "Comedy",
       "Slice of Life"
     ],
-    "updated_at": 1784304124
+    "updated_at": 1784361747
   },
   {
     "id": 104456,
@@ -15539,7 +15652,7 @@
       "Sci-Fi",
       "Thriller"
     ],
-    "updated_at": 1784358102
+    "updated_at": 1784361747
   },
   {
     "id": 101812,
@@ -16555,7 +16668,7 @@
       "Drama",
       "Sci-Fi"
     ],
-    "updated_at": 1784340962
+    "updated_at": 1784361747
   },
   {
     "id": 100675,
@@ -17020,7 +17133,7 @@
       "Music",
       "Slice of Life"
     ],
-    "updated_at": 1784350916
+    "updated_at": 1784361747
   },
   {
     "id": 100130,
@@ -18145,7 +18258,7 @@
       "Horror",
       "Supernatural"
     ],
-    "updated_at": 1784289673
+    "updated_at": 1784361747
   },
   {
     "id": 97917,
@@ -18232,7 +18345,7 @@
       "Mecha",
       "Sci-Fi"
     ],
-    "updated_at": 1784333038
+    "updated_at": 1784361747
   },
   {
     "id": 97858,
@@ -18324,7 +18437,7 @@
       "Sci-Fi",
       "Supernatural"
     ],
-    "updated_at": 1784275323
+    "updated_at": 1784361747
   },
   {
     "id": 97661,
@@ -18758,7 +18871,7 @@
       "Fantasy",
       "Sci-Fi"
     ],
-    "updated_at": 1784302332
+    "updated_at": 1784361747
   },
   {
     "id": 21757,
@@ -19449,7 +19562,7 @@
       "Drama",
       "Fantasy"
     ],
-    "updated_at": 1784350916
+    "updated_at": 1784361747
   },
   {
     "id": 21314,
@@ -19506,7 +19619,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784329393
+    "updated_at": 1784361747
   },
   {
     "id": 21295,
@@ -19563,7 +19676,7 @@
       "Drama",
       "Sports"
     ],
-    "updated_at": 1783947867
+    "updated_at": 1784361747
   },
   {
     "id": 21266,
@@ -19621,7 +19734,7 @@
       "Adventure",
       "Sci-Fi"
     ],
-    "updated_at": 1784322117
+    "updated_at": 1784361747
   },
   {
     "id": 21248,
@@ -19739,7 +19852,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784340996
+    "updated_at": 1784361747
   },
   {
     "id": 21178,
@@ -19971,7 +20084,7 @@
       "Drama",
       "Sports"
     ],
-    "updated_at": 1784333012
+    "updated_at": 1784361741
   },
   {
     "id": 21114,
@@ -20356,7 +20469,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784333008
+    "updated_at": 1784361739
   },
   {
     "id": 20965,
@@ -20616,7 +20729,7 @@
       "Mystery",
       "Slice of Life"
     ],
-    "updated_at": 1784333006
+    "updated_at": 1784361747
   },
   {
     "id": 20842,
@@ -20880,7 +20993,7 @@
       "Music",
       "Slice of Life"
     ],
-    "updated_at": 1784333003
+    "updated_at": 1784361747
   },
   {
     "id": 20764,
@@ -21000,7 +21113,7 @@
       "Romance",
       "Sci-Fi"
     ],
-    "updated_at": 1784329393
+    "updated_at": 1784361747
   },
   {
     "id": 20737,
@@ -21239,7 +21352,7 @@
       "Drama",
       "Fantasy"
     ],
-    "updated_at": 1784306771
+    "updated_at": 1784361747
   },
   {
     "id": 20559,
@@ -21524,7 +21637,7 @@
       "Adventure",
       "Romance"
     ],
-    "updated_at": 1784340990
+    "updated_at": 1784361747
   },
   {
     "id": 20442,
@@ -21610,7 +21723,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784332989
+    "updated_at": 1784361740
   },
   {
     "id": 19943,
@@ -21834,7 +21947,7 @@
       "Psychological",
       "Sci-Fi"
     ],
-    "updated_at": 1784307871
+    "updated_at": 1784361737
   },
   {
     "id": 19193,
@@ -21864,7 +21977,7 @@
       "Romance",
       "Sci-Fi"
     ],
-    "updated_at": 1784307871
+    "updated_at": 1784361737
   },
   {
     "id": 19191,
@@ -21893,7 +22006,7 @@
       "Psychological",
       "Sci-Fi"
     ],
-    "updated_at": 1784307872
+    "updated_at": 1784361737
   },
   {
     "id": 19167,
@@ -22086,7 +22199,7 @@
       "Action",
       "Sports"
     ],
-    "updated_at": 1784350916
+    "updated_at": 1784361736
   },
   {
     "id": 18591,
@@ -22280,7 +22393,7 @@
       "Mecha",
       "Sci-Fi"
     ],
-    "updated_at": 1784350913
+    "updated_at": 1784361747
   },
   {
     "id": 17721,
@@ -22705,7 +22818,7 @@
       "Sci-Fi",
       "Thriller"
     ],
-    "updated_at": 1784350916
+    "updated_at": 1784361733
   },
   {
     "id": 17121,
@@ -22816,7 +22929,7 @@
       "Action",
       "Supernatural"
     ],
-    "updated_at": 1784325887
+    "updated_at": 1784361747
   },
   {
     "id": 16870,
@@ -22991,7 +23104,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784308149
+    "updated_at": 1784361747
   },
   {
     "id": 16664,
@@ -23020,7 +23133,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784332972
+    "updated_at": 1784361747
   },
   {
     "id": 16662,
@@ -23966,7 +24079,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784358104
+    "updated_at": 1784361747
   },
   {
     "id": 14293,
@@ -24110,6 +24223,37 @@
       "Fantasy"
     ],
     "updated_at": 1784309645
+  },
+  {
+    "id": 13863,
+    "id_mal": 13863,
+    "url": "https://anilist.co/anime/13863",
+    "title": {
+      "english": "",
+      "romaji": "Arve Rezzle: Kikaijikake no Yousei-tachi",
+      "native": "アルヴ・レズル -機械仕掛けの妖精たち-"
+    },
+    "description": "A cyber battle sci-fi. In 2022, the technology of quantum computing has greatly advanced and many people have transfered their mind into the cyber space. <br>\n<br>\nRemu's sister-in-law, Shiki, skipped grades and entered a high school in the academic city \"Okinotori-island Mega Float City (OMFC)\" when she was 14. One day, Shiki confessed to her brother via Skype that she was talking to him directly from the cyber space and her real body had been kept in a water tank filled with a culture medium. It's called \"Body pool\" and Shiki connected to the network by nanomachines implanted in her brain. <br>\n<br>\nRemu was surprised but he accepted her decision until an accident called \"Early Rupture\" happened. The network server got overloaded and users' minds were lost in cyber space leaving soulless living bodies in the Body Pools. In order to bring Shiki's mind back, Remu visits her apartment in OMFC and there meets Shiki escaped from the hospital. But the girl tells him that she is not Shiki and she happens to haven taken over Shiki's body.<br>\n<br>\nWhen Remu tries to figure out the situation, a violent attack strikes the apartment.<br>\n<br>\nArve Rezzle: Kikaijikake no Yousei-tachi was one of the four films of Anime Mirai 2013 (Young Animator Training Project), a project funded by the Japanese government's Agency of Cultural Affairs in order to support training animators.<br>\n<br>\nIt was pre-aired on February 25, 2013 on nicolive.\n",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/13863.jpg",
+    "banner_url": "",
+    "schedule": "Musim: WINTER 2013",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "WINTER",
+    "year": 2013,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 24,
+    "status": "FINISHED",
+    "score": 57,
+    "genres": [
+      "Action",
+      "Drama",
+      "Mystery",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "updated_at": 1784361747
   },
   {
     "id": 13709,
@@ -24501,7 +24645,7 @@
       "Comedy",
       "Drama"
     ],
-    "updated_at": 1784350916
+    "updated_at": 1784361747
   },
   {
     "id": 12857,
@@ -24761,7 +24905,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784340966
+    "updated_at": 1784361745
   },
   {
     "id": 12223,
@@ -24908,7 +25052,7 @@
       "Horror",
       "Supernatural"
     ],
-    "updated_at": 1784332948
+    "updated_at": 1784361747
   },
   {
     "id": 12113,
@@ -25356,7 +25500,7 @@
       "Fantasy",
       "Mystery"
     ],
-    "updated_at": 1784358105
+    "updated_at": 1784361747
   },
   {
     "id": 10904,
@@ -25903,7 +26047,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784318453
+    "updated_at": 1784361747
   },
   {
     "id": 9999,
@@ -25933,7 +26077,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784350916
+    "updated_at": 1784361747
   },
   {
     "id": 9963,
@@ -27138,6 +27282,35 @@
     "updated_at": 1784311873
   },
   {
+    "id": 8361,
+    "id_mal": 8361,
+    "url": "https://anilist.co/anime/8361",
+    "title": {
+      "english": "Crayon Shin-chan: Explosion! The Hot Spring's Feel Good Final Battle",
+      "romaji": "Crayon Shin-chan: Bakuhatsu! Onsen Wakuwaku Daikessen",
+      "native": "映画 クレヨンしんちゃん　爆発！温泉わくわく大決戦"
+    },
+    "description": "The Nohara family and \"Onsen G-Men\", the secret government agency maintaining all the hot springs in Japan, fight against \"Yuzame\", a bath-hating terrorist organization plotting to wipe out all the hot springs in Japan.<br>\n<br>\n(Source Bilibili TV)\n",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8361.jpg",
+    "banner_url": "",
+    "schedule": "Musim: SPRING 1999",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "SPRING",
+    "year": 1999,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 110,
+    "status": "FINISHED",
+    "score": 65,
+    "genres": [
+      "Comedy",
+      "Ecchi",
+      "Slice of Life"
+    ],
+    "updated_at": 1784361747
+  },
+  {
     "id": 8359,
     "id_mal": 8359,
     "url": "https://anilist.co/anime/8359",
@@ -27281,7 +27454,7 @@
       "Action",
       "Comedy"
     ],
-    "updated_at": 1784311911
+    "updated_at": 1784361747
   },
   {
     "id": 8245,
@@ -29673,7 +29846,7 @@
     "genres": [
       "Adventure"
     ],
-    "updated_at": 1784325887
+    "updated_at": 1784361747
   },
   {
     "id": 6950,
@@ -30042,7 +30215,7 @@
       "Sci-Fi",
       "Sports"
     ],
-    "updated_at": 1784358100
+    "updated_at": 1784361747
   },
   {
     "id": 6654,
@@ -30424,7 +30597,7 @@
       "Action",
       "Comedy"
     ],
-    "updated_at": 1784312337
+    "updated_at": 1784361747
   },
   {
     "id": 6288,
@@ -30599,7 +30772,7 @@
       "Mystery",
       "Sci-Fi"
     ],
-    "updated_at": 1784312371
+    "updated_at": 1784361747
   },
   {
     "id": 6169,
@@ -30628,7 +30801,7 @@
       "Fantasy",
       "Supernatural"
     ],
-    "updated_at": 1784312372
+    "updated_at": 1784361735
   },
   {
     "id": 6162,
@@ -30826,7 +30999,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784358105
+    "updated_at": 1784361747
   },
   {
     "id": 5917,
@@ -32379,7 +32552,7 @@
       "Action",
       "Supernatural"
     ],
-    "updated_at": 1784329393
+    "updated_at": 1784361747
   },
   {
     "id": 4406,
@@ -33089,7 +33262,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784350916
+    "updated_at": 1784361747
   },
   {
     "id": 3848,
@@ -33119,7 +33292,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784350916
+    "updated_at": 1784361747
   },
   {
     "id": 3786,
@@ -33471,7 +33644,7 @@
       "Drama",
       "Psychological"
     ],
-    "updated_at": 1784318498
+    "updated_at": 1784361747
   },
   {
     "id": 3215,
@@ -34865,7 +35038,7 @@
     "genres": [
       "Adventure"
     ],
-    "updated_at": 1784282525
+    "updated_at": 1784361744
   },
   {
     "id": 2560,
@@ -35640,7 +35813,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784350916
+    "updated_at": 1784361747
   },
   {
     "id": 2099,
@@ -35908,6 +36081,36 @@
     "updated_at": 1783945915
   },
   {
+    "id": 1961,
+    "id_mal": 1961,
+    "url": "https://anilist.co/anime/1961",
+    "title": {
+      "english": "One Stormy Night",
+      "romaji": "Arashi no Yoru ni",
+      "native": "あらしのよるに"
+    },
+    "description": "A story about a goat and a wolf who become friends in a stormy night, and how they overcome differences and hardships.\n<br><br>\n(Source: Anime News Network)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b1961-L9Hw5BgBaNT1.jpg",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/1961-4egbAOXxBCQs.jpg",
+    "schedule": "Musim: FALL 2005",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "FALL",
+    "year": 2005,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 107,
+    "status": "FINISHED",
+    "score": 72,
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Drama",
+      "Fantasy"
+    ],
+    "updated_at": 1784361747
+  },
+  {
     "id": 1951,
     "id_mal": 1951,
     "url": "https://anilist.co/anime/1951",
@@ -36144,7 +36347,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784329393
+    "updated_at": 1784361747
   },
   {
     "id": 1825,
@@ -36441,7 +36644,7 @@
       "Fantasy",
       "Supernatural"
     ],
-    "updated_at": 1784358108
+    "updated_at": 1784361747
   },
   {
     "id": 1626,
@@ -38461,7 +38664,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784329393
+    "updated_at": 1784361747
   },
   {
     "id": 1010,
@@ -38646,7 +38849,7 @@
       "Adventure",
       "Sci-Fi"
     ],
-    "updated_at": 1784325887
+    "updated_at": 1784361747
   },
   {
     "id": 905,
@@ -38704,7 +38907,7 @@
       "Adventure",
       "Sci-Fi"
     ],
-    "updated_at": 1784329393
+    "updated_at": 1784361747
   },
   {
     "id": 903,
@@ -38762,7 +38965,7 @@
       "Adventure",
       "Sci-Fi"
     ],
-    "updated_at": 1784350916
+    "updated_at": 1784361747
   },
   {
     "id": 901,
@@ -38791,7 +38994,7 @@
       "Adventure",
       "Sci-Fi"
     ],
-    "updated_at": 1784315855
+    "updated_at": 1784361747
   },
   {
     "id": 900,
@@ -38849,7 +39052,7 @@
       "Adventure",
       "Sci-Fi"
     ],
-    "updated_at": 1784325887
+    "updated_at": 1784361747
   },
   {
     "id": 898,
@@ -38994,7 +39197,7 @@
       "Adventure",
       "Sci-Fi"
     ],
-    "updated_at": 1784350916
+    "updated_at": 1784361747
   },
   {
     "id": 893,
@@ -39899,7 +40102,7 @@
       "Drama",
       "Fantasy"
     ],
-    "updated_at": 1784329393
+    "updated_at": 1784361747
   },
   {
     "id": 585,
@@ -40048,7 +40251,7 @@
       "Drama",
       "Sci-Fi"
     ],
-    "updated_at": 1784350916
+    "updated_at": 1784361739
   },
   {
     "id": 544,
@@ -40201,7 +40404,7 @@
       "Fantasy",
       "Sci-Fi"
     ],
-    "updated_at": 1784322117
+    "updated_at": 1784361747
   },
   {
     "id": 523,
@@ -40350,7 +40553,7 @@
       "Fantasy",
       "Sci-Fi"
     ],
-    "updated_at": 1784316495
+    "updated_at": 1784361747
   },
   {
     "id": 512,
@@ -40674,7 +40877,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784316600
+    "updated_at": 1784361747
   },
   {
     "id": 462,
@@ -41215,7 +41418,7 @@
       "Comedy",
       "Slice of Life"
     ],
-    "updated_at": 1784329393
+    "updated_at": 1784361747
   },
   {
     "id": 405,
@@ -41573,7 +41776,7 @@
       "Romance",
       "Sports"
     ],
-    "updated_at": 1784322117
+    "updated_at": 1784361747
   },
   {
     "id": 164,
@@ -41902,7 +42105,7 @@
       "Psychological",
       "Sci-Fi"
     ],
-    "updated_at": 1784325887
+    "updated_at": 1784361747
   },
   {
     "id": 5,

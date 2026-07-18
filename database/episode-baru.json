@@ -29,93 +29,6 @@
     "updated_at": 1783948413
   },
   {
-    "id": 966,
-    "id_mal": 966,
-    "url": "https://anilist.co/anime/966",
-    "title": {
-      "english": "Shin Chan",
-      "romaji": "Crayon Shin-chan",
-      "native": "クレヨンしんちゃん"
-    },
-    "description": "Crayon Shin-chan follows the wacky antics and adventures of five-year-old Shinnosuke \"Shin\" Nohara and his parents, neighbors, and friends and is set in Kasukabe, Saitama Prefecture, Japan.<br><br>\nMany of the jokes in the series stem from Shin-chan's occasionally weird, unnatural and inappropriate use of language, as well as from his inappropriate behavior. A typical gag involves Shin-chan confounding his parents by using the wrong phrase for the occasion; for example, saying \"Welcome back!\" instead of \"I am back!\" when he comes home.<br><br>\nDuring the beginning of the series, the TV show was mostly based on the storyline in the original manga. As the show progressed, more and more episodes became anime-original.",
-    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b966-QUCdKAk4ls9J.jpg",
-    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/966-J5CwLLTBs4OO.jpg",
-    "schedule": "Episode 1344 tayang pada 18/7/2026, 14.30.00 WIB",
-    "next_episode": 1344,
-    "next_airing_timestamp": 1784359800,
-    "season": "SPRING",
-    "year": 1992,
-    "format": "TV",
-    "episodes": null,
-    "duration": 21,
-    "status": "RELEASING",
-    "score": 77,
-    "genres": [
-      "Comedy",
-      "Ecchi",
-      "Slice of Life"
-    ],
-    "updated_at": 1784358034
-  },
-  {
-    "id": 8687,
-    "id_mal": 8687,
-    "url": "https://anilist.co/anime/8687",
-    "title": {
-      "english": "",
-      "romaji": "Doraemon (2005)",
-      "native": "ドラえもん (2005)"
-    },
-    "description": "A new Doraemon series produced by the same team as the 1979 series (in association with Studio Pierrot) with new voice actors and staff and updated character designs.",
-    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b8687-bBnJMGnih4PT.jpg",
-    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/8687-aa3QbJjGfy3B.jpg",
-    "schedule": "Episode 924 tayang pada 18/7/2026, 15.00.00 WIB",
-    "next_episode": 924,
-    "next_airing_timestamp": 1784361600,
-    "season": "SPRING",
-    "year": 2005,
-    "format": "TV",
-    "episodes": null,
-    "duration": 25,
-    "status": "RELEASING",
-    "score": 77,
-    "genres": [
-      "Adventure",
-      "Comedy",
-      "Sci-Fi"
-    ],
-    "updated_at": 1784358109
-  },
-  {
-    "id": 171110,
-    "id_mal": 57466,
-    "url": "https://anilist.co/anime/171110",
-    "title": {
-      "english": "Ascendance of a Bookworm: Adopted Daughter of an Archduke",
-      "romaji": "Honzuki no Gekokujou: Ryoushu no Youjo",
-      "native": "本好きの下剋上 領主の養女"
-    },
-    "description": "Anime adaptation of Part 3 of <i>Honzuki no Gekokujou</i>.\n<br><br>\nFollowing a disastrous encounter with a noble, Myne finally resolves to say goodbye to her family and friends in the lower city, changing her name to “Rozemyne” and beginning her new life as the adopted daughter of Ehrenfest’s archduke. However, her days as an archnoble in noble society are brutal, as she is put through rigorous etiquette and magic training on top of her duties as High Bishop and forewoman. It all proves too much for a weak little seven-year-old girl... Or it would have, had the High Priest not offered her the keys to the temple’s book room as a reward. If she could get her hands on those, she’d be able to read all sorts of precious books! Her name may have changed, but Rozemyne’s passion for books remains the same as she charges into a whole new world! The detailed setting expands as the printing industry grows in size. Here begins Part 3 of this biblio-fantasy for book lovers everywhere!\n<br><br>\n(Source: J-Novel Club)",
-    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171110-7zOdInS6DQNL.jpg",
-    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/171110-lgtmKokpevUM.jpg",
-    "schedule": "Episode 14 tayang pada 18/7/2026, 15.30.00 WIB",
-    "next_episode": 14,
-    "next_airing_timestamp": 1784363400,
-    "season": "SPRING",
-    "year": 2026,
-    "format": "TV",
-    "episodes": null,
-    "duration": 24,
-    "status": "RELEASING",
-    "score": 76,
-    "genres": [
-      "Drama",
-      "Fantasy",
-      "Slice of Life"
-    ],
-    "updated_at": 1784358032
-  },
-  {
     "id": 235,
     "id_mal": 235,
     "url": "https://anilist.co/anime/235",
@@ -143,7 +56,7 @@
       "Mystery",
       "Psychological"
     ],
-    "updated_at": 1784358004
+    "updated_at": 1784361672
   },
   {
     "id": 184492,
@@ -172,7 +85,7 @@
       "Fantasy",
       "Supernatural"
     ],
-    "updated_at": 1784358004
+    "updated_at": 1784361651
   },
   {
     "id": 213356,
@@ -229,7 +142,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784358041
+    "updated_at": 1784361661
   },
   {
     "id": 187538,
@@ -260,7 +173,7 @@
       "Sci-Fi",
       "Supernatural"
     ],
-    "updated_at": 1784358009
+    "updated_at": 1784361658
   },
   {
     "id": 206249,
@@ -319,7 +232,7 @@
       "Fantasy",
       "Supernatural"
     ],
-    "updated_at": 1784358009
+    "updated_at": 1784361612
   },
   {
     "id": 190569,
@@ -346,7 +259,7 @@
     "genres": [
       "Drama"
     ],
-    "updated_at": 1784358023
+    "updated_at": 1784361616
   },
   {
     "id": 196012,
@@ -376,7 +289,7 @@
       "Romance",
       "Supernatural"
     ],
-    "updated_at": 1784358054
+    "updated_at": 1784361687
   },
   {
     "id": 211181,
@@ -405,7 +318,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784322117
+    "updated_at": 1784361736
   },
   {
     "id": 196017,
@@ -459,7 +372,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784358050
+    "updated_at": 1784361668
   },
   {
     "id": 185692,
@@ -489,7 +402,7 @@
       "Fantasy",
       "Mahou Shoujo"
     ],
-    "updated_at": 1784358041
+    "updated_at": 1784361663
   },
   {
     "id": 185875,
@@ -520,7 +433,7 @@
       "Fantasy",
       "Mahou Shoujo"
     ],
-    "updated_at": 1784358109
+    "updated_at": 1784361674
   },
   {
     "id": 208225,
@@ -548,7 +461,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784358070
+    "updated_at": 1784361675
   },
   {
     "id": 199066,
@@ -577,7 +490,7 @@
       "Romance",
       "Supernatural"
     ],
-    "updated_at": 1784358021
+    "updated_at": 1784361672
   },
   {
     "id": 201514,
@@ -605,7 +518,7 @@
       "Comedy",
       "Romance"
     ],
-    "updated_at": 1784358021
+    "updated_at": 1784361627
   },
   {
     "id": 208824,
@@ -630,7 +543,7 @@
     "status": "RELEASING",
     "score": null,
     "genres": [],
-    "updated_at": 1784358109
+    "updated_at": 1784361686
   },
   {
     "id": 204269,
@@ -768,7 +681,7 @@
       "Mahou Shoujo",
       "Mystery"
     ],
-    "updated_at": 1784358075
+    "updated_at": 1784361670
   },
   {
     "id": 188388,
@@ -798,7 +711,7 @@
       "Fantasy",
       "Sci-Fi"
     ],
-    "updated_at": 1784358039
+    "updated_at": 1784361668
   },
   {
     "id": 206523,
@@ -882,7 +795,7 @@
       "Horror",
       "Supernatural"
     ],
-    "updated_at": 1784358050
+    "updated_at": 1784361658
   },
   {
     "id": 210031,
@@ -940,7 +853,7 @@
       "Action",
       "Comedy"
     ],
-    "updated_at": 1784358029
+    "updated_at": 1784361644
   },
   {
     "id": 118123,
@@ -1083,7 +996,7 @@
       "Adventure",
       "Romance"
     ],
-    "updated_at": 1784358005
+    "updated_at": 1784361630
   },
   {
     "id": 21,
@@ -1114,7 +1027,7 @@
       "Drama",
       "Fantasy"
     ],
-    "updated_at": 1784358009
+    "updated_at": 1784361623
   },
   {
     "id": 196974,
@@ -1141,7 +1054,7 @@
     "genres": [
       "Fantasy"
     ],
-    "updated_at": 1784358071
+    "updated_at": 1784361630
   },
   {
     "id": 188139,
@@ -1169,7 +1082,7 @@
       "Drama",
       "Romance"
     ],
-    "updated_at": 1784358046
+    "updated_at": 1784361631
   },
   {
     "id": 178789,
@@ -1199,7 +1112,7 @@
       "Ecchi",
       "Fantasy"
     ],
-    "updated_at": 1784358012
+    "updated_at": 1784361624
   },
   {
     "id": 177637,
@@ -1227,7 +1140,7 @@
       "Romance",
       "Supernatural"
     ],
-    "updated_at": 1784358021
+    "updated_at": 1784361607
   },
   {
     "id": 205116,
@@ -1367,7 +1280,7 @@
       "Drama",
       "Fantasy"
     ],
-    "updated_at": 1784358006
+    "updated_at": 1784361655
   },
   {
     "id": 169582,
@@ -1398,7 +1311,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784358018
+    "updated_at": 1784361666
   },
   {
     "id": 202269,
@@ -1426,7 +1339,7 @@
       "Drama",
       "Romance"
     ],
-    "updated_at": 1784358011
+    "updated_at": 1784361617
   },
   {
     "id": 206521,
@@ -1453,7 +1366,7 @@
     "genres": [
       "Drama"
     ],
-    "updated_at": 1784358010
+    "updated_at": 1784361658
   },
   {
     "id": 185542,
@@ -1483,7 +1396,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784358010
+    "updated_at": 1784361632
   },
   {
     "id": 199408,
@@ -1511,7 +1424,7 @@
       "Drama",
       "Fantasy"
     ],
-    "updated_at": 1784358019
+    "updated_at": 1784361657
   },
   {
     "id": 209504,
@@ -1541,7 +1454,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784358027
+    "updated_at": 1784361666
   },
   {
     "id": 195833,
@@ -1569,7 +1482,7 @@
       "Comedy",
       "Sports"
     ],
-    "updated_at": 1784358059
+    "updated_at": 1784361747
   },
   {
     "id": 169583,
@@ -1626,7 +1539,7 @@
       "Slice of Life",
       "Sports"
     ],
-    "updated_at": 1784358031
+    "updated_at": 1784361647
   },
   {
     "id": 197754,
@@ -1654,7 +1567,7 @@
       "Drama",
       "Psychological"
     ],
-    "updated_at": 1784358018
+    "updated_at": 1784361657
   },
   {
     "id": 140842,
@@ -1682,7 +1595,7 @@
       "Comedy",
       "Slice of Life"
     ],
-    "updated_at": 1784358042
+    "updated_at": 1784361626
   },
   {
     "id": 213188,
@@ -1740,7 +1653,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784358061
+    "updated_at": 1784361703
   },
   {
     "id": 128757,
@@ -1767,7 +1680,7 @@
     "genres": [
       "Drama"
     ],
-    "updated_at": 1784358009
+    "updated_at": 1784361655
   },
   {
     "id": 187260,
@@ -1796,7 +1709,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784358004
+    "updated_at": 1784361638
   },
   {
     "id": 213665,
@@ -1853,7 +1766,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784358010
+    "updated_at": 1784361665
   },
   {
     "id": 177699,
@@ -1882,7 +1795,7 @@
       "Psychological",
       "Sci-Fi"
     ],
-    "updated_at": 1784358022
+    "updated_at": 1784361638
   },
   {
     "id": 209800,
@@ -1911,7 +1824,7 @@
       "Adventure",
       "Sci-Fi"
     ],
-    "updated_at": 1784350831
+    "updated_at": 1784361704
   },
   {
     "id": 198709,
@@ -1941,7 +1854,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784358077
+    "updated_at": 1784361665
   },
   {
     "id": 207809,
@@ -1972,7 +1885,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784358069
+    "updated_at": 1784361619
   },
   {
     "id": 193883,
@@ -2111,7 +2024,7 @@
     "genres": [
       "Romance"
     ],
-    "updated_at": 1784358072
+    "updated_at": 1784361747
   },
   {
     "id": 188529,
@@ -2167,7 +2080,7 @@
       "Drama",
       "Fantasy"
     ],
-    "updated_at": 1784358006
+    "updated_at": 1784361630
   },
   {
     "id": 135865,
@@ -2195,7 +2108,7 @@
       "Action",
       "Fantasy"
     ],
-    "updated_at": 1784358013
+    "updated_at": 1784361631
   },
   {
     "id": 213666,
@@ -2223,7 +2136,7 @@
       "Drama",
       "Romance"
     ],
-    "updated_at": 1784358109
+    "updated_at": 1784361661
   },
   {
     "id": 192800,
@@ -2251,7 +2164,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784358008
+    "updated_at": 1784361624
   },
   {
     "id": 196356,
@@ -2279,7 +2192,7 @@
       "Comedy",
       "Slice of Life"
     ],
-    "updated_at": 1784354417
+    "updated_at": 1784361643
   },
   {
     "id": 159309,
@@ -2309,7 +2222,7 @@
       "Mecha",
       "Romance"
     ],
-    "updated_at": 1784358005
+    "updated_at": 1784361621
   },
   {
     "id": 194829,
@@ -2339,7 +2252,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784358005
+    "updated_at": 1784361630
   },
   {
     "id": 205772,
@@ -2366,7 +2279,7 @@
     "genres": [
       "Comedy"
     ],
-    "updated_at": 1784354510
+    "updated_at": 1784361747
   },
   {
     "id": 213961,
@@ -2394,7 +2307,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784354504
+    "updated_at": 1784361747
   },
   {
     "id": 197715,
@@ -2424,7 +2337,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784358022
+    "updated_at": 1784361639
   },
   {
     "id": 207254,
@@ -2453,7 +2366,7 @@
       "Drama",
       "Sci-Fi"
     ],
-    "updated_at": 1784358037
+    "updated_at": 1784361645
   },
   {
     "id": 209669,
@@ -2483,7 +2396,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784358009
+    "updated_at": 1784361635
   },
   {
     "id": 184356,
@@ -2512,7 +2425,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784358011
+    "updated_at": 1784361640
   },
   {
     "id": 209541,
@@ -2596,7 +2509,7 @@
       "Horror",
       "Supernatural"
     ],
-    "updated_at": 1784358024
+    "updated_at": 1784361647
   },
   {
     "id": 201667,
@@ -2625,7 +2538,7 @@
       "Slice of Life",
       "Supernatural"
     ],
-    "updated_at": 1784358056
+    "updated_at": 1784361667
   },
   {
     "id": 187166,
@@ -2653,7 +2566,7 @@
       "Comedy",
       "Music"
     ],
-    "updated_at": 1784358070
+    "updated_at": 1784361747
   },
   {
     "id": 198376,
@@ -2683,7 +2596,7 @@
       "Music",
       "Slice of Life"
     ],
-    "updated_at": 1784358030
+    "updated_at": 1784361682
   },
   {
     "id": 108992,
@@ -2740,7 +2653,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784358017
+    "updated_at": 1784361609
   },
   {
     "id": 208044,
@@ -2769,7 +2682,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784358006
+    "updated_at": 1784361619
   },
   {
     "id": 180136,
@@ -2797,7 +2710,7 @@
       "Action",
       "Fantasy"
     ],
-    "updated_at": 1784358008
+    "updated_at": 1784361628
   },
   {
     "id": 207141,
@@ -2825,7 +2738,7 @@
       "Comedy",
       "Slice of Life"
     ],
-    "updated_at": 1784358008
+    "updated_at": 1784361619
   },
   {
     "id": 204466,
@@ -2854,7 +2767,7 @@
       "Romance",
       "Supernatural"
     ],
-    "updated_at": 1784358011
+    "updated_at": 1784361619
   },
   {
     "id": 8336,
@@ -2910,7 +2823,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784358005
+    "updated_at": 1784361618
   },
   {
     "id": 196218,
@@ -2942,7 +2855,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784358003
+    "updated_at": 1784361620
   },
   {
     "id": 182205,
@@ -2972,7 +2885,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784358003
+    "updated_at": 1784361616
   },
   {
     "id": 188525,
@@ -3000,7 +2913,7 @@
       "Comedy",
       "Slice of Life"
     ],
-    "updated_at": 1784358011
+    "updated_at": 1784361637
   },
   {
     "id": 202508,
@@ -3029,7 +2942,7 @@
       "Mystery",
       "Slice of Life"
     ],
-    "updated_at": 1784358003
+    "updated_at": 1784361656
   },
   {
     "id": 182616,
@@ -3057,7 +2970,7 @@
       "Action",
       "Adventure"
     ],
-    "updated_at": 1784358005
+    "updated_at": 1784361633
   },
   {
     "id": 203490,
@@ -3086,7 +2999,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784358012
+    "updated_at": 1784361630
   },
   {
     "id": 209983,
@@ -3115,7 +3028,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784358003
+    "updated_at": 1784361605
   },
   {
     "id": 207674,
@@ -3144,7 +3057,7 @@
       "Ecchi",
       "Supernatural"
     ],
-    "updated_at": 1784358007
+    "updated_at": 1784361643
   },
   {
     "id": 213831,
@@ -3173,7 +3086,7 @@
       "Ecchi",
       "Supernatural"
     ],
-    "updated_at": 1784358015
+    "updated_at": 1784361697
   },
   {
     "id": 142274,
@@ -3229,7 +3142,7 @@
     "genres": [
       "Comedy"
     ],
-    "updated_at": 1784358109
+    "updated_at": 1784361735
   },
   {
     "id": 183231,
@@ -3257,7 +3170,7 @@
       "Fantasy",
       "Slice of Life"
     ],
-    "updated_at": 1784354436
+    "updated_at": 1784361698
   },
   {
     "id": 137683,
@@ -3287,7 +3200,94 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784358040
+    "updated_at": 1784361645
+  },
+  {
+    "id": 966,
+    "id_mal": 966,
+    "url": "https://anilist.co/anime/966",
+    "title": {
+      "english": "Shin Chan",
+      "romaji": "Crayon Shin-chan",
+      "native": "クレヨンしんちゃん"
+    },
+    "description": "Crayon Shin-chan follows the wacky antics and adventures of five-year-old Shinnosuke \"Shin\" Nohara and his parents, neighbors, and friends and is set in Kasukabe, Saitama Prefecture, Japan.<br><br>\nMany of the jokes in the series stem from Shin-chan's occasionally weird, unnatural and inappropriate use of language, as well as from his inappropriate behavior. A typical gag involves Shin-chan confounding his parents by using the wrong phrase for the occasion; for example, saying \"Welcome back!\" instead of \"I am back!\" when he comes home.<br><br>\nDuring the beginning of the series, the TV show was mostly based on the storyline in the original manga. As the show progressed, more and more episodes became anime-original.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b966-QUCdKAk4ls9J.jpg",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/966-J5CwLLTBs4OO.jpg",
+    "schedule": "Episode 1345 tayang pada 25/7/2026, 14.30.00 WIB",
+    "next_episode": 1345,
+    "next_airing_timestamp": 1784964600,
+    "season": "SPRING",
+    "year": 1992,
+    "format": "TV",
+    "episodes": null,
+    "duration": 21,
+    "status": "RELEASING",
+    "score": 77,
+    "genres": [
+      "Comedy",
+      "Ecchi",
+      "Slice of Life"
+    ],
+    "updated_at": 1784361723
+  },
+  {
+    "id": 8687,
+    "id_mal": 8687,
+    "url": "https://anilist.co/anime/8687",
+    "title": {
+      "english": "",
+      "romaji": "Doraemon (2005)",
+      "native": "ドラえもん (2005)"
+    },
+    "description": "A new Doraemon series produced by the same team as the 1979 series (in association with Studio Pierrot) with new voice actors and staff and updated character designs.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b8687-bBnJMGnih4PT.jpg",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/8687-aa3QbJjGfy3B.jpg",
+    "schedule": "Episode 925 tayang pada 25/7/2026, 15.00.00 WIB",
+    "next_episode": 925,
+    "next_airing_timestamp": 1784966400,
+    "season": "SPRING",
+    "year": 2005,
+    "format": "TV",
+    "episodes": null,
+    "duration": 25,
+    "status": "RELEASING",
+    "score": 77,
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Sci-Fi"
+    ],
+    "updated_at": 1784358109
+  },
+  {
+    "id": 171110,
+    "id_mal": 57466,
+    "url": "https://anilist.co/anime/171110",
+    "title": {
+      "english": "Ascendance of a Bookworm: Adopted Daughter of an Archduke",
+      "romaji": "Honzuki no Gekokujou: Ryoushu no Youjo",
+      "native": "本好きの下剋上 領主の養女"
+    },
+    "description": "Anime adaptation of Part 3 of <i>Honzuki no Gekokujou</i>.\n<br><br>\nFollowing a disastrous encounter with a noble, Myne finally resolves to say goodbye to her family and friends in the lower city, changing her name to “Rozemyne” and beginning her new life as the adopted daughter of Ehrenfest’s archduke. However, her days as an archnoble in noble society are brutal, as she is put through rigorous etiquette and magic training on top of her duties as High Bishop and forewoman. It all proves too much for a weak little seven-year-old girl... Or it would have, had the High Priest not offered her the keys to the temple’s book room as a reward. If she could get her hands on those, she’d be able to read all sorts of precious books! Her name may have changed, but Rozemyne’s passion for books remains the same as she charges into a whole new world! The detailed setting expands as the printing industry grows in size. Here begins Part 3 of this biblio-fantasy for book lovers everywhere!\n<br><br>\n(Source: J-Novel Club)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171110-7zOdInS6DQNL.jpg",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/171110-lgtmKokpevUM.jpg",
+    "schedule": "Episode 15 tayang pada 25/7/2026, 15.30.00 WIB",
+    "next_episode": 15,
+    "next_airing_timestamp": 1784968200,
+    "season": "SPRING",
+    "year": 2026,
+    "format": "TV",
+    "episodes": null,
+    "duration": 24,
+    "status": "RELEASING",
+    "score": 76,
+    "genres": [
+      "Drama",
+      "Fantasy",
+      "Slice of Life"
+    ],
+    "updated_at": 1784361669
   },
   {
     "id": 204560,
@@ -3433,7 +3433,7 @@
       "Romance",
       "Thriller"
     ],
-    "updated_at": 1784358004
+    "updated_at": 1784361641
   },
   {
     "id": 210687,
@@ -3543,7 +3543,7 @@
     "genres": [
       "Hentai"
     ],
-    "updated_at": 1784358089
+    "updated_at": 1784361747
   },
   {
     "id": 196613,
