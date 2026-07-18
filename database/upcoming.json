@@ -223,7 +223,7 @@
       "Comedy",
       "Romance"
     ],
-    "updated_at": 1784286117
+    "updated_at": 1784341006
   },
   {
     "id": 214018,
@@ -583,7 +583,7 @@
       "Adventure",
       "Sci-Fi"
     ],
-    "updated_at": 1783962141
+    "updated_at": 1784340958
   },
   {
     "id": 213846,
@@ -813,7 +813,7 @@
       "Drama",
       "Romance"
     ],
-    "updated_at": 1784318491
+    "updated_at": 1784340975
   },
   {
     "id": 213740,
@@ -1065,6 +1065,35 @@
       "Comedy"
     ],
     "updated_at": 1784297602
+  },
+  {
+    "id": 213627,
+    "id_mal": 64487,
+    "url": "https://anilist.co/anime/213627",
+    "title": {
+      "english": "",
+      "romaji": "Hokuto no Ken: FIST OF THE NORTH STAR Part 2",
+      "native": "北斗の拳 -FIST OF THE NORTH STAR- 第2クール"
+    },
+    "description": "The second cour of <i>Hokuto no Ken: FIST OF THE NORTH STAR</i>.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx213627-8IhXNGp1pFRO.jpg",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "TV",
+    "episodes": null,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Action",
+      "Drama",
+      "Sci-Fi"
+    ],
+    "updated_at": 1784340994
   },
   {
     "id": 213581,
@@ -1531,7 +1560,7 @@
       "Action",
       "Mecha"
     ],
-    "updated_at": 1784322117
+    "updated_at": 1784340981
   },
   {
     "id": 213067,
@@ -2182,7 +2211,7 @@
     "status": "NOT_YET_RELEASED",
     "score": null,
     "genres": [],
-    "updated_at": 1783947777
+    "updated_at": 1784340948
   },
   {
     "id": 211709,
@@ -2241,7 +2270,7 @@
       "Drama",
       "Fantasy"
     ],
-    "updated_at": 1784318458
+    "updated_at": 1784340965
   },
   {
     "id": 211495,
@@ -2272,7 +2301,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784300508
+    "updated_at": 1784340948
   },
   {
     "id": 211338,
@@ -2443,7 +2472,7 @@
       "Ecchi",
       "Fantasy"
     ],
-    "updated_at": 1784318498
+    "updated_at": 1784341006
   },
   {
     "id": 210482,
@@ -2474,7 +2503,7 @@
       "Mystery",
       "Supernatural"
     ],
-    "updated_at": 1784289629
+    "updated_at": 1784340963
   },
   {
     "id": 210309,
@@ -2622,7 +2651,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784307728
+    "updated_at": 1784341006
   },
   {
     "id": 209963,
@@ -2799,6 +2828,33 @@
     "updated_at": 1784325887
   },
   {
+    "id": 209562,
+    "id_mal": 63764,
+    "url": "https://anilist.co/anime/209562",
+    "title": {
+      "english": "",
+      "romaji": "Vertex Force",
+      "native": "バーテックスフォース"
+    },
+    "description": "An original TV anime series, \"Vertex Force,\" is being planned under the direction of Kazuhiro Takamura, who previously directed <i>\"Strike Witches\"</i> and <i>\"Vividred Operation\"</i>! Airing in 2026!<br><br>\n(Source: Official Twitter)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx209562-lWbqsEyIk8R1.jpg",
+    "banner_url": "",
+    "schedule": "Musim: FALL 2026",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "FALL",
+    "year": 2026,
+    "format": "TV",
+    "episodes": null,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Mecha"
+    ],
+    "updated_at": 1784340997
+  },
+  {
     "id": 209502,
     "id_mal": 63754,
     "url": "https://anilist.co/anime/209502",
@@ -2824,7 +2880,7 @@
       "Comedy",
       "Romance"
     ],
-    "updated_at": 1784329393
+    "updated_at": 1784341006
   },
   {
     "id": 209499,
@@ -2881,7 +2937,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784304124
+    "updated_at": 1784340940
   },
   {
     "id": 209247,
@@ -2910,7 +2966,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784318498
+    "updated_at": 1784340945
   },
   {
     "id": 209224,
@@ -3113,7 +3169,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784275376
+    "updated_at": 1784340973
   },
   {
     "id": 207782,
@@ -3405,7 +3461,35 @@
       "Supernatural",
       "Thriller"
     ],
-    "updated_at": 1784325887
+    "updated_at": 1784340966
+  },
+  {
+    "id": 206814,
+    "id_mal": 63367,
+    "url": "https://anilist.co/anime/206814",
+    "title": {
+      "english": "",
+      "romaji": "Dragon Ball Super: Beerus",
+      "native": "ドラゴンボール超 ビルス"
+    },
+    "description": "Dragon Ball Super: Beerus, a project that was started a few years ago, is the newly ENHANCED edition of the anime Dragon Ball Super. ENHANCED by the latest visual expression, every scene, especially the battle scenes, is even more immersive, providing a more faithful and detailed reproduction of the original work by Akira Toriyama, and it will deliver a quality that is sure to fully satisfy audiences.\n<br><br>\n(Source: Dragon Ball Official Site)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx206814-1NJiXCcdPatd.jpg",
+    "banner_url": "",
+    "schedule": "Musim: FALL 2026",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "FALL",
+    "year": 2026,
+    "format": "TV",
+    "episodes": null,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "updated_at": 1784340968
   },
   {
     "id": 206812,
@@ -3748,7 +3832,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784329393
+    "updated_at": 1784341006
   },
   {
     "id": 205068,
@@ -3807,7 +3891,7 @@
       "Sci-Fi",
       "Supernatural"
     ],
-    "updated_at": 1784318483
+    "updated_at": 1784340962
   },
   {
     "id": 204738,
@@ -3836,7 +3920,7 @@
       "Slice of Life",
       "Supernatural"
     ],
-    "updated_at": 1784246837
+    "updated_at": 1784341001
   },
   {
     "id": 204688,
@@ -3864,7 +3948,7 @@
       "Action",
       "Adventure"
     ],
-    "updated_at": 1784246837
+    "updated_at": 1784341006
   },
   {
     "id": 204650,
@@ -4041,7 +4125,7 @@
       "Drama",
       "Fantasy"
     ],
-    "updated_at": 1784318416
+    "updated_at": 1784340944
   },
   {
     "id": 204431,
@@ -4183,7 +4267,7 @@
       "Action",
       "Sci-Fi"
     ],
-    "updated_at": 1784268121
+    "updated_at": 1784340991
   },
   {
     "id": 204293,
@@ -4440,7 +4524,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784246836
+    "updated_at": 1784340991
   },
   {
     "id": 202906,
@@ -4524,7 +4608,7 @@
       "Ecchi",
       "Romance"
     ],
-    "updated_at": 1784325887
+    "updated_at": 1784341006
   },
   {
     "id": 202503,
@@ -4725,7 +4809,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784286117
+    "updated_at": 1784341006
   },
   {
     "id": 201388,
@@ -4898,7 +4982,7 @@
       "Comedy",
       "Slice of Life"
     ],
-    "updated_at": 1784329393
+    "updated_at": 1784341006
   },
   {
     "id": 199793,
@@ -4960,7 +5044,7 @@
       "Drama",
       "Romance"
     ],
-    "updated_at": 1784246835
+    "updated_at": 1784340954
   },
   {
     "id": 199594,
@@ -5217,7 +5301,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784307728
+    "updated_at": 1784341006
   },
   {
     "id": 199185,
@@ -5335,7 +5419,7 @@
       "Sci-Fi",
       "Supernatural"
     ],
-    "updated_at": 1784318436
+    "updated_at": 1784340962
   },
   {
     "id": 198728,
@@ -5390,7 +5474,7 @@
       "Comedy",
       "Romance"
     ],
-    "updated_at": 1784318416
+    "updated_at": 1784340981
   },
   {
     "id": 198696,
@@ -5597,6 +5681,36 @@
     "updated_at": 1784297606
   },
   {
+    "id": 195787,
+    "id_mal": 62024,
+    "url": "https://anilist.co/anime/195787",
+    "title": {
+      "english": "Fate Rewinder",
+      "romaji": "Unmei no Makimodoshi",
+      "native": "運命の巻戻士"
+    },
+    "description": "The series follows Chrono, a 14-year-old boy who is a member of the Space-Time Police Special Forces Unit called the “Rewinders”. The organization uses its “Retry Eye” to save people who have already died, using future knowledge to repeatedly go back in time to get to a future where the victim is alive and well.\n<br><br>\n(Source: Crunchyroll News, edited)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx195787-Ct3WxeyXouhh.png",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/195787-cRFhQhgYa103.jpg",
+    "schedule": "Musim: SPRING 2027",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "SPRING",
+    "year": 2027,
+    "format": "TV",
+    "episodes": null,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Action",
+      "Drama",
+      "Mystery",
+      "Sci-Fi"
+    ],
+    "updated_at": 1784341006
+  },
+  {
     "id": 195703,
     "id_mal": 62002,
     "url": "https://anilist.co/anime/195703",
@@ -5738,7 +5852,7 @@
       "Drama",
       "Mystery"
     ],
-    "updated_at": 1784318431
+    "updated_at": 1784340944
   },
   {
     "id": 195496,
@@ -5857,7 +5971,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784325887
+    "updated_at": 1784340992
   },
   {
     "id": 195350,
@@ -5916,7 +6030,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784300508
+    "updated_at": 1784341006
   },
   {
     "id": 195201,
@@ -5976,7 +6090,7 @@
       "Drama",
       "Supernatural"
     ],
-    "updated_at": 1784318417
+    "updated_at": 1784340946
   },
   {
     "id": 194724,
@@ -6233,7 +6347,7 @@
     "genres": [
       "Sports"
     ],
-    "updated_at": 1784318465
+    "updated_at": 1784341006
   },
   {
     "id": 191656,
@@ -6261,7 +6375,7 @@
       "Comedy",
       "Slice of Life"
     ],
-    "updated_at": 1783951252
+    "updated_at": 1784340998
   },
   {
     "id": 190574,
@@ -6442,6 +6556,33 @@
     "updated_at": 1784318482
   },
   {
+    "id": 189121,
+    "id_mal": 61324,
+    "url": "https://anilist.co/anime/189121",
+    "title": {
+      "english": "",
+      "romaji": "BanG Dream! It's MyGO!!!!! / Ave Mujica (Zoku-hen)",
+      "native": "BanG Dream! It's MyGO!!!!! / Ave Mujica (続編)"
+    },
+    "description": "Sequel series to <i>BanG Dream! It's MyGO!!!!!</i> and <i>BanG Dream! Ave Mujica.</i> <br><br>\n\n<i>Note: Title is provisional and subject to change when more info is announced.</i>",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx189121-m3EHJ33Y8jgT.png",
+    "banner_url": "",
+    "schedule": "Musim: WINTER 2027",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "WINTER",
+    "year": 2027,
+    "format": "TV",
+    "episodes": null,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Music"
+    ],
+    "updated_at": 1784340957
+  },
+  {
     "id": 188892,
     "id_mal": 61304,
     "url": "https://anilist.co/anime/188892",
@@ -6581,7 +6722,7 @@
       "Ecchi",
       "Fantasy"
     ],
-    "updated_at": 1784325887
+    "updated_at": 1784341006
   },
   {
     "id": 187477,
@@ -6980,7 +7121,7 @@
       "Adventure",
       "Supernatural"
     ],
-    "updated_at": 1784318425
+    "updated_at": 1784340971
   },
   {
     "id": 185756,
@@ -7265,7 +7406,7 @@
       "Comedy",
       "Slice of Life"
     ],
-    "updated_at": 1784246809
+    "updated_at": 1784340956
   },
   {
     "id": 183960,
@@ -7582,7 +7723,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784246798
+    "updated_at": 1784340966
   },
   {
     "id": 178467,
@@ -7612,7 +7753,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784329393
+    "updated_at": 1784340976
   },
   {
     "id": 178083,
@@ -7953,7 +8094,7 @@
     "genres": [
       "Adventure"
     ],
-    "updated_at": 1784318490
+    "updated_at": 1784340965
   },
   {
     "id": 171513,
@@ -8069,7 +8210,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784268121
+    "updated_at": 1784340990
   },
   {
     "id": 169579,
@@ -8130,7 +8271,7 @@
       "Music",
       "Romance"
     ],
-    "updated_at": 1783945894
+    "updated_at": 1784340957
   },
   {
     "id": 167151,
@@ -8503,7 +8644,7 @@
       "Mystery",
       "Sci-Fi"
     ],
-    "updated_at": 1784318442
+    "updated_at": 1784340948
   },
   {
     "id": 159042,
@@ -8679,7 +8820,7 @@
       "Romance",
       "Supernatural"
     ],
-    "updated_at": 1784304124
+    "updated_at": 1784340951
   },
   {
     "id": 143103,
