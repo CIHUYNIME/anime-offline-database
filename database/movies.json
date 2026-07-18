@@ -380,7 +380,7 @@
       "Drama",
       "Slice of Life"
     ],
-    "updated_at": 1784253693
+    "updated_at": 1784394193
   },
   {
     "id": 211331,
@@ -540,7 +540,7 @@
     "genres": [
       "Fantasy"
     ],
-    "updated_at": 1784368905
+    "updated_at": 1784394193
   },
   {
     "id": 210309,
@@ -998,7 +998,7 @@
       "Comedy",
       "Sci-Fi"
     ],
-    "updated_at": 1784386898
+    "updated_at": 1784394193
   },
   {
     "id": 204585,
@@ -1464,7 +1464,7 @@
       "Adventure",
       "Comedy"
     ],
-    "updated_at": 1784350916
+    "updated_at": 1784394193
   },
   {
     "id": 195494,
@@ -1519,7 +1519,7 @@
       "Horror",
       "Sci-Fi"
     ],
-    "updated_at": 1784386898
+    "updated_at": 1784394193
   },
   {
     "id": 195201,
@@ -1749,7 +1749,7 @@
       "Romance",
       "Sci-Fi"
     ],
-    "updated_at": 1784376216
+    "updated_at": 1784394193
   },
   {
     "id": 190574,
@@ -2602,7 +2602,7 @@
       "Action",
       "Sci-Fi"
     ],
-    "updated_at": 1784379737
+    "updated_at": 1784394193
   },
   {
     "id": 179878,
@@ -2886,7 +2886,7 @@
       "Mystery",
       "Supernatural"
     ],
-    "updated_at": 1784246798
+    "updated_at": 1784394193
   },
   {
     "id": 178707,
@@ -2916,7 +2916,7 @@
       "Sci-Fi",
       "Supernatural"
     ],
-    "updated_at": 1784372518
+    "updated_at": 1784394193
   },
   {
     "id": 178436,
@@ -3224,6 +3224,36 @@
       "Sports"
     ],
     "updated_at": 1783948388
+  },
+  {
+    "id": 176218,
+    "id_mal": null,
+    "url": "https://anilist.co/anime/176218",
+    "title": {
+      "english": "",
+      "romaji": "Dead Dead Demon's Dededededestruction Koushou",
+      "native": "デッドデッドデーモンズデデデデデストラクション　後章"
+    },
+    "description": "The second film of the <i>Dead Dead Demon's Dededededestruction</i> duology.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176218-kkYx4siBXa3s.jpg",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/176218-LMlmCdcvbERD.jpg",
+    "schedule": "Musim: SPRING 2024",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "SPRING",
+    "year": 2024,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 120,
+    "status": "FINISHED",
+    "score": 70,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Sci-Fi",
+      "Slice of Life"
+    ],
+    "updated_at": 1784394193
   },
   {
     "id": 175573,
@@ -3626,7 +3656,7 @@
       "Music",
       "Slice of Life"
     ],
-    "updated_at": 1784379737
+    "updated_at": 1784394193
   },
   {
     "id": 171026,
@@ -3741,6 +3771,34 @@
       "Mystery"
     ],
     "updated_at": 1784390608
+  },
+  {
+    "id": 169021,
+    "id_mal": 53158,
+    "url": "https://anilist.co/anime/169021",
+    "title": {
+      "english": "fruits",
+      "romaji": "Kudamono",
+      "native": "くだもの"
+    },
+    "description": "At some point, children diverge from the ideal path set forth for them by adults. The trigger is usually a trivial incident. \n<br><br>\n (Source: Geidai Animation)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169021-eonh1Ygyuj6U.jpg",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 3,
+    "status": "FINISHED",
+    "score": null,
+    "genres": [
+      "Psychological",
+      "Slice of Life"
+    ],
+    "updated_at": 1784394193
   },
   {
     "id": 169017,
@@ -3882,7 +3940,7 @@
       "Adventure",
       "Sci-Fi"
     ],
-    "updated_at": 1784325887
+    "updated_at": 1784394193
   },
   {
     "id": 167984,
@@ -4072,7 +4130,7 @@
     "genres": [
       "Sci-Fi"
     ],
-    "updated_at": 1784372518
+    "updated_at": 1784394193
   },
   {
     "id": 165253,
@@ -5864,7 +5922,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784368905
+    "updated_at": 1784394193
   },
   {
     "id": 146609,
@@ -6290,7 +6348,7 @@
       "Fantasy",
       "Music"
     ],
-    "updated_at": 1784379737
+    "updated_at": 1784394193
   },
   {
     "id": 141056,
@@ -6525,7 +6583,7 @@
       "Romance",
       "Sci-Fi"
     ],
-    "updated_at": 1784372518
+    "updated_at": 1784394193
   },
   {
     "id": 139310,
@@ -6984,7 +7042,7 @@
       "Fantasy",
       "Sci-Fi"
     ],
-    "updated_at": 1784379737
+    "updated_at": 1784394193
   },
   {
     "id": 133845,
@@ -7125,7 +7183,7 @@
       "Action",
       "Sports"
     ],
-    "updated_at": 1784386898
+    "updated_at": 1784394193
   },
   {
     "id": 132232,
@@ -7185,7 +7243,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784376216
+    "updated_at": 1784394193
   },
   {
     "id": 131573,
@@ -7528,7 +7586,7 @@
       "Drama",
       "Supernatural"
     ],
-    "updated_at": 1784383565
+    "updated_at": 1784394193
   },
   {
     "id": 129759,
@@ -7760,7 +7818,7 @@
       "Mystery",
       "Sci-Fi"
     ],
-    "updated_at": 1784383565
+    "updated_at": 1784394193
   },
   {
     "id": 127227,
@@ -10174,7 +10232,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784329393
+    "updated_at": 1784394193
   },
   {
     "id": 114129,
@@ -11436,7 +11494,7 @@
       "Adventure",
       "Sci-Fi"
     ],
-    "updated_at": 1784290784
+    "updated_at": 1784394193
   },
   {
     "id": 110275,
@@ -12326,7 +12384,7 @@
       "Slice of Life",
       "Supernatural"
     ],
-    "updated_at": 1784386898
+    "updated_at": 1784394193
   },
   {
     "id": 108553,
@@ -12842,7 +12900,7 @@
       "Action",
       "Sports"
     ],
-    "updated_at": 1784291883
+    "updated_at": 1784394193
   },
   {
     "id": 107203,
@@ -13212,7 +13270,7 @@
       "Romance",
       "Sci-Fi"
     ],
-    "updated_at": 1784383565
+    "updated_at": 1784394193
   },
   {
     "id": 106206,
@@ -18398,7 +18456,7 @@
       "Mystery",
       "Sci-Fi"
     ],
-    "updated_at": 1784381395
+    "updated_at": 1784394193
   },
   {
     "id": 101343,
@@ -18979,7 +19037,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784383565
+    "updated_at": 1784394193
   },
   {
     "id": 100653,
@@ -19444,7 +19502,7 @@
       "Drama",
       "Fantasy"
     ],
-    "updated_at": 1784383565
+    "updated_at": 1784394193
   },
   {
     "id": 100081,
@@ -19528,7 +19586,7 @@
       "Action",
       "Sports"
     ],
-    "updated_at": 1784350916
+    "updated_at": 1784394193
   },
   {
     "id": 99900,
@@ -19556,7 +19614,7 @@
       "Comedy",
       "Drama"
     ],
-    "updated_at": 1784386898
+    "updated_at": 1784394193
   },
   {
     "id": 99750,
@@ -19675,7 +19733,7 @@
       "Mahou Shoujo",
       "Sci-Fi"
     ],
-    "updated_at": 1784386898
+    "updated_at": 1784394193
   },
   {
     "id": 99547,
@@ -20060,7 +20118,7 @@
       "Drama",
       "Sports"
     ],
-    "updated_at": 1784384109
+    "updated_at": 1784394193
   },
   {
     "id": 98876,
@@ -20990,6 +21048,33 @@
     "updated_at": 1784384934
   },
   {
+    "id": 97920,
+    "id_mal": 34535,
+    "url": "https://anilist.co/anime/97920",
+    "title": {
+      "english": "",
+      "romaji": "Koisuru Shirokuma",
+      "native": "恋するシロクマ"
+    },
+    "description": "A polar bear falls in love with an earless seal, and he wants nothing else except to protect him, even though the seal constantly thinks the bear will eat him.\n<br><br>\n(Source: Anime News Network)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx97920-SzUmbh1Cky4a.jpg",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/97920-JLDyOsnqUzhb.jpg",
+    "schedule": "Musim: SPRING 2017",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "SPRING",
+    "year": 2017,
+    "format": "MOVIE",
+    "episodes": 9,
+    "duration": 1,
+    "status": "FINISHED",
+    "score": 61,
+    "genres": [
+      "Comedy"
+    ],
+    "updated_at": 1784394193
+  },
+  {
     "id": 97918,
     "id_mal": 34544,
     "url": "https://anilist.co/anime/97918",
@@ -21576,7 +21661,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784376216
+    "updated_at": 1784394193
   },
   {
     "id": 21864,
@@ -22188,7 +22273,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784391293
+    "updated_at": 1784394193
   },
   {
     "id": 21646,
@@ -22927,7 +23012,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784372518
+    "updated_at": 1784394193
   },
   {
     "id": 21265,
@@ -23306,7 +23391,7 @@
       "Drama",
       "Sports"
     ],
-    "updated_at": 1784368905
+    "updated_at": 1784394193
   },
   {
     "id": 21114,
@@ -23866,7 +23951,7 @@
       "Sci-Fi",
       "Thriller"
     ],
-    "updated_at": 1784305383
+    "updated_at": 1784394234
   },
   {
     "id": 20919,
@@ -23895,7 +23980,7 @@
       "Psychological",
       "Sci-Fi"
     ],
-    "updated_at": 1784305446
+    "updated_at": 1784394325
   },
   {
     "id": 20917,
@@ -23951,7 +24036,7 @@
       "Mystery",
       "Slice of Life"
     ],
-    "updated_at": 1784361747
+    "updated_at": 1784394349
   },
   {
     "id": 20842,
@@ -23980,7 +24065,7 @@
       "Drama",
       "Sports"
     ],
-    "updated_at": 1784305544
+    "updated_at": 1784394403
   },
   {
     "id": 20810,
@@ -24009,7 +24094,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784379737
+    "updated_at": 1784394443
   },
   {
     "id": 20808,
@@ -24037,7 +24122,7 @@
       "Drama",
       "Sports"
     ],
-    "updated_at": 1784305628
+    "updated_at": 1784394445
   },
   {
     "id": 20805,
@@ -24065,7 +24150,7 @@
       "Comedy",
       "Slice of Life"
     ],
-    "updated_at": 1784305794
+    "updated_at": 1784394453
   },
   {
     "id": 20802,
@@ -24096,7 +24181,7 @@
       "Fantasy",
       "Sci-Fi"
     ],
-    "updated_at": 1784325887
+    "updated_at": 1784394454
   },
   {
     "id": 20791,
@@ -24126,7 +24211,7 @@
       "Psychological",
       "Supernatural"
     ],
-    "updated_at": 1784358109
+    "updated_at": 1784394496
   },
   {
     "id": 20786,
@@ -24156,7 +24241,7 @@
       "Mecha",
       "Sci-Fi"
     ],
-    "updated_at": 1784358109
+    "updated_at": 1784394540
   },
   {
     "id": 20778,
@@ -24186,7 +24271,7 @@
       "Comedy",
       "Sci-Fi"
     ],
-    "updated_at": 1784379737
+    "updated_at": 1784394621
   },
   {
     "id": 20768,
@@ -24216,7 +24301,7 @@
       "Slice of Life",
       "Supernatural"
     ],
-    "updated_at": 1784322117
+    "updated_at": 1784394731
   },
   {
     "id": 20766,
@@ -24244,7 +24329,7 @@
       "Music",
       "Slice of Life"
     ],
-    "updated_at": 1784361747
+    "updated_at": 1784394740
   },
   {
     "id": 20764,
@@ -24273,7 +24358,7 @@
       "Drama",
       "Sci-Fi"
     ],
-    "updated_at": 1784358109
+    "updated_at": 1784394742
   },
   {
     "id": 20763,
@@ -24301,7 +24386,7 @@
       "Action",
       "Sci-Fi"
     ],
-    "updated_at": 1784306460
+    "updated_at": 1784394742
   },
   {
     "id": 20760,
@@ -24331,7 +24416,7 @@
       "Drama",
       "Sci-Fi"
     ],
-    "updated_at": 1784322117
+    "updated_at": 1784394746
   },
   {
     "id": 20741,
@@ -24364,7 +24449,7 @@
       "Romance",
       "Sci-Fi"
     ],
-    "updated_at": 1784383565
+    "updated_at": 1784394917
   },
   {
     "id": 20737,
@@ -24396,7 +24481,7 @@
       "Sci-Fi",
       "Supernatural"
     ],
-    "updated_at": 1784390608
+    "updated_at": 1784394923
   },
   {
     "id": 20736,
@@ -24428,7 +24513,7 @@
       "Sci-Fi",
       "Supernatural"
     ],
-    "updated_at": 1784376216
+    "updated_at": 1784394925
   },
   {
     "id": 20709,
@@ -24456,7 +24541,7 @@
       "Drama",
       "Supernatural"
     ],
-    "updated_at": 1784306652
+    "updated_at": 1784395009
   },
   {
     "id": 20697,
@@ -24485,7 +24570,7 @@
       "Mystery",
       "Supernatural"
     ],
-    "updated_at": 1784306679
+    "updated_at": 1784395047
   },
   {
     "id": 20692,
@@ -24514,7 +24599,7 @@
       "Drama",
       "Fantasy"
     ],
-    "updated_at": 1784333000
+    "updated_at": 1784395053
   },
   {
     "id": 20691,
@@ -24543,7 +24628,7 @@
       "Drama",
       "Fantasy"
     ],
-    "updated_at": 1784333000
+    "updated_at": 1784395054
   },
   {
     "id": 20690,
@@ -24572,7 +24657,7 @@
       "Drama",
       "Sci-Fi"
     ],
-    "updated_at": 1784350913
+    "updated_at": 1784395054
   },
   {
     "id": 20644,
@@ -24603,7 +24688,34 @@
       "Drama",
       "Fantasy"
     ],
-    "updated_at": 1784361747
+    "updated_at": 1784395276
+  },
+  {
+    "id": 20640,
+    "id_mal": 22819,
+    "url": "https://anilist.co/anime/20640",
+    "title": {
+      "english": "",
+      "romaji": "Aikatsu! Movie",
+      "native": "劇場版 アイカツ！"
+    },
+    "description": "Aiming to be a Top Idol is what Ichigo Hoshimiya does, and a big chance for it comes!\r\nSomehow, Ichigo will lead a special live!<br>\r\n<br>\r\nThe title of the live Ichigo will be \"Great Ichigo Starmiya Festival\" and the venue is the place where Ichigo watched for the first time the top idol \"Mizuki Kanzaki\"s live, \"Star Rise Stadium\".<br>\r\nIf this live is a big success, Ichigo might genuinely become a Top Idol!<br>\r\n<br>\r\nWhat kind of stage will this movie end up with?<br>\r\nSongs, drama, laughs, and tears! The biggest and hottest stage of Aikatsu! finally begins!",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20640-IOUSIkux6nJ4.jpg",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/n20640-Ueb162damC1c.jpg",
+    "schedule": "Musim: FALL 2014",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "FALL",
+    "year": 2014,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 89,
+    "status": "FINISHED",
+    "score": 79,
+    "genres": [
+      "Music"
+    ],
+    "updated_at": 1784395278
   },
   {
     "id": 20559,
@@ -24632,7 +24744,7 @@
       "Sci-Fi",
       "Slice of Life"
     ],
-    "updated_at": 1784282525
+    "updated_at": 1784394193
   },
   {
     "id": 20555,
@@ -24690,7 +24802,7 @@
       "Comedy",
       "Mystery"
     ],
-    "updated_at": 1784379737
+    "updated_at": 1784394193
   },
   {
     "id": 20535,
@@ -24830,7 +24942,7 @@
       "Music",
       "Slice of Life"
     ],
-    "updated_at": 1784368905
+    "updated_at": 1784394193
   },
   {
     "id": 20501,
@@ -26496,7 +26608,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784361747
+    "updated_at": 1784394193
   },
   {
     "id": 16664,
@@ -32257,7 +32369,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784312058
+    "updated_at": 1784394193
   },
   {
     "id": 7683,
@@ -32644,7 +32756,7 @@
       "Comedy",
       "Sci-Fi"
     ],
-    "updated_at": 1784322117
+    "updated_at": 1784394193
   },
   {
     "id": 7465,
@@ -34715,7 +34827,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784386898
+    "updated_at": 1784394193
   },
   {
     "id": 6172,
@@ -36274,7 +36386,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784350916
+    "updated_at": 1784394193
   },
   {
     "id": 4681,
@@ -37012,7 +37124,7 @@
       "Drama",
       "Fantasy"
     ],
-    "updated_at": 1784386898
+    "updated_at": 1784394193
   },
   {
     "id": 4147,
@@ -37352,7 +37464,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784361747
+    "updated_at": 1784394193
   },
   {
     "id": 3847,
@@ -37726,7 +37838,7 @@
       "Adventure",
       "Horror"
     ],
-    "updated_at": 1784379737
+    "updated_at": 1784394193
   },
   {
     "id": 3602,
@@ -39747,6 +39859,36 @@
       "Sci-Fi"
     ],
     "updated_at": 1784358109
+  },
+  {
+    "id": 2397,
+    "id_mal": 2397,
+    "url": "https://anilist.co/anime/2397",
+    "title": {
+      "english": "Digimon: Our War Game",
+      "romaji": "Digimon Adventure: Bokura no War Game!",
+      "native": "デジモンアドベンチャー ぼくらのウォーゲーム!"
+    },
+    "description": "This movie takes place after the Adventure series ends. It begins when a new Digimon Egg is found on the internet, and manages to penetrate into almost every computer system in Japan. When the egg hatches, it's identified as a new kind of Digimon, a Virus-type. It sustains itself by eating data from various system, and starts wreaking havok in Japan. As it consumes more and more data, it continues to evolve. And Taichi and Koushiro decide it's time to stop it.<br><br>\nThey're off, sending Agumon and Tentomon through the internet to fight off this new enemy. But, with the Virus controlling systems like the American military, all too soon, this digital menace may become all too real. Calling in the help of Yamato and Takeru, they hope that they can stop what's already begun, and maybe save this world a second time.<br><br>",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2397-jFhwpduFwf3r.jpg",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/2397-183F6iiPX3yh.jpg",
+    "schedule": "Musim: SPRING 2000",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "SPRING",
+    "year": 2000,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 41,
+    "status": "FINISHED",
+    "score": 76,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy",
+      "Sci-Fi"
+    ],
+    "updated_at": 1784394193
   },
   {
     "id": 2393,
@@ -42567,7 +42709,7 @@
       "Sci-Fi",
       "Supernatural"
     ],
-    "updated_at": 1784383565
+    "updated_at": 1784394193
   },
   {
     "id": 1121,
@@ -42598,7 +42740,7 @@
       "Drama",
       "Fantasy"
     ],
-    "updated_at": 1784325887
+    "updated_at": 1784394193
   },
   {
     "id": 1120,
@@ -42629,7 +42771,7 @@
       "Drama",
       "Fantasy"
     ],
-    "updated_at": 1784315674
+    "updated_at": 1784394193
   },
   {
     "id": 1119,
@@ -42660,7 +42802,7 @@
       "Drama",
       "Fantasy"
     ],
-    "updated_at": 1784386898
+    "updated_at": 1784394193
   },
   {
     "id": 1118,
@@ -43137,7 +43279,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784383565
+    "updated_at": 1784394193
   },
   {
     "id": 1030,
@@ -44485,7 +44627,7 @@
       "Sci-Fi",
       "Supernatural"
     ],
-    "updated_at": 1784325872
+    "updated_at": 1784394193
   },
   {
     "id": 731,
@@ -44691,7 +44833,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784379737
+    "updated_at": 1784394193
   },
   {
     "id": 578,
@@ -44902,7 +45044,7 @@
       "Romance",
       "Sci-Fi"
     ],
-    "updated_at": 1784383565
+    "updated_at": 1784394193
   },
   {
     "id": 536,
@@ -44993,7 +45135,7 @@
       "Fantasy",
       "Sci-Fi"
     ],
-    "updated_at": 1784376216
+    "updated_at": 1784394193
   },
   {
     "id": 523,

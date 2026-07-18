@@ -25,7 +25,7 @@
       "Action",
       "Comedy"
     ],
-    "updated_at": 1784376216
+    "updated_at": 1784394193
   },
   {
     "id": 214075,
@@ -167,7 +167,7 @@
       "Adventure",
       "Sci-Fi"
     ],
-    "updated_at": 1784372518
+    "updated_at": 1784394193
   },
   {
     "id": 214049,
@@ -468,7 +468,7 @@
     "status": "NOT_YET_RELEASED",
     "score": null,
     "genres": [],
-    "updated_at": 1784358109
+    "updated_at": 1784394193
   },
   {
     "id": 213873,
@@ -2040,7 +2040,7 @@
       "Drama",
       "Romance"
     ],
-    "updated_at": 1784372518
+    "updated_at": 1784394193
   },
   {
     "id": 212503,
@@ -2185,7 +2185,7 @@
       "Drama",
       "Slice of Life"
     ],
-    "updated_at": 1784253693
+    "updated_at": 1784394193
   },
   {
     "id": 211877,
@@ -2531,6 +2531,34 @@
     "updated_at": 1784390608
   },
   {
+    "id": 211217,
+    "id_mal": 63985,
+    "url": "https://anilist.co/anime/211217",
+    "title": {
+      "english": "",
+      "romaji": "Yi Shou Mi Cheng",
+      "native": "异兽迷城"
+    },
+    "description": "The world is an illusion, but love is real. At eighteen, Gao Yang accidentally discovers the cruel truth of the world: his family and friends are all terrifying \"beasts,\" and these \"beasts\" will kill anyone who discovers the truth. Facing the \"beasts'\" frenzied attacks, Gao Yang, on the verge of death, activates a mysterious system and awakens his talent Luck, thus beginning a game of survival between lamb and wolf…\n<br><br>\n(Source: iQIYI, translated)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx211217-0l2rqhpsQGee.jpg",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "ONA",
+    "episodes": null,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Action",
+      "Fantasy"
+    ],
+    "updated_at": 1784394193
+  },
+  {
     "id": 210945,
     "id_mal": 63958,
     "url": "https://anilist.co/anime/210945",
@@ -2675,7 +2703,7 @@
       "Romance",
       "Thriller"
     ],
-    "updated_at": 1784386898
+    "updated_at": 1784394193
   },
   {
     "id": 210157,
@@ -4119,7 +4147,7 @@
       "Mystery",
       "Supernatural"
     ],
-    "updated_at": 1784379737
+    "updated_at": 1784394193
   },
   {
     "id": 204604,
@@ -4353,7 +4381,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784358109
+    "updated_at": 1784394193
   },
   {
     "id": 204363,
@@ -4550,7 +4578,7 @@
     "status": "NOT_YET_RELEASED",
     "score": null,
     "genres": [],
-    "updated_at": 1784322117
+    "updated_at": 1784394193
   },
   {
     "id": 203473,
@@ -5383,6 +5411,34 @@
       "Supernatural"
     ],
     "updated_at": 1784322117
+  },
+  {
+    "id": 199353,
+    "id_mal": null,
+    "url": "https://anilist.co/anime/199353",
+    "title": {
+      "english": "",
+      "romaji": "Dawang Raoming 3",
+      "native": "大王饶命 第三季"
+    },
+    "description": "The third season of <i>Dawang Raoming</i>.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199353-eCkTDaP9V9vb.jpg",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "ONA",
+    "episodes": null,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Action",
+      "Fantasy"
+    ],
+    "updated_at": 1784394193
   },
   {
     "id": 199342,
@@ -7690,7 +7746,7 @@
       "Comedy",
       "Sports"
     ],
-    "updated_at": 1784329393
+    "updated_at": 1784394193
   },
   {
     "id": 184072,
@@ -7748,6 +7804,37 @@
       "Fantasy"
     ],
     "updated_at": 1784376216
+  },
+  {
+    "id": 183692,
+    "id_mal": 60230,
+    "url": "https://anilist.co/anime/183692",
+    "title": {
+      "english": "",
+      "romaji": "Kidou Senshi Gundam SEED FREEDOM ZERO",
+      "native": "機動戦士ガンダムSEED FREEDOM ZERO"
+    },
+    "description": "A prequel to the <i>Kidou Senshi Gundam SEED FREEDOM</i> movie.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx183692-0V7IiVQKCyMC.jpg",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "",
+    "episodes": null,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Action",
+      "Drama",
+      "Mecha",
+      "Romance",
+      "Sci-Fi"
+    ],
+    "updated_at": 1784394193
   },
   {
     "id": 183418,
@@ -8035,7 +8122,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784358109
+    "updated_at": 1784394193
   },
   {
     "id": 178972,
@@ -8669,7 +8756,7 @@
       "Action",
       "Sci-Fi"
     ],
-    "updated_at": 1784386898
+    "updated_at": 1784394193
   },
   {
     "id": 166457,
@@ -8753,7 +8840,7 @@
     "genres": [
       "Sci-Fi"
     ],
-    "updated_at": 1784372518
+    "updated_at": 1784394193
   },
   {
     "id": 165523,
@@ -8782,7 +8869,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784325887
+    "updated_at": 1784394193
   },
   {
     "id": 163794,
@@ -9795,7 +9882,7 @@
       "Adventure",
       "Sci-Fi"
     ],
-    "updated_at": 1784290784
+    "updated_at": 1784394193
   },
   {
     "id": 110275,
@@ -10112,7 +10199,7 @@
       "Drama",
       "Fantasy"
     ],
-    "updated_at": 1784383565
+    "updated_at": 1784394193
   },
   {
     "id": 100081,
