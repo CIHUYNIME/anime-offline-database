@@ -195,7 +195,7 @@
       "Comedy",
       "Romance"
     ],
-    "updated_at": 1784368905
+    "updated_at": 1784383565
   },
   {
     "id": 214044,
@@ -665,7 +665,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1783948413
+    "updated_at": 1784383565
   },
   {
     "id": 213815,
@@ -1178,7 +1178,7 @@
       "Comedy",
       "Romance"
     ],
-    "updated_at": 1784358109
+    "updated_at": 1784383565
   },
   {
     "id": 213580,
@@ -1499,7 +1499,7 @@
       "Comedy",
       "Drama"
     ],
-    "updated_at": 1784376216
+    "updated_at": 1784383565
   },
   {
     "id": 213316,
@@ -2012,7 +2012,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784246842
+    "updated_at": 1784383565
   },
   {
     "id": 212507,
@@ -2911,7 +2911,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784325887
+    "updated_at": 1784383565
   },
   {
     "id": 209562,
@@ -2966,7 +2966,7 @@
       "Comedy",
       "Romance"
     ],
-    "updated_at": 1784358106
+    "updated_at": 1784383565
   },
   {
     "id": 209499,
@@ -3225,7 +3225,7 @@
       "Mecha",
       "Sci-Fi"
     ],
-    "updated_at": 1784372518
+    "updated_at": 1784383565
   },
   {
     "id": 208025,
@@ -3344,7 +3344,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784368905
+    "updated_at": 1784383565
   },
   {
     "id": 207329,
@@ -3888,7 +3888,7 @@
       "Drama",
       "Fantasy"
     ],
-    "updated_at": 1784322117
+    "updated_at": 1784383565
   },
   {
     "id": 205081,
@@ -4385,7 +4385,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784325887
+    "updated_at": 1784383565
   },
   {
     "id": 204286,
@@ -4610,7 +4610,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784340991
+    "updated_at": 1784383565
   },
   {
     "id": 202906,
@@ -5040,7 +5040,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784358109
+    "updated_at": 1784383565
   },
   {
     "id": 200294,
@@ -6725,7 +6725,7 @@
       "Romance",
       "Supernatural"
     ],
-    "updated_at": 1784350916
+    "updated_at": 1784383565
   },
   {
     "id": 189796,
@@ -8012,7 +8012,7 @@
       "Drama",
       "Sci-Fi"
     ],
-    "updated_at": 1784361747
+    "updated_at": 1784383565
   },
   {
     "id": 178467,
@@ -8383,7 +8383,7 @@
     "genres": [
       "Adventure"
     ],
-    "updated_at": 1784368905
+    "updated_at": 1784383565
   },
   {
     "id": 171513,
@@ -8874,7 +8874,7 @@
       "Adventure",
       "Comedy"
     ],
-    "updated_at": 1784372518
+    "updated_at": 1784383565
   },
   {
     "id": 161410,
@@ -9281,7 +9281,7 @@
       "Fantasy",
       "Mahou Shoujo"
     ],
-    "updated_at": 1784368905
+    "updated_at": 1784383565
   },
   {
     "id": 137669,
@@ -10002,7 +10002,7 @@
       "Romance",
       "Sci-Fi"
     ],
-    "updated_at": 1784381241
+    "updated_at": 1784383565
   },
   {
     "id": 100130,
@@ -10031,7 +10031,7 @@
       "Drama",
       "Fantasy"
     ],
-    "updated_at": 1783950905
+    "updated_at": 1784383565
   },
   {
     "id": 100081,
@@ -10061,6 +10061,34 @@
       "Sci-Fi"
     ],
     "updated_at": 1783950924
+  },
+  {
+    "id": 98476,
+    "id_mal": 63997,
+    "url": "https://anilist.co/anime/98476",
+    "title": {
+      "english": "",
+      "romaji": "Biblia Koshodou no Jiken Techou",
+      "native": "ビブリア古書堂の事件手帖"
+    },
+    "description": "Biblia Koshodou no Jiken Techou is a mystery series where Shinokawa Shioriko, a young owner of a bookstore in Kamakura, unravel mysteries of ancient books that are taken there.\n\nThe story begins with a young man named Daisuke, who grew up practically without reading books due to a \"phobia,\" brings the complete (and autographed) works of Natsume Soseki, Japanese writer of the Meiji era, inherited from his grandmother in the mysterious bookstore. Will the shy and introvert Shioriko solve the mystery of the books?",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx98476-humj2ScdtAj3.jpg",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "TV",
+    "episodes": null,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Drama",
+      "Mystery"
+    ],
+    "updated_at": 1784384278
   },
   {
     "id": 10089,

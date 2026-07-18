@@ -466,6 +466,31 @@
     "updated_at": 1784376216
   },
   {
+    "id": 211262,
+    "id_mal": null,
+    "url": "https://anilist.co/anime/211262",
+    "title": {
+      "english": "",
+      "romaji": "Bobo-kun",
+      "native": "ぼうぼう君"
+    },
+    "description": "Part of a series of animated short films shown at the Ghibli Museum in Mitaka called <i>\"Film Guru Guru\"</i>.<br><br>\nA short film of a fire demon called \"Bobo-kun,\" eating one piece of coal after another. This character would later be re-used as Calcifer, who appears in Howl's Moving Castle.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b211262-VVD5OIgM6nrZ.png",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 1,
+    "status": "FINISHED",
+    "score": null,
+    "genres": [],
+    "updated_at": 1784383565
+  },
+  {
     "id": 211260,
     "id_mal": null,
     "url": "https://anilist.co/anime/211260",
@@ -629,6 +654,34 @@
       "Slice of Life"
     ],
     "updated_at": 1784350916
+  },
+  {
+    "id": 207486,
+    "id_mal": 63999,
+    "url": "https://anilist.co/anime/207486",
+    "title": {
+      "english": "",
+      "romaji": "Ginga Tetsudou 999: Glass no Clair (3D)",
+      "native": "銀河鉄道999～ガラスのクレア～（3D）"
+    },
+    "description": "Remake of the Glass no Clair special, featuring a 3D stereoscopic animation based on the original work by Leiji Matsumoto.<br><br> \n\nThis is the second time Matsumoto's work has been made into a 3D film.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b207486-4M9XgfDJ5ses.png",
+    "banner_url": "",
+    "schedule": "Musim: WINTER 2000",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "WINTER",
+    "year": 2000,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 16,
+    "status": "FINISHED",
+    "score": null,
+    "genres": [
+      "Drama",
+      "Sci-Fi"
+    ],
+    "updated_at": 1784383565
   },
   {
     "id": 207327,
@@ -2666,7 +2719,7 @@
       "Drama",
       "Sci-Fi"
     ],
-    "updated_at": 1784361747
+    "updated_at": 1784383565
   },
   {
     "id": 178788,
@@ -5082,7 +5135,7 @@
       "Sci-Fi",
       "Thriller"
     ],
-    "updated_at": 1784325887
+    "updated_at": 1784383565
   },
   {
     "id": 153658,
@@ -6150,7 +6203,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784350914
+    "updated_at": 1784383565
   },
   {
     "id": 139311,
@@ -7097,7 +7150,7 @@
       "Fantasy",
       "Slice of Life"
     ],
-    "updated_at": 1784372860
+    "updated_at": 1784383565
   },
   {
     "id": 130254,
@@ -7181,7 +7234,7 @@
       "Drama",
       "Supernatural"
     ],
-    "updated_at": 1784372893
+    "updated_at": 1784383565
   },
   {
     "id": 129759,
@@ -7413,7 +7466,7 @@
       "Mystery",
       "Sci-Fi"
     ],
-    "updated_at": 1784376216
+    "updated_at": 1784383565
   },
   {
     "id": 127227,
@@ -8543,7 +8596,7 @@
     "genres": [
       "Action"
     ],
-    "updated_at": 1784358109
+    "updated_at": 1784383565
   },
   {
     "id": 119836,
@@ -8767,7 +8820,7 @@
       "Fantasy",
       "Mystery"
     ],
-    "updated_at": 1784361747
+    "updated_at": 1784383565
   },
   {
     "id": 118936,
@@ -8882,7 +8935,7 @@
       "Adventure",
       "Supernatural"
     ],
-    "updated_at": 1784361747
+    "updated_at": 1784383565
   },
   {
     "id": 118126,
@@ -12836,7 +12889,7 @@
       "Romance",
       "Sci-Fi"
     ],
-    "updated_at": 1784376216
+    "updated_at": 1784383565
   },
   {
     "id": 106206,
@@ -13003,7 +13056,7 @@
     "genres": [
       "Fantasy"
     ],
-    "updated_at": 1784379779
+    "updated_at": 1784383565
   },
   {
     "id": 105230,
@@ -17494,7 +17547,7 @@
       "Romance",
       "Sci-Fi"
     ],
-    "updated_at": 1784381241
+    "updated_at": 1784383565
   },
   {
     "id": 101610,
@@ -18478,7 +18531,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784329393
+    "updated_at": 1784383565
   },
   {
     "id": 100653,
@@ -18943,7 +18996,7 @@
       "Drama",
       "Fantasy"
     ],
-    "updated_at": 1783950905
+    "updated_at": 1784383565
   },
   {
     "id": 100081,
@@ -19292,6 +19345,56 @@
     "updated_at": 1784358109
   },
   {
+    "id": 99212,
+    "id_mal": 29587,
+    "url": "https://anilist.co/anime/99212",
+    "title": {
+      "english": "Home, My Home",
+      "romaji": "Home, My Home",
+      "native": "ホーム・マイホーム"
+    },
+    "description": "Short animation by Tadanari Okamoto.<br>\n<br>\nWinner of the 1970 Oofuji Noburou Award.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b99212-zOdboz70IRiN.jpg",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 3,
+    "status": "FINISHED",
+    "score": 43,
+    "genres": [],
+    "updated_at": 1784383772
+  },
+  {
+    "id": 99211,
+    "id_mal": 29411,
+    "url": "https://anilist.co/anime/99211",
+    "title": {
+      "english": "",
+      "romaji": "12-gatsu no Uta",
+      "native": "12月のうた"
+    },
+    "description": "Short film by Tadanari Okamoto originally projected on three screens, and re-edited for domestic release many years later, set to a poem by Noriko Ibaraki of the same name.\n",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/99211-Ey4tXGQe4MJu.jpg",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 1,
+    "status": "FINISHED",
+    "score": 39,
+    "genres": [],
+    "updated_at": 1784383773
+  },
+  {
     "id": 99208,
     "id_mal": 23877,
     "url": "https://anilist.co/anime/99208",
@@ -19314,7 +19417,7 @@
     "status": "FINISHED",
     "score": 38,
     "genres": [],
-    "updated_at": 1784253709
+    "updated_at": 1784383775
   },
   {
     "id": 99197,
@@ -19341,7 +19444,117 @@
     "genres": [
       "Action"
     ],
-    "updated_at": 1784329393
+    "updated_at": 1784383801
+  },
+  {
+    "id": 99196,
+    "id_mal": 35424,
+    "url": "https://anilist.co/anime/99196",
+    "title": {
+      "english": "Laughing Under the Clouds: Gaiden Part 2",
+      "romaji": "Donten ni Warau Gaiden: Shukumei, Soutou no Fuuma",
+      "native": "曇天に笑う<外伝> ～宿命、双頭の風魔～"
+    },
+    "description": "The second part in an anime film trilogy adaptation of the <i>Donten ni Warau Gaiden</i> spinoff manga. \n<br><br>\nThe Fuuma ninja clan is a secret ninja tribe that seeks to welcome the “Orochi” when it resurrects every 300 years. In the clan we find twin brothers, Isuke and Isame, who live cursed lives after being persecuted by their tribe for being twins. This tragedy is only amplified as Isuke is faced with an impossible choice in the clan's twisted rite of passage.\n<br><br>\n(Source: Eleven Arts)\n",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx99196-VwzvzxjMWwcw.jpg",
+    "banner_url": "",
+    "schedule": "Musim: SPRING 2018",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "SPRING",
+    "year": 2018,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 60,
+    "status": "FINISHED",
+    "score": 71,
+    "genres": [
+      "Action"
+    ],
+    "updated_at": 1784383802
+  },
+  {
+    "id": 99084,
+    "id_mal": 35740,
+    "url": "https://anilist.co/anime/99084",
+    "title": {
+      "english": "",
+      "romaji": "Doraemon: Nobita no Takarajima",
+      "native": "映画ドラえもん のび太の宝島"
+    },
+    "description": "Upon hearing about the story of Treasure Island, Nobita dreams of discovering and exploring his own treasure island, despite the fact all of the Earth has been mapped already. <br><br>Doraemon provides Nobita a special treasure map that shows him the location of a treasure island. At the same time, the media announces the discovery of a completely unknown island. Believing the new island is the treasure island, Nobita recruits Doraemon and Shizuka to journey with him, with Doraemon providing a ship. Gian and Suneo also tag along. However, as they get near the island, they are suddenly attacked by a gang of pirates.<br><br>(Source: Wikipedia)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx99084-wbdkDmvL1edJ.jpg",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/99084-vYGcNpdrruzX.jpg",
+    "schedule": "Musim: WINTER 2018",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "WINTER",
+    "year": 2018,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 109,
+    "status": "FINISHED",
+    "score": 72,
+    "genres": [
+      "Comedy",
+      "Sci-Fi"
+    ],
+    "updated_at": 1784384044
+  },
+  {
+    "id": 98998,
+    "id_mal": 35219,
+    "url": "https://anilist.co/anime/98998",
+    "title": {
+      "english": "",
+      "romaji": "DC Super Heroes vs Taka no Tsume Dan",
+      "native": "DCスーパーヒーローズvs鷹の爪団"
+    },
+    "description": "Joker has come to Japan to steal the Eagle Talon Society's secret weapons in his continued scheme for pure chaos. However, the Justice League is on his trail, but there's something off with Batman. Now, it's up to Eagle Talon to go find out what's wrong with him, and that means going back in time to Bruce Wayne's most traumatic experience, the murder of his parents. The Eagle Talon Society also have to keep their eyes on their production budget, especially with most of that money going towards the licensing fee for DC's popular characters. Will the Eagle Talon Society and the Justice League be able to stop the Joker before their budget dries up, and they're reduced to simple stick figures!?\n",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/98998-7y2p3yH8xA9E.jpg",
+    "banner_url": "",
+    "schedule": "Musim: FALL 2017",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "FALL",
+    "year": 2017,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 120,
+    "status": "FINISHED",
+    "score": 44,
+    "genres": [
+      "Comedy"
+    ],
+    "updated_at": 1784384074
+  },
+  {
+    "id": 98891,
+    "id_mal": 35206,
+    "url": "https://anilist.co/anime/98891",
+    "title": {
+      "english": "",
+      "romaji": "Kirakira☆Precure a la Mode: Paris to! Omoide no Mille-Feuille!",
+      "native": "キラキラ☆プリキュアアラモード パリッと！想い出のミルフィーユ！"
+    },
+    "description": "The Precure members go to France as part of a cooking competition. While in France, Ciel is suddenly unable to change into her Precure form, and her sweets making is going badly as well. During the competition, suddenly the streets of Paris turn to sweets.\n<br><br>\n(Source: Anime News Network)\n<br><br>\n<i>Notes: The runtime does not account for the <a href=\"https://anilist.co/anime/117403/PetitDream-Stars-Lets-La-Cooking-Showtime/\">5-minute short that</a> screened alongside the movie</i>",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx98891-XN5Gf8tLuBMY.png",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/98891-sdSV0qY9ofQz.jpg",
+    "schedule": "Musim: FALL 2017",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "FALL",
+    "year": 2017,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 65,
+    "status": "FINISHED",
+    "score": 67,
+    "genres": [
+      "Fantasy",
+      "Mahou Shoujo"
+    ],
+    "updated_at": 1784384106
   },
   {
     "id": 98885,
@@ -19370,7 +19583,7 @@
       "Drama",
       "Sports"
     ],
-    "updated_at": 1784322117
+    "updated_at": 1784384108
   },
   {
     "id": 98884,
@@ -19399,7 +19612,7 @@
       "Drama",
       "Sports"
     ],
-    "updated_at": 1784329393
+    "updated_at": 1784384109
   },
   {
     "id": 98876,
@@ -19428,7 +19641,7 @@
       "Music",
       "Slice of Life"
     ],
-    "updated_at": 1784333050
+    "updated_at": 1784384111
   },
   {
     "id": 98874,
@@ -19457,7 +19670,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784318498
+    "updated_at": 1784384112
   },
   {
     "id": 98873,
@@ -19486,7 +19699,90 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784289675
+    "updated_at": 1784384113
+  },
+  {
+    "id": 98784,
+    "id_mal": 34972,
+    "url": "https://anilist.co/anime/98784",
+    "title": {
+      "english": "Hakubo",
+      "romaji": "Hakubo",
+      "native": "薄暮"
+    },
+    "description": "Koyama Sachi, a high school girl living in Iwaki City, Fukushima, has been deeply scarred by the Tohoku earthquake of 2011. Since it occurred, she's distanced herself from her friends and family, and shows no interest in people or romance. A violinist since childhood, she's a member of her school's music club and practices every day to prepare for the quartet performance at the school cultural festival. In the midst of all this, she meets Yuusuke, a boy who took refuge in Iwaki after his family was left unable to return home following the great quake, and the two begin to fall in love...<br><br>(Source: Crunchyroll)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx98784-9Vn0yRL5iHNa.jpg",
+    "banner_url": "",
+    "schedule": "Musim: SPRING 2019",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "SPRING",
+    "year": 2019,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 52,
+    "status": "FINISHED",
+    "score": 62,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "updated_at": 1784384147
+  },
+  {
+    "id": 98779,
+    "id_mal": 36990,
+    "url": "https://anilist.co/anime/98779",
+    "title": {
+      "english": "Non Non Biyori Vacation",
+      "romaji": "Non Non Biyori: Vacation",
+      "native": "劇場版 のんのんびより ばけーしょん"
+    },
+    "description": "Even when you're fortunate enough to live in a place as beautiful as the country village of Asahigaoka, you should never turn down the chance to explore someplace else. So, when Suguru wins a free trip to Okinawa just as the summer vacation is coming to an end, the town's entire school… all 5 students and 1 teacher, plus the local candy shop owner… can hardly wait for their 3-day trip to begin! Between kayaking, swimming and meeting new people, there's always something fun happening, but the best part of all is that big city girl Hotaru and her new small-town friends all get to explore the wonders of Japan's famous vacation destination together.<br><br>(Source: Sentai Filmworks)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx98779-83geTNam3rVE.jpg",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/98779-utaB4uQfpyXv.png",
+    "schedule": "Musim: SUMMER 2018",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "SUMMER",
+    "year": 2018,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 71,
+    "status": "FINISHED",
+    "score": 81,
+    "genres": [
+      "Comedy",
+      "Slice of Life"
+    ],
+    "updated_at": 1784384150
+  },
+  {
+    "id": 98776,
+    "id_mal": 35609,
+    "url": "https://anilist.co/anime/98776",
+    "title": {
+      "english": "Poupelle of Chimney Town",
+      "romaji": "Entotsu-machi no Poupelle",
+      "native": "えんとつ町のプぺル"
+    },
+    "description": "The story is set in a town surrounded by a wall that stands 4,000 meters (about 2.5 miles) tall. Because the town is full of chimneys, the air is always full of smoke. No one in the town knows what the sky looks like. On one night of the town's Halloween festival, a deliveryman accidentally drops the heart he is supposed to deliver. He cannot find the heart in the smoke and gives up. The heart continues to beat where it fell in the town of chimneys.<br><br>\n\n(Source: Anime News Network)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx98776-St71l4PsKVX6.jpg",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/98776-UECg5RN6qZlC.jpg",
+    "schedule": "Musim: FALL 2020",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "FALL",
+    "year": 2020,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 100,
+    "status": "FINISHED",
+    "score": 61,
+    "genres": [
+      "Fantasy"
+    ],
+    "updated_at": 1784384151
   },
   {
     "id": 98772,
@@ -19543,7 +19839,37 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784333047
+    "updated_at": 1784384156
+  },
+  {
+    "id": 98746,
+    "id_mal": 33183,
+    "url": "https://anilist.co/anime/98746",
+    "title": {
+      "english": "",
+      "romaji": "Mahoutsukai Precure! Kiseki no Henshin! Cure Mofurun!",
+      "native": "魔法つかいプリキュア！奇跡の変身！キュアモフルン！"
+    },
+    "description": "Mirai and friends go to the Magical World to celebrate the Wishing Stone Festival, a once a century gathering where the titular stone grants one lucky customer's wish. When Mirai and Mofurun are seperated by a mysterious bear wizard, Mofurun's wish is granted and hijinks ensue.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx98746-FIqCqF5dlkNd.jpg",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/98746-ZOLmgL7ST9B6.jpg",
+    "schedule": "Musim: FALL 2016",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "FALL",
+    "year": 2016,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 66,
+    "status": "FINISHED",
+    "score": 74,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy",
+      "Mahou Shoujo"
+    ],
+    "updated_at": 1784384158
   },
   {
     "id": 98744,
@@ -19601,7 +19927,7 @@
       "Horror",
       "Supernatural"
     ],
-    "updated_at": 1784358109
+    "updated_at": 1784384175
   },
   {
     "id": 98662,
@@ -19632,7 +19958,124 @@
       "Horror",
       "Supernatural"
     ],
-    "updated_at": 1784376216
+    "updated_at": 1784384176
+  },
+  {
+    "id": 98656,
+    "id_mal": null,
+    "url": "https://anilist.co/anime/98656",
+    "title": {
+      "english": "",
+      "romaji": "Yuuri!!! on ICE The Movie: ICE ADOLESCENCE",
+      "native": "ユーリ!!! on ICE 劇場版 : ICE ADOLESCENCE"
+    },
+    "description": "Sequel movie to <i>Yuri!!! on Ice</i>.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx98656-HRsD7skIzzGq.jpg",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/98656-pP3gO4UhBT9z.jpg",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": null,
+    "status": "CANCELLED",
+    "score": 79,
+    "genres": [
+      "Sports"
+    ],
+    "updated_at": 1784384196
+  },
+  {
+    "id": 98576,
+    "id_mal": 35315,
+    "url": "https://anilist.co/anime/98576",
+    "title": {
+      "english": "CHAOS;CHILD: Silent Sky",
+      "romaji": "CHAOS;CHILD: SILENT SKY",
+      "native": "CHAOS;CHILD SILENT SKY"
+    },
+    "description": "Serika Onoe wakes up, not knowing who she is or why. She tries her best to lead an ordinary existance far from Shibuya, but strange dreams refuse to leave her...\n<br><br>\n(Source: Crunchyroll)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx98576-DEb7XbyaP5qh.jpg",
+    "banner_url": "",
+    "schedule": "Musim: SPRING 2017",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "SPRING",
+    "year": 2017,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 50,
+    "status": "FINISHED",
+    "score": 62,
+    "genres": [
+      "Mystery",
+      "Psychological",
+      "Sci-Fi",
+      "Supernatural"
+    ],
+    "updated_at": 1784384230
+  },
+  {
+    "id": 98516,
+    "id_mal": 34820,
+    "url": "https://anilist.co/anime/98516",
+    "title": {
+      "english": "",
+      "romaji": "Mazinger Z: INFINITY",
+      "native": "劇場版 マジンガーZ ／ INFINITY"
+    },
+    "description": "The film is commemorating the 45th anniversary of the original Mazinger Z series.\n\nIt has been 10 years since then. Humanity awaits a new fate.\n\nOnce humanity was on the verge of destruction at the hands of the evil scientist Dr. Hell and his underground empire. Kouji Kabuto, his Mazinger Z super robot, and his friends at the photon power laboratory put an end to Dr. Hell's evil ambitions, and returned peace to the world.\n\nIt has been 10 years since then. Kouji has followed his father and grandfather and now walks the path of a scientist. He encounters a mysterious life form buried in a giant structure buried deep below Mt. Fuji. A new encounter, a new threat, and a new fate await humanity. And Kouji, who was once a hero, makes a decision for the future.\n\nIt can be a god or a demon.\n\nOnce again the future is entrusted to Mazinger Z.\n<br><br>\n(Source: Anime News Network)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx98516-VvOfjUvuoV39.jpg",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/98516-mkaGTRlakqag.jpg",
+    "schedule": "Musim: WINTER 2018",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "WINTER",
+    "year": 2018,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 95,
+    "status": "FINISHED",
+    "score": 68,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Mecha",
+      "Sci-Fi",
+      "Supernatural"
+    ],
+    "updated_at": 1784384254
+  },
+  {
+    "id": 98497,
+    "id_mal": 35198,
+    "url": "https://anilist.co/anime/98497",
+    "title": {
+      "english": "Free! -Take Your Marks-",
+      "romaji": "Free!: Take Your Marks",
+      "native": "特別版 Free!-Take Your Marks-"
+    },
+    "description": "Taking place between the events of <i>Free!: Eternal Summer</i> and <i>Free!: Dive to the Future</i>, <i>Free!: Take Your Marks</i> plays out the graduated seniors' last summer through four different stories before they set sail for the future.\n<br><br>\nUnmei no Choice! (Destined Choice!) follows Haruka Nanase and Makoto Tachibana searching for a new apartment for Haruka as he settles into Tokyo.\n<br><br>\nHitou no Cooling Down! (Cooling Down at the Secret Hot Spring!) sees Aiichiro Nitori choose a graduation gift for Rin Matsuoka and Sousuke Yamazaki, while Momotaro Mikoshiba wins tickets to the Anago Hot Springs. Hoping for a trip together, Aiichiro and Momotaro invite Rin and Sousuke.\n<br><br>\nKessoku no Batafurai! (United Butterfly!) shows Rei Ryugazaki, Nagisa Hazuki, and Gou Matsuoka creating a recruitment video to attract new club members for the next school year.\n<br><br>\nTabidachi no Etanaru Buru! (Departing Eternal Blue!) looks into the Iwatobi and Samezuka swim teams' plans for Rin's surprise going-away party, as he will be departing for Australia soon.\n<br><br>\n[Written by MAL Rewrite]",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx98497-6HJBfNzL704B.jpg",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/98497-eDgt9UiGTLAz.jpg",
+    "schedule": "Musim: FALL 2017",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "FALL",
+    "year": 2017,
+    "format": "MOVIE",
+    "episodes": 4,
+    "duration": 27,
+    "status": "FINISHED",
+    "score": 76,
+    "genres": [
+      "Comedy",
+      "Slice of Life",
+      "Sports"
+    ],
+    "updated_at": 1784384266
   },
   {
     "id": 98496,
@@ -19660,7 +20103,7 @@
       "Slice of Life",
       "Sports"
     ],
-    "updated_at": 1784253695
+    "updated_at": 1784384267
   },
   {
     "id": 98495,
@@ -19689,7 +20132,7 @@
       "Slice of Life",
       "Sports"
     ],
-    "updated_at": 1784253695
+    "updated_at": 1784384267
   },
   {
     "id": 98471,
@@ -19720,7 +20163,67 @@
       "Mecha",
       "Sci-Fi"
     ],
-    "updated_at": 1784242996
+    "updated_at": 1784384278
+  },
+  {
+    "id": 98470,
+    "id_mal": 35135,
+    "url": "https://anilist.co/anime/98470",
+    "title": {
+      "english": "ANEMONE: Eureka Seven Hi-Evolution",
+      "romaji": "ANEMONE: Koukyoushihen Eureka Seven Hi-Evolution",
+      "native": "ANEMONE／交響詩篇エウレカセブン ハイエボリューション"
+    },
+    "description": "Seven years ago, Anemone’s father disappears, leaving his daughter with nothing but an app on her phone to support her. Now, she’s tasked with a pivotal role in the war against mankind’s enemy - a war which sees her subconscious sent into the midst of another world as humanity’s only truly effective weapon.\n<br><br>\nAs unusual events within this other world unfold, so more and more questions are raised about Anemone’s life, as well as the nature of what she is truly fighting against. With seemingly endless possibilities stretching out before her, Anemone has an important choice to make - does she save the world, or the person she loves?",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx98470-y6GgN9h1bj1Q.jpg",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/98470-yz2Ibr6PwlZq.jpg",
+    "schedule": "Musim: FALL 2018",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "FALL",
+    "year": 2018,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 90,
+    "status": "FINISHED",
+    "score": 63,
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Mecha",
+      "Sci-Fi"
+    ],
+    "updated_at": 1784384279
+  },
+  {
+    "id": 98469,
+    "id_mal": 35134,
+    "url": "https://anilist.co/anime/98469",
+    "title": {
+      "english": "Eureka Seven Hi-Evolution 1",
+      "romaji": "Koukyoushihen Eureka Seven Hi-Evolution 1",
+      "native": "交響詩篇エウレカセブン ハイエボリューション 1"
+    },
+    "description": "It all begins with the story that was left untold – the earth-shattering incident where Renton’s father disappeared. With the mysterious Eureka by his side, only Adroc Thurston could undo his own mistake, sparking the event that changed everything and earned him the title of a hero. Now, ten years later, Eureka lies in critical condition as Renton leaves the crew of the Gekko. But when he finds himself in the care of his father’s old friends, he has a choice to make. Either stay with the loving family he’s always wanted, or earn the love he seeks.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx98469-yAUcfoLGLHTk.jpg",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/98469-ftOsOxHK1ceN.jpg",
+    "schedule": "Musim: SUMMER 2017",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "SUMMER",
+    "year": 2017,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 93,
+    "status": "FINISHED",
+    "score": 57,
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Mecha",
+      "Sci-Fi"
+    ],
+    "updated_at": 1784384279
   },
   {
     "id": 98452,
@@ -19747,7 +20250,7 @@
     "genres": [
       "Action"
     ],
-    "updated_at": 1784329393
+    "updated_at": 1784384291
   },
   {
     "id": 98402,
@@ -19778,7 +20281,7 @@
       "Fantasy",
       "Sci-Fi"
     ],
-    "updated_at": 1784297606
+    "updated_at": 1784384337
   },
   {
     "id": 98384,
@@ -19808,7 +20311,7 @@
       "Mystery",
       "Supernatural"
     ],
-    "updated_at": 1784372518
+    "updated_at": 1784384417
   },
   {
     "id": 98332,
@@ -19865,7 +20368,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784333043
+    "updated_at": 1784384544
   },
   {
     "id": 98249,
@@ -19895,7 +20398,7 @@
       "Music",
       "Supernatural"
     ],
-    "updated_at": 1784340993
+    "updated_at": 1784384650
   },
   {
     "id": 98240,
@@ -19923,7 +20426,35 @@
       "Comedy",
       "Slice of Life"
     ],
-    "updated_at": 1784322117
+    "updated_at": 1784384653
+  },
+  {
+    "id": 98225,
+    "id_mal": 24347,
+    "url": "https://anilist.co/anime/98225",
+    "title": {
+      "english": "Inazuma Eleven: Choujigen Dream Match",
+      "romaji": "Inazuma Eleven: Choujigen Dream Match",
+      "native": "イナズマイレブン 超次元ドリームマッチ"
+    },
+    "description": "A movie featuring a match between fan-voted members of the Inazuma Best Eleven team and the special Battle Eleven team.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b98225-fTWs8p9izVGR.png",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/98225-ERSc1Givj8K7.jpg",
+    "schedule": "Musim: SPRING 2014",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "SPRING",
+    "year": 2014,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 49,
+    "status": "FINISHED",
+    "score": 68,
+    "genres": [
+      "Sports",
+      "Supernatural"
+    ],
+    "updated_at": 1784384665
   },
   {
     "id": 98222,
@@ -19952,7 +20483,7 @@
       "Comedy",
       "Mystery"
     ],
-    "updated_at": 1783948205
+    "updated_at": 1784384672
   },
   {
     "id": 98206,
@@ -19980,7 +20511,7 @@
       "Romance",
       "Supernatural"
     ],
-    "updated_at": 1784282525
+    "updated_at": 1784384692
   },
   {
     "id": 97981,
@@ -20008,7 +20539,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784358109
+    "updated_at": 1784384934
   },
   {
     "id": 97918,
@@ -20039,7 +20570,7 @@
       "Horror",
       "Supernatural"
     ],
-    "updated_at": 1784372518
+    "updated_at": 1784385028
   },
   {
     "id": 97917,
@@ -20067,7 +20598,7 @@
       "Comedy",
       "Romance"
     ],
-    "updated_at": 1784350915
+    "updated_at": 1784385036
   },
   {
     "id": 97908,
@@ -20096,7 +20627,7 @@
       "Romance",
       "Supernatural"
     ],
-    "updated_at": 1784340995
+    "updated_at": 1784385043
   },
   {
     "id": 97880,
@@ -20126,7 +20657,69 @@
       "Mecha",
       "Sci-Fi"
     ],
-    "updated_at": 1784379737
+    "updated_at": 1784385082
+  },
+  {
+    "id": 97860,
+    "id_mal": 34376,
+    "url": "https://anilist.co/anime/97860",
+    "title": {
+      "english": "",
+      "romaji": "Yuuki Yuuna wa Yuusha de Aru: Washio Sumi no Shou 3 - Yakusoku",
+      "native": "結城友奈は勇者である -鷲尾須美の章- 第3章 「やくそく」"
+    },
+    "description": "The third and final movie in the Washio Sumi no Shou trilogy.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97860-UyQVEpqa2fRk.png",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/97860-ZExQS1FMfqHI.jpg",
+    "schedule": "Musim: SUMMER 2017",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "SUMMER",
+    "year": 2017,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 48,
+    "status": "FINISHED",
+    "score": 78,
+    "genres": [
+      "Action",
+      "Drama",
+      "Fantasy",
+      "Mahou Shoujo",
+      "Slice of Life"
+    ],
+    "updated_at": 1784385095
+  },
+  {
+    "id": 97859,
+    "id_mal": 34375,
+    "url": "https://anilist.co/anime/97859",
+    "title": {
+      "english": "",
+      "romaji": "Yuuki Yuuna wa Yuusha de Aru: Washio Sumi no Shou 2 - Tamashii",
+      "native": "結城友奈は勇者である -鷲尾須美の章- 第2章 「たましい」"
+    },
+    "description": "The second movie in the Washio Sumi no Shou trilogy.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97859-hEwXY8VgIe02.png",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/97859-W5tO2X962bag.jpg",
+    "schedule": "Musim: SPRING 2017",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "SPRING",
+    "year": 2017,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 48,
+    "status": "FINISHED",
+    "score": 77,
+    "genres": [
+      "Action",
+      "Drama",
+      "Fantasy",
+      "Mahou Shoujo",
+      "Slice of Life"
+    ],
+    "updated_at": 1784385095
   },
   {
     "id": 97858,
@@ -20157,7 +20750,7 @@
       "Mahou Shoujo",
       "Slice of Life"
     ],
-    "updated_at": 1784268121
+    "updated_at": 1784385096
   },
   {
     "id": 97757,
@@ -20187,7 +20780,38 @@
       "Fantasy",
       "Psychological"
     ],
-    "updated_at": 1784333038
+    "updated_at": 1784385154
+  },
+  {
+    "id": 97734,
+    "id_mal": 34299,
+    "url": "https://anilist.co/anime/97734",
+    "title": {
+      "english": "Digimon Adventure tri. Chapter 4: Loss",
+      "romaji": "Digimon Adventure tri. 4: Soushitsu",
+      "native": "デジモンアドベンチャー tri. 第4章「喪失」"
+    },
+    "description": "The fourth movie in the new <i>Digimon Adventure</i> series. <br><br>\nUpon arriving at the Digital World after the \"reboot\", the DigiDestined are hunted by a new villain. Meanwhile, Sora is troubled by her partner digimon's indifference towards her.<br><br>\n(Source: Crunchyroll)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97734-44dAngCA1PU2.png",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/97734-nFJp9LhdHerI.jpg",
+    "schedule": "Musim: WINTER 2017",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "WINTER",
+    "year": 2017,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 82,
+    "status": "FINISHED",
+    "score": 69,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Fantasy",
+      "Sci-Fi"
+    ],
+    "updated_at": 1784385157
   },
   {
     "id": 97669,
@@ -20218,7 +20842,7 @@
       "Sci-Fi",
       "Supernatural"
     ],
-    "updated_at": 1784361747
+    "updated_at": 1784385195
   },
   {
     "id": 97661,
@@ -20273,7 +20897,7 @@
       "Comedy",
       "Drama"
     ],
-    "updated_at": 1784340993
+    "updated_at": 1784385252
   },
   {
     "id": 87458,
@@ -20683,7 +21307,7 @@
       "Fantasy",
       "Sci-Fi"
     ],
-    "updated_at": 1784361747
+    "updated_at": 1784383565
   },
   {
     "id": 21757,
@@ -22131,7 +22755,7 @@
       "Slice of Life",
       "Supernatural"
     ],
-    "updated_at": 1784358109
+    "updated_at": 1784383565
   },
   {
     "id": 20990,
@@ -22954,7 +23578,7 @@
       "Romance",
       "Sci-Fi"
     ],
-    "updated_at": 1784361747
+    "updated_at": 1784383565
   },
   {
     "id": 20737,
@@ -22986,7 +23610,7 @@
       "Sci-Fi",
       "Supernatural"
     ],
-    "updated_at": 1784376216
+    "updated_at": 1784383565
   },
   {
     "id": 20736,
@@ -25231,6 +25855,35 @@
     "updated_at": 1784332971
   },
   {
+    "id": 16480,
+    "id_mal": 16480,
+    "url": "https://anilist.co/anime/16480",
+    "title": {
+      "english": "",
+      "romaji": "Ojarumaru Yakusoku no Natsu Ojaru to Semira Movie",
+      "native": "映画 おじゃる丸 約束の夏 おじゃるとせみら"
+    },
+    "description": "A short film introduces Semira, a strange boy who comes to play with Ojaru and his chums and bears a marked resemblance to a boy of the same name who spent a summer with the village elders when they were boys, long ago.<br><br>\n(Source: AnimeVice)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/16480.jpg",
+    "banner_url": "",
+    "schedule": "Musim: SUMMER 2000",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "SUMMER",
+    "year": 2000,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 47,
+    "status": "FINISHED",
+    "score": null,
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Fantasy"
+    ],
+    "updated_at": 1784383565
+  },
+  {
     "id": 16442,
     "id_mal": 16442,
     "url": "https://anilist.co/anime/16442",
@@ -25541,7 +26194,7 @@
       "Mecha",
       "Sci-Fi"
     ],
-    "updated_at": 1784309513
+    "updated_at": 1784383565
   },
   {
     "id": 15199,
@@ -26093,7 +26746,7 @@
       "Drama",
       "Slice of Life"
     ],
-    "updated_at": 1784368905
+    "updated_at": 1784383565
   },
   {
     "id": 13971,
@@ -27070,7 +27723,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784372518
+    "updated_at": 1784383565
   },
   {
     "id": 12035,
@@ -27716,6 +28369,33 @@
     "updated_at": 1784329393
   },
   {
+    "id": 10500,
+    "id_mal": 10500,
+    "url": "https://anilist.co/anime/10500",
+    "title": {
+      "english": "",
+      "romaji": "Ojii-san no Lamp",
+      "native": "おぢいさんのランプ"
+    },
+    "description": "A boy finds a strange object while playing hide-and-seek. His grandfather tells him the story of his own youth, and the important role the old lamp played. This story is about the modernization of Japan and the changes that came with it.<br>\n<br>\nThe Agency of Cultural Affairs of Japan invested 214 million yen ($2.26 million) in \"Young Animator Training Project\" and entrusted the execution of the project to Japan Animation Creators Association (JaniCA). JaniCA produced four original anime (23 min long with OP and ED sequences) in cooperation with four production studios. Ojii-san no Lamp was one of these four projects.\n",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/n10500-jmcqLz2iGNO0.png",
+    "banner_url": "",
+    "schedule": "Musim: WINTER 2011",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "WINTER",
+    "year": 2011,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 25,
+    "status": "FINISHED",
+    "score": 71,
+    "genres": [
+      "Drama"
+    ],
+    "updated_at": 1784383565
+  },
+  {
     "id": 10408,
     "id_mal": 10408,
     "url": "https://anilist.co/anime/10408",
@@ -27830,7 +28510,7 @@
       "Romance",
       "Supernatural"
     ],
-    "updated_at": 1784322117
+    "updated_at": 1784383565
   },
   {
     "id": 10218,
@@ -28266,6 +28946,33 @@
     "updated_at": 1784341006
   },
   {
+    "id": 9745,
+    "id_mal": 9745,
+    "url": "https://anilist.co/anime/9745",
+    "title": {
+      "english": "Sengoku Basara - Samurai Kings: The Movie",
+      "romaji": "Sengoku BASARA: The Last Party",
+      "native": "劇場版 戦国BASARA -The Last Party-"
+    },
+    "description": "The story of the film is set after the conflict instigated by Toyotomi Hideyoshi ended, but not before the Battle of Sekigahara determines who shall be the Shogun of Japan.\n<br><br>\n(Source: Anime News Network)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx9745-2IUfJems8Asg.jpg",
+    "banner_url": "",
+    "schedule": "Musim: SPRING 2011",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "SPRING",
+    "year": 2011,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 93,
+    "status": "FINISHED",
+    "score": 72,
+    "genres": [
+      "Action"
+    ],
+    "updated_at": 1784383565
+  },
+  {
     "id": 9617,
     "id_mal": 9617,
     "url": "https://anilist.co/anime/9617",
@@ -28639,7 +29346,7 @@
       "Sports",
       "Supernatural"
     ],
-    "updated_at": 1783948413
+    "updated_at": 1784383565
   },
   {
     "id": 9000,
@@ -29549,7 +30256,7 @@
       "Action",
       "Supernatural"
     ],
-    "updated_at": 1784376216
+    "updated_at": 1784383565
   },
   {
     "id": 8246,
@@ -30517,6 +31224,33 @@
       "Fantasy"
     ],
     "updated_at": 1784312058
+  },
+  {
+    "id": 7683,
+    "id_mal": 7683,
+    "url": "https://anilist.co/anime/7683",
+    "title": {
+      "english": "Nostalgia",
+      "romaji": "Suiren no Hito",
+      "native": "​睡蓮の人"
+    },
+    "description": "An elderly man walks along his house and sees a turtle munching on a turnip. He does not disturb the creature but lets it eat in peace. Later that night, he has a dream of his late wife...<br>",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/7683.jpg",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 16,
+    "status": "FINISHED",
+    "score": 45,
+    "genres": [
+      "Drama"
+    ],
+    "updated_at": 1784383565
   },
   {
     "id": 7633,
@@ -32142,7 +32876,7 @@
       "Fantasy",
       "Supernatural"
     ],
-    "updated_at": 1784372518
+    "updated_at": 1784383565
   },
   {
     "id": 6872,
@@ -33853,7 +34587,7 @@
       "Supernatural",
       "Thriller"
     ],
-    "updated_at": 1784376216
+    "updated_at": 1784383565
   },
   {
     "id": 5204,
@@ -33884,7 +34618,7 @@
       "Supernatural",
       "Thriller"
     ],
-    "updated_at": 1784376216
+    "updated_at": 1784383565
   },
   {
     "id": 5178,
@@ -36591,6 +37325,33 @@
     "updated_at": 1783948347
   },
   {
+    "id": 2947,
+    "id_mal": 2947,
+    "url": "https://anilist.co/anime/2947",
+    "title": {
+      "english": "",
+      "romaji": "Ojamajo Doremi Sharp (Movie)",
+      "native": "おジャ魔女どれみ♯ (映画)"
+    },
+    "description": "One day Pop was out scavenging with Hana, and found a beautiful rose inside the Queen's garden. Curious, she picked the rose and brought it home. Unwittingly, that rose can cause all wishes to become true, whether good or bad. Good wishes will turn the rose white and bloom, while bad wishes will turn the rose black and wither. After a heated argument with her sister Doremi, Pop wishes that Doremi loses all her magic and be turned into a mouse. Hilarity ensues, as Doremi and the others try to put everything back to normal.<br><br>\n(Source: Anime News Network)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2947-XbN3W5mNoq5z.jpg",
+    "banner_url": "",
+    "schedule": "Musim: SUMMER 2000",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "SUMMER",
+    "year": 2000,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 27,
+    "status": "FINISHED",
+    "score": 70,
+    "genres": [
+      "Mahou Shoujo"
+    ],
+    "updated_at": 1784383565
+  },
+  {
     "id": 2915,
     "id_mal": 2915,
     "url": "https://anilist.co/anime/2915",
@@ -36673,7 +37434,7 @@
       "Drama",
       "Supernatural"
     ],
-    "updated_at": 1784368905
+    "updated_at": 1784383565
   },
   {
     "id": 2848,
@@ -37409,7 +38170,7 @@
       "Drama",
       "Music"
     ],
-    "updated_at": 1784329393
+    "updated_at": 1784383565
   },
   {
     "id": 2593,
@@ -37439,7 +38200,7 @@
       "Supernatural",
       "Thriller"
     ],
-    "updated_at": 1784358109
+    "updated_at": 1784383565
   },
   {
     "id": 2591,
@@ -38857,7 +39618,7 @@
     "genres": [
       "Drama"
     ],
-    "updated_at": 1784350916
+    "updated_at": 1784383565
   },
   {
     "id": 1815,
@@ -40520,7 +41281,7 @@
       "Sci-Fi",
       "Supernatural"
     ],
-    "updated_at": 1784350916
+    "updated_at": 1784383565
   },
   {
     "id": 1121,
@@ -41090,7 +41851,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784358109
+    "updated_at": 1784383565
   },
   {
     "id": 1030,
@@ -41769,7 +42530,7 @@
       "Comedy",
       "Sci-Fi"
     ],
-    "updated_at": 1784315862
+    "updated_at": 1784383565
   },
   {
     "id": 891,
@@ -41799,7 +42560,7 @@
       "Comedy",
       "Supernatural"
     ],
-    "updated_at": 1784315863
+    "updated_at": 1784383565
   },
   {
     "id": 884,
@@ -42825,7 +43586,7 @@
       "Romance",
       "Sci-Fi"
     ],
-    "updated_at": 1784358109
+    "updated_at": 1784383565
   },
   {
     "id": 536,
@@ -44350,7 +45111,7 @@
       "Sci-Fi",
       "Supernatural"
     ],
-    "updated_at": 1784358109
+    "updated_at": 1784383565
   },
   {
     "id": 88,
@@ -44647,6 +45408,6 @@
       "Mystery",
       "Sci-Fi"
     ],
-    "updated_at": 1784341004
+    "updated_at": 1784383565
   }
 ]
