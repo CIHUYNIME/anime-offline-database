@@ -611,7 +611,7 @@
       "Adventure",
       "Sci-Fi"
     ],
-    "updated_at": 1784340958
+    "updated_at": 1784397736
   },
   {
     "id": 213846,
@@ -2015,6 +2015,35 @@
     "updated_at": 1784383565
   },
   {
+    "id": 212539,
+    "id_mal": 64266,
+    "url": "https://anilist.co/anime/212539",
+    "title": {
+      "english": "",
+      "romaji": "Takopii no Genzai: Arigatou, Mata Ashita",
+      "native": "タコピーの原罪 -ありがとう、また明日-"
+    },
+    "description": "Theatrical compilation of all six episodes of the anime series <i>Takopii no Genzai</i>, including newly added scenes.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx212539-mZ3VbIErKBOr.png",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Drama",
+      "Psychological",
+      "Sci-Fi"
+    ],
+    "updated_at": 1784397736
+  },
+  {
     "id": 212507,
     "id_mal": 64253,
     "url": "https://anilist.co/anime/212507",
@@ -2613,7 +2642,7 @@
       "Ecchi",
       "Fantasy"
     ],
-    "updated_at": 1784372518
+    "updated_at": 1784397736
   },
   {
     "id": 210482,
@@ -3107,7 +3136,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784340945
+    "updated_at": 1784397736
   },
   {
     "id": 209224,
@@ -3716,7 +3745,7 @@
       "Drama",
       "Slice of Life"
     ],
-    "updated_at": 1784307728
+    "updated_at": 1784397736
   },
   {
     "id": 206160,
@@ -4177,7 +4206,7 @@
       "Sci-Fi",
       "Supernatural"
     ],
-    "updated_at": 1784390608
+    "updated_at": 1784397736
   },
   {
     "id": 204585,
@@ -5152,7 +5181,7 @@
       "Comedy",
       "Slice of Life"
     ],
-    "updated_at": 1784341006
+    "updated_at": 1784397736
   },
   {
     "id": 199793,
@@ -5646,7 +5675,7 @@
       "Mystery",
       "Supernatural"
     ],
-    "updated_at": 1784376216
+    "updated_at": 1784397736
   },
   {
     "id": 199006,
@@ -5787,7 +5816,7 @@
     "genres": [
       "Action"
     ],
-    "updated_at": 1784379737
+    "updated_at": 1784397736
   },
   {
     "id": 198696,
@@ -5845,7 +5874,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784368905
+    "updated_at": 1784397736
   },
   {
     "id": 198663,
@@ -6779,7 +6808,7 @@
       "Romance",
       "Sci-Fi"
     ],
-    "updated_at": 1784386898
+    "updated_at": 1784397736
   },
   {
     "id": 190054,
@@ -7034,7 +7063,7 @@
     "genres": [
       "Action"
     ],
-    "updated_at": 1784268096
+    "updated_at": 1784397736
   },
   {
     "id": 187924,
@@ -7600,7 +7629,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784390608
+    "updated_at": 1784397736
   },
   {
     "id": 185543,
@@ -7922,7 +7951,7 @@
       "Mahou Shoujo",
       "Slice of Life"
     ],
-    "updated_at": 1784390608
+    "updated_at": 1784397736
   },
   {
     "id": 181951,
@@ -8037,7 +8066,7 @@
       "Action",
       "Fantasy"
     ],
-    "updated_at": 1784386898
+    "updated_at": 1784397736
   },
   {
     "id": 179876,
@@ -8322,7 +8351,7 @@
       "Action",
       "Fantasy"
     ],
-    "updated_at": 1783962141
+    "updated_at": 1784397736
   },
   {
     "id": 176373,
@@ -8407,7 +8436,7 @@
       "Drama",
       "Sports"
     ],
-    "updated_at": 1784386898
+    "updated_at": 1784397736
   },
   {
     "id": 174427,
@@ -8608,7 +8637,7 @@
       "Fantasy",
       "Sci-Fi"
     ],
-    "updated_at": 1784246779
+    "updated_at": 1784397736
   },
   {
     "id": 169581,
@@ -9013,7 +9042,7 @@
       "Adventure",
       "Comedy"
     ],
-    "updated_at": 1784390608
+    "updated_at": 1784397736
   },
   {
     "id": 161410,
@@ -9068,7 +9097,7 @@
       "Mahou Shoujo",
       "Thriller"
     ],
-    "updated_at": 1784369205
+    "updated_at": 1784397736
   },
   {
     "id": 160275,
@@ -9420,7 +9449,7 @@
       "Fantasy",
       "Mahou Shoujo"
     ],
-    "updated_at": 1784383565
+    "updated_at": 1784397736
   },
   {
     "id": 137669,
@@ -9567,7 +9596,7 @@
       "Sci-Fi",
       "Supernatural"
     ],
-    "updated_at": 1784350916
+    "updated_at": 1784397736
   },
   {
     "id": 122572,
