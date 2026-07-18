@@ -81,7 +81,7 @@
       "Action",
       "Sci-Fi"
     ],
-    "updated_at": 1784376216
+    "updated_at": 1784386898
   },
   {
     "id": 214068,
@@ -138,7 +138,7 @@
       "Comedy",
       "Sci-Fi"
     ],
-    "updated_at": 1784258444
+    "updated_at": 1784386898
   },
   {
     "id": 214055,
@@ -1237,7 +1237,7 @@
       "Mecha",
       "Sci-Fi"
     ],
-    "updated_at": 1784246843
+    "updated_at": 1784386898
   },
   {
     "id": 213497,
@@ -1382,7 +1382,7 @@
       "Comedy",
       "Romance"
     ],
-    "updated_at": 1784297606
+    "updated_at": 1784386898
   },
   {
     "id": 213396,
@@ -1560,7 +1560,7 @@
       "Comedy",
       "Romance"
     ],
-    "updated_at": 1784368905
+    "updated_at": 1784386898
   },
   {
     "id": 213106,
@@ -1700,7 +1700,7 @@
       "Drama",
       "Romance"
     ],
-    "updated_at": 1784376216
+    "updated_at": 1784386898
   },
   {
     "id": 213020,
@@ -2648,7 +2648,7 @@
       "Romance",
       "Thriller"
     ],
-    "updated_at": 1784358109
+    "updated_at": 1784386898
   },
   {
     "id": 210157,
@@ -2766,7 +2766,7 @@
       "Drama",
       "Fantasy"
     ],
-    "updated_at": 1784329393
+    "updated_at": 1784386898
   },
   {
     "id": 209939,
@@ -3664,6 +3664,35 @@
     "updated_at": 1784307728
   },
   {
+    "id": 206160,
+    "id_mal": 63148,
+    "url": "https://anilist.co/anime/206160",
+    "title": {
+      "english": "",
+      "romaji": "Yun Shen Buzhi Meng 2",
+      "native": "云深不知梦II"
+    },
+    "description": "The second season of <i>Yun Shen Buzhi Meng</i>.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx206160-l36djxNn7Mm2.jpg",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "ONA",
+    "episodes": 26,
+    "duration": 22,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "updated_at": 1784386898
+  },
+  {
     "id": 205962,
     "id_mal": 63295,
     "url": "https://anilist.co/anime/205962",
@@ -3918,7 +3947,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784341006
+    "updated_at": 1784386898
   },
   {
     "id": 205068,
@@ -3947,7 +3976,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1783948362
+    "updated_at": 1784386898
   },
   {
     "id": 204747,
@@ -4694,7 +4723,7 @@
       "Ecchi",
       "Romance"
     ],
-    "updated_at": 1784368905
+    "updated_at": 1784386898
   },
   {
     "id": 202503,
@@ -5444,7 +5473,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784372518
+    "updated_at": 1784386898
   },
   {
     "id": 199185,
@@ -5473,7 +5502,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784368905
+    "updated_at": 1784386898
   },
   {
     "id": 199150,
@@ -5561,7 +5590,7 @@
     "genres": [
       "Fantasy"
     ],
-    "updated_at": 1784361747
+    "updated_at": 1784386898
   },
   {
     "id": 198966,
@@ -5881,35 +5910,6 @@
       "Slice of Life"
     ],
     "updated_at": 1784246831
-  },
-  {
-    "id": 196223,
-    "id_mal": 62079,
-    "url": "https://anilist.co/anime/196223",
-    "title": {
-      "english": "",
-      "romaji": "Cyborg 009: Nemesis",
-      "native": "サイボーグ009 ネメシス"
-    },
-    "description": "To commemorate the 61st anniversary of the original manga's debut: a new anime based on Shoutarou Ishinomori's <i>Cyborg 009</i>.",
-    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx196223-IGxBuIsascyV.jpg",
-    "banner_url": "",
-    "schedule": "Episode 1 tayang pada 18/7/2026, 22.00.00 WIB",
-    "next_episode": 1,
-    "next_airing_timestamp": 1784386800,
-    "season": "SUMMER",
-    "year": 2026,
-    "format": "ONA",
-    "episodes": 3,
-    "duration": 30,
-    "status": "NOT_YET_RELEASED",
-    "score": null,
-    "genres": [
-      "Action",
-      "Adventure",
-      "Sci-Fi"
-    ],
-    "updated_at": 1784372518
   },
   {
     "id": 196222,
@@ -6696,7 +6696,7 @@
       "Romance",
       "Sci-Fi"
     ],
-    "updated_at": 1784246827
+    "updated_at": 1784386898
   },
   {
     "id": 190054,
@@ -6868,7 +6868,7 @@
       "Comedy",
       "Romance"
     ],
-    "updated_at": 1783948381
+    "updated_at": 1784386898
   },
   {
     "id": 188889,
@@ -6924,7 +6924,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784289675
+    "updated_at": 1784386897
   },
   {
     "id": 187990,
@@ -6983,6 +6983,31 @@
       "Fantasy"
     ],
     "updated_at": 1784361747
+  },
+  {
+    "id": 187479,
+    "id_mal": null,
+    "url": "https://anilist.co/anime/187479",
+    "title": {
+      "english": "",
+      "romaji": "(Title to be Announced)",
+      "native": "(Title to be Announced)"
+    },
+    "description": "Feature film project directed by Kazuki Kawagoe.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/default.jpg",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "MOVIE",
+    "episodes": null,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [],
+    "updated_at": 1784386898
   },
   {
     "id": 187477,
@@ -7207,7 +7232,7 @@
       "Action",
       "Sci-Fi"
     ],
-    "updated_at": 1784358109
+    "updated_at": 1784386898
   },
   {
     "id": 186741,
@@ -7324,7 +7349,7 @@
       "Action",
       "Adventure"
     ],
-    "updated_at": 1784372518
+    "updated_at": 1784386898
   },
   {
     "id": 185995,
@@ -7898,7 +7923,7 @@
       "Action",
       "Fantasy"
     ],
-    "updated_at": 1784372518
+    "updated_at": 1784386898
   },
   {
     "id": 179876,
@@ -8268,7 +8293,7 @@
       "Drama",
       "Sports"
     ],
-    "updated_at": 1784372518
+    "updated_at": 1784386898
   },
   {
     "id": 174427,
@@ -8617,7 +8642,7 @@
       "Action",
       "Sci-Fi"
     ],
-    "updated_at": 1784361747
+    "updated_at": 1784386898
   },
   {
     "id": 166457,
@@ -9429,6 +9454,35 @@
       "Supernatural"
     ],
     "updated_at": 1784350916
+  },
+  {
+    "id": 122572,
+    "id_mal": null,
+    "url": "https://anilist.co/anime/122572",
+    "title": {
+      "english": "",
+      "romaji": "Buou Jingling",
+      "native": "布偶精灵"
+    },
+    "description": "Tidak ada deskripsi.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx122572-2q6g9HTomvR9.jpg",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "ONA",
+    "episodes": null,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Action",
+      "Fantasy",
+      "Mahou Shoujo"
+    ],
+    "updated_at": 1784386898
   },
   {
     "id": 122513,
