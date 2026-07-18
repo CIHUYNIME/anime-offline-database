@@ -541,9 +541,9 @@
     "description": "Tidak ada deskripsi.",
     "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx212308-HUdh20Djd7cm.jpg",
     "banner_url": "",
-    "schedule": "Episode 3 tayang pada 18/7/2026, 06.30.00 WIB",
-    "next_episode": 3,
-    "next_airing_timestamp": 1784331000,
+    "schedule": "Episode 4 tayang pada 25/7/2026, 06.30.00 WIB",
+    "next_episode": 4,
+    "next_airing_timestamp": 1784935800,
     "season": "SUMMER",
     "year": 2026,
     "format": "TV_SHORT",
@@ -7580,7 +7580,7 @@
       "Adventure",
       "Romance"
     ],
-    "updated_at": 1784329236
+    "updated_at": 1784333088
   },
   {
     "id": 102763,
@@ -7664,7 +7664,7 @@
       "Action",
       "Fantasy"
     ],
-    "updated_at": 1784311302
+    "updated_at": 1784333063
   },
   {
     "id": 21828,
@@ -7749,7 +7749,7 @@
       "Comedy",
       "Sci-Fi"
     ],
-    "updated_at": 1784329314
+    "updated_at": 1784332914
   },
   {
     "id": 8336,
@@ -7975,7 +7975,7 @@
       "Mystery",
       "Psychological"
     ],
-    "updated_at": 1784329273
+    "updated_at": 1784332844
   },
   {
     "id": 21,
@@ -8006,6 +8006,6 @@
       "Drama",
       "Fantasy"
     ],
-    "updated_at": 1784329222
+    "updated_at": 1784332831
   }
 ]

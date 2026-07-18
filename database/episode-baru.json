@@ -29,33 +29,6 @@
     "updated_at": 1783948413
   },
   {
-    "id": 212308,
-    "id_mal": 64210,
-    "url": "https://anilist.co/anime/212308",
-    "title": {
-      "english": "",
-      "romaji": "Pan no Akachan (TV)",
-      "native": "パンの赤ちゃん"
-    },
-    "description": "Tidak ada deskripsi.",
-    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx212308-HUdh20Djd7cm.jpg",
-    "banner_url": "",
-    "schedule": "Episode 3 tayang pada 18/7/2026, 06.30.00 WIB",
-    "next_episode": 3,
-    "next_airing_timestamp": 1784331000,
-    "season": "SUMMER",
-    "year": 2026,
-    "format": "TV_SHORT",
-    "episodes": null,
-    "duration": 2,
-    "status": "RELEASING",
-    "score": null,
-    "genres": [
-      "Comedy"
-    ],
-    "updated_at": 1784329393
-  },
-  {
     "id": 183231,
     "id_mal": 60153,
     "url": "https://anilist.co/anime/183231",
@@ -169,7 +142,7 @@
       "Comedy",
       "Sci-Fi"
     ],
-    "updated_at": 1784329314
+    "updated_at": 1784332914
   },
   {
     "id": 171110,
@@ -228,7 +201,7 @@
       "Mystery",
       "Psychological"
     ],
-    "updated_at": 1784329273
+    "updated_at": 1784332844
   },
   {
     "id": 184492,
@@ -1168,7 +1141,7 @@
       "Adventure",
       "Romance"
     ],
-    "updated_at": 1784329236
+    "updated_at": 1784333088
   },
   {
     "id": 21,
@@ -1199,7 +1172,7 @@
       "Drama",
       "Fantasy"
     ],
-    "updated_at": 1784329222
+    "updated_at": 1784332831
   },
   {
     "id": 196974,
@@ -3286,6 +3259,33 @@
       "Action",
       "Comedy",
       "Sci-Fi"
+    ],
+    "updated_at": 1784329393
+  },
+  {
+    "id": 212308,
+    "id_mal": 64210,
+    "url": "https://anilist.co/anime/212308",
+    "title": {
+      "english": "",
+      "romaji": "Pan no Akachan (TV)",
+      "native": "パンの赤ちゃん"
+    },
+    "description": "Tidak ada deskripsi.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx212308-HUdh20Djd7cm.jpg",
+    "banner_url": "",
+    "schedule": "Episode 4 tayang pada 25/7/2026, 06.30.00 WIB",
+    "next_episode": 4,
+    "next_airing_timestamp": 1784935800,
+    "season": "SUMMER",
+    "year": 2026,
+    "format": "TV_SHORT",
+    "episodes": null,
+    "duration": 2,
+    "status": "RELEASING",
+    "score": null,
+    "genres": [
+      "Comedy"
     ],
     "updated_at": 1784329393
   },
