@@ -513,7 +513,7 @@
     "status": "FINISHED",
     "score": null,
     "genres": [],
-    "updated_at": 1784322117
+    "updated_at": 1784390608
   },
   {
     "id": 211232,
@@ -1889,7 +1889,7 @@
     "genres": [
       "Comedy"
     ],
-    "updated_at": 1784329393
+    "updated_at": 1784390608
   },
   {
     "id": 187892,
@@ -2256,7 +2256,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784361742
+    "updated_at": 1784390608
   },
   {
     "id": 184351,
@@ -3568,7 +3568,7 @@
       "Drama",
       "Music"
     ],
-    "updated_at": 1784376216
+    "updated_at": 1784390608
   },
   {
     "id": 171145,
@@ -3684,7 +3684,7 @@
       "Comedy",
       "Sci-Fi"
     ],
-    "updated_at": 1784358109
+    "updated_at": 1784390608
   },
   {
     "id": 169766,
@@ -3740,7 +3740,7 @@
       "Adventure",
       "Mystery"
     ],
-    "updated_at": 1784379737
+    "updated_at": 1784390608
   },
   {
     "id": 169017,
@@ -4020,7 +4020,32 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784242996
+    "updated_at": 1784390608
+  },
+  {
+    "id": 165890,
+    "id_mal": 29708,
+    "url": "https://anilist.co/anime/165890",
+    "title": {
+      "english": "Üks Uks",
+      "romaji": "Üks Uks",
+      "native": ""
+    },
+    "description": "Doors in our life. Each has a melody, like a music box. They have stories, like a book. They will be opened one by one.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b165890-7fehJh7fW7gk.jpg",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 7,
+    "status": "FINISHED",
+    "score": null,
+    "genres": [],
+    "updated_at": 1784390608
   },
   {
     "id": 165670,
@@ -5353,6 +5378,35 @@
     "updated_at": 1784361747
   },
   {
+    "id": 151896,
+    "id_mal": 52318,
+    "url": "https://anilist.co/anime/151896",
+    "title": {
+      "english": "",
+      "romaji": "Doraemon: Nobita to Sora no Utopia",
+      "native": "映画ドラえもん のび太と空の理想郷"
+    },
+    "description": "Doraemon, Nobita and his friends go to find Utopia, a perfect land in the sky where everyone lives with happiness, using an airship having a time warp function.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx151896-F9HNSlTPpN9h.jpg",
+    "banner_url": "",
+    "schedule": "Musim: WINTER 2023",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "WINTER",
+    "year": 2023,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 107,
+    "status": "FINISHED",
+    "score": 74,
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Sci-Fi"
+    ],
+    "updated_at": 1784390608
+  },
+  {
     "id": 151743,
     "id_mal": 54909,
     "url": "https://anilist.co/anime/151743",
@@ -5725,7 +5779,7 @@
       "Adventure",
       "Supernatural"
     ],
-    "updated_at": 1784300508
+    "updated_at": 1784390608
   },
   {
     "id": 148075,
@@ -6298,6 +6352,35 @@
     "updated_at": 1784297604
   },
   {
+    "id": 140879,
+    "id_mal": 31052,
+    "url": "https://anilist.co/anime/140879",
+    "title": {
+      "english": "",
+      "romaji": "Gekijouban Saru Gecchu: Golden no Pipo Helmet - Ukkii Battle",
+      "native": "劇場版サルゲッチュ 黄金のピポヘル・ウッキーバトル"
+    },
+    "description": "One day, a strange monkey with a golden helmet drains out the insides of another monkey by kissing him. Hikaru, Spike's brother, goes out on an adventure to find this strange monkey. He soon befriends the monkeys and runs forward. But it isn't easy when every boss from the former games tries to block his path...<br>\n<br>\n(Source: MyAnimeList)<br>\n<br>\n<i>Aired in theaters with Beyblade the Movie: Decisive Battle! Takao VS Daichi</i>",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx140879-SWL67FuI100j.png",
+    "banner_url": "",
+    "schedule": "Musim: SUMMER 2002",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "SUMMER",
+    "year": 2002,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 21,
+    "status": "FINISHED",
+    "score": null,
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Sci-Fi"
+    ],
+    "updated_at": 1784390608
+  },
+  {
     "id": 140337,
     "id_mal": 50159,
     "url": "https://anilist.co/anime/140337",
@@ -6324,7 +6407,7 @@
       "Music",
       "Supernatural"
     ],
-    "updated_at": 1784372518
+    "updated_at": 1784390608
   },
   {
     "id": 140113,
@@ -6784,7 +6867,7 @@
       "Drama",
       "Romance"
     ],
-    "updated_at": 1784379737
+    "updated_at": 1784390608
   },
   {
     "id": 136149,
@@ -8188,6 +8271,35 @@
     "updated_at": 1784372518
   },
   {
+    "id": 123394,
+    "id_mal": 55542,
+    "url": "https://anilist.co/anime/123394",
+    "title": {
+      "english": "",
+      "romaji": "Zhong Jia Ji Shen: Shen Jianglin",
+      "native": "重甲機神: 神降臨"
+    },
+    "description": "When countless laser beams come down from the sky and destroy all the countries that hold the advanced weapons, the world descends into chaos. Taiwan, fortunately, escapes the first wave of attack. People then assume that the cities built underwater are immune to the invasion and therefore gather forces under the sea to prepare for the counter-attack. However, they are unaware of the sea monsters that will prove to be the beginning of another nightmare...\n<br><br>\n(Source: Crunchyroll News)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx123394-cn3VMHGzhfRT.png",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 110,
+    "status": "FINISHED",
+    "score": null,
+    "genres": [
+      "Action",
+      "Mecha",
+      "Sci-Fi"
+    ],
+    "updated_at": 1784390608
+  },
+  {
     "id": 122575,
     "id_mal": 40853,
     "url": "https://anilist.co/anime/122575",
@@ -9578,7 +9690,7 @@
     "genres": [
       "Music"
     ],
-    "updated_at": 1784350916
+    "updated_at": 1784390608
   },
   {
     "id": 117764,
@@ -12242,7 +12354,7 @@
       "Action",
       "Sci-Fi"
     ],
-    "updated_at": 1784297606
+    "updated_at": 1784390608
   },
   {
     "id": 108487,
@@ -13779,7 +13891,7 @@
       "Comedy",
       "Slice of Life"
     ],
-    "updated_at": 1784379944
+    "updated_at": 1784390608
   },
   {
     "id": 104456,
@@ -15555,7 +15667,7 @@
       "Mystery",
       "Supernatural"
     ],
-    "updated_at": 1784380629
+    "updated_at": 1784390608
   },
   {
     "id": 103166,
@@ -15894,6 +16006,31 @@
     "updated_at": 1784380817
   },
   {
+    "id": 102705,
+    "id_mal": 30669,
+    "url": "https://anilist.co/anime/102705",
+    "title": {
+      "english": "",
+      "romaji": "Why Re-Mix 2002",
+      "native": ""
+    },
+    "description": "An alternative Version of Tanaami Keiichi's Why from 1975",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx102705-znDPLEA8AubB.jpg",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 3,
+    "status": "FINISHED",
+    "score": 32,
+    "genres": [],
+    "updated_at": 1784390608
+  },
+  {
     "id": 102693,
     "id_mal": 31269,
     "url": "https://anilist.co/anime/102693",
@@ -15917,6 +16054,31 @@
     "score": 37,
     "genres": [],
     "updated_at": 1784380818
+  },
+  {
+    "id": 102686,
+    "id_mal": 22171,
+    "url": "https://anilist.co/anime/102686",
+    "title": {
+      "english": "A Portrait of Keiichi Tanaami",
+      "romaji": "Tanaami Keiichi no Shouzou",
+      "native": "田名網敬一の肖像"
+    },
+    "description": "A short psychedelic video done by renowned postwar pop artist Keiichi Tanaami",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/102686-FDeg0fdaQDq1.jpg",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 3,
+    "status": "FINISHED",
+    "score": 34,
+    "genres": [],
+    "updated_at": 1784390608
   },
   {
     "id": 102673,
@@ -16581,6 +16743,31 @@
       "Fantasy"
     ],
     "updated_at": 1784380846
+  },
+  {
+    "id": 102506,
+    "id_mal": 30666,
+    "url": "https://anilist.co/anime/102506",
+    "title": {
+      "english": "Scenes of My Childhood",
+      "romaji": "Memories: Younenki no Joukei",
+      "native": "メモリーズ 幼年期の情景"
+    },
+    "description": "Film by Tanaami Keiichi",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/102506-BZ1iHwPUoyFD.jpg",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 3,
+    "status": "FINISHED",
+    "score": 33,
+    "genres": [],
+    "updated_at": 1784390608
   },
   {
     "id": 102502,
@@ -18971,7 +19158,7 @@
       "Fantasy",
       "Mystery"
     ],
-    "updated_at": 1784350916
+    "updated_at": 1784390608
   },
   {
     "id": 100361,
@@ -19931,7 +20118,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784384112
+    "updated_at": 1784390608
   },
   {
     "id": 98873,
@@ -20572,7 +20759,7 @@
       "Mystery",
       "Supernatural"
     ],
-    "updated_at": 1784384417
+    "updated_at": 1784390608
   },
   {
     "id": 98332,
@@ -21161,6 +21348,60 @@
     "updated_at": 1784385252
   },
   {
+    "id": 97594,
+    "id_mal": 23065,
+    "url": "https://anilist.co/anime/97594",
+    "title": {
+      "english": "Kaidan",
+      "romaji": "Kaidan",
+      "native": "怪談"
+    },
+    "description": "Tidak ada deskripsi.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/97594-QpyNbz92sdse.jpg",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 7,
+    "status": "FINISHED",
+    "score": 41,
+    "genres": [
+      "Supernatural"
+    ],
+    "updated_at": 1784390608
+  },
+  {
+    "id": 97593,
+    "id_mal": 23063,
+    "url": "https://anilist.co/anime/97593",
+    "title": {
+      "english": "Usagi ga Kowai",
+      "romaji": "Usagi ga Kowai",
+      "native": "兎ガ怕イ"
+    },
+    "description": "The film depicts a macabre game played by two rabbits and a blindfolded woman. The rabbits face each other over an old-fashioned illustrated board game. When they land on a square, the woman must eat the food indicated in the illustration. If she has chosen correctly, a die pops out of her mouth and lands on the floor giving the rabbits their next move.<br><br>\n(Source: Midnight Eye)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/97593-PPTGN8jVdo5A.jpg",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 13,
+    "status": "FINISHED",
+    "score": 38,
+    "genres": [
+      "Horror"
+    ],
+    "updated_at": 1784390608
+  },
+  {
     "id": 87458,
     "id_mal": 33783,
     "url": "https://anilist.co/anime/87458",
@@ -21390,7 +21631,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784302189
+    "updated_at": 1784390977
   },
   {
     "id": 21833,
@@ -21419,7 +21660,64 @@
       "Drama",
       "Romance"
     ],
-    "updated_at": 1784341000
+    "updated_at": 1784390992
+  },
+  {
+    "id": 21826,
+    "id_mal": 29980,
+    "url": "https://anilist.co/anime/21826",
+    "title": {
+      "english": "Adventures in Beauty Wonderland",
+      "romaji": "Adventures in Beauty Wonderland",
+      "native": "Adventures in Beauty Wonderland"
+    },
+    "description": "One of Japan’s foremost pop artists, Keiichi Tanaami, presents a joyfully psychedelic animation inspired by Lewis Carroll’s Alice in Wonderland, unveiling an underworld of kaleidoscopic cosmetics in the form of perfectly made-up third-eyes and chirping lipstick butterflies.\n<br><br>\n(Source: NOWNESS)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21826-xVVB71q3VBK6.png",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/21826-SmAzecZv0nEs.jpg",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 5,
+    "status": "FINISHED",
+    "score": 37,
+    "genres": [
+      "Horror",
+      "Psychological"
+    ],
+    "updated_at": 1784391034
+  },
+  {
+    "id": 21806,
+    "id_mal": 33302,
+    "url": "https://anilist.co/anime/21806",
+    "title": {
+      "english": "",
+      "romaji": "Yowamushi Pedal: SPARE BIKE",
+      "native": "弱虫ペダル SPARE BIKE"
+    },
+    "description": "The Yowamushi Pedal: Spare Bike spinoff manga series follows the early years of the third-year students.\n<br><br>\n(Source: Anime News Network)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21806-hyCrjRqpjpMV.jpg",
+    "banner_url": "",
+    "schedule": "Musim: SUMMER 2016",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "SUMMER",
+    "year": 2016,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 60,
+    "status": "FINISHED",
+    "score": 71,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Sports"
+    ],
+    "updated_at": 1784391052
   },
   {
     "id": 21798,
@@ -21447,7 +21745,7 @@
       "Action",
       "Supernatural"
     ],
-    "updated_at": 1784302254
+    "updated_at": 1784391076
   },
   {
     "id": 21794,
@@ -21507,7 +21805,7 @@
       "Slice of Life",
       "Supernatural"
     ],
-    "updated_at": 1784372518
+    "updated_at": 1784391077
   },
   {
     "id": 21788,
@@ -21539,7 +21837,7 @@
       "Mecha",
       "Sci-Fi"
     ],
-    "updated_at": 1784302263
+    "updated_at": 1784391080
   },
   {
     "id": 21771,
@@ -21568,7 +21866,62 @@
       "Fantasy",
       "Sci-Fi"
     ],
-    "updated_at": 1784383565
+    "updated_at": 1784391101
+  },
+  {
+    "id": 21770,
+    "id_mal": 33185,
+    "url": "https://anilist.co/anime/21770",
+    "title": {
+      "english": "Peacemaker Kurogane: Belief",
+      "romaji": "PEACE MAKER Kurogane: Omou-michi",
+      "native": "PEACE MAKER 鐵 ～オモウミチ～"
+    },
+    "description": "A new anime adaptation of the Peace Maker Kurogane manga.\n<br><br>\nAlthough traumatized by witnessing the murder of his parents by one of the Choushuu, Ichimura Tetsunosuke's thirst for revenge leads him to desire strength. At the age of 15, Tetsunosuke approached the Shinsengumi, wanting to become one of its members. However, Tetsunosuke lacked the skill, mind, and will to emotionlessly cut down whoever threatened peace and the Shinsengumi. Even with the support of his brother Tatsunosuke and his newfound friends of the Shinsengumi, little did Tetsunosuke know the blood and pain he would have to face being part of this historical group.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx21770-GgEnnkspM7gW.jpg",
+    "banner_url": "",
+    "schedule": "Musim: SPRING 2018",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "SPRING",
+    "year": 2018,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 60,
+    "status": "FINISHED",
+    "score": 60,
+    "genres": [
+      "Action",
+      "Drama"
+    ],
+    "updated_at": 1784391101
+  },
+  {
+    "id": 21767,
+    "id_mal": 23057,
+    "url": "https://anilist.co/anime/21767",
+    "title": {
+      "english": "Yukidoke",
+      "romaji": "Yukidoke",
+      "native": "ゆきどけ"
+    },
+    "description": "The short film tells the story of a young boy, who as a result of seeing a dog's corpse, becomes interested in the bodies of living things and starts to develop phobias. Before long all manner of things begin to appear grotesque to him. <br><br>\n(Source: Wochi Kochi)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21767-bItoodfwNQH6.jpg",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 7,
+    "status": "FINISHED",
+    "score": 34,
+    "genres": [
+      "Horror"
+    ],
+    "updated_at": 1784391104
   },
   {
     "id": 21757,
@@ -21597,7 +21950,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784302348
+    "updated_at": 1784391107
   },
   {
     "id": 21729,
@@ -21628,7 +21981,7 @@
       "Fantasy",
       "Sci-Fi"
     ],
-    "updated_at": 1784302377
+    "updated_at": 1784391123
   },
   {
     "id": 21719,
@@ -21660,7 +22013,7 @@
       "Supernatural",
       "Thriller"
     ],
-    "updated_at": 1784333030
+    "updated_at": 1784391135
   },
   {
     "id": 21718,
@@ -21692,7 +22045,7 @@
       "Supernatural",
       "Thriller"
     ],
-    "updated_at": 1784333029
+    "updated_at": 1784391144
   },
   {
     "id": 21697,
@@ -21747,7 +22100,7 @@
       "Sci-Fi",
       "Supernatural"
     ],
-    "updated_at": 1784333029
+    "updated_at": 1784391247
   },
   {
     "id": 21683,
@@ -21776,7 +22129,7 @@
       "Music",
       "Slice of Life"
     ],
-    "updated_at": 1784325887
+    "updated_at": 1784391247
   },
   {
     "id": 21681,
@@ -21799,14 +22152,14 @@
     "episodes": 1,
     "duration": 120,
     "status": "FINISHED",
-    "score": 67,
+    "score": 68,
     "genres": [
       "Action",
       "Horror",
       "Mystery",
       "Supernatural"
     ],
-    "updated_at": 1784303007
+    "updated_at": 1784391254
   },
   {
     "id": 21651,
@@ -21835,7 +22188,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784303055
+    "updated_at": 1784391293
   },
   {
     "id": 21646,
@@ -21863,7 +22216,7 @@
       "Action",
       "Mystery"
     ],
-    "updated_at": 1784303071
+    "updated_at": 1784391307
   },
   {
     "id": 21638,
@@ -21892,7 +22245,7 @@
       "Music",
       "Slice of Life"
     ],
-    "updated_at": 1784333028
+    "updated_at": 1784391319
   },
   {
     "id": 21596,
@@ -21923,7 +22276,7 @@
       "Fantasy",
       "Sci-Fi"
     ],
-    "updated_at": 1784340986
+    "updated_at": 1784391360
   },
   {
     "id": 21519,
@@ -21952,7 +22305,37 @@
       "Romance",
       "Supernatural"
     ],
-    "updated_at": 1784333025
+    "updated_at": 1784392096
+  },
+  {
+    "id": 21505,
+    "id_mal": 30869,
+    "url": "https://anilist.co/anime/21505",
+    "title": {
+      "english": "",
+      "romaji": "Ajin: Shoutotsu",
+      "native": "亜人 -衝突-"
+    },
+    "description": "The second movie in the Ajin film trilogy.<br>\n<br>\n17 years ago, immortals first appeared on the battlefields of Africa. Later, rare, unknown new immortal lifeforms began appearing among humans, and they became known as \"Ajin\" (demi-humans). Just before summer vacation, a Japanese high school student is instantly killed in a traffic accident on his way home from school. However, he is revived, and a price is placed on his head. Thus begins a boy's life on the run from all of humankind.\n<br><br>\n(Source: Anime News Network)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21505-YEf3cFuxgOix.jpg",
+    "banner_url": "",
+    "schedule": "Musim: SPRING 2016",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "SPRING",
+    "year": 2016,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 106,
+    "status": "FINISHED",
+    "score": 67,
+    "genres": [
+      "Action",
+      "Horror",
+      "Mystery",
+      "Supernatural"
+    ],
+    "updated_at": 1784392221
   },
   {
     "id": 21504,
@@ -21985,6 +22368,37 @@
     "updated_at": 1784307728
   },
   {
+    "id": 21500,
+    "id_mal": 32108,
+    "url": "https://anilist.co/anime/21500",
+    "title": {
+      "english": "Digimon Adventure tri. Chapter 2: Determination",
+      "romaji": "Digimon Adventure tri. 2: Ketsui",
+      "native": "デジモンアドベンチャー tri. 第2章「決意」"
+    },
+    "description": "The second movie in the new <i>Digimon Adventure</i> series. <br><br>\n\nThe DigiDestined go to a nearby hot springs theme park and everyone has a good time, but Joe doesn't show up because he wants to study for his exams. Another infected Digimon, Ogremon, attacks Odaiba. Gomamon runs away from home while Mimi faces problems with the other DigiDestined and her classmates because of her selfish ideas. Would Joe accept his responsibilities as a DigiDestined before it's too late? <br><br>\n\n(Source: Crunchyroll)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21500-hC4Nhs2kNnZ3.png",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/21500-IaUtzh7Yv4vi.jpg",
+    "schedule": "Musim: WINTER 2016",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "WINTER",
+    "year": 2016,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 85,
+    "status": "FINISHED",
+    "score": 71,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Fantasy",
+      "Sci-Fi"
+    ],
+    "updated_at": 1784392224
+  },
+  {
     "id": 21498,
     "id_mal": 32086,
     "url": "https://anilist.co/anime/21498",
@@ -22013,7 +22427,7 @@
       "Psychological",
       "Sci-Fi"
     ],
-    "updated_at": 1784289657
+    "updated_at": 1784392233
   },
   {
     "id": 21496,
@@ -22046,7 +22460,7 @@
       "Sci-Fi",
       "Supernatural"
     ],
-    "updated_at": 1784333024
+    "updated_at": 1784392236
   },
   {
     "id": 21470,
@@ -22074,7 +22488,66 @@
       "Action",
       "Mystery"
     ],
-    "updated_at": 1783945901
+    "updated_at": 1784392254
+  },
+  {
+    "id": 21464,
+    "id_mal": 31853,
+    "url": "https://anilist.co/anime/21464",
+    "title": {
+      "english": "Resident Evil: Vendetta",
+      "romaji": "Biohazard: Vendetta",
+      "native": "バイオハザード ヴェンデッタ"
+    },
+    "description": "Chris Redfield enlists the help of Leon S. Kennedy and Rebecca Chambers to stop a death merchant, with a vengeance, from spreading a deadly virus in New York.<br>\n<br>\n(Source: IMDB)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21464-1w47TWYyWH9K.jpg",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/21464-JQAzbvO1DKnZ.jpg",
+    "schedule": "Musim: SPRING 2017",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "SPRING",
+    "year": 2017,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 96,
+    "status": "FINISHED",
+    "score": 66,
+    "genres": [
+      "Action",
+      "Horror",
+      "Sci-Fi"
+    ],
+    "updated_at": 1784392258
+  },
+  {
+    "id": 21463,
+    "id_mal": null,
+    "url": "https://anilist.co/anime/21463",
+    "title": {
+      "english": "Pandora in the Crimson Shell: Ghost Urn",
+      "romaji": "Koukaku no Pandora: GHOST URN",
+      "native": "紅殻のパンドラ GHOST URN"
+    },
+    "description": "In an age when large-scale natural disasters frequently happen all over the world, when cyborgs and autonomous robots are beginning to appear on the market in technologically advanced nations, and major world powers compete for technology and resources, the divide between rich and poor grows and the future for the poor looks bleak. In this transitional stage, everyone wanders around in a self-indulgent daze and the way out isn't clear... This is the story of how two cybernetically enhanced girls meet.\n",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21463-JfkwWZ145By6.jpg",
+    "banner_url": "",
+    "schedule": "Musim: FALL 2015",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "FALL",
+    "year": 2015,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 47,
+    "status": "FINISHED",
+    "score": 59,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Ecchi",
+      "Sci-Fi"
+    ],
+    "updated_at": 1784392258
   },
   {
     "id": 21425,
@@ -22483,7 +22956,7 @@
       "Adventure",
       "Sci-Fi"
     ],
-    "updated_at": 1784379737
+    "updated_at": 1784390608
   },
   {
     "id": 21248,
@@ -23068,7 +23541,7 @@
       "Slice of Life",
       "Supernatural"
     ],
-    "updated_at": 1784383565
+    "updated_at": 1784390608
   },
   {
     "id": 20990,
@@ -23923,7 +24396,7 @@
       "Sci-Fi",
       "Supernatural"
     ],
-    "updated_at": 1784383565
+    "updated_at": 1784390608
   },
   {
     "id": 20736,
@@ -24272,7 +24745,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784340981
+    "updated_at": 1784390608
   },
   {
     "id": 20515,
@@ -24301,7 +24774,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784300508
+    "updated_at": 1784390608
   },
   {
     "id": 20514,
@@ -24756,6 +25229,33 @@
     "updated_at": 1784358109
   },
   {
+    "id": 19271,
+    "id_mal": 19271,
+    "url": "https://anilist.co/anime/19271",
+    "title": {
+      "english": "",
+      "romaji": "Gekitou! Crush Gear TURBO: Kaiservern no Chousen",
+      "native": "激闘!クラッシュギアTURBO カイザバーンの挑戦"
+    },
+    "description": "The very first Gear even made in the world is stolen. The gear, named Kaiservern, beats the prize winners of the Australia convention one after another. Kouya and Manganji, which won a prize in the Asia Convention, become targets too. When the unidentied gear fighter who handles Kaiservern appears in front of Kouya and Manganji, the two boys decide to fight together to win victory over their enemy. (Sunrise)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/19271.jpg",
+    "banner_url": "",
+    "schedule": "Musim: SUMMER 2002",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "SUMMER",
+    "year": 2002,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 25,
+    "status": "FINISHED",
+    "score": 59,
+    "genres": [
+      "Sports"
+    ],
+    "updated_at": 1784390608
+  },
+  {
     "id": 19195,
     "id_mal": 19195,
     "url": "https://anilist.co/anime/19195",
@@ -24952,7 +25452,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784307887
+    "updated_at": 1784390608
   },
   {
     "id": 18943,
@@ -25226,6 +25726,35 @@
       "Sci-Fi"
     ],
     "updated_at": 1784386898
+  },
+  {
+    "id": 17959,
+    "id_mal": 17959,
+    "url": "https://anilist.co/anime/17959",
+    "title": {
+      "english": "",
+      "romaji": "ASTROBOY Tetsuwan Atom: Atom Tanjou no Himitsu",
+      "native": "ASTROBOY鉄腕アトム　アトム誕生の秘密"
+    },
+    "description": "Doctor Tenma, chief of the Ministry of Science, brought a digital brain genome from an aircraft. Doctor Tenma begins a trip to Mars, then combines the genome with a robot. Doctor Tenma's son, Tobio, who had died in a traffic accident, has been revived.<br><br>\n(Source: AstroBoy Online)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/n17959-q1VkXrefqCe1.png",
+    "banner_url": "",
+    "schedule": "Musim: SPRING 2003",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "SPRING",
+    "year": 2003,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 20,
+    "status": "FINISHED",
+    "score": 56,
+    "genres": [
+      "Drama",
+      "Mecha",
+      "Sci-Fi"
+    ],
+    "updated_at": 1784390608
   },
   {
     "id": 17947,
@@ -25624,7 +26153,7 @@
     "genres": [
       "Comedy"
     ],
-    "updated_at": 1784308062
+    "updated_at": 1784390608
   },
   {
     "id": 17215,
@@ -26193,7 +26722,7 @@
       "Romance",
       "Sci-Fi"
     ],
-    "updated_at": 1784332971
+    "updated_at": 1784390608
   },
   {
     "id": 16480,
@@ -26562,7 +27091,7 @@
       "Mecha",
       "Sci-Fi"
     ],
-    "updated_at": 1784383565
+    "updated_at": 1784390608
   },
   {
     "id": 15199,
@@ -26940,7 +27469,7 @@
       "Sci-Fi",
       "Supernatural"
     ],
-    "updated_at": 1784376216
+    "updated_at": 1784390608
   },
   {
     "id": 14353,
@@ -26970,7 +27499,7 @@
       "Psychological",
       "Thriller"
     ],
-    "updated_at": 1784379737
+    "updated_at": 1784390608
   },
   {
     "id": 14349,
@@ -27227,7 +27756,7 @@
       "Action",
       "Adventure"
     ],
-    "updated_at": 1784372518
+    "updated_at": 1784390608
   },
   {
     "id": 13391,
@@ -28091,7 +28620,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784383565
+    "updated_at": 1784390608
   },
   {
     "id": 12035,
@@ -28330,7 +28859,7 @@
     "genres": [
       "Comedy"
     ],
-    "updated_at": 1784310373
+    "updated_at": 1784390608
   },
   {
     "id": 11743,
@@ -29282,6 +29811,35 @@
     "updated_at": 1784350916
   },
   {
+    "id": 9785,
+    "id_mal": 9785,
+    "url": "https://anilist.co/anime/9785",
+    "title": {
+      "english": "",
+      "romaji": "Meitantei Conan: Conan vs. Kid - SHARK & JEWEL",
+      "native": "名探偵コナン コナンvsキッド SHARK & JEWEL"
+    },
+    "description": "3D IMAX movie, shown only at the Suntory Museum in Osaka.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9785.jpg",
+    "banner_url": "",
+    "schedule": "Musim: SUMMER 2005",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "SUMMER",
+    "year": 2005,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 16,
+    "status": "FINISHED",
+    "score": 70,
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Mystery"
+    ],
+    "updated_at": 1784390608
+  },
+  {
     "id": 9760,
     "id_mal": 9760,
     "url": "https://anilist.co/anime/9760",
@@ -29309,7 +29867,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784358109
+    "updated_at": 1784390608
   },
   {
     "id": 9751,
@@ -30706,7 +31264,7 @@
       "Action",
       "Comedy"
     ],
-    "updated_at": 1784372518
+    "updated_at": 1784390608
   },
   {
     "id": 8245,
@@ -31063,7 +31621,7 @@
       "Psychological",
       "Sci-Fi"
     ],
-    "updated_at": 1784311949
+    "updated_at": 1784390608
   },
   {
     "id": 8098,
@@ -31562,7 +32120,34 @@
       "Drama",
       "Fantasy"
     ],
-    "updated_at": 1784372518
+    "updated_at": 1784390608
+  },
+  {
+    "id": 7709,
+    "id_mal": 7709,
+    "url": "https://anilist.co/anime/7709",
+    "title": {
+      "english": "",
+      "romaji": "Peng You Town",
+      "native": "ポンユタウン"
+    },
+    "description": "In a small provincial town, three children play football but when they hear breaking glass, two of them flee; leaving a little girl to investigate. She finds that she has broken a fish bowl and a small fish is flapping on the ground gasping for its life. What will the girl do to save this poor creature?<br>",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/7709.jpg",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 5,
+    "status": "FINISHED",
+    "score": 47,
+    "genres": [
+      "Slice of Life"
+    ],
+    "updated_at": 1784390608
   },
   {
     "id": 7698,
@@ -33325,7 +33910,7 @@
       "Fantasy",
       "Supernatural"
     ],
-    "updated_at": 1784383565
+    "updated_at": 1784390608
   },
   {
     "id": 6872,
@@ -33931,6 +34516,33 @@
       "Comedy"
     ],
     "updated_at": 1784361747
+  },
+  {
+    "id": 6305,
+    "id_mal": 6305,
+    "url": "https://anilist.co/anime/6305",
+    "title": {
+      "english": "",
+      "romaji": "Life no Color",
+      "native": ""
+    },
+    "description": "In a town where discrimination based on colors is in place. A boy wearing red who is at the bottom of the society. A girl who passes him every time he is attending night high school. In the past, she had encountered the boy who scribbled on a wall. The girl who has understood the meaning of the message. At that time, what was the meaning of the girl's smile to the boy. Two people who have passed each other on countless occasions pass each other again in this short Boy Meets Girl animation. <br><br>\n(Source: AniDB)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6305.jpg",
+    "banner_url": "",
+    "schedule": "Musim: WINTER 2003",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "WINTER",
+    "year": 2003,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 4,
+    "status": "FINISHED",
+    "score": 50,
+    "genres": [
+      "Music"
+    ],
+    "updated_at": 1784390608
   },
   {
     "id": 6288,
@@ -34751,7 +35363,38 @@
       "Drama",
       "Mystery"
     ],
-    "updated_at": 1784312474
+    "updated_at": 1784390608
+  },
+  {
+    "id": 5421,
+    "id_mal": 5421,
+    "url": "https://anilist.co/anime/5421",
+    "title": {
+      "english": "",
+      "romaji": "Ark",
+      "native": "Ark"
+    },
+    "description": "Ark takes place on a dying alien world in which a global war between two technologically advanced human civilizations has reduced the planet to a wasteland. The only way to escape the world is by activating the Ark, an ancient giant robot capable of supporting a human city as well as traveling through space.<br><br>\n(Source: Wikipedia)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5421.jpg",
+    "banner_url": "",
+    "schedule": "Musim: FALL 2003",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "FALL",
+    "year": 2003,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 84,
+    "status": "FINISHED",
+    "score": 47,
+    "genres": [
+      "Action",
+      "Fantasy",
+      "Mecha",
+      "Sci-Fi",
+      "Supernatural"
+    ],
+    "updated_at": 1784390608
   },
   {
     "id": 5415,
@@ -35913,7 +36556,7 @@
       "Action",
       "Supernatural"
     ],
-    "updated_at": 1784361747
+    "updated_at": 1784390608
   },
   {
     "id": 4406,
@@ -36107,7 +36750,7 @@
       "Mecha",
       "Sci-Fi"
     ],
-    "updated_at": 1784376216
+    "updated_at": 1784390608
   },
   {
     "id": 4385,
@@ -36370,6 +37013,33 @@
       "Fantasy"
     ],
     "updated_at": 1784386898
+  },
+  {
+    "id": 4147,
+    "id_mal": 4147,
+    "url": "https://anilist.co/anime/4147",
+    "title": {
+      "english": "Doggy Poo",
+      "romaji": "Doggy Poo",
+      "native": "강아지똥"
+    },
+    "description": "Once upon a time, a little doggy poo lived on the side of a road. He felt all alone in this world. He believed that nobody needed him for anything, and that he had no purpose in life. If only Doggy Poo had a reason for being, then he wouldn't give up on his dream to be useful to this world. One day, Doggy Poo meets a lovely dandelion sprout. Will she explain his purpose in life? Will she help him make his dream come true?",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4147.jpg",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 34,
+    "status": "FINISHED",
+    "score": 48,
+    "genres": [
+      "Fantasy"
+    ],
+    "updated_at": 1784390608
   },
   {
     "id": 4107,
@@ -37910,7 +38580,7 @@
       "Drama",
       "Supernatural"
     ],
-    "updated_at": 1784383565
+    "updated_at": 1784390608
   },
   {
     "id": 2848,
@@ -38392,6 +39062,33 @@
     "updated_at": 1784304124
   },
   {
+    "id": 2652,
+    "id_mal": 2652,
+    "url": "https://anilist.co/anime/2652",
+    "title": {
+      "english": "Doraemon: The Day When I Was Born",
+      "romaji": "Doraemon: Boku no Umareta Hi",
+      "native": "ドラえもん ぼくの生まれた日"
+    },
+    "description": "Nobita believes that he was adopted. Nobita and Doraemon go back to the day that Nobita was born.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2652.jpg",
+    "banner_url": "",
+    "schedule": "Musim: WINTER 2002",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "WINTER",
+    "year": 2002,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 28,
+    "status": "FINISHED",
+    "score": 68,
+    "genres": [
+      "Fantasy"
+    ],
+    "updated_at": 1784390608
+  },
+  {
     "id": 2651,
     "id_mal": 2651,
     "url": "https://anilist.co/anime/2651",
@@ -38445,7 +39142,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784379737
+    "updated_at": 1784390608
   },
   {
     "id": 2645,
@@ -39078,7 +39775,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784329393
+    "updated_at": 1784390608
   },
   {
     "id": 2392,
@@ -39106,7 +39803,7 @@
       "Adventure",
       "Comedy"
     ],
-    "updated_at": 1784297606
+    "updated_at": 1784390608
   },
   {
     "id": 2314,
@@ -39252,7 +39949,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784325887
+    "updated_at": 1784390608
   },
   {
     "id": 2178,
@@ -39394,6 +40091,34 @@
       "Adventure"
     ],
     "updated_at": 1784372518
+  },
+  {
+    "id": 2141,
+    "id_mal": 2141,
+    "url": "https://anilist.co/anime/2141",
+    "title": {
+      "english": "",
+      "romaji": "Oseam",
+      "native": "오세암"
+    },
+    "description": "The animation is based on the fairy tale of the same name with the local sale over 100,000 copies by Jeong Chae-bong, a writer well known for his innocent and heart-stirring tales. It is a story about two orphans, Gil-son, a five-year-old boy, and his blind sister Gam-i who are brought up by a charitable monk at a secluded temple in Mt. Seorak. Gil-son, a mischievous boy, is the guide for this hour-long travel in search of innocence. Having a pure heart, he befriends all living things and communicates with clouds, birds and flowers. One snowy day, however... <br><br><i>The film won the Best Feature Film award at the 2004 Annecy International Animation Film Festival.</i>\n",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2141-FkAzq0kM53W4.jpg",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 77,
+    "status": "FINISHED",
+    "score": 62,
+    "genres": [
+      "Adventure",
+      "Drama"
+    ],
+    "updated_at": 1784390608
   },
   {
     "id": 2123,
@@ -40180,7 +40905,7 @@
       "Romance",
       "Supernatural"
     ],
-    "updated_at": 1784350916
+    "updated_at": 1784390608
   },
   {
     "id": 1796,
@@ -40919,7 +41644,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784315569
+    "updated_at": 1784390608
   },
   {
     "id": 1367,
@@ -40947,7 +41672,7 @@
       "Adventure",
       "Mystery"
     ],
-    "updated_at": 1784315570
+    "updated_at": 1784390608
   },
   {
     "id": 1366,
@@ -41087,7 +41812,7 @@
     "genres": [
       "Action"
     ],
-    "updated_at": 1784318491
+    "updated_at": 1784390608
   },
   {
     "id": 1361,
@@ -41227,7 +41952,7 @@
       "Drama",
       "Sci-Fi"
     ],
-    "updated_at": 1784315589
+    "updated_at": 1784390608
   },
   {
     "id": 1301,
@@ -41285,7 +42010,7 @@
       "Mecha",
       "Sci-Fi"
     ],
-    "updated_at": 1784315596
+    "updated_at": 1784390608
   },
   {
     "id": 1268,
@@ -42143,7 +42868,7 @@
       "Mystery",
       "Sci-Fi"
     ],
-    "updated_at": 1784358109
+    "updated_at": 1784390608
   },
   {
     "id": 1095,
@@ -42172,7 +42897,7 @@
       "Mecha",
       "Sci-Fi"
     ],
-    "updated_at": 1784329393
+    "updated_at": 1784390608
   },
   {
     "id": 1092,
@@ -42202,7 +42927,7 @@
       "Mecha",
       "Sci-Fi"
     ],
-    "updated_at": 1784315693
+    "updated_at": 1784390608
   },
   {
     "id": 1091,
@@ -42232,7 +42957,7 @@
       "Mecha",
       "Sci-Fi"
     ],
-    "updated_at": 1784350916
+    "updated_at": 1784390608
   },
   {
     "id": 1090,
@@ -43466,7 +44191,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784315990
+    "updated_at": 1784390608
   },
   {
     "id": 796,
@@ -43526,7 +44251,7 @@
       "Psychological",
       "Supernatural"
     ],
-    "updated_at": 1784368905
+    "updated_at": 1784390608
   },
   {
     "id": 792,
@@ -43614,7 +44339,7 @@
       "Adventure",
       "Mystery"
     ],
-    "updated_at": 1784379737
+    "updated_at": 1784390608
   },
   {
     "id": 780,
@@ -43670,7 +44395,7 @@
       "Adventure",
       "Mystery"
     ],
-    "updated_at": 1784379737
+    "updated_at": 1784390608
   },
   {
     "id": 760,
@@ -44024,7 +44749,7 @@
       "Fantasy",
       "Sci-Fi"
     ],
-    "updated_at": 1784372518
+    "updated_at": 1784390608
   },
   {
     "id": 570,
@@ -44086,6 +44811,36 @@
       "Sci-Fi"
     ],
     "updated_at": 1784379737
+  },
+  {
+    "id": 548,
+    "id_mal": 548,
+    "url": "https://anilist.co/anime/548",
+    "title": {
+      "english": "Sky Blue",
+      "romaji": "Wonderful Days",
+      "native": "원더풀 데이즈"
+    },
+    "description": "The final version is set in 2142 A.D., a century after humanity&rsquo;s carelessness resulted in the collapse of Earth&rsquo;s biosphere. The only survivors are a technological society in a magnificent enclosed scientifically-designed refuge city, Ecoban, and a small horde of refugees in the Wasteland just outside. The leaders of Ecoban have supported the refugees in return for their providing labor to mine the raw materials needed to keep Ecoban operational. <br><br>\nAfter a century, Ecoban&rsquo;s leaders have degenerated into an indolent elite class who have reduced the &ldquo;Diggers&rdquo; to slavery, providing no more than the barest minimum to keep them alive. Meanwhile, the machinery sustaining Ecoban continues to pollute the world outside. The Diggers have finally grown angry enough to strike for better conditions. At the same time Ecoban&rsquo;s machinery is breaking down and repairing it requires endangering the \"Diggers\" lives with more pollution.<br><br>\n(Source: Animation World Magazine)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/548.jpg",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 83,
+    "status": "FINISHED",
+    "score": 63,
+    "genres": [
+      "Action",
+      "Drama",
+      "Romance",
+      "Sci-Fi"
+    ],
+    "updated_at": 1784390608
   },
   {
     "id": 544,
@@ -44207,7 +44962,7 @@
       "Mahou Shoujo",
       "Romance"
     ],
-    "updated_at": 1784358109
+    "updated_at": 1784390608
   },
   {
     "id": 528,
@@ -44298,7 +45053,7 @@
       "Romance",
       "Sci-Fi"
     ],
-    "updated_at": 1784376216
+    "updated_at": 1784390608
   },
   {
     "id": 520,
@@ -45789,7 +46544,7 @@
       "Mecha",
       "Sci-Fi"
     ],
-    "updated_at": 1784358103
+    "updated_at": 1784390608
   },
   {
     "id": 47,

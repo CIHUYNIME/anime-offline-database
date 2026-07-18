@@ -525,7 +525,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784246844
+    "updated_at": 1784390608
   },
   {
     "id": 213867,
@@ -582,7 +582,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784372518
+    "updated_at": 1784390608
   },
   {
     "id": 213847,
@@ -697,7 +697,7 @@
       "Mystery",
       "Romance"
     ],
-    "updated_at": 1784322117
+    "updated_at": 1784390608
   },
   {
     "id": 213814,
@@ -1589,7 +1589,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784372518
+    "updated_at": 1784390608
   },
   {
     "id": 213068,
@@ -1785,7 +1785,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784275323
+    "updated_at": 1784390608
   },
   {
     "id": 212799,
@@ -2472,7 +2472,7 @@
       "Drama",
       "Romance"
     ],
-    "updated_at": 1784329393
+    "updated_at": 1784390608
   },
   {
     "id": 211258,
@@ -2502,6 +2502,33 @@
       "Fantasy"
     ],
     "updated_at": 1784246841
+  },
+  {
+    "id": 211220,
+    "id_mal": 63987,
+    "url": "https://anilist.co/anime/211220",
+    "title": {
+      "english": "",
+      "romaji": "Li Xiongmao",
+      "native": "李熊猫"
+    },
+    "description": "Adapted from a novel by Wen Zhou, this story follows Li Xiongmao, a human boy raised by demons who is sent by his master to leave Black-White Mountain and kill the three enemies responsible for the demons’ downfall. As he searches for the truth, he gradually unravels the mysteries behind the conflict between humans and demons, the secrets of the dynasty, and his own destiny.\n<br><br>\n(Source: iQIYI, translated)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx211220-V4JuyjRR4auR.png",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "ONA",
+    "episodes": null,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Adventure"
+    ],
+    "updated_at": 1784390608
   },
   {
     "id": 210945,
@@ -3023,7 +3050,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784376216
+    "updated_at": 1784390608
   },
   {
     "id": 209247,
@@ -3143,7 +3170,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784376216
+    "updated_at": 1784390608
   },
   {
     "id": 209032,
@@ -3197,7 +3224,7 @@
     "genres": [
       "Slice of Life"
     ],
-    "updated_at": 1783948413
+    "updated_at": 1784390608
   },
   {
     "id": 208192,
@@ -4122,7 +4149,7 @@
       "Sci-Fi",
       "Supernatural"
     ],
-    "updated_at": 1784372518
+    "updated_at": 1784390608
   },
   {
     "id": 204585,
@@ -4382,7 +4409,7 @@
       "Action",
       "Sci-Fi"
     ],
-    "updated_at": 1784340991
+    "updated_at": 1784390608
   },
   {
     "id": 204293,
@@ -4835,7 +4862,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784368905
+    "updated_at": 1784390608
   },
   {
     "id": 202253,
@@ -5069,7 +5096,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784383565
+    "updated_at": 1784390608
   },
   {
     "id": 200294,
@@ -7517,7 +7544,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784376216
+    "updated_at": 1784390608
   },
   {
     "id": 185543,
@@ -7606,7 +7633,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784372518
+    "updated_at": 1784390608
   },
   {
     "id": 184321,
@@ -7808,7 +7835,7 @@
       "Mahou Shoujo",
       "Slice of Life"
     ],
-    "updated_at": 1784376216
+    "updated_at": 1784390608
   },
   {
     "id": 181951,
@@ -7866,7 +7893,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784318436
+    "updated_at": 1784390608
   },
   {
     "id": 180894,
@@ -8323,7 +8350,7 @@
       "Supernatural",
       "Thriller"
     ],
-    "updated_at": 1784322117
+    "updated_at": 1784390608
   },
   {
     "id": 172192,
@@ -8670,7 +8697,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784242996
+    "updated_at": 1784390608
   },
   {
     "id": 165831,
@@ -8899,7 +8926,7 @@
       "Adventure",
       "Comedy"
     ],
-    "updated_at": 1784383565
+    "updated_at": 1784390608
   },
   {
     "id": 161410,
