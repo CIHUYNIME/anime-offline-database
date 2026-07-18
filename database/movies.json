@@ -36,7 +36,7 @@
       "romaji": "THE FOX ELEVATOR BOY RENARD",
       "native": "THE FOX ELEVATOR BOY RENARD"
     },
-    "description": "Renard, a young fox disguised as a human, works as an elevator boy in a prestigious department store, diligently carrying out his duties day after day while hiding his true form reflected in the mirror. Beneath his mask of a charming, fake smile, his cold eyes gleam as he hunts for his next prey.<br><br>\n(Source: YouTube Description, translated)<br><br>\nThird-year Tama Arts University student project by Nagomi Ueno for the 2024 academic year.",
+    "description": "Renard, a young fox disguised as a human, works as an elevator boy in a prestigious department store, diligently carrying out his duties day after day while hiding his true form reflected in the mirror. Beneath his mask of a charming, fake smile, his cold eyes gleam as he hunts for his next prey.<br><br>\n(Source: YouTube Description, translated)<br><br>\nThird-year student project by Nagomi Ueno for the  Tama Arts University 2024 academic year.",
     "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx214072-6C3fKKjaZzV5.png",
     "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/214072-pFVVbG9amTmf.jpg",
     "schedule": "Jadwal belum diketahui",
@@ -50,7 +50,7 @@
     "status": "FINISHED",
     "score": null,
     "genres": [],
-    "updated_at": 1784325887
+    "updated_at": 1784350916
   },
   {
     "id": 214071,
@@ -601,7 +601,7 @@
     "genres": [
       "Slice of Life"
     ],
-    "updated_at": 1784322117
+    "updated_at": 1784350916
   },
   {
     "id": 207327,
@@ -629,7 +629,7 @@
       "Mystery",
       "Romance"
     ],
-    "updated_at": 1784268096
+    "updated_at": 1784350916
   },
   {
     "id": 206919,
@@ -1007,7 +1007,7 @@
       "Drama",
       "Supernatural"
     ],
-    "updated_at": 1784340954
+    "updated_at": 1784350915
   },
   {
     "id": 203100,
@@ -1384,7 +1384,7 @@
       "Adventure",
       "Comedy"
     ],
-    "updated_at": 1784286117
+    "updated_at": 1784350916
   },
   {
     "id": 195494,
@@ -1669,7 +1669,7 @@
       "Romance",
       "Sci-Fi"
     ],
-    "updated_at": 1784325887
+    "updated_at": 1784350916
   },
   {
     "id": 190574,
@@ -2108,6 +2108,34 @@
     "updated_at": 1784329393
   },
   {
+    "id": 183384,
+    "id_mal": 60159,
+    "url": "https://anilist.co/anime/183384",
+    "title": {
+      "english": "",
+      "romaji": "Love Live! Nijigasaki Gakuen School Idol Doukoukai: Kanketsu-hen 2",
+      "native": "ラブライブ！虹ヶ咲学園スクールアイドル同好会 完結編 第2章"
+    },
+    "description": "The second in the trilogy of <i>Love Live! Nijigasaki Gakuen School Idol Doukoukai</i> films that continues the story beyond season two and the OVA.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx183384-ecrP3DzrDvhM.jpg",
+    "banner_url": "",
+    "schedule": "Musim: FALL 2025",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "FALL",
+    "year": 2025,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 75,
+    "status": "FINISHED",
+    "score": 77,
+    "genres": [
+      "Music",
+      "Slice of Life"
+    ],
+    "updated_at": 1784350916
+  },
+  {
     "id": 182317,
     "id_mal": 59985,
     "url": "https://anilist.co/anime/182317",
@@ -2194,6 +2222,37 @@
       "Romance"
     ],
     "updated_at": 1784325887
+  },
+  {
+    "id": 181970,
+    "id_mal": 56609,
+    "url": "https://anilist.co/anime/181970",
+    "title": {
+      "english": "KIZUMONOGATARI -Koyomi Vamp-",
+      "romaji": "Kizumonogatari: Koyomi Vamp",
+      "native": "傷物語 -こよみヴァンプ-"
+    },
+    "description": "Compilation film of the three <i>Kizumonogatari</i> movies.<br><br>\n\nSpring break, an interval of time between the second and third year of high school. It was one fateful evening when Koyomi Araragi encounters her.<br><br>\n\nKiss-shot Acerola-orion Heart-under-blade.<br>\nLegendary Vampire. Killer of Apparitions. King of Apparitions.<br><br>\n\nHer legs and arms were cruelly torn apart, her extravagant dress soaked in red; she's a monster who finds herself in a tragic state, laying in a pool of her own blood. However, Koyomi finds her to be beautiful this way. <br><br>\n\nOn the brink of death after losing her four limbs, she asks Koyomi to save her. After experiencing fear, chaos, and finally conflict, Koyomi gives his own blood in order to save her.\nBut when he awakens, he finds himself re-born as her vampire kin.<br><br>\n\nKoyomi wishes to revert to being a human from a vampire. However, he must take back all of Kiss-shot's limbs to do so. Working as a negotiator, Meme Oshino stands in middle ground as Koyomi attempts to recapture her four limbs by challenging three powerful vampire hunters.<br><br>\n\nThis hellish spring break, the final one of his high school life, is only just beginning.<br><br>\n\n(Source: KIZUMONOGATARI -Koyomi Vamp- Official USA Website, edited)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx181970-dqNqPsJcBk5I.jpg",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/181970-T02XjDjycYZb.jpg",
+    "schedule": "Musim: WINTER 2024",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "WINTER",
+    "year": 2024,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 144,
+    "status": "FINISHED",
+    "score": 79,
+    "genres": [
+      "Action",
+      "Drama",
+      "Horror",
+      "Mystery",
+      "Supernatural"
+    ],
+    "updated_at": 1784350916
   },
   {
     "id": 181839,
@@ -2309,7 +2368,7 @@
       "Action",
       "Sci-Fi"
     ],
-    "updated_at": 1784304124
+    "updated_at": 1784350912
   },
   {
     "id": 179878,
@@ -2399,7 +2458,7 @@
       "Psychological",
       "Supernatural"
     ],
-    "updated_at": 1784340963
+    "updated_at": 1784350916
   },
   {
     "id": 178788,
@@ -3481,7 +3540,7 @@
       "Music",
       "Slice of Life"
     ],
-    "updated_at": 1783948413
+    "updated_at": 1784350916
   },
   {
     "id": 166475,
@@ -3565,7 +3624,7 @@
     "genres": [
       "Sci-Fi"
     ],
-    "updated_at": 1784322117
+    "updated_at": 1784350916
   },
   {
     "id": 165253,
@@ -5294,7 +5353,7 @@
       "Drama",
       "Mystery"
     ],
-    "updated_at": 1783945899
+    "updated_at": 1784350916
   },
   {
     "id": 141907,
@@ -5503,7 +5562,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784325887
+    "updated_at": 1784350914
   },
   {
     "id": 139311,
@@ -5587,7 +5646,7 @@
       "Mecha",
       "Sci-Fi"
     ],
-    "updated_at": 1784286117
+    "updated_at": 1784350914
   },
   {
     "id": 138425,
@@ -5936,7 +5995,7 @@
       "Drama",
       "Sports"
     ],
-    "updated_at": 1784325887
+    "updated_at": 1784350916
   },
   {
     "id": 133007,
@@ -6080,7 +6139,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784304124
+    "updated_at": 1784350916
   },
   {
     "id": 131573,
@@ -7841,7 +7900,7 @@
       "Fantasy",
       "Mystery"
     ],
-    "updated_at": 1784288107
+    "updated_at": 1784350916
   },
   {
     "id": 118936,
@@ -8388,7 +8447,7 @@
     "genres": [
       "Music"
     ],
-    "updated_at": 1784288393
+    "updated_at": 1784350916
   },
   {
     "id": 117764,
@@ -8528,7 +8587,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784341006
+    "updated_at": 1784350915
   },
   {
     "id": 116756,
@@ -8558,6 +8617,34 @@
       "Supernatural"
     ],
     "updated_at": 1784322117
+  },
+  {
+    "id": 116740,
+    "id_mal": 48352,
+    "url": "https://anilist.co/anime/116740",
+    "title": {
+      "english": "",
+      "romaji": "100-Nichikan Ikita Wani",
+      "native": "100日間生きたワニ"
+    },
+    "description": "The story centers on a crocodile living a normal life, unaware that he is due to die in 100 days. The crocodile spends ordinary days with his animal companions.<br>\n<br>\n(Source: Anime News Network)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx116740-NNO02wfF2j4w.jpg",
+    "banner_url": "",
+    "schedule": "Musim: SUMMER 2021",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "SUMMER",
+    "year": 2021,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 63,
+    "status": "FINISHED",
+    "score": 53,
+    "genres": [
+      "Drama",
+      "Slice of Life"
+    ],
+    "updated_at": 1784350916
   },
   {
     "id": 116226,
@@ -9437,7 +9524,7 @@
       "Drama",
       "Slice of Life"
     ],
-    "updated_at": 1784322117
+    "updated_at": 1784350916
   },
   {
     "id": 112023,
@@ -12169,7 +12256,7 @@
       "Sci-Fi",
       "Thriller"
     ],
-    "updated_at": 1784297606
+    "updated_at": 1784350916
   },
   {
     "id": 104867,
@@ -14056,6 +14143,35 @@
     "updated_at": 1784318447
   },
   {
+    "id": 102973,
+    "id_mal": 37207,
+    "url": "https://anilist.co/anime/102973",
+    "title": {
+      "english": "",
+      "romaji": "Zuori Qing Kong",
+      "native": "昨日青空"
+    },
+    "description": "Tu Xiaoyi, Yao Zhetian and Qi Jingxuan are high school students in a small town, Lanxi, in southern China. This is a story about dreams, friendship, family and first love in their youthful days.\n",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx102973-lF6KFgX3EFvK.jpg",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 85,
+    "status": "FINISHED",
+    "score": 64,
+    "genres": [
+      "Drama",
+      "Romance",
+      "Slice of Life"
+    ],
+    "updated_at": 1784350916
+  },
+  {
     "id": 102891,
     "id_mal": 38015,
     "url": "https://anilist.co/anime/102891",
@@ -15395,7 +15511,7 @@
       "Sci-Fi",
       "Thriller"
     ],
-    "updated_at": 1784318490
+    "updated_at": 1784350916
   },
   {
     "id": 101812,
@@ -15457,7 +15573,7 @@
       "Sci-Fi",
       "Thriller"
     ],
-    "updated_at": 1784318451
+    "updated_at": 1784350916
   },
   {
     "id": 101635,
@@ -16352,7 +16468,7 @@
       "Fantasy",
       "Slice of Life"
     ],
-    "updated_at": 1784297606
+    "updated_at": 1784350916
   },
   {
     "id": 100744,
@@ -16619,7 +16735,7 @@
       "Fantasy",
       "Mystery"
     ],
-    "updated_at": 1784297606
+    "updated_at": 1784350916
   },
   {
     "id": 100361,
@@ -16674,7 +16790,7 @@
       "Psychological",
       "Sci-Fi"
     ],
-    "updated_at": 1784307728
+    "updated_at": 1784350916
   },
   {
     "id": 100291,
@@ -16876,7 +16992,7 @@
       "Music",
       "Slice of Life"
     ],
-    "updated_at": 1784341006
+    "updated_at": 1784350916
   },
   {
     "id": 100130,
@@ -16989,7 +17105,7 @@
       "Action",
       "Sports"
     ],
-    "updated_at": 1783950981
+    "updated_at": 1784350916
   },
   {
     "id": 99900,
@@ -17998,7 +18114,7 @@
       "Comedy",
       "Romance"
     ],
-    "updated_at": 1784322117
+    "updated_at": 1784350915
   },
   {
     "id": 97908,
@@ -19274,7 +19390,7 @@
       "Drama",
       "Fantasy"
     ],
-    "updated_at": 1784341000
+    "updated_at": 1784350916
   },
   {
     "id": 21314,
@@ -19593,7 +19709,7 @@
       "Mecha",
       "Sci-Fi"
     ],
-    "updated_at": 1784304301
+    "updated_at": 1784350916
   },
   {
     "id": 21158,
@@ -19883,7 +19999,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784325887
+    "updated_at": 1784350916
   },
   {
     "id": 21071,
@@ -20647,7 +20763,7 @@
       "Comedy",
       "Sci-Fi"
     ],
-    "updated_at": 1784306349
+    "updated_at": 1784350916
   },
   {
     "id": 20768,
@@ -20857,7 +20973,7 @@
       "Sci-Fi",
       "Supernatural"
     ],
-    "updated_at": 1784306588
+    "updated_at": 1784350916
   },
   {
     "id": 20736,
@@ -21033,7 +21149,7 @@
       "Drama",
       "Sci-Fi"
     ],
-    "updated_at": 1784306685
+    "updated_at": 1784350913
   },
   {
     "id": 20644,
@@ -21263,7 +21379,7 @@
       "Action",
       "Sci-Fi"
     ],
-    "updated_at": 1784325887
+    "updated_at": 1784350916
   },
   {
     "id": 20512,
@@ -21911,7 +22027,7 @@
       "Action",
       "Sports"
     ],
-    "updated_at": 1784332981
+    "updated_at": 1784350916
   },
   {
     "id": 18591,
@@ -22105,7 +22221,7 @@
       "Mecha",
       "Sci-Fi"
     ],
-    "updated_at": 1784340997
+    "updated_at": 1784350913
   },
   {
     "id": 17721,
@@ -22163,7 +22279,7 @@
       "Romance",
       "Sci-Fi"
     ],
-    "updated_at": 1784308030
+    "updated_at": 1784350916
   },
   {
     "id": 17673,
@@ -22530,7 +22646,7 @@
       "Sci-Fi",
       "Thriller"
     ],
-    "updated_at": 1784332976
+    "updated_at": 1784350916
   },
   {
     "id": 17121,
@@ -23413,7 +23529,7 @@
       "Mecha",
       "Sci-Fi"
     ],
-    "updated_at": 1784309514
+    "updated_at": 1784350916
   },
   {
     "id": 15177,
@@ -23701,7 +23817,7 @@
       "Drama",
       "Romance"
     ],
-    "updated_at": 1784309587
+    "updated_at": 1784350916
   },
   {
     "id": 14407,
@@ -24018,7 +24134,7 @@
       "Mecha",
       "Sci-Fi"
     ],
-    "updated_at": 1784309754
+    "updated_at": 1784350916
   },
   {
     "id": 13335,
@@ -24047,7 +24163,7 @@
       "Drama",
       "Supernatural"
     ],
-    "updated_at": 1784309766
+    "updated_at": 1784350916
   },
   {
     "id": 13271,
@@ -24326,7 +24442,7 @@
       "Comedy",
       "Drama"
     ],
-    "updated_at": 1784341001
+    "updated_at": 1784350916
   },
   {
     "id": 12857,
@@ -24794,7 +24910,7 @@
       "Psychological",
       "Sci-Fi"
     ],
-    "updated_at": 1784310255
+    "updated_at": 1784350916
   },
   {
     "id": 12049,
@@ -25004,7 +25120,7 @@
       "Psychological",
       "Thriller"
     ],
-    "updated_at": 1784310303
+    "updated_at": 1784350916
   },
   {
     "id": 11977,
@@ -25036,7 +25152,7 @@
       "Psychological",
       "Thriller"
     ],
-    "updated_at": 1784310307
+    "updated_at": 1784350916
   },
   {
     "id": 11791,
@@ -25154,6 +25270,36 @@
     "updated_at": 1784332942
   },
   {
+    "id": 11375,
+    "id_mal": 11375,
+    "url": "https://anilist.co/anime/11375",
+    "title": {
+      "english": "",
+      "romaji": ".hack//The Movie: Sekai no Mukou ni",
+      "native": ".hack//The Movie セカイの向こうに"
+    },
+    "description": "In 2024, the computer network prevails throughout daily life. Sora Yuuki is a 14-year-old girl. One day, she is invited to an online game \"The World\". After an accident in the game, the real world begins to deform.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/11375.jpg",
+    "banner_url": "",
+    "schedule": "Musim: WINTER 2012",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "WINTER",
+    "year": 2012,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 110,
+    "status": "FINISHED",
+    "score": 67,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy",
+      "Mystery"
+    ],
+    "updated_at": 1784350914
+  },
+  {
     "id": 10904,
     "id_mal": 10904,
     "url": "https://anilist.co/anime/10904",
@@ -25179,7 +25325,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784268121
+    "updated_at": 1784350916
   },
   {
     "id": 10821,
@@ -25324,7 +25470,7 @@
       "Psychological",
       "Sci-Fi"
     ],
-    "updated_at": 1783945890
+    "updated_at": 1784350916
   },
   {
     "id": 10589,
@@ -25438,7 +25584,7 @@
       "Drama",
       "Supernatural"
     ],
-    "updated_at": 1783948315
+    "updated_at": 1784350916
   },
   {
     "id": 10294,
@@ -25728,7 +25874,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784341000
+    "updated_at": 1784350916
   },
   {
     "id": 9963,
@@ -25819,6 +25965,33 @@
     "updated_at": 1784325887
   },
   {
+    "id": 9789,
+    "id_mal": 9789,
+    "url": "https://anilist.co/anime/9789",
+    "title": {
+      "english": "",
+      "romaji": "Nezumi Monogatari: George to Gerald no Bouken",
+      "native": "ねずみ物語 ジョージとジェラルドの冒険"
+    },
+    "description": "Nezumi Monogatari is the story of two mice called George and Gerald who embark on a journey together with three friends to find the \"Dragon of Light\".",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx9789-tfBflETadtCG.jpg",
+    "banner_url": "",
+    "schedule": "Musim: FALL 2007",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "FALL",
+    "year": 2007,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 52,
+    "status": "FINISHED",
+    "score": 57,
+    "genres": [
+      "Adventure"
+    ],
+    "updated_at": 1784350916
+  },
+  {
     "id": 9760,
     "id_mal": 9760,
     "url": "https://anilist.co/anime/9760",
@@ -25846,7 +26019,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784329393
+    "updated_at": 1784350916
   },
   {
     "id": 9751,
@@ -27905,7 +28078,7 @@
     "genres": [
       "Action"
     ],
-    "updated_at": 1784312057
+    "updated_at": 1784350916
   },
   {
     "id": 7696,
@@ -29753,7 +29926,7 @@
       "Sci-Fi",
       "Sports"
     ],
-    "updated_at": 1784340981
+    "updated_at": 1784350914
   },
   {
     "id": 6654,
@@ -31780,7 +31953,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784322117
+    "updated_at": 1784350916
   },
   {
     "id": 4681,
@@ -32518,7 +32691,7 @@
       "Drama",
       "Fantasy"
     ],
-    "updated_at": 1784341000
+    "updated_at": 1784350916
   },
   {
     "id": 4107,
@@ -32550,7 +32723,7 @@
       "Romance",
       "Sci-Fi"
     ],
-    "updated_at": 1784325887
+    "updated_at": 1784350916
   },
   {
     "id": 4106,
@@ -32747,6 +32920,34 @@
     "updated_at": 1784297606
   },
   {
+    "id": 3914,
+    "id_mal": 3914,
+    "url": "https://anilist.co/anime/3914",
+    "title": {
+      "english": "",
+      "romaji": "1001 Nights",
+      "native": ""
+    },
+    "description": "Presented in the form of a feverish love dream, 1001 Nights (based on Amano's book of artwork) is the first performance of the groundbreaking \"Filmharmonic\" series, which presents new orchestral works by film composers in tandem with short films made by A-list directors. 1001 Nights is the series's only animated work, and plans originally called for the film to be completely computer animated.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx3914-Dc5O4VahB8uB.png",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/3914-568asm3fL9di.jpg",
+    "schedule": "Musim: SPRING 1999",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "SPRING",
+    "year": 1999,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 24,
+    "status": "FINISHED",
+    "score": 62,
+    "genres": [
+      "Fantasy",
+      "Romance"
+    ],
+    "updated_at": 1784350916
+  },
+  {
     "id": 3848,
     "id_mal": 3848,
     "url": "https://anilist.co/anime/3848",
@@ -32774,7 +32975,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1783948370
+    "updated_at": 1784350916
   },
   {
     "id": 3786,
@@ -33012,7 +33213,7 @@
       "Adventure",
       "Horror"
     ],
-    "updated_at": 1784325887
+    "updated_at": 1784350916
   },
   {
     "id": 3602,
@@ -33213,6 +33414,65 @@
     "updated_at": 1784322117
   },
   {
+    "id": 3178,
+    "id_mal": 3178,
+    "url": "https://anilist.co/anime/3178",
+    "title": {
+      "english": "",
+      "romaji": "Hengen Taima Yakou Karura Mau! Nara Onryou Emaki",
+      "native": "変幻退魔夜行 カルラ舞う！ 奈良怨霊絵巻"
+    },
+    "description": "Shoko and Maiko Ougi are apparently two ordinary schoolgirls in pursuit of graduating and having fun. Shii-chan is the more serious while Mai-chan is more fun-loving. In reality, the two sisters are powerful exorcists from the Karura temple. Each wields half the power...Shii-chan can \"see\" the spirits, and Mai-chan can banish them. This is the movie adaptation of a spooky series with heavy emphasis on traditionally Japanese occult themes. <br><br>\n(Source: AnimeNfo's Karura Mau OVA description; modified)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3178.jpg",
+    "banner_url": "",
+    "schedule": "Musim: SPRING 1989",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "SPRING",
+    "year": 1989,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 80,
+    "status": "FINISHED",
+    "score": 52,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy",
+      "Horror"
+    ],
+    "updated_at": 1784350916
+  },
+  {
+    "id": 3153,
+    "id_mal": 3153,
+    "url": "https://anilist.co/anime/3153",
+    "title": {
+      "english": "Gatchaman: The Movie",
+      "romaji": "Kagaku Ninja-Tai Gatchaman (Movie)",
+      "native": "科学忍者隊 ガッチャマン"
+    },
+    "description": "<i>This is the condensed theatrical adaptation of the original TV series' first season.</i><br><br>The sinister mutant Berg Katse has launched armies of henchmen and giant weapons of mass destruction against Earth. But the forces of evil are about to meet their match! The Science Ninja Team stands ready to take the battle back to the bad guys.<br><br>(Source: HIDIVE)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx3153-aYPnqoGG2bJ7.png",
+    "banner_url": "",
+    "schedule": "Musim: SUMMER 1978",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "SUMMER",
+    "year": 1978,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 110,
+    "status": "FINISHED",
+    "score": 55,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "updated_at": 1784350912
+  },
+  {
     "id": 3147,
     "id_mal": 3147,
     "url": "https://anilist.co/anime/3147",
@@ -33265,7 +33525,7 @@
       "Drama",
       "Psychological"
     ],
-    "updated_at": 1784340985
+    "updated_at": 1784350916
   },
   {
     "id": 3087,
@@ -33442,6 +33702,35 @@
       "Sci-Fi"
     ],
     "updated_at": 1784340990
+  },
+  {
+    "id": 3015,
+    "id_mal": 3015,
+    "url": "https://anilist.co/anime/3015",
+    "title": {
+      "english": "Legend of the Galactic Heroes Gaiden: Golden Wings",
+      "romaji": "Ginga Eiyuu Densetsu Gaiden: Ougon no Tsubasa",
+      "native": "銀河英雄伝説外伝　黄金の翼"
+    },
+    "description": "Reinhard von Müsel, a poor nobleman's son, one day discovers that his sister, Annerose, has been sold to the royal family. To get her back he sets out to rise quickly through the military along with his friend Siegfried Kircheis.\n<br><br>\n(Source: Anime News Network)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx3015-Li4YSbOvOiFP.jpg",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/n3015-NdDtxak79wkG.jpg",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 60,
+    "status": "FINISHED",
+    "score": 59,
+    "genres": [
+      "Action",
+      "Drama",
+      "Sci-Fi"
+    ],
+    "updated_at": 1784350914
   },
   {
     "id": 2981,
@@ -33698,7 +33987,7 @@
       "Drama",
       "Supernatural"
     ],
-    "updated_at": 1784341006
+    "updated_at": 1784350916
   },
   {
     "id": 2847,
@@ -34923,7 +35212,7 @@
       "Psychological",
       "Supernatural"
     ],
-    "updated_at": 1784322117
+    "updated_at": 1784350916
   },
   {
     "id": 2144,
@@ -35118,7 +35407,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784289675
+    "updated_at": 1784350916
   },
   {
     "id": 2099,
@@ -35178,6 +35467,36 @@
       "Sports"
     ],
     "updated_at": 1784242996
+  },
+  {
+    "id": 2055,
+    "id_mal": 2055,
+    "url": "https://anilist.co/anime/2055",
+    "title": {
+      "english": "",
+      "romaji": "Tooi Umi kara Kita Coo",
+      "native": "遠い海から来たクー"
+    },
+    "description": "After a storm hits their island, Yusuke (driving his jet-ski) finds a baby dinosaur. He show it to his dad, they keep it and call it Coo. But here are other parties interested in a 65 milion year old creature ...<br><br>\n(Source: Anime News Network)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2055-YzB7IuI7yY0M.png",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/2055-e0m3Va3W1xFh.jpg",
+    "schedule": "Musim: FALL 1993",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "FALL",
+    "year": 1993,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 116,
+    "status": "FINISHED",
+    "score": 62,
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Mystery",
+      "Slice of Life"
+    ],
+    "updated_at": 1784350916
   },
   {
     "id": 2013,
@@ -35535,6 +35854,33 @@
     "updated_at": 1784329393
   },
   {
+    "id": 1825,
+    "id_mal": 1825,
+    "url": "https://anilist.co/anime/1825",
+    "title": {
+      "english": "Barefoot Gen 2",
+      "romaji": "Hadashi no Gen 2",
+      "native": "はだしのゲン２"
+    },
+    "description": "Three years have passed since the bombing of Hiroshima and Gen is now a fourth-grader. Hiroshima is still a ruin, and Gen must scrounge for scrap metal to help keep himself and his remaining family fed, but at least commerce has returned to the land. As his mother gradually grows ill from radiation sickness, Gen and Ryuta befriend a group of orphans led by a tough-nosed older child and including a girl who still bears ugly burn scars from the day of the bomb. An old man suffering from depression is also drawn into the group as they come together to support each other and form a makeshift family. Reality is still harsh, however, as many orphans still die lonely deaths and the grim reminders of what happened linger everywhere.\n<br><br>\n(Source: Anime News Network)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1825-xpZcbEtcTTaa.png",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/1825-jmgdWdhcZ6PX.jpg",
+    "schedule": "Musim: SUMMER 1986",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "SUMMER",
+    "year": 1986,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 86,
+    "status": "FINISHED",
+    "score": 70,
+    "genres": [
+      "Drama"
+    ],
+    "updated_at": 1784350916
+  },
+  {
     "id": 1824,
     "id_mal": 1824,
     "url": "https://anilist.co/anime/1824",
@@ -35559,7 +35905,7 @@
     "genres": [
       "Drama"
     ],
-    "updated_at": 1784325887
+    "updated_at": 1784350916
   },
   {
     "id": 1815,
@@ -35591,7 +35937,7 @@
       "Romance",
       "Supernatural"
     ],
-    "updated_at": 1784304124
+    "updated_at": 1784350916
   },
   {
     "id": 1796,
@@ -35622,7 +35968,7 @@
       "Ecchi",
       "Sci-Fi"
     ],
-    "updated_at": 1784329393
+    "updated_at": 1784350916
   },
   {
     "id": 1793,
@@ -35656,6 +36002,64 @@
       "Sci-Fi"
     ],
     "updated_at": 1784325887
+  },
+  {
+    "id": 1760,
+    "id_mal": 1760,
+    "url": "https://anilist.co/anime/1760",
+    "title": {
+      "english": "Golgo 13: The Professional",
+      "romaji": "Golgo 13",
+      "native": "ゴルゴ13"
+    },
+    "description": "After assassinating the son of business tycoon Leonard Dawson, Golgo 13 finds himself prey to the CIA and the U.S. Army, whom Dawson has personally hired to kill the assassin. As days pass by, Dawson slowly loses his sanity as he continues to plot every attempt to kill Golgo 13 even without caring about who hired the assassin to kill his son.\n<br><br>\n(Source: Anime News Network)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b1760-PmH18u0MQNPB.jpg",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/1760-yg3ToxFd2qus.jpg",
+    "schedule": "Musim: SPRING 1983",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "SPRING",
+    "year": 1983,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 90,
+    "status": "FINISHED",
+    "score": 66,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama"
+    ],
+    "updated_at": 1784350916
+  },
+  {
+    "id": 1723,
+    "id_mal": 1723,
+    "url": "https://anilist.co/anime/1723",
+    "title": {
+      "english": "Clannad: The Motion Picture",
+      "romaji": "Clannad Movie",
+      "native": "劇場版 クラナド"
+    },
+    "description": "Clannad is set in a high-school located in some Japanese town. Okazaki Tomoya is a third-year student who doesn't take his studies seriously. Always late for class, he's seen as a delinquent by the rest of his classmates who are busy preparing for their entrance examinations. Needless to say, he hasn't too many close friends either.<br><br>\nTomoya seems not to mind too - until one day he meets a girl, Furukawa Nagisa, who is left alone without friends on this school, because everybody she knew already graduated. What a clumsy girl, he thinks at first. But he can't leave her alone and so, while helping her, he meets a few other girls from his school. Although he doesn't care much about them at first, he soon opens his heart to them as they get to know each other better.<br><br>\n(Source: AniDB)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1723-PzMdQPvfcxxA.png",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/1723-elyPZO1iWjgS.jpg",
+    "schedule": "Musim: SUMMER 2007",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "SUMMER",
+    "year": 2007,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 94,
+    "status": "FINISHED",
+    "score": 67,
+    "genres": [
+      "Drama",
+      "Fantasy",
+      "Romance"
+    ],
+    "updated_at": 1784350916
   },
   {
     "id": 1689,
@@ -36067,7 +36471,7 @@
       "Music",
       "Sci-Fi"
     ],
-    "updated_at": 1784315552
+    "updated_at": 1784350916
   },
   {
     "id": 1380,
@@ -36751,7 +37155,7 @@
       "Mystery",
       "Romance"
     ],
-    "updated_at": 1784315610
+    "updated_at": 1784350914
   },
   {
     "id": 1240,
@@ -37106,7 +37510,7 @@
       "Sci-Fi",
       "Supernatural"
     ],
-    "updated_at": 1784315672
+    "updated_at": 1784350916
   },
   {
     "id": 1121,
@@ -37496,7 +37900,7 @@
       "Mecha",
       "Sci-Fi"
     ],
-    "updated_at": 1784315694
+    "updated_at": 1784350916
   },
   {
     "id": 1090,
@@ -37588,7 +37992,7 @@
       "Fantasy",
       "Music"
     ],
-    "updated_at": 1784282525
+    "updated_at": 1784350916
   },
   {
     "id": 1044,
@@ -38035,7 +38439,7 @@
       "Adventure",
       "Sci-Fi"
     ],
-    "updated_at": 1784325887
+    "updated_at": 1784350916
   },
   {
     "id": 901,
@@ -38238,7 +38642,7 @@
       "Adventure",
       "Sci-Fi"
     ],
-    "updated_at": 1784325887
+    "updated_at": 1784350916
   },
   {
     "id": 894,
@@ -38267,7 +38671,7 @@
       "Adventure",
       "Sci-Fi"
     ],
-    "updated_at": 1784325887
+    "updated_at": 1784350916
   },
   {
     "id": 893,
@@ -39142,7 +39546,7 @@
       "Horror",
       "Romance"
     ],
-    "updated_at": 1784318495
+    "updated_at": 1784350916
   },
   {
     "id": 597,
@@ -39321,7 +39725,7 @@
       "Drama",
       "Sci-Fi"
     ],
-    "updated_at": 1784325887
+    "updated_at": 1784350916
   },
   {
     "id": 544,
@@ -39712,7 +40116,7 @@
       "Adventure",
       "Comedy"
     ],
-    "updated_at": 1784316520
+    "updated_at": 1784350913
   },
   {
     "id": 496,
@@ -39977,7 +40381,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784316601
+    "updated_at": 1784350916
   },
   {
     "id": 461,
@@ -40037,7 +40441,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784341002
+    "updated_at": 1784350916
   },
   {
     "id": 459,
@@ -40067,7 +40471,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784341002
+    "updated_at": 1784350916
   },
   {
     "id": 452,
@@ -40578,7 +40982,7 @@
       "Mahou Shoujo",
       "Romance"
     ],
-    "updated_at": 1784322117
+    "updated_at": 1784350916
   },
   {
     "id": 371,
@@ -40607,7 +41011,7 @@
       "Fantasy",
       "Mahou Shoujo"
     ],
-    "updated_at": 1784329393
+    "updated_at": 1784350916
   },
   {
     "id": 317,
