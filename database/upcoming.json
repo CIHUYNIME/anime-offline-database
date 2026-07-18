@@ -167,7 +167,7 @@
       "Adventure",
       "Sci-Fi"
     ],
-    "updated_at": 1784322117
+    "updated_at": 1784372518
   },
   {
     "id": 214049,
@@ -223,7 +223,7 @@
       "Comedy",
       "Romance"
     ],
-    "updated_at": 1784350916
+    "updated_at": 1784372518
   },
   {
     "id": 214018,
@@ -306,7 +306,7 @@
       "Drama",
       "Romance"
     ],
-    "updated_at": 1784358101
+    "updated_at": 1784372518
   },
   {
     "id": 213929,
@@ -418,7 +418,7 @@
     "genres": [
       "Action"
     ],
-    "updated_at": 1784329393
+    "updated_at": 1784372518
   },
   {
     "id": 213878,
@@ -496,7 +496,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784325887
+    "updated_at": 1784372518
   },
   {
     "id": 213872,
@@ -582,7 +582,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784253710
+    "updated_at": 1784372518
   },
   {
     "id": 213847,
@@ -1093,7 +1093,7 @@
     "genres": [
       "Sci-Fi"
     ],
-    "updated_at": 1784350916
+    "updated_at": 1784372518
   },
   {
     "id": 213628,
@@ -1121,7 +1121,7 @@
       "Action",
       "Comedy"
     ],
-    "updated_at": 1784297602
+    "updated_at": 1784372518
   },
   {
     "id": 213627,
@@ -1470,7 +1470,7 @@
     "genres": [
       "Drama"
     ],
-    "updated_at": 1784361747
+    "updated_at": 1784372518
   },
   {
     "id": 213338,
@@ -1589,7 +1589,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784361747
+    "updated_at": 1784372518
   },
   {
     "id": 213068,
@@ -1842,7 +1842,7 @@
       "Ecchi",
       "Supernatural"
     ],
-    "updated_at": 1784246842
+    "updated_at": 1784372518
   },
   {
     "id": 212653,
@@ -2040,7 +2040,7 @@
       "Drama",
       "Romance"
     ],
-    "updated_at": 1784325887
+    "updated_at": 1784372518
   },
   {
     "id": 212503,
@@ -2069,7 +2069,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784304124
+    "updated_at": 1784372518
   },
   {
     "id": 212391,
@@ -2387,7 +2387,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784340948
+    "updated_at": 1784372518
   },
   {
     "id": 211338,
@@ -2558,7 +2558,7 @@
       "Ecchi",
       "Fantasy"
     ],
-    "updated_at": 1784341006
+    "updated_at": 1784372518
   },
   {
     "id": 210482,
@@ -3225,7 +3225,7 @@
       "Mecha",
       "Sci-Fi"
     ],
-    "updated_at": 1784304124
+    "updated_at": 1784372518
   },
   {
     "id": 208025,
@@ -3460,7 +3460,7 @@
       "Action",
       "Comedy"
     ],
-    "updated_at": 1784297606
+    "updated_at": 1784372518
   },
   {
     "id": 207191,
@@ -3547,7 +3547,7 @@
       "Supernatural",
       "Thriller"
     ],
-    "updated_at": 1784358109
+    "updated_at": 1784372518
   },
   {
     "id": 206814,
@@ -4006,7 +4006,7 @@
       "Slice of Life",
       "Supernatural"
     ],
-    "updated_at": 1784358109
+    "updated_at": 1784372516
   },
   {
     "id": 204688,
@@ -4093,7 +4093,7 @@
       "Sci-Fi",
       "Supernatural"
     ],
-    "updated_at": 1784307728
+    "updated_at": 1784372518
   },
   {
     "id": 204585,
@@ -5444,7 +5444,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784341006
+    "updated_at": 1784372518
   },
   {
     "id": 199185,
@@ -5822,7 +5822,7 @@
       "Drama",
       "Fantasy"
     ],
-    "updated_at": 1784246831
+    "updated_at": 1784372518
   },
   {
     "id": 197022,
@@ -5854,6 +5854,35 @@
       "Slice of Life"
     ],
     "updated_at": 1784246831
+  },
+  {
+    "id": 196223,
+    "id_mal": 62079,
+    "url": "https://anilist.co/anime/196223",
+    "title": {
+      "english": "",
+      "romaji": "Cyborg 009: Nemesis",
+      "native": "サイボーグ009 ネメシス"
+    },
+    "description": "To commemorate the 61st anniversary of the original manga's debut: a new anime based on Shoutarou Ishinomori's <i>Cyborg 009</i>.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx196223-IGxBuIsascyV.jpg",
+    "banner_url": "",
+    "schedule": "Episode 1 tayang pada 18/7/2026, 22.00.00 WIB",
+    "next_episode": 1,
+    "next_airing_timestamp": 1784386800,
+    "season": "SUMMER",
+    "year": 2026,
+    "format": "ONA",
+    "episodes": 3,
+    "duration": 30,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "updated_at": 1784372518
   },
   {
     "id": 196222,
@@ -6264,7 +6293,7 @@
       "Drama",
       "Supernatural"
     ],
-    "updated_at": 1784318496
+    "updated_at": 1784372514
   },
   {
     "id": 195200,
@@ -7211,7 +7240,7 @@
       "Music",
       "Slice of Life"
     ],
-    "updated_at": 1784300508
+    "updated_at": 1784372518
   },
   {
     "id": 186057,
@@ -7268,7 +7297,7 @@
       "Action",
       "Adventure"
     ],
-    "updated_at": 1784325887
+    "updated_at": 1784372518
   },
   {
     "id": 185995,
@@ -7525,7 +7554,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784268121
+    "updated_at": 1784372518
   },
   {
     "id": 184321,
@@ -7610,7 +7639,7 @@
       "Comedy",
       "Slice of Life"
     ],
-    "updated_at": 1784361747
+    "updated_at": 1784372518
   },
   {
     "id": 183960,
@@ -7842,7 +7871,7 @@
       "Action",
       "Fantasy"
     ],
-    "updated_at": 1784307728
+    "updated_at": 1784372518
   },
   {
     "id": 179876,
@@ -8212,7 +8241,7 @@
       "Drama",
       "Sports"
     ],
-    "updated_at": 1784322117
+    "updated_at": 1784372518
   },
   {
     "id": 174427,
@@ -8645,7 +8674,7 @@
     "genres": [
       "Sci-Fi"
     ],
-    "updated_at": 1784350916
+    "updated_at": 1784372518
   },
   {
     "id": 165523,
@@ -8818,7 +8847,7 @@
       "Adventure",
       "Comedy"
     ],
-    "updated_at": 1784369064
+    "updated_at": 1784372518
   },
   {
     "id": 161410,
@@ -8843,7 +8872,7 @@
     "status": "NOT_YET_RELEASED",
     "score": null,
     "genres": [],
-    "updated_at": 1784369163
+    "updated_at": 1784372518
   },
   {
     "id": 160803,
@@ -9107,7 +9136,7 @@
       "Drama",
       "Sports"
     ],
-    "updated_at": 1784329393
+    "updated_at": 1784372518
   },
   {
     "id": 152677,
@@ -9340,7 +9369,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784286545
+    "updated_at": 1784373251
   },
   {
     "id": 126016,

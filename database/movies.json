@@ -294,7 +294,7 @@
       "Drama",
       "Supernatural"
     ],
-    "updated_at": 1784297606
+    "updated_at": 1784372518
   },
   {
     "id": 212391,
@@ -742,7 +742,7 @@
       "Slice of Life",
       "Supernatural"
     ],
-    "updated_at": 1784322117
+    "updated_at": 1784372518
   },
   {
     "id": 206610,
@@ -772,7 +772,7 @@
       "Slice of Life",
       "Supernatural"
     ],
-    "updated_at": 1784322117
+    "updated_at": 1784372518
   },
   {
     "id": 206609,
@@ -802,7 +802,7 @@
       "Slice of Life",
       "Supernatural"
     ],
-    "updated_at": 1784322117
+    "updated_at": 1784372518
   },
   {
     "id": 206500,
@@ -1469,7 +1469,7 @@
       "Drama",
       "Supernatural"
     ],
-    "updated_at": 1784318496
+    "updated_at": 1784372514
   },
   {
     "id": 195200,
@@ -1726,7 +1726,7 @@
       "Mystery",
       "Supernatural"
     ],
-    "updated_at": 1784242996
+    "updated_at": 1784372518
   },
   {
     "id": 188035,
@@ -2634,7 +2634,7 @@
       "Sci-Fi",
       "Supernatural"
     ],
-    "updated_at": 1784325887
+    "updated_at": 1784372518
   },
   {
     "id": 178436,
@@ -3028,7 +3028,7 @@
       "Drama",
       "Sports"
     ],
-    "updated_at": 1784322117
+    "updated_at": 1784372518
   },
   {
     "id": 174788,
@@ -3653,7 +3653,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784304124
+    "updated_at": 1784372518
   },
   {
     "id": 166457,
@@ -3708,7 +3708,7 @@
     "genres": [
       "Sci-Fi"
     ],
-    "updated_at": 1784350916
+    "updated_at": 1784372518
   },
   {
     "id": 165253,
@@ -5431,6 +5431,31 @@
     "updated_at": 1784242996
   },
   {
+    "id": 143750,
+    "id_mal": 43383,
+    "url": "https://anilist.co/anime/143750",
+    "title": {
+      "english": "",
+      "romaji": "Da Chaoxun Zhi Ye",
+      "native": "大潮汛之夜"
+    },
+    "description": "Tidak ada deskripsi.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx143750-SSfbUZ9PEX6A.png",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 21,
+    "status": "FINISHED",
+    "score": null,
+    "genres": [],
+    "updated_at": 1784372516
+  },
+  {
     "id": 143103,
     "id_mal": 50668,
     "url": "https://anilist.co/anime/143103",
@@ -5748,7 +5773,7 @@
       "Music",
       "Supernatural"
     ],
-    "updated_at": 1784361747
+    "updated_at": 1784372518
   },
   {
     "id": 140113,
@@ -5866,7 +5891,7 @@
       "Romance",
       "Sci-Fi"
     ],
-    "updated_at": 1784361747
+    "updated_at": 1784372518
   },
   {
     "id": 139310,
@@ -5894,7 +5919,7 @@
       "Romance",
       "Sci-Fi"
     ],
-    "updated_at": 1784361747
+    "updated_at": 1784372518
   },
   {
     "id": 139273,
@@ -6442,7 +6467,7 @@
       "Psychological",
       "Supernatural"
     ],
-    "updated_at": 1783962141
+    "updated_at": 1784372520
   },
   {
     "id": 131680,
@@ -6472,7 +6497,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784361747
+    "updated_at": 1784372701
   },
   {
     "id": 131573,
@@ -6500,7 +6525,35 @@
       "Action",
       "Supernatural"
     ],
-    "updated_at": 1784289619
+    "updated_at": 1784372726
+  },
+  {
+    "id": 131563,
+    "id_mal": 37390,
+    "url": "https://anilist.co/anime/131563",
+    "title": {
+      "english": "Pleasant Goat and Big Big Wolf: The Mythical Ark - Adventures in Love & Happiness",
+      "romaji": "Xi Yangyang Yu Hui Tailang: Xiqi Yang Yang Guo She Nian",
+      "native": "喜羊羊与灰太狼之喜气羊羊过蛇年"
+    },
+    "description": "In the face of impending disaster, the animal world is looking to the Mythical Ark for salvation. The problem is that only the snake tribe can operate the ark, and the snakes have already escaped to Utopia. To save the animals, Pleasant Goat and Big Big Wolf travel to Utopia to convince the snakes to help. In the process, they become friends, and the snakes agree to help. However, Pleasant Goat and Big Big Wolf decide to stay behind to save their homes.\n<br><br>\n(Source: YesAsia)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx131563-Yzk0MXvVGSXj.png",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 86,
+    "status": "FINISHED",
+    "score": null,
+    "genres": [
+      "Adventure",
+      "Comedy"
+    ],
+    "updated_at": 1784372731
   },
   {
     "id": 131520,
@@ -6530,7 +6583,63 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784246712
+    "updated_at": 1784372737
+  },
+  {
+    "id": 131486,
+    "id_mal": 42899,
+    "url": "https://anilist.co/anime/131486",
+    "title": {
+      "english": "My Little Goat",
+      "romaji": "My Little Goat",
+      "native": "マイリトルゴート"
+    },
+    "description": "The mother goat rescues her little goats from the wolf's belly. But, she can't find Toruku, her eldest son! Where is Toruku?!<br><br>Tomoki Misato's 2018 Graduation Work at Tokyo University of the Arts.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx131486-3e0LYe84AyIX.jpg",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/131486-NsdMhCofOYiT.jpg",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 10,
+    "status": "FINISHED",
+    "score": 69,
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Psychological"
+    ],
+    "updated_at": 1784372743
+  },
+  {
+    "id": 131045,
+    "id_mal": 46650,
+    "url": "https://anilist.co/anime/131045",
+    "title": {
+      "english": "",
+      "romaji": "Tropical-Rouge! Precure Petit Tobikome! Collabo♡Dance Party!",
+      "native": "映画トロピカル~ジュ! プリキュア プチ とびこめ! コラボ♡ダンスパーティ!"
+    },
+    "description": "A short film screened alongside <i><a href=\"https://anilist.co/anime/121026\">Healin' Good♥Precure: Yume no Machi de Kyun! Tto GoGo! Dai Henshin!!</a></i>.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx131045-ELfl5Op2XbJH.png",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/131045-ED1A02QBMsqJ.jpg",
+    "schedule": "Musim: SPRING 2021",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "SPRING",
+    "year": 2021,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 4,
+    "status": "FINISHED",
+    "score": 64,
+    "genres": [
+      "Mahou Shoujo"
+    ],
+    "updated_at": 1784372778
   },
   {
     "id": 130622,
@@ -6558,7 +6667,7 @@
       "Horror",
       "Supernatural"
     ],
-    "updated_at": 1783962141
+    "updated_at": 1784372821
   },
   {
     "id": 130558,
@@ -6587,7 +6696,36 @@
       "Sci-Fi",
       "Slice of Life"
     ],
-    "updated_at": 1783945886
+    "updated_at": 1784372838
+  },
+  {
+    "id": 130369,
+    "id_mal": null,
+    "url": "https://anilist.co/anime/130369",
+    "title": {
+      "english": "",
+      "romaji": "Palette: Shikisai no Shoujo",
+      "native": "Palette－色彩の少女－"
+    },
+    "description": "Animated graduation work by Hirota Hirata. <br>\n<br>\nThere was no \"color\" in the boy's world. One day the boy finds an old palette in a closet. When the palette opened, a little girl with colored eyes appeared from inside. The things she touched were magically colored one after another, and the boy, fascinated by the \"colors\" reflected in the black and white world, ran after the girl. \"Show me the color, you just have to do it again.\" <br>\n<br>\n(Source: Video description, translated)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx130369-YOxLPa5pLNkj.jpg",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/130369-yqkiGcLHRGYH.jpg",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 8,
+    "status": "FINISHED",
+    "score": 54,
+    "genres": [
+      "Drama",
+      "Romance",
+      "Supernatural"
+    ],
+    "updated_at": 1784372855
   },
   {
     "id": 130305,
@@ -6618,7 +6756,35 @@
       "Fantasy",
       "Slice of Life"
     ],
-    "updated_at": 1784358109
+    "updated_at": 1784372860
+  },
+  {
+    "id": 130254,
+    "id_mal": 40139,
+    "url": "https://anilist.co/anime/130254",
+    "title": {
+      "english": "Summer of Fossil Leaves",
+      "romaji": "Konoha Kaseki no Natsu",
+      "native": "木の葉化石の夏"
+    },
+    "description": "Animated graduation work by Touko Yatabe from Musashino Art University. <br>\n<br>\nOne day, Rintarou breaks the konoha fossil that his father cherished. Without being able to tell the truth, a feeling of guilt lingers. In the usual riverbank, where I was digging fossils, I met a strange boy, Toshi... A small fantasy of a summer woven by two boys and a stratum accumulates memories. <br>\n<br>\n(Source: Video description, translated)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx130254-aynrDA6Do5tV.png",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/130254-4mtUqMCQ5IfF.jpg",
+    "schedule": "Musim: WINTER 2014",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "WINTER",
+    "year": 2014,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 11,
+    "status": "FINISHED",
+    "score": 53,
+    "genres": [
+      "Slice of Life",
+      "Supernatural"
+    ],
+    "updated_at": 1784372869
   },
   {
     "id": 130190,
@@ -6646,7 +6812,7 @@
       "Action",
       "Fantasy"
     ],
-    "updated_at": 1783948382
+    "updated_at": 1784372875
   },
   {
     "id": 130050,
@@ -6674,7 +6840,7 @@
       "Drama",
       "Supernatural"
     ],
-    "updated_at": 1784361747
+    "updated_at": 1784372893
   },
   {
     "id": 129759,
@@ -6703,7 +6869,7 @@
       "Adventure",
       "Sci-Fi"
     ],
-    "updated_at": 1784253700
+    "updated_at": 1784372938
   },
   {
     "id": 129549,
@@ -6735,7 +6901,7 @@
       "Sci-Fi",
       "Supernatural"
     ],
-    "updated_at": 1784341006
+    "updated_at": 1784372961
   },
   {
     "id": 128740,
@@ -6766,7 +6932,7 @@
       "Ecchi",
       "Fantasy"
     ],
-    "updated_at": 1784340994
+    "updated_at": 1784373102
   },
   {
     "id": 128207,
@@ -6793,7 +6959,7 @@
     "genres": [
       "Sports"
     ],
-    "updated_at": 1784340979
+    "updated_at": 1784373213
   },
   {
     "id": 128021,
@@ -6820,7 +6986,7 @@
     "genres": [
       "Adventure"
     ],
-    "updated_at": 1784304124
+    "updated_at": 1784373235
   },
   {
     "id": 127958,
@@ -6849,7 +7015,7 @@
       "Drama",
       "Slice of Life"
     ],
-    "updated_at": 1784341006
+    "updated_at": 1784373247
   },
   {
     "id": 127331,
@@ -6876,7 +7042,7 @@
     "genres": [
       "Comedy"
     ],
-    "updated_at": 1784286614
+    "updated_at": 1784373355
   },
   {
     "id": 127271,
@@ -6906,7 +7072,7 @@
       "Mystery",
       "Sci-Fi"
     ],
-    "updated_at": 1784368905
+    "updated_at": 1784373362
   },
   {
     "id": 127227,
@@ -6934,7 +7100,7 @@
       "Comedy",
       "Slice of Life"
     ],
-    "updated_at": 1784286636
+    "updated_at": 1784373388
   },
   {
     "id": 127040,
@@ -6961,7 +7127,7 @@
     "genres": [
       "Drama"
     ],
-    "updated_at": 1784300508
+    "updated_at": 1784373417
   },
   {
     "id": 126863,
@@ -7016,7 +7182,7 @@
       "Music",
       "Psychological"
     ],
-    "updated_at": 1784286673
+    "updated_at": 1784373437
   },
   {
     "id": 126783,
@@ -7074,7 +7240,7 @@
       "Adventure",
       "Sci-Fi"
     ],
-    "updated_at": 1784289628
+    "updated_at": 1784373465
   },
   {
     "id": 126649,
@@ -7103,7 +7269,7 @@
       "Adventure",
       "Comedy"
     ],
-    "updated_at": 1784286697
+    "updated_at": 1784373466
   },
   {
     "id": 126425,
@@ -7131,7 +7297,7 @@
       "Comedy",
       "Slice of Life"
     ],
-    "updated_at": 1784286723
+    "updated_at": 1784373496
   },
   {
     "id": 126275,
@@ -7303,7 +7469,7 @@
       "Slice of Life",
       "Supernatural"
     ],
-    "updated_at": 1784289675
+    "updated_at": 1784372518
   },
   {
     "id": 124115,
@@ -7388,6 +7554,33 @@
       "Sports"
     ],
     "updated_at": 1784287256
+  },
+  {
+    "id": 123434,
+    "id_mal": 42750,
+    "url": "https://anilist.co/anime/123434",
+    "title": {
+      "english": "",
+      "romaji": "Kono Sekai no Tanoshimikata: Secret Story Film",
+      "native": "この世界の楽しみ方～Secret Story Film～"
+    },
+    "description": "An animated movie project announced to commemorate HoneyWorks' 10th anniversary.<br></br>\n\nThe movie will center around the story behind male idol unit LIPxLIP, and its members Yujiro and Aizo.\n",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx123434-PZSCfPhdc0hC.jpg",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/123434-YeWb5FB99dyI.jpg",
+    "schedule": "Musim: WINTER 2020",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "WINTER",
+    "year": 2020,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 66,
+    "status": "FINISHED",
+    "score": 68,
+    "genres": [
+      "Music"
+    ],
+    "updated_at": 1784372518
   },
   {
     "id": 122575,
@@ -9660,7 +9853,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784318451
+    "updated_at": 1784372518
   },
   {
     "id": 112732,
@@ -10442,7 +10635,7 @@
       "Adventure",
       "Mystery"
     ],
-    "updated_at": 1784358109
+    "updated_at": 1784372518
   },
   {
     "id": 110381,
@@ -10641,7 +10834,7 @@
       "Fantasy",
       "Supernatural"
     ],
-    "updated_at": 1784361747
+    "updated_at": 1784372518
   },
   {
     "id": 109931,
@@ -11387,7 +11580,7 @@
       "Slice of Life",
       "Supernatural"
     ],
-    "updated_at": 1784358109
+    "updated_at": 1784372518
   },
   {
     "id": 108553,
@@ -14416,6 +14609,33 @@
     "updated_at": 1784368905
   },
   {
+    "id": 103166,
+    "id_mal": 29800,
+    "url": "https://anilist.co/anime/103166",
+    "title": {
+      "english": "",
+      "romaji": "Urameshi Denwa",
+      "native": "うらめしでんわ"
+    },
+    "description": "A short film by Okamoto Tadanari.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/103166-dB9POKgInFHE.jpg",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/103166-NeZ7dPk6aJ8F.jpg",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 2,
+    "status": "FINISHED",
+    "score": 40,
+    "genres": [
+      "Comedy"
+    ],
+    "updated_at": 1784372515
+  },
+  {
     "id": 103050,
     "id_mal": 37969,
     "url": "https://anilist.co/anime/103050",
@@ -14696,6 +14916,33 @@
     "score": 37,
     "genres": [],
     "updated_at": 1783948732
+  },
+  {
+    "id": 102673,
+    "id_mal": 22255,
+    "url": "https://anilist.co/anime/102673",
+    "title": {
+      "english": "The Bride Stripped Bare by Her Bachelors",
+      "romaji": "Kanojo no Dokushinsha-tachi ni Yotte Hadaka ni Sareta Seifuku no Shoujo Kenkyuu",
+      "native": "彼女の独身者たちによって裸にされた性服の処女研究"
+    },
+    "description": "A surreal, pop-art depiction of a young girl losing her virginity.\n<br><br>\n(Source: IMDb)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx102673-ipFINujVsGk1.png",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 4,
+    "status": "FINISHED",
+    "score": 32,
+    "genres": [
+      "Music"
+    ],
+    "updated_at": 1784372518
   },
   {
     "id": 102669,
@@ -15025,6 +15272,31 @@
     "updated_at": 1784329393
   },
   {
+    "id": 102502,
+    "id_mal": 30665,
+    "url": "https://anilist.co/anime/102502",
+    "title": {
+      "english": "",
+      "romaji": "4.Eyes",
+      "native": "4・Eyes"
+    },
+    "description": "Short Animation by Tanaami Keiichi",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/102502-HNiQH5yp6mSm.jpg",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 9,
+    "status": "FINISHED",
+    "score": 28,
+    "genres": [],
+    "updated_at": 1784372517
+  },
+  {
     "id": 102439,
     "id_mal": 29984,
     "url": "https://anilist.co/anime/102439",
@@ -15047,7 +15319,7 @@
     "status": "FINISHED",
     "score": 33,
     "genres": [],
-    "updated_at": 1783948766
+    "updated_at": 1784372514
   },
   {
     "id": 102426,
@@ -15594,7 +15866,7 @@
       "Music",
       "Slice of Life"
     ],
-    "updated_at": 1784322117
+    "updated_at": 1784372518
   },
   {
     "id": 101975,
@@ -15935,7 +16207,7 @@
       "Sci-Fi",
       "Thriller"
     ],
-    "updated_at": 1784350916
+    "updated_at": 1784372518
   },
   {
     "id": 101635,
@@ -17010,7 +17282,7 @@
       "Psychological",
       "Sci-Fi"
     ],
-    "updated_at": 1784253685
+    "updated_at": 1784372518
   },
   {
     "id": 100561,
@@ -17354,7 +17626,7 @@
       "Music",
       "Slice of Life"
     ],
-    "updated_at": 1784361747
+    "updated_at": 1784372518
   },
   {
     "id": 100130,
@@ -17700,7 +17972,7 @@
       "Fantasy",
       "Psychological"
     ],
-    "updated_at": 1784333055
+    "updated_at": 1784372518
   },
   {
     "id": 99425,
@@ -18248,7 +18520,7 @@
       "Mystery",
       "Supernatural"
     ],
-    "updated_at": 1784358109
+    "updated_at": 1784372518
   },
   {
     "id": 98332,
@@ -18479,7 +18751,7 @@
       "Horror",
       "Supernatural"
     ],
-    "updated_at": 1784361747
+    "updated_at": 1784372518
   },
   {
     "id": 97917,
@@ -19032,6 +19304,37 @@
       "Supernatural"
     ],
     "updated_at": 1784302257
+  },
+  {
+    "id": 21793,
+    "id_mal": 33219,
+    "url": "https://anilist.co/anime/21793",
+    "title": {
+      "english": "",
+      "romaji": "Kagerou Daze: in a days",
+      "native": "カゲロウデイズ-in a days-"
+    },
+    "description": "UltraCeep Inc. and Aniplex will launch a collaborative project to produce a theatrical anime titled MX4D Kagerou Daze -in a days-, based on JIN's Kagerou Daze light novel series. The production claims the anime is the first \"short movie\" in Japan to be produced exclusively with MX4D presentation in mind.\n<br><br>\n(Source: Anime News Network, edited)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21793-acc5gP6Mogau.jpg",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/21793-RsOdy4nq9pxa.jpg",
+    "schedule": "Musim: FALL 2016",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "FALL",
+    "year": 2016,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 23,
+    "status": "FINISHED",
+    "score": 58,
+    "genres": [
+      "Comedy",
+      "Romance",
+      "Sci-Fi",
+      "Slice of Life",
+      "Supernatural"
+    ],
+    "updated_at": 1784372518
   },
   {
     "id": 21788,
@@ -19629,7 +19932,7 @@
       "Mystery",
       "Supernatural"
     ],
-    "updated_at": 1784333023
+    "updated_at": 1784372518
   },
   {
     "id": 21403,
@@ -19926,7 +20229,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784297606
+    "updated_at": 1784372518
   },
   {
     "id": 21265,
@@ -21631,7 +21934,7 @@
       "Mystery",
       "Psychological"
     ],
-    "updated_at": 1784341006
+    "updated_at": 1784372518
   },
   {
     "id": 20546,
@@ -23039,7 +23342,7 @@
       "Sci-Fi",
       "Thriller"
     ],
-    "updated_at": 1784368905
+    "updated_at": 1784372518
   },
   {
     "id": 17121,
@@ -23354,7 +23657,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784361747
+    "updated_at": 1784372518
   },
   {
     "id": 16662,
@@ -23922,7 +24225,7 @@
       "Mecha",
       "Sci-Fi"
     ],
-    "updated_at": 1784350916
+    "updated_at": 1784372518
   },
   {
     "id": 15177,
@@ -24529,7 +24832,7 @@
       "Action",
       "Adventure"
     ],
-    "updated_at": 1784358109
+    "updated_at": 1784372518
   },
   {
     "id": 13391,
@@ -24616,7 +24919,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784332953
+    "updated_at": 1784372515
   },
   {
     "id": 13173,
@@ -25273,7 +25576,7 @@
       "Horror",
       "Supernatural"
     ],
-    "updated_at": 1784361747
+    "updated_at": 1784372518
   },
   {
     "id": 12113,
@@ -25364,7 +25667,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784325887
+    "updated_at": 1784372518
   },
   {
     "id": 12035,
@@ -25691,7 +25994,7 @@
       "Sci-Fi",
       "Thriller"
     ],
-    "updated_at": 1784332942
+    "updated_at": 1784372518
   },
   {
     "id": 11375,
@@ -26705,7 +27008,7 @@
       "Psychological",
       "Supernatural"
     ],
-    "updated_at": 1784332922
+    "updated_at": 1784372518
   },
   {
     "id": 9254,
@@ -26906,7 +27209,7 @@
       "Mecha",
       "Sci-Fi"
     ],
-    "updated_at": 1783948378
+    "updated_at": 1784372518
   },
   {
     "id": 8848,
@@ -27703,7 +28006,7 @@
       "Action",
       "Comedy"
     ],
-    "updated_at": 1784361747
+    "updated_at": 1784372518
   },
   {
     "id": 8245,
@@ -28505,7 +28808,7 @@
       "Drama",
       "Fantasy"
     ],
-    "updated_at": 1784340947
+    "updated_at": 1784372518
   },
   {
     "id": 7698,
@@ -30241,7 +30544,7 @@
       "Fantasy",
       "Supernatural"
     ],
-    "updated_at": 1784318461
+    "updated_at": 1784372518
   },
   {
     "id": 6872,
@@ -32801,7 +33104,7 @@
       "Music",
       "Mystery"
     ],
-    "updated_at": 1784313148
+    "updated_at": 1784372518
   },
   {
     "id": 4437,
@@ -33807,7 +34110,7 @@
       "Adventure",
       "Horror"
     ],
-    "updated_at": 1784350916
+    "updated_at": 1784372518
   },
   {
     "id": 3602,
@@ -35951,7 +36254,7 @@
       "Action",
       "Adventure"
     ],
-    "updated_at": 1784329393
+    "updated_at": 1784372518
   },
   {
     "id": 2123,
@@ -36652,7 +36955,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784361747
+    "updated_at": 1784372518
   },
   {
     "id": 1825,
@@ -38434,7 +38737,7 @@
       "Drama",
       "Fantasy"
     ],
-    "updated_at": 1784322117
+    "updated_at": 1784372518
   },
   {
     "id": 1118,
@@ -38940,7 +39243,7 @@
       "Drama",
       "Fantasy"
     ],
-    "updated_at": 1784315736
+    "updated_at": 1784372518
   },
   {
     "id": 1029,
@@ -40437,7 +40740,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784316136
+    "updated_at": 1784372518
   },
   {
     "id": 578,
@@ -40495,7 +40798,7 @@
       "Fantasy",
       "Sci-Fi"
     ],
-    "updated_at": 1784340983
+    "updated_at": 1784372518
   },
   {
     "id": 570,
@@ -41577,7 +41880,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784340989
+    "updated_at": 1784372515
   },
   {
     "id": 430,
@@ -42081,7 +42384,7 @@
       "Romance",
       "Sports"
     ],
-    "updated_at": 1784361747
+    "updated_at": 1784372518
   },
   {
     "id": 164,
