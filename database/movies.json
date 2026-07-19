@@ -160,7 +160,7 @@
       "Comedy",
       "Sci-Fi"
     ],
-    "updated_at": 1784440942
+    "updated_at": 1784448140
   },
   {
     "id": 214018,
@@ -655,7 +655,7 @@
       "Action",
       "Adventure"
     ],
-    "updated_at": 1784406269
+    "updated_at": 1784448140
   },
   {
     "id": 208055,
@@ -851,7 +851,7 @@
       "Slice of Life",
       "Supernatural"
     ],
-    "updated_at": 1784372518
+    "updated_at": 1784448140
   },
   {
     "id": 206610,
@@ -881,7 +881,7 @@
       "Slice of Life",
       "Supernatural"
     ],
-    "updated_at": 1784372518
+    "updated_at": 1784448140
   },
   {
     "id": 206609,
@@ -911,7 +911,7 @@
       "Slice of Life",
       "Supernatural"
     ],
-    "updated_at": 1784372518
+    "updated_at": 1784448140
   },
   {
     "id": 206500,
@@ -1604,6 +1604,37 @@
       "Sci-Fi"
     ],
     "updated_at": 1784440942
+  },
+  {
+    "id": 195230,
+    "id_mal": 61926,
+    "url": "https://anilist.co/anime/195230",
+    "title": {
+      "english": "",
+      "romaji": "Summer Pockets: Kushima Kamome-hen",
+      "native": "Summer Pockets 久島鴎編"
+    },
+    "description": "Theatrical edited version of <i>Summer Pockets</i> following Kamome Kushima's storyline from the anime series.<br><br>\n\nKamome, who once visited Torishiro Island as a child reveals that her purpose in coming to the island is to \"search for treasure\", and thus sets off on an adventure with Hairi.<br><br>\n\nWhat is the treasure hidden on the island? And what is the past that connects the two of them?<br><br>\n\n(Source: TOHO Cinemas, translated)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx195230-ix15Cpt9ns5d.jpg",
+    "banner_url": "",
+    "schedule": "Musim: SUMMER 2025",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "SUMMER",
+    "year": 2025,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 86,
+    "status": "FINISHED",
+    "score": 65,
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Romance",
+      "Slice of Life",
+      "Supernatural"
+    ],
+    "updated_at": 1784448140
   },
   {
     "id": 195201,
@@ -2742,7 +2773,7 @@
       "Action",
       "Sports"
     ],
-    "updated_at": 1784412197
+    "updated_at": 1784448140
   },
   {
     "id": 179998,
@@ -2798,7 +2829,7 @@
       "Drama",
       "Music"
     ],
-    "updated_at": 1784358109
+    "updated_at": 1784448140
   },
   {
     "id": 179874,
@@ -3254,6 +3285,31 @@
     "updated_at": 1784386898
   },
   {
+    "id": 176922,
+    "id_mal": 63835,
+    "url": "https://anilist.co/anime/176922",
+    "title": {
+      "english": "JUBITO",
+      "romaji": "JUBITO",
+      "native": "JUBITO"
+    },
+    "description": "Saeko Suzuki's 3rd year student work at Tama Art University.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176922-vpfpWw3jYqaL.png",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/176922-Q4eFucaSeZ5P.jpg",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 2,
+    "status": "FINISHED",
+    "score": null,
+    "genres": [],
+    "updated_at": 1784448140
+  },
+  {
     "id": 176910,
     "id_mal": 58756,
     "url": "https://anilist.co/anime/176910",
@@ -3279,7 +3335,7 @@
       "Action",
       "Fantasy"
     ],
-    "updated_at": 1784397736
+    "updated_at": 1784448140
   },
   {
     "id": 176470,
@@ -3482,7 +3538,7 @@
       "Music",
       "Romance"
     ],
-    "updated_at": 1784406300
+    "updated_at": 1784448140
   },
   {
     "id": 175138,
@@ -3912,7 +3968,7 @@
       "Fantasy",
       "Music"
     ],
-    "updated_at": 1784340998
+    "updated_at": 1784448140
   },
   {
     "id": 169754,
@@ -4250,7 +4306,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784408567
+    "updated_at": 1784448140
   },
   {
     "id": 166457,
@@ -5213,7 +5269,7 @@
     "genres": [
       "Music"
     ],
-    "updated_at": 1784427208
+    "updated_at": 1784448137
   },
   {
     "id": 157330,
@@ -5295,7 +5351,7 @@
       "Drama",
       "Mystery"
     ],
-    "updated_at": 1784408555
+    "updated_at": 1784448140
   },
   {
     "id": 156727,
@@ -6211,6 +6267,35 @@
     "updated_at": 1784379737
   },
   {
+    "id": 145739,
+    "id_mal": 51116,
+    "url": "https://anilist.co/anime/145739",
+    "title": {
+      "english": "Lonely Castle in the Mirror",
+      "romaji": "Kagami no Kojou",
+      "native": "かがみの孤城"
+    },
+    "description": "Kokoro is a junior high school student who doesn’t fit in at school and has secluded herself in her room. One day, the mirror in her room begins to suddenly shine and she is sucked inside. There, she finds a fairy tale castle and six unknown junior high students. Then a girl wearing a wolf mask appears and tells the seven of them that they have been chosen to have any one wish they want granted. Why were they chosen? What do the seven of them have in common? What is the wish that they each hold but can’t tell anyone about? When all is revealed, a miracle beyond their wildest dreams awaits.\n<br><br>\n(Source: Tokyo Otaku Mode)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx145739-M28GhqugtiJE.jpg",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/145739-baYEH97uMcqM.jpg",
+    "schedule": "Musim: FALL 2022",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "FALL",
+    "year": 2022,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 116,
+    "status": "FINISHED",
+    "score": 74,
+    "genres": [
+      "Drama",
+      "Fantasy",
+      "Mystery"
+    ],
+    "updated_at": 1784448140
+  },
+  {
     "id": 145442,
     "id_mal": 57677,
     "url": "https://anilist.co/anime/145442",
@@ -6606,7 +6691,7 @@
       "Fantasy",
       "Music"
     ],
-    "updated_at": 1784408553
+    "updated_at": 1784448135
   },
   {
     "id": 141056,
@@ -6723,7 +6808,7 @@
       "Music",
       "Supernatural"
     ],
-    "updated_at": 1784390608
+    "updated_at": 1784448140
   },
   {
     "id": 140113,
@@ -6813,7 +6898,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784383565
+    "updated_at": 1784448140
   },
   {
     "id": 139311,
@@ -7213,7 +7298,7 @@
       "Romance",
       "Supernatural"
     ],
-    "updated_at": 1783948277
+    "updated_at": 1784448140
   },
   {
     "id": 136064,
@@ -8131,7 +8216,7 @@
       "Mystery",
       "Sci-Fi"
     ],
-    "updated_at": 1784440942
+    "updated_at": 1784448137
   },
   {
     "id": 127227,
@@ -8496,7 +8581,7 @@
       "Slice of Life",
       "Sports"
     ],
-    "updated_at": 1784300508
+    "updated_at": 1784448140
   },
   {
     "id": 124140,
@@ -8584,7 +8669,7 @@
       "Action",
       "Sports"
     ],
-    "updated_at": 1784406296
+    "updated_at": 1784448130
   },
   {
     "id": 123899,
@@ -10258,7 +10343,7 @@
       "Fantasy",
       "Supernatural"
     ],
-    "updated_at": 1784415855
+    "updated_at": 1784448140
   },
   {
     "id": 116740,
@@ -10571,7 +10656,7 @@
       "Horror",
       "Mystery"
     ],
-    "updated_at": 1784376216
+    "updated_at": 1784448140
   },
   {
     "id": 114564,
@@ -11336,7 +11421,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784386898
+    "updated_at": 1784448140
   },
   {
     "id": 111954,
@@ -11555,7 +11640,7 @@
       "Music",
       "Romance"
     ],
-    "updated_at": 1784325887
+    "updated_at": 1784448139
   },
   {
     "id": 111312,
@@ -12832,7 +12917,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784297606
+    "updated_at": 1784448140
   },
   {
     "id": 108577,
@@ -13350,7 +13435,7 @@
       "Adventure",
       "Comedy"
     ],
-    "updated_at": 1784340993
+    "updated_at": 1784448140
   },
   {
     "id": 107302,
@@ -13434,7 +13519,7 @@
       "Action",
       "Sports"
     ],
-    "updated_at": 1784406291
+    "updated_at": 1784448130
   },
   {
     "id": 107203,
@@ -19830,7 +19915,7 @@
       "Psychological",
       "Sci-Fi"
     ],
-    "updated_at": 1784350916
+    "updated_at": 1784448140
   },
   {
     "id": 100291,
@@ -20032,7 +20117,7 @@
       "Music",
       "Slice of Life"
     ],
-    "updated_at": 1784408540
+    "updated_at": 1784448140
   },
   {
     "id": 100130,
@@ -20145,7 +20230,7 @@
       "Action",
       "Sports"
     ],
-    "updated_at": 1784412201
+    "updated_at": 1784448130
   },
   {
     "id": 99900,
@@ -20323,6 +20408,35 @@
       "Sci-Fi"
     ],
     "updated_at": 1784412201
+  },
+  {
+    "id": 99540,
+    "id_mal": 35946,
+    "url": "https://anilist.co/anime/99540",
+    "title": {
+      "english": "The Seven Deadly Sins the Movie: Prisoners of the Sky",
+      "romaji": "Nanatsu no Taizai Movie: Tenkuu no Torawarebito",
+      "native": "劇場版 七つの大罪 天空の囚われ人"
+    },
+    "description": "The Seven Deadly Sins travel to a remote land in search of the phantom ingredient \"sky fish.\" Meliodas and Hawk end up at a \"Sky Palace\" that exists above the clouds, where all the residents have wings. Meliodas is mistaken for a boy who committed a crime and is thrown in prison. Meanwhile, the residents are preparing a ceremony for defense against a ferocious beast that awakens once every 3,000 years. But the Six Knights of Black, a Demon Clan army, arrives and removes the seal on the beast in order to threaten the lives of the residents of Sky Palace. Meliodas and his allies meet the Six Knights of Black in battle.<br>\n<br>\n(Source: Anime News Network)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx99540-QnY48c1oifvY.jpg",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/99540-O4ey5WgXrMR8.jpg",
+    "schedule": "Musim: SUMMER 2018",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "SUMMER",
+    "year": 2018,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 99,
+    "status": "FINISHED",
+    "score": 69,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "updated_at": 1784448140
   },
   {
     "id": 99470,
@@ -20648,7 +20762,7 @@
       "Drama",
       "Sports"
     ],
-    "updated_at": 1784427192
+    "updated_at": 1784448128
   },
   {
     "id": 98884,
@@ -20677,7 +20791,7 @@
       "Drama",
       "Sports"
     ],
-    "updated_at": 1784427255
+    "updated_at": 1784448130
   },
   {
     "id": 98876,
@@ -21463,7 +21577,7 @@
       "Music",
       "Supernatural"
     ],
-    "updated_at": 1784427260
+    "updated_at": 1784448140
   },
   {
     "id": 98240,
@@ -22861,7 +22975,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784394193
+    "updated_at": 1784448136
   },
   {
     "id": 21646,
@@ -23371,7 +23485,7 @@
       "Psychological",
       "Supernatural"
     ],
-    "updated_at": 1784333021
+    "updated_at": 1784448133
   },
   {
     "id": 21377,
@@ -23430,7 +23544,7 @@
       "Drama",
       "Fantasy"
     ],
-    "updated_at": 1784427260
+    "updated_at": 1784448140
   },
   {
     "id": 21314,
@@ -23690,7 +23804,7 @@
       "Drama",
       "Sports"
     ],
-    "updated_at": 1784408547
+    "updated_at": 1784448134
   },
   {
     "id": 21220,
@@ -23895,7 +24009,7 @@
       "Sci-Fi",
       "Supernatural"
     ],
-    "updated_at": 1784427238
+    "updated_at": 1784448130
   },
   {
     "id": 21137,
@@ -24008,7 +24122,7 @@
       "Drama",
       "Sports"
     ],
-    "updated_at": 1784406284
+    "updated_at": 1784448135
   },
   {
     "id": 21114,
@@ -24299,7 +24413,7 @@
       "Slice of Life",
       "Supernatural"
     ],
-    "updated_at": 1784440942
+    "updated_at": 1784448140
   },
   {
     "id": 20990,
@@ -24974,7 +25088,7 @@
       "Slice of Life",
       "Supernatural"
     ],
-    "updated_at": 1784397736
+    "updated_at": 1784448140
   },
   {
     "id": 20766,
@@ -25002,7 +25116,7 @@
       "Music",
       "Slice of Life"
     ],
-    "updated_at": 1784427252
+    "updated_at": 1784448129
   },
   {
     "id": 20764,
@@ -25122,7 +25236,7 @@
       "Romance",
       "Sci-Fi"
     ],
-    "updated_at": 1784412201
+    "updated_at": 1784448140
   },
   {
     "id": 20737,
@@ -25446,7 +25560,7 @@
       "Mystery",
       "Psychological"
     ],
-    "updated_at": 1784427194
+    "updated_at": 1784448140
   },
   {
     "id": 20546,
@@ -27619,7 +27733,7 @@
       "Drama",
       "Romance"
     ],
-    "updated_at": 1784397743
+    "updated_at": 1784448140
   },
   {
     "id": 16399,
@@ -28395,7 +28509,7 @@
       "Sci-Fi",
       "Supernatural"
     ],
-    "updated_at": 1784398110
+    "updated_at": 1784448140
   },
   {
     "id": 14381,
@@ -28480,7 +28594,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784415855
+    "updated_at": 1784448133
   },
   {
     "id": 14293,
@@ -28736,7 +28850,7 @@
       "Action",
       "Adventure"
     ],
-    "updated_at": 1784408542
+    "updated_at": 1784448140
   },
   {
     "id": 13513,
@@ -29158,7 +29272,7 @@
       "Comedy",
       "Drama"
     ],
-    "updated_at": 1784398832
+    "updated_at": 1784448140
   },
   {
     "id": 12857,
@@ -30668,7 +30782,7 @@
       "Romance",
       "Supernatural"
     ],
-    "updated_at": 1784332933
+    "updated_at": 1784448132
   },
   {
     "id": 10389,
@@ -30787,7 +30901,7 @@
       "Horror",
       "Supernatural"
     ],
-    "updated_at": 1784386898
+    "updated_at": 1784448140
   },
   {
     "id": 10153,
@@ -32612,7 +32726,7 @@
       "Action",
       "Comedy"
     ],
-    "updated_at": 1784412187
+    "updated_at": 1784448140
   },
   {
     "id": 8245,
@@ -37426,7 +37540,7 @@
     "genres": [
       "Action"
     ],
-    "updated_at": 1784440942
+    "updated_at": 1784448140
   },
   {
     "id": 4926,
@@ -37792,7 +37906,7 @@
       "Romance",
       "Sci-Fi"
     ],
-    "updated_at": 1784332890
+    "updated_at": 1784448129
   },
   {
     "id": 4513,
@@ -38476,7 +38590,7 @@
       "Romance",
       "Sci-Fi"
     ],
-    "updated_at": 1784440942
+    "updated_at": 1784448129
   },
   {
     "id": 4106,
@@ -38698,7 +38812,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784397736
+    "updated_at": 1784448135
   },
   {
     "id": 3898,
@@ -39162,7 +39276,7 @@
       "Adventure",
       "Horror"
     ],
-    "updated_at": 1784394193
+    "updated_at": 1784448140
   },
   {
     "id": 3602,
@@ -39499,7 +39613,7 @@
       "Drama",
       "Romance"
     ],
-    "updated_at": 1784379737
+    "updated_at": 1784448140
   },
   {
     "id": 3089,
@@ -39875,7 +39989,7 @@
       "Fantasy",
       "Sci-Fi"
     ],
-    "updated_at": 1784412201
+    "updated_at": 1784448133
   },
   {
     "id": 2952,
@@ -44031,7 +44145,7 @@
       "Psychological",
       "Sci-Fi"
     ],
-    "updated_at": 1784412198
+    "updated_at": 1784448140
   },
   {
     "id": 1451,
@@ -44354,7 +44468,7 @@
       "Fantasy",
       "Slice of Life"
     ],
-    "updated_at": 1784403766
+    "updated_at": 1784448140
   },
   {
     "id": 1378,
@@ -44577,7 +44691,7 @@
     "genres": [
       "Action"
     ],
-    "updated_at": 1784403773
+    "updated_at": 1784448133
   },
   {
     "id": 1361,
@@ -46019,7 +46133,7 @@
       "Drama",
       "Fantasy"
     ],
-    "updated_at": 1784440942
+    "updated_at": 1784448133
   },
   {
     "id": 1029,
@@ -46048,7 +46162,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784440942
+    "updated_at": 1784448140
   },
   {
     "id": 1028,
@@ -46169,7 +46283,7 @@
       "Mahou Shoujo",
       "Romance"
     ],
-    "updated_at": 1784403914
+    "updated_at": 1784448134
   },
   {
     "id": 974,
@@ -47307,7 +47421,7 @@
       "Comedy",
       "Drama"
     ],
-    "updated_at": 1784419268
+    "updated_at": 1784448130
   },
   {
     "id": 732,
@@ -47663,7 +47777,7 @@
       "Drama",
       "Sci-Fi"
     ],
-    "updated_at": 1784379737
+    "updated_at": 1784448140
   },
   {
     "id": 548,
@@ -48563,7 +48677,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784297606
+    "updated_at": 1784448140
   },
   {
     "id": 442,
@@ -48594,7 +48708,7 @@
       "Drama",
       "Supernatural"
     ],
-    "updated_at": 1784412201
+    "updated_at": 1784448140
   },
   {
     "id": 441,
@@ -48625,7 +48739,7 @@
       "Psychological",
       "Romance"
     ],
-    "updated_at": 1784419262
+    "updated_at": 1784448140
   },
   {
     "id": 437,
@@ -48950,7 +49064,7 @@
       "Mahou Shoujo",
       "Romance"
     ],
-    "updated_at": 1784440942
+    "updated_at": 1784448140
   },
   {
     "id": 371,
@@ -49457,7 +49571,7 @@
       "Action",
       "Drama"
     ],
-    "updated_at": 1784427253
+    "updated_at": 1784448140
   },
   {
     "id": 43,

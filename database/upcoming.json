@@ -440,7 +440,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784412201
+    "updated_at": 1784448140
   },
   {
     "id": 213867,
@@ -697,7 +697,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784361747
+    "updated_at": 1784448140
   },
   {
     "id": 213782,
@@ -2013,7 +2013,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784415855
+    "updated_at": 1784448140
   },
   {
     "id": 212391,
@@ -2502,7 +2502,7 @@
     "genres": [
       "Adventure"
     ],
-    "updated_at": 1784390608
+    "updated_at": 1784448140
   },
   {
     "id": 211217,
@@ -2677,7 +2677,7 @@
       "Romance",
       "Thriller"
     ],
-    "updated_at": 1784415855
+    "updated_at": 1784448140
   },
   {
     "id": 210157,
@@ -2795,7 +2795,7 @@
       "Drama",
       "Fantasy"
     ],
-    "updated_at": 1784427237
+    "updated_at": 1784448129
   },
   {
     "id": 209939,
@@ -3052,7 +3052,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784390608
+    "updated_at": 1784448137
   },
   {
     "id": 209247,
@@ -3576,7 +3576,7 @@
       "Supernatural",
       "Thriller"
     ],
-    "updated_at": 1784415855
+    "updated_at": 1784448140
   },
   {
     "id": 206814,
@@ -3916,7 +3916,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784406293
+    "updated_at": 1784448140
   },
   {
     "id": 205430,
@@ -4179,7 +4179,7 @@
       "Mystery",
       "Supernatural"
     ],
-    "updated_at": 1784440942
+    "updated_at": 1784448140
   },
   {
     "id": 204604,
@@ -4327,7 +4327,7 @@
       "Drama",
       "Fantasy"
     ],
-    "updated_at": 1784427217
+    "updated_at": 1784448140
   },
   {
     "id": 204431,
@@ -4469,7 +4469,7 @@
       "Action",
       "Sci-Fi"
     ],
-    "updated_at": 1784390608
+    "updated_at": 1784448140
   },
   {
     "id": 204293,
@@ -4697,7 +4697,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784368905
+    "updated_at": 1784448140
   },
   {
     "id": 203129,
@@ -5706,7 +5706,7 @@
       "Mystery",
       "Supernatural"
     ],
-    "updated_at": 1784412201
+    "updated_at": 1784448140
   },
   {
     "id": 199006,
@@ -6137,7 +6137,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784297606
+    "updated_at": 1784448140
   },
   {
     "id": 195787,
@@ -7097,7 +7097,7 @@
       "Comedy",
       "Romance"
     ],
-    "updated_at": 1784406274
+    "updated_at": 1784448139
   },
   {
     "id": 188889,
@@ -7211,7 +7211,7 @@
       "Ecchi",
       "Fantasy"
     ],
-    "updated_at": 1784427260
+    "updated_at": 1784448140
   },
   {
     "id": 187479,
@@ -7295,7 +7295,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784408567
+    "updated_at": 1784448140
   },
   {
     "id": 187361,
@@ -7408,7 +7408,7 @@
       "Music",
       "Romance"
     ],
-    "updated_at": 1784246818
+    "updated_at": 1784448140
   },
   {
     "id": 186743,
@@ -7521,7 +7521,39 @@
       "Music",
       "Slice of Life"
     ],
-    "updated_at": 1784408567
+    "updated_at": 1784448140
+  },
+  {
+    "id": 186541,
+    "id_mal": 60948,
+    "url": "https://anilist.co/anime/186541",
+    "title": {
+      "english": "Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship!",
+      "romaji": "Mezametara Saikyou Soubi to Uchuusen-mochi datta node, Ikkodate Mezashite Youhei to shite Jiyuu ni Ikitai",
+      "native": "目覚めたら最強装備と宇宙船持ちだったので、一戸建て目指して傭兵として自由に生きたい"
+    },
+    "description": "Sato Takahiro was an ordinary office worker and hobbyist gamer until the day he woke up on a spaceship–one that strangely resembled a craft from a favorite space-shooter game. With a decked-out ship, a crew full of babes, and a fantastic universe to explore, he's going to make the most of his good luck and create the life he's always dreamed of!<br><br>\n\n(Source: Seven Seas Entertainment)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186541-IEzaavXvkJAc.png",
+    "banner_url": "",
+    "schedule": "Musim: FALL 2026",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "FALL",
+    "year": 2026,
+    "format": "TV",
+    "episodes": null,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Drama",
+      "Mecha",
+      "Romance",
+      "Sci-Fi"
+    ],
+    "updated_at": 1784448135
   },
   {
     "id": 186057,
@@ -7949,7 +7981,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784376216
+    "updated_at": 1784448140
   },
   {
     "id": 183692,
@@ -8068,7 +8100,7 @@
       "Mahou Shoujo",
       "Slice of Life"
     ],
-    "updated_at": 1784412201
+    "updated_at": 1784448140
   },
   {
     "id": 181951,
@@ -8327,7 +8359,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784406293
+    "updated_at": 1784448140
   },
   {
     "id": 178083,
@@ -8415,7 +8447,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1783945811
+    "updated_at": 1784448140
   },
   {
     "id": 177463,
@@ -8468,7 +8500,7 @@
       "Action",
       "Fantasy"
     ],
-    "updated_at": 1784397736
+    "updated_at": 1784448140
   },
   {
     "id": 176373,
@@ -8784,7 +8816,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784350916
+    "updated_at": 1784448140
   },
   {
     "id": 169579,
@@ -9184,7 +9216,7 @@
     "status": "NOT_YET_RELEASED",
     "score": null,
     "genres": [],
-    "updated_at": 1784372518
+    "updated_at": 1784448138
   },
   {
     "id": 160803,
@@ -9214,7 +9246,7 @@
       "Mahou Shoujo",
       "Thriller"
     ],
-    "updated_at": 1784412201
+    "updated_at": 1784448140
   },
   {
     "id": 160275,
@@ -9275,7 +9307,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784427229
+    "updated_at": 1784448133
   },
   {
     "id": 158987,
@@ -9448,7 +9480,7 @@
       "Drama",
       "Sports"
     ],
-    "updated_at": 1784415841
+    "updated_at": 1784448140
   },
   {
     "id": 153461,
@@ -10002,7 +10034,7 @@
       "Slice of Life",
       "Supernatural"
     ],
-    "updated_at": 1784412201
+    "updated_at": 1784448140
   },
   {
     "id": 112295,
