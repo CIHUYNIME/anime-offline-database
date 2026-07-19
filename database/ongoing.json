@@ -1043,9 +1043,9 @@
     "description": "The protagonist is in the middle of preparing for a presentation at a college seminar.\n<br><br>\nRyousuke Kamiya, a college student, was browsing porn videos while taking a break when he stumbles upon a video featuring Yuuka Someya, a girl attending the same seminar! When he asks her about the video at a drinking party after the presentation, he finds himself being offered sex in exchange for not telling anybody about it...?!\n<br><br>\n(Source: DLsite, translated)\n<br><br>\n<i>Note: Episode 1 receives an advance distribution on AnimeFesta on June 12th, 2026. The start date reflects the start of the regular series broadcasting.</i>",
     "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx208685-tI4qWvbliBRE.jpg",
     "banner_url": "",
-    "schedule": "Episode 3 tayang pada 19/7/2026, 23.00.00 WIB",
-    "next_episode": 3,
-    "next_airing_timestamp": 1784476800,
+    "schedule": "Episode 4 tayang pada 2/8/2026, 23.00.00 WIB",
+    "next_episode": 4,
+    "next_airing_timestamp": 1785686400,
     "season": "SUMMER",
     "year": 2026,
     "format": "ONA",
@@ -2367,7 +2367,7 @@
       "Comedy",
       "Romance"
     ],
-    "updated_at": 1784469638
+    "updated_at": 1784473321
   },
   {
     "id": 201153,
@@ -4939,7 +4939,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784469633
+    "updated_at": 1784473342
   },
   {
     "id": 185506,
@@ -6390,9 +6390,9 @@
     "description": "The second season of <i>Azur Lane: Bisoku Zenshin!</i>",
     "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169080-el4sMLlqMxeI.png",
     "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/169080-HcBclO97a4SE.jpg",
-    "schedule": "Episode 3 tayang pada 19/7/2026, 23.00.00 WIB",
-    "next_episode": 3,
-    "next_airing_timestamp": 1784476800,
+    "schedule": "Episode 4 tayang pada 26/7/2026, 23.00.00 WIB",
+    "next_episode": 4,
+    "next_airing_timestamp": 1785081600,
     "season": "SUMMER",
     "year": 2026,
     "format": "TV_SHORT",
@@ -8405,7 +8405,34 @@
     "genres": [
       "Hentai"
     ],
-    "updated_at": 1784464415
+    "updated_at": 1784477830
+  },
+  {
+    "id": 21552,
+    "id_mal": 32353,
+    "url": "https://anilist.co/anime/21552",
+    "title": {
+      "english": "Bono Bono (2016)",
+      "romaji": "BONOBONO (2016)",
+      "native": "ぼのぼの (2016)"
+    },
+    "description": "A new adaptation of the adventures of three forest friends - a raccoon, a squirrel and a sea otter.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b21552-MKlX4WRvlfjp.png",
+    "banner_url": "",
+    "schedule": "Musim: SPRING 2016",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "SPRING",
+    "year": 2016,
+    "format": "TV_SHORT",
+    "episodes": null,
+    "duration": 8,
+    "status": "RELEASING",
+    "score": 57,
+    "genres": [
+      "Comedy"
+    ],
+    "updated_at": 1784478504
   },
   {
     "id": 18941,
