@@ -1,5 +1,34 @@
 [
   {
+    "id": 214215,
+    "id_mal": 64640,
+    "url": "https://anilist.co/anime/214215",
+    "title": {
+      "english": "",
+      "romaji": "Real mo Tama ni wa Uso wo Tsuku",
+      "native": "現実もたまには嘘をつく"
+    },
+    "description": "Kaoru Terasaki is a gamer who’s into MMORPGs, and he’s finally meeting up with someone he’s been friends with in-game for a long while—this time, offline and in person. He’s worried that his friend will be disappointed to see Kaoru is a guy, unlike his female character in the game. But he’s the one who’s in for a surprise when, instead of another guy, his friend turns out to be a cute girl, Nanami Ousaka. On top of that, Nanami told her parents that she would be bringing a friend over—a female friend. Even worse, Nanami’s dad is the super overprotective type who won’t allow any guys near his daughter. There’s only one solution to this dilemma: Kaoru has to cross-dress as a girl! Will Kaoru’s efforts pay off in the end?! Will Kaoru and Nanami remain just friends, or will their time together IRL change everything? Follow their romantic-comedy adventures to find out!<br><br>\n(Source: J-Novel Club)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx214215-1CCqgO8bk0ne.jpg",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "TV",
+    "episodes": null,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Comedy",
+      "Romance",
+      "Slice of Life"
+    ],
+    "updated_at": 1784492918
+  },
+  {
     "id": 214129,
     "id_mal": null,
     "url": "https://anilist.co/anime/214129",
@@ -221,7 +250,7 @@
       "Drama",
       "Romance"
     ],
-    "updated_at": 1784372518
+    "updated_at": 1784492934
   },
   {
     "id": 213929,
@@ -551,7 +580,7 @@
     "status": "NOT_YET_RELEASED",
     "score": null,
     "genres": [],
-    "updated_at": 1784318425
+    "updated_at": 1784492953
   },
   {
     "id": 213845,
@@ -697,7 +726,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784480696
+    "updated_at": 1784492920
   },
   {
     "id": 213782,
@@ -756,7 +785,7 @@
       "Drama",
       "Romance"
     ],
-    "updated_at": 1784427244
+    "updated_at": 1784492947
   },
   {
     "id": 213740,
@@ -951,7 +980,7 @@
       "Comedy",
       "Romance"
     ],
-    "updated_at": 1784458910
+    "updated_at": 1784492942
   },
   {
     "id": 213656,
@@ -981,7 +1010,7 @@
       "Drama",
       "Fantasy"
     ],
-    "updated_at": 1784427260
+    "updated_at": 1784492910
   },
   {
     "id": 213655,
@@ -1036,7 +1065,7 @@
       "Action",
       "Comedy"
     ],
-    "updated_at": 1784372518
+    "updated_at": 1784492923
   },
   {
     "id": 213627,
@@ -1093,7 +1122,7 @@
       "Comedy",
       "Romance"
     ],
-    "updated_at": 1784469809
+    "updated_at": 1784492913
   },
   {
     "id": 213580,
@@ -1328,7 +1357,7 @@
       "Supernatural",
       "Thriller"
     ],
-    "updated_at": 1784242996
+    "updated_at": 1784492939
   },
   {
     "id": 213363,
@@ -1385,7 +1414,7 @@
     "genres": [
       "Drama"
     ],
-    "updated_at": 1784412201
+    "updated_at": 1784492948
   },
   {
     "id": 213338,
@@ -1414,7 +1443,7 @@
       "Comedy",
       "Drama"
     ],
-    "updated_at": 1784462595
+    "updated_at": 1784492938
   },
   {
     "id": 213316,
@@ -1475,7 +1504,7 @@
       "Comedy",
       "Romance"
     ],
-    "updated_at": 1784427260
+    "updated_at": 1784492939
   },
   {
     "id": 213106,
@@ -1816,7 +1845,7 @@
       "Horror",
       "Mystery"
     ],
-    "updated_at": 1784406273
+    "updated_at": 1784492951
   },
   {
     "id": 212617,
@@ -1984,7 +2013,7 @@
       "Drama",
       "Romance"
     ],
-    "updated_at": 1784394193
+    "updated_at": 1784492952
   },
   {
     "id": 212503,
@@ -2158,7 +2187,7 @@
       "Ecchi",
       "Romance"
     ],
-    "updated_at": 1784408540
+    "updated_at": 1784492915
   },
   {
     "id": 211778,
@@ -2272,7 +2301,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784246842
+    "updated_at": 1784492949
   },
   {
     "id": 211538,
@@ -2330,7 +2359,7 @@
       "Drama",
       "Fantasy"
     ],
-    "updated_at": 1784427208
+    "updated_at": 1784492918
   },
   {
     "id": 211495,
@@ -3081,7 +3110,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784427257
+    "updated_at": 1784492941
   },
   {
     "id": 209224,
@@ -3199,7 +3228,7 @@
     "genres": [
       "Mahou Shoujo"
     ],
-    "updated_at": 1784268121
+    "updated_at": 1784492950
   },
   {
     "id": 208766,
@@ -3433,7 +3462,7 @@
       "Romance",
       "Supernatural"
     ],
-    "updated_at": 1783945830
+    "updated_at": 1784492943
   },
   {
     "id": 207327,
@@ -4326,7 +4355,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784469809
+    "updated_at": 1784492933
   },
   {
     "id": 204436,
@@ -4355,7 +4384,7 @@
       "Drama",
       "Fantasy"
     ],
-    "updated_at": 1784448140
+    "updated_at": 1784492918
   },
   {
     "id": 204431,
@@ -4469,7 +4498,7 @@
       "Action",
       "Comedy"
     ],
-    "updated_at": 1784462595
+    "updated_at": 1784492957
   },
   {
     "id": 204362,
@@ -5673,7 +5702,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784484185
+    "updated_at": 1784492922
   },
   {
     "id": 199150,
@@ -6339,7 +6368,7 @@
       "Drama",
       "Mystery"
     ],
-    "updated_at": 1784427193
+    "updated_at": 1784492942
   },
   {
     "id": 195496,
@@ -6919,7 +6948,7 @@
       "Comedy",
       "Slice of Life"
     ],
-    "updated_at": 1784455295
+    "updated_at": 1784492934
   },
   {
     "id": 190574,
@@ -7576,7 +7605,7 @@
       "Music",
       "Slice of Life"
     ],
-    "updated_at": 1784448140
+    "updated_at": 1784492945
   },
   {
     "id": 186541,
@@ -7833,7 +7862,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784397736
+    "updated_at": 1784492942
   },
   {
     "id": 185543,
@@ -8414,7 +8443,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784480696
+    "updated_at": 1784492957
   },
   {
     "id": 178083,
@@ -8502,7 +8531,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784448140
+    "updated_at": 1784492918
   },
   {
     "id": 177463,
@@ -8728,7 +8757,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784253681
+    "updated_at": 1784492930
   },
   {
     "id": 171630,
@@ -9333,7 +9362,7 @@
       "Mystery",
       "Sci-Fi"
     ],
-    "updated_at": 1784455752
+    "updated_at": 1784492918
   },
   {
     "id": 159042,
@@ -9624,7 +9653,7 @@
       "Drama",
       "Fantasy"
     ],
-    "updated_at": 1784427200
+    "updated_at": 1784492919
   },
   {
     "id": 142278,
