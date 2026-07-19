@@ -86,64 +86,6 @@
     "updated_at": 1784467690
   },
   {
-    "id": 21,
-    "id_mal": 21,
-    "url": "https://anilist.co/anime/21",
-    "title": {
-      "english": "ONE PIECE",
-      "romaji": "ONE PIECE",
-      "native": "ONE PIECE"
-    },
-    "description": "Gold Roger was known as the Pirate King, the strongest and most infamous being to have sailed the Grand Line. The capture and death of Roger by the World Government brought a change throughout the world. His last words before his death revealed the location of the greatest treasure in the world, One Piece. It was this revelation that brought about the Grand Age of Pirates, men who dreamed of finding One Piece (which promises an unlimited amount of riches and fame), and quite possibly the most coveted of titles for the person who found it, the title of the Pirate King.<br><br>\nEnter Monkey D. Luffy, a 17-year-old boy that defies your standard definition of a pirate. Rather than the popular persona of a wicked, hardened, toothless pirate who ransacks villages for fun, Luffy’s reason for being a pirate is one of pure wonder; the thought of an exciting adventure and meeting new and intriguing people, along with finding One Piece, are his reasons of becoming a pirate. Following in the footsteps of his childhood hero, Luffy and his crew travel across the Grand Line, experiencing crazy adventures, unveiling dark mysteries and battling strong enemies, all in order to reach One Piece.<br><br>\n<b>*This includes the following special episodes:</b><br>\n- Chopperman to the Rescue! Protect the TV Station by the Shore! (Episode 336)<br>\n- The Strongest Tag-Team! Luffy and Toriko's Hard Struggle! (Episode 492)<br>\n- Team Formation! Save Chopper (Episode 542)<br>\n- History's Strongest Collaboration vs. Glutton of the Sea (Episode 590)<br>\n- 20th Anniversary! Special Romance Dawn (Episode 907)",
-    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21-ELSYx3yMPcKM.jpg",
-    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/21-wf37VakJmZqs.jpg",
-    "schedule": "Episode 1170 tayang pada 19/7/2026, 21.16.00 WIB",
-    "next_episode": 1170,
-    "next_airing_timestamp": 1784470560,
-    "season": "FALL",
-    "year": 1999,
-    "format": "TV",
-    "episodes": null,
-    "duration": 24,
-    "status": "RELEASING",
-    "score": 87,
-    "genres": [
-      "Action",
-      "Adventure",
-      "Comedy",
-      "Drama",
-      "Fantasy"
-    ],
-    "updated_at": 1784466019
-  },
-  {
-    "id": 196974,
-    "id_mal": 62171,
-    "url": "https://anilist.co/anime/196974",
-    "title": {
-      "english": "The Classroom of the Black Cat and a Witch",
-      "romaji": "Kuroneko to Majo no Kyoushitsu",
-      "native": "黒猫と魔女の教室"
-    },
-    "description": "Spica Virgo is an apprentice witch, but can’t use any magic. She needs someone to be her master in order to get into the academy of her dreams, but she has no money and no connections. Suddenly, a mysterious talking black cat that can use magic appears before her!! Spica wants to learn magic, and the black cat wants his curse broken—goals on the same path. Therefore, a secret master-apprentice relationship was born! But the key to breaking the curse is kissing his…?! A clumsy witch and the teachings of a black cat—the magic academy fantasy starts here!!\n<br><br>\n(Source: K Manga)",
-    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx196974-mZk1uyrx0XNx.png",
-    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/196974-wOXpVEgXm7aR.jpg",
-    "schedule": "Episode 15 tayang pada 19/7/2026, 21.30.00 WIB",
-    "next_episode": 15,
-    "next_airing_timestamp": 1784471400,
-    "season": "SPRING",
-    "year": 2026,
-    "format": "TV",
-    "episodes": null,
-    "duration": 24,
-    "status": "RELEASING",
-    "score": 63,
-    "genres": [
-      "Fantasy"
-    ],
-    "updated_at": 1784466078
-  },
-  {
     "id": 188139,
     "id_mal": 61240,
     "url": "https://anilist.co/anime/188139",
@@ -169,7 +111,7 @@
       "Drama",
       "Romance"
     ],
-    "updated_at": 1784466031
+    "updated_at": 1784469644
   },
   {
     "id": 178789,
@@ -199,7 +141,7 @@
       "Ecchi",
       "Fantasy"
     ],
-    "updated_at": 1784466031
+    "updated_at": 1784469639
   },
   {
     "id": 177637,
@@ -227,7 +169,7 @@
       "Romance",
       "Supernatural"
     ],
-    "updated_at": 1784466046
+    "updated_at": 1784469656
   },
   {
     "id": 205116,
@@ -281,7 +223,7 @@
     "genres": [
       "Hentai"
     ],
-    "updated_at": 1784466080
+    "updated_at": 1784469778
   },
   {
     "id": 169080,
@@ -337,7 +279,7 @@
       "Horror",
       "Supernatural"
     ],
-    "updated_at": 1784458910
+    "updated_at": 1784469682
   },
   {
     "id": 137653,
@@ -367,7 +309,7 @@
       "Drama",
       "Fantasy"
     ],
-    "updated_at": 1784466038
+    "updated_at": 1784469697
   },
   {
     "id": 169582,
@@ -398,7 +340,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784466050
+    "updated_at": 1784469679
   },
   {
     "id": 202269,
@@ -426,7 +368,7 @@
       "Drama",
       "Romance"
     ],
-    "updated_at": 1784466019
+    "updated_at": 1784469640
   },
   {
     "id": 206521,
@@ -453,7 +395,7 @@
     "genres": [
       "Drama"
     ],
-    "updated_at": 1784466035
+    "updated_at": 1784469686
   },
   {
     "id": 185542,
@@ -483,7 +425,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784466017
+    "updated_at": 1784469633
   },
   {
     "id": 199408,
@@ -511,7 +453,7 @@
       "Drama",
       "Fantasy"
     ],
-    "updated_at": 1784466032
+    "updated_at": 1784469701
   },
   {
     "id": 209504,
@@ -597,7 +539,7 @@
       "Comedy",
       "Romance"
     ],
-    "updated_at": 1784466030
+    "updated_at": 1784469640
   },
   {
     "id": 199111,
@@ -626,7 +568,7 @@
       "Slice of Life",
       "Sports"
     ],
-    "updated_at": 1784466023
+    "updated_at": 1784469654
   },
   {
     "id": 197754,
@@ -654,7 +596,7 @@
       "Drama",
       "Psychological"
     ],
-    "updated_at": 1784466049
+    "updated_at": 1784469679
   },
   {
     "id": 140842,
@@ -682,7 +624,7 @@
       "Comedy",
       "Slice of Life"
     ],
-    "updated_at": 1784466165
+    "updated_at": 1784469760
   },
   {
     "id": 155723,
@@ -768,7 +710,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784466078
+    "updated_at": 1784469690
   },
   {
     "id": 128757,
@@ -795,7 +737,7 @@
     "genres": [
       "Drama"
     ],
-    "updated_at": 1784466036
+    "updated_at": 1784469641
   },
   {
     "id": 187260,
@@ -824,7 +766,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784466044
+    "updated_at": 1784469644
   },
   {
     "id": 213665,
@@ -852,7 +794,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784464403
+    "updated_at": 1784469809
   },
   {
     "id": 196219,
@@ -881,7 +823,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784466061
+    "updated_at": 1784469686
   },
   {
     "id": 177699,
@@ -910,7 +852,7 @@
       "Psychological",
       "Sci-Fi"
     ],
-    "updated_at": 1784466026
+    "updated_at": 1784469683
   },
   {
     "id": 209800,
@@ -939,7 +881,7 @@
       "Adventure",
       "Sci-Fi"
     ],
-    "updated_at": 1784466122
+    "updated_at": 1784469809
   },
   {
     "id": 198709,
@@ -969,7 +911,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784466050
+    "updated_at": 1784469711
   },
   {
     "id": 207809,
@@ -1000,7 +942,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784466090
+    "updated_at": 1784469769
   },
   {
     "id": 193883,
@@ -1139,7 +1081,7 @@
     "genres": [
       "Romance"
     ],
-    "updated_at": 1784466122
+    "updated_at": 1784469809
   },
   {
     "id": 188529,
@@ -1195,7 +1137,7 @@
       "Drama",
       "Fantasy"
     ],
-    "updated_at": 1784466024
+    "updated_at": 1784469653
   },
   {
     "id": 135865,
@@ -1223,7 +1165,7 @@
       "Action",
       "Fantasy"
     ],
-    "updated_at": 1784466018
+    "updated_at": 1784469640
   },
   {
     "id": 213666,
@@ -1279,7 +1221,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784466050
+    "updated_at": 1784469699
   },
   {
     "id": 196356,
@@ -1337,7 +1279,7 @@
       "Mecha",
       "Romance"
     ],
-    "updated_at": 1784466037
+    "updated_at": 1784469689
   },
   {
     "id": 194829,
@@ -1367,7 +1309,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784466029
+    "updated_at": 1784469639
   },
   {
     "id": 205772,
@@ -1422,7 +1364,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784451620
+    "updated_at": 1784469776
   },
   {
     "id": 197715,
@@ -1452,7 +1394,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784464306
+    "updated_at": 1784469687
   },
   {
     "id": 207254,
@@ -1481,7 +1423,7 @@
       "Drama",
       "Sci-Fi"
     ],
-    "updated_at": 1784466146
+    "updated_at": 1784469690
   },
   {
     "id": 209669,
@@ -1511,7 +1453,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784466040
+    "updated_at": 1784469658
   },
   {
     "id": 184356,
@@ -1540,7 +1482,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784466033
+    "updated_at": 1784469698
   },
   {
     "id": 209541,
@@ -1624,7 +1566,7 @@
       "Horror",
       "Supernatural"
     ],
-    "updated_at": 1784466022
+    "updated_at": 1784469680
   },
   {
     "id": 201667,
@@ -1653,7 +1595,7 @@
       "Slice of Life",
       "Supernatural"
     ],
-    "updated_at": 1784464318
+    "updated_at": 1784469809
   },
   {
     "id": 187166,
@@ -1681,7 +1623,7 @@
       "Comedy",
       "Music"
     ],
-    "updated_at": 1784466165
+    "updated_at": 1784469692
   },
   {
     "id": 198376,
@@ -1739,7 +1681,7 @@
       "Action",
       "Supernatural"
     ],
-    "updated_at": 1784466049
+    "updated_at": 1784469718
   },
   {
     "id": 196187,
@@ -1768,7 +1710,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784466019
+    "updated_at": 1784469641
   },
   {
     "id": 208044,
@@ -1797,7 +1739,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784466026
+    "updated_at": 1784469680
   },
   {
     "id": 180136,
@@ -1825,7 +1767,7 @@
       "Action",
       "Fantasy"
     ],
-    "updated_at": 1784466023
+    "updated_at": 1784469640
   },
   {
     "id": 207141,
@@ -1853,7 +1795,7 @@
       "Comedy",
       "Slice of Life"
     ],
-    "updated_at": 1784466041
+    "updated_at": 1784469638
   },
   {
     "id": 204466,
@@ -1882,7 +1824,7 @@
       "Romance",
       "Supernatural"
     ],
-    "updated_at": 1784466042
+    "updated_at": 1784469670
   },
   {
     "id": 8336,
@@ -1938,7 +1880,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784466022
+    "updated_at": 1784469640
   },
   {
     "id": 196218,
@@ -1970,7 +1912,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784464296
+    "updated_at": 1784469669
   },
   {
     "id": 182205,
@@ -2000,7 +1942,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784466021
+    "updated_at": 1784469637
   },
   {
     "id": 188525,
@@ -2028,7 +1970,7 @@
       "Comedy",
       "Slice of Life"
     ],
-    "updated_at": 1784466036
+    "updated_at": 1784469686
   },
   {
     "id": 202508,
@@ -2057,7 +1999,7 @@
       "Mystery",
       "Slice of Life"
     ],
-    "updated_at": 1784466124
+    "updated_at": 1784469641
   },
   {
     "id": 182616,
@@ -2085,7 +2027,7 @@
       "Action",
       "Adventure"
     ],
-    "updated_at": 1784466036
+    "updated_at": 1784469639
   },
   {
     "id": 203490,
@@ -2114,7 +2056,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784466051
+    "updated_at": 1784469716
   },
   {
     "id": 209983,
@@ -2143,7 +2085,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784466019
+    "updated_at": 1784469682
   },
   {
     "id": 207674,
@@ -2172,7 +2114,7 @@
       "Ecchi",
       "Supernatural"
     ],
-    "updated_at": 1784466031
+    "updated_at": 1784469685
   },
   {
     "id": 213831,
@@ -2373,7 +2315,7 @@
       "Comedy",
       "Sci-Fi"
     ],
-    "updated_at": 1784464392
+    "updated_at": 1784469809
   },
   {
     "id": 171110,
@@ -2402,7 +2344,7 @@
       "Fantasy",
       "Slice of Life"
     ],
-    "updated_at": 1784466033
+    "updated_at": 1784469660
   },
   {
     "id": 235,
@@ -2432,7 +2374,7 @@
       "Mystery",
       "Psychological"
     ],
-    "updated_at": 1784466019
+    "updated_at": 1784469649
   },
   {
     "id": 184492,
@@ -2461,7 +2403,7 @@
       "Fantasy",
       "Supernatural"
     ],
-    "updated_at": 1784466028
+    "updated_at": 1784469636
   },
   {
     "id": 213356,
@@ -2549,7 +2491,7 @@
       "Sci-Fi",
       "Supernatural"
     ],
-    "updated_at": 1784466018
+    "updated_at": 1784469638
   },
   {
     "id": 206249,
@@ -2577,7 +2519,7 @@
       "Action",
       "Supernatural"
     ],
-    "updated_at": 1784466043
+    "updated_at": 1784469731
   },
   {
     "id": 195600,
@@ -2608,7 +2550,7 @@
       "Fantasy",
       "Supernatural"
     ],
-    "updated_at": 1784466018
+    "updated_at": 1784469637
   },
   {
     "id": 190569,
@@ -2635,7 +2577,7 @@
     "genres": [
       "Drama"
     ],
-    "updated_at": 1784466022
+    "updated_at": 1784469638
   },
   {
     "id": 196012,
@@ -2665,7 +2607,7 @@
       "Romance",
       "Supernatural"
     ],
-    "updated_at": 1784466029
+    "updated_at": 1784469643
   },
   {
     "id": 211181,
@@ -2719,7 +2661,7 @@
     "status": "RELEASING",
     "score": 68,
     "genres": [],
-    "updated_at": 1784466053
+    "updated_at": 1784469639
   },
   {
     "id": 194219,
@@ -2748,7 +2690,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784466020
+    "updated_at": 1784469638
   },
   {
     "id": 185692,
@@ -2778,7 +2720,7 @@
       "Fantasy",
       "Mahou Shoujo"
     ],
-    "updated_at": 1784466030
+    "updated_at": 1784469645
   },
   {
     "id": 185875,
@@ -2809,7 +2751,7 @@
       "Fantasy",
       "Mahou Shoujo"
     ],
-    "updated_at": 1784466028
+    "updated_at": 1784469672
   },
   {
     "id": 208225,
@@ -2837,7 +2779,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784466019
+    "updated_at": 1784469642
   },
   {
     "id": 199066,
@@ -2866,7 +2808,7 @@
       "Romance",
       "Supernatural"
     ],
-    "updated_at": 1784466017
+    "updated_at": 1784469672
   },
   {
     "id": 201514,
@@ -2894,7 +2836,7 @@
       "Comedy",
       "Romance"
     ],
-    "updated_at": 1784466019
+    "updated_at": 1784469638
   },
   {
     "id": 206950,
@@ -3002,7 +2944,7 @@
     "genres": [
       "Slice of Life"
     ],
-    "updated_at": 1784466071
+    "updated_at": 1784469703
   },
   {
     "id": 185646,
@@ -3029,7 +2971,7 @@
     "genres": [
       "Slice of Life"
     ],
-    "updated_at": 1784466069
+    "updated_at": 1784469696
   },
   {
     "id": 202957,
@@ -3057,7 +2999,7 @@
       "Mahou Shoujo",
       "Mystery"
     ],
-    "updated_at": 1784466025
+    "updated_at": 1784469659
   },
   {
     "id": 188388,
@@ -3087,7 +3029,7 @@
       "Fantasy",
       "Sci-Fi"
     ],
-    "updated_at": 1784466041
+    "updated_at": 1784469682
   },
   {
     "id": 206523,
@@ -3114,7 +3056,7 @@
     "genres": [
       "Music"
     ],
-    "updated_at": 1784464403
+    "updated_at": 1784469772
   },
   {
     "id": 200230,
@@ -3143,7 +3085,7 @@
       "Horror",
       "Supernatural"
     ],
-    "updated_at": 1784466035
+    "updated_at": 1784469689
   },
   {
     "id": 210031,
@@ -3173,7 +3115,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784466020
+    "updated_at": 1784469639
   },
   {
     "id": 204060,
@@ -3201,7 +3143,7 @@
       "Action",
       "Comedy"
     ],
-    "updated_at": 1784466020
+    "updated_at": 1784469637
   },
   {
     "id": 118123,
@@ -3230,7 +3172,7 @@
       "Adventure",
       "Comedy"
     ],
-    "updated_at": 1784466067
+    "updated_at": 1784469666
   },
   {
     "id": 2406,
@@ -3258,7 +3200,7 @@
       "Comedy",
       "Slice of Life"
     ],
-    "updated_at": 1784466165
+    "updated_at": 1784469694
   },
   {
     "id": 198409,
@@ -3287,7 +3229,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784466027
+    "updated_at": 1784469635
   },
   {
     "id": 200637,
@@ -3316,7 +3258,65 @@
       "Ecchi",
       "Romance"
     ],
-    "updated_at": 1784466024
+    "updated_at": 1784469687
+  },
+  {
+    "id": 21,
+    "id_mal": 21,
+    "url": "https://anilist.co/anime/21",
+    "title": {
+      "english": "ONE PIECE",
+      "romaji": "ONE PIECE",
+      "native": "ONE PIECE"
+    },
+    "description": "Gold Roger was known as the Pirate King, the strongest and most infamous being to have sailed the Grand Line. The capture and death of Roger by the World Government brought a change throughout the world. His last words before his death revealed the location of the greatest treasure in the world, One Piece. It was this revelation that brought about the Grand Age of Pirates, men who dreamed of finding One Piece (which promises an unlimited amount of riches and fame), and quite possibly the most coveted of titles for the person who found it, the title of the Pirate King.<br><br>\nEnter Monkey D. Luffy, a 17-year-old boy that defies your standard definition of a pirate. Rather than the popular persona of a wicked, hardened, toothless pirate who ransacks villages for fun, Luffy’s reason for being a pirate is one of pure wonder; the thought of an exciting adventure and meeting new and intriguing people, along with finding One Piece, are his reasons of becoming a pirate. Following in the footsteps of his childhood hero, Luffy and his crew travel across the Grand Line, experiencing crazy adventures, unveiling dark mysteries and battling strong enemies, all in order to reach One Piece.<br><br>\n<b>*This includes the following special episodes:</b><br>\n- Chopperman to the Rescue! Protect the TV Station by the Shore! (Episode 336)<br>\n- The Strongest Tag-Team! Luffy and Toriko's Hard Struggle! (Episode 492)<br>\n- Team Formation! Save Chopper (Episode 542)<br>\n- History's Strongest Collaboration vs. Glutton of the Sea (Episode 590)<br>\n- 20th Anniversary! Special Romance Dawn (Episode 907)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21-ELSYx3yMPcKM.jpg",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/21-wf37VakJmZqs.jpg",
+    "schedule": "Episode 1171 tayang pada 26/7/2026, 21.16.00 WIB",
+    "next_episode": 1171,
+    "next_airing_timestamp": 1785075360,
+    "season": "FALL",
+    "year": 1999,
+    "format": "TV",
+    "episodes": null,
+    "duration": 24,
+    "status": "RELEASING",
+    "score": 87,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Drama",
+      "Fantasy"
+    ],
+    "updated_at": 1784466019
+  },
+  {
+    "id": 196974,
+    "id_mal": 62171,
+    "url": "https://anilist.co/anime/196974",
+    "title": {
+      "english": "The Classroom of the Black Cat and a Witch",
+      "romaji": "Kuroneko to Majo no Kyoushitsu",
+      "native": "黒猫と魔女の教室"
+    },
+    "description": "Spica Virgo is an apprentice witch, but can’t use any magic. She needs someone to be her master in order to get into the academy of her dreams, but she has no money and no connections. Suddenly, a mysterious talking black cat that can use magic appears before her!! Spica wants to learn magic, and the black cat wants his curse broken—goals on the same path. Therefore, a secret master-apprentice relationship was born! But the key to breaking the curse is kissing his…?! A clumsy witch and the teachings of a black cat—the magic academy fantasy starts here!!\n<br><br>\n(Source: K Manga)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx196974-mZk1uyrx0XNx.png",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/196974-wOXpVEgXm7aR.jpg",
+    "schedule": "Episode 16 tayang pada 26/7/2026, 21.30.00 WIB",
+    "next_episode": 16,
+    "next_airing_timestamp": 1785076200,
+    "season": "SPRING",
+    "year": 2026,
+    "format": "TV",
+    "episodes": null,
+    "duration": 24,
+    "status": "RELEASING",
+    "score": 63,
+    "genres": [
+      "Fantasy"
+    ],
+    "updated_at": 1784469679
   },
   {
     "id": 204560,
@@ -3428,7 +3428,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784462495
+    "updated_at": 1784469689
   },
   {
     "id": 165159,
@@ -3457,7 +3457,7 @@
       "Adventure",
       "Sports"
     ],
-    "updated_at": 1784462546
+    "updated_at": 1784469809
   },
   {
     "id": 189046,
@@ -3490,7 +3490,7 @@
       "Romance",
       "Thriller"
     ],
-    "updated_at": 1784466029
+    "updated_at": 1784469639
   },
   {
     "id": 210687,
@@ -3519,7 +3519,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784451829
+    "updated_at": 1784469730
   },
   {
     "id": 208264,
