@@ -110,7 +110,7 @@
       "Comedy",
       "Romance"
     ],
-    "updated_at": 1784383565
+    "updated_at": 1784466165
   },
   {
     "id": 214044,
@@ -121,7 +121,7 @@
       "romaji": "Noa-senpai wa Tomodachi.",
       "native": "のあ先輩はともだち。"
     },
-    "description": "<i>Sometimes, when life is hard, you just need a \"friend.\"</i>\n<BR><BR>\nWorking at a game company, Rihito Otsuka (23), is a \"normal\" guy who is a steady presence on and off the job. Noa Saotome (27) is a \"hard-core\" woman who likes to go all out at everything she does. Two people who usually wouldn't get along become \"friends\" by chance...? The is the start of an workplace \"friendship\" comedy that's a little sweet but also a little heavy!\n<BR><BR>\n(Source: Shueisha, translated)",
+    "description": "<i>Sometimes, when life is hard, you just need a \"friend.\"</i>\n<BR><BR>\nWorking at a game company, Rihito Otsuka (23), is a \"normal\" guy who is a steady presence on and off the job. Noa Saotome (27) is a \"hard-core\" woman who likes to go all out at everything she does. Two people who usually wouldn't get along become \"friends\" by chance...? The is the start of a workplace \"friendship\" comedy that's a little sweet but also a little heavy!\n<BR><BR>\n(Source: Shueisha, translated)",
     "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx214044-L2xoOQd70Bcu.jpg",
     "banner_url": "",
     "schedule": "Jadwal belum diketahui",
@@ -138,7 +138,7 @@
       "Comedy",
       "Romance"
     ],
-    "updated_at": 1784408567
+    "updated_at": 1784466165
   },
   {
     "id": 214018,
@@ -411,7 +411,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784408547
+    "updated_at": 1784466165
   },
   {
     "id": 213872,
@@ -612,7 +612,7 @@
       "Mystery",
       "Romance"
     ],
-    "updated_at": 1784455295
+    "updated_at": 1784466165
   },
   {
     "id": 213814,
@@ -726,7 +726,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784376216
+    "updated_at": 1784466165
   },
   {
     "id": 213752,
@@ -3544,7 +3544,7 @@
     "genres": [
       "Fantasy"
     ],
-    "updated_at": 1784350916
+    "updated_at": 1784466165
   },
   {
     "id": 206874,
@@ -4207,7 +4207,7 @@
       "Mystery",
       "Supernatural"
     ],
-    "updated_at": 1784448140
+    "updated_at": 1784466165
   },
   {
     "id": 204604,
@@ -4895,7 +4895,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784455295
+    "updated_at": 1784466165
   },
   {
     "id": 202429,
@@ -5212,7 +5212,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784455295
+    "updated_at": 1784466165
   },
   {
     "id": 200294,
@@ -5557,7 +5557,7 @@
       "Supernatural",
       "Thriller"
     ],
-    "updated_at": 1784427215
+    "updated_at": 1784466165
   },
   {
     "id": 199340,
@@ -6947,7 +6947,7 @@
       "Drama",
       "Fantasy"
     ],
-    "updated_at": 1784242996
+    "updated_at": 1784466165
   },
   {
     "id": 190244,
@@ -9627,6 +9627,31 @@
     "updated_at": 1784427200
   },
   {
+    "id": 142278,
+    "id_mal": null,
+    "url": "https://anilist.co/anime/142278",
+    "title": {
+      "english": "",
+      "romaji": "(Title to be Announced)",
+      "native": "(Title to be Announced)"
+    },
+    "description": "Upcoming anime project from the director of <i>Shoujo☆Kageki Revue Starlight</i>, Tomohiro Furukawa, announced in December 2021.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b142278-kixcIocQg2Wf.png",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "",
+    "episodes": null,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [],
+    "updated_at": 1784466274
+  },
+  {
     "id": 141953,
     "id_mal": 60568,
     "url": "https://anilist.co/anime/141953",
@@ -10455,7 +10480,7 @@
       "Comedy",
       "Ecchi"
     ],
-    "updated_at": 1783946639
+    "updated_at": 1784466436
   },
   {
     "id": 104083,
@@ -10572,7 +10597,7 @@
       "Romance",
       "Sci-Fi"
     ],
-    "updated_at": 1784427260
+    "updated_at": 1784468066
   },
   {
     "id": 101635,
@@ -10600,7 +10625,7 @@
       "Romance",
       "Sci-Fi"
     ],
-    "updated_at": 1784383565
+    "updated_at": 1784468399
   },
   {
     "id": 100130,
