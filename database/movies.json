@@ -50,7 +50,7 @@
     "status": "FINISHED",
     "score": null,
     "genres": [],
-    "updated_at": 1784440942
+    "updated_at": 1784502186
   },
   {
     "id": 214071,
@@ -295,6 +295,35 @@
       "Supernatural"
     ],
     "updated_at": 1784462595
+  },
+  {
+    "id": 213515,
+    "id_mal": 34258,
+    "url": "https://anilist.co/anime/213515",
+    "title": {
+      "english": "",
+      "romaji": "Toruru's Adventure",
+      "native": "Toruru's Adventure"
+    },
+    "description": "The story centers on Toruru, as he searches for his younger sister Haruru, through multiple dimensions with the help of the NaSuBi. This anime short features different directors for worlds Toruru visits:<br>\n<br>\nDimension One: Time Master directed by Tatsuyuki Tanaka (Tojin Kit, Digital Juice)<br>\nDimension Two: Crazy Consumption directed by Sayo Yamamoto (Wooser's Hand-to-Mouth Life)<br>\nDimension Three: The Last of the Flowers directed by Tomoyuki Niho (Birdy the Mighty: Decode)<br>\nDimension Four: The Door to the Future directed by Takashi Nakamura (Catnapped! The Movie)<br>\n<br>\n(Source: Anime News Network)\n<br><br>\n<i>Note: Screened at Japan Anime Award Festival 2014, as a special screening at the time, however has not been formally released since.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx213515-BYnTbJ2Qabda.jpg",
+    "banner_url": "",
+    "schedule": "Musim: WINTER 2014",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "WINTER",
+    "year": 2014,
+    "format": "MOVIE",
+    "episodes": 4,
+    "duration": 8,
+    "status": "FINISHED",
+    "score": null,
+    "genres": [
+      "Adventure",
+      "Fantasy",
+      "Sci-Fi"
+    ],
+    "updated_at": 1784502186
   },
   {
     "id": 213511,
@@ -1599,7 +1628,7 @@
       "Drama",
       "Music"
     ],
-    "updated_at": 1784406260
+    "updated_at": 1784502186
   },
   {
     "id": 197474,
@@ -2312,6 +2341,35 @@
     "updated_at": 1784440942
   },
   {
+    "id": 186754,
+    "id_mal": 44815,
+    "url": "https://anilist.co/anime/186754",
+    "title": {
+      "english": "",
+      "romaji": "Duo Bao Xing Yun Xing Da Dian Ying: Jin Gu Bang Chuan Qi 2 - Sha Seng De Ni Xi",
+      "native": "夺宝幸运星大电影之金箍棒传奇2：沙僧的逆袭"
+    },
+    "description": "Tidak ada deskripsi.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b186754-JflF887YGt5W.png",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 91,
+    "status": "FINISHED",
+    "score": null,
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Fantasy"
+    ],
+    "updated_at": 1784502186
+  },
+  {
     "id": 186716,
     "id_mal": 57093,
     "url": "https://anilist.co/anime/186716",
@@ -2561,7 +2619,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784492958
+    "updated_at": 1784502186
   },
   {
     "id": 184369,
@@ -2792,6 +2850,34 @@
     "updated_at": 1784361747
   },
   {
+    "id": 182144,
+    "id_mal": 23613,
+    "url": "https://anilist.co/anime/182144",
+    "title": {
+      "english": "",
+      "romaji": "Kakkun Café",
+      "native": "カッくんカフェ"
+    },
+    "description": "Kakuei Kakkun Tanaka is a superhero who hangs out with his friends. In his misadventures, he becomes prime minister of Japan, visits New York and prevents a nuclear war.\n<br><br>\n(Source: The Anime Encyclopedia)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b182144-tsqncdgyNHq7.png",
+    "banner_url": "",
+    "schedule": "Musim: SUMMER 1984",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "SUMMER",
+    "year": 1984,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 59,
+    "status": "FINISHED",
+    "score": null,
+    "genres": [
+      "Comedy",
+      "Slice of Life"
+    ],
+    "updated_at": 1784502186
+  },
+  {
     "id": 181970,
     "id_mal": 56609,
     "url": "https://anilist.co/anime/181970",
@@ -2850,7 +2936,7 @@
       "Fantasy",
       "Slice of Life"
     ],
-    "updated_at": 1784480696
+    "updated_at": 1784502186
   },
   {
     "id": 181449,
@@ -3079,7 +3165,7 @@
     "status": "FINISHED",
     "score": null,
     "genres": [],
-    "updated_at": 1784376216
+    "updated_at": 1784502186
   },
   {
     "id": 179534,
@@ -3248,7 +3334,7 @@
       "Mystery",
       "Supernatural"
     ],
-    "updated_at": 1784394193
+    "updated_at": 1784502186
   },
   {
     "id": 178707,
@@ -3809,7 +3895,7 @@
       "Drama",
       "Sports"
     ],
-    "updated_at": 1784469809
+    "updated_at": 1784502186
   },
   {
     "id": 174788,
@@ -3921,7 +4007,7 @@
       "Comedy",
       "Sci-Fi"
     ],
-    "updated_at": 1784341000
+    "updated_at": 1784502186
   },
   {
     "id": 172420,
@@ -4152,7 +4238,7 @@
       "Music",
       "Slice of Life"
     ],
-    "updated_at": 1784462595
+    "updated_at": 1784502186
   },
   {
     "id": 171026,
@@ -4295,7 +4381,7 @@
       "Mecha",
       "Sci-Fi"
     ],
-    "updated_at": 1784494956
+    "updated_at": 1784502186
   },
   {
     "id": 169021,
@@ -4465,7 +4551,7 @@
       "Adventure",
       "Sci-Fi"
     ],
-    "updated_at": 1784427257
+    "updated_at": 1784502186
   },
   {
     "id": 167984,
@@ -5652,7 +5738,7 @@
       "Mecha",
       "Sci-Fi"
     ],
-    "updated_at": 1784369587
+    "updated_at": 1784502186
   },
   {
     "id": 157176,
@@ -6686,7 +6772,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784412201
+    "updated_at": 1784502186
   },
   {
     "id": 146609,
@@ -6803,6 +6889,33 @@
     "updated_at": 1784498548
   },
   {
+    "id": 145445,
+    "id_mal": null,
+    "url": "https://anilist.co/anime/145445",
+    "title": {
+      "english": "",
+      "romaji": "face myself",
+      "native": "フェイスマイセルフ"
+    },
+    "description": "Graduation work of Yuki Koyama at Tama Art University.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx145445-ABIvyVytSnrR.png",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 3,
+    "status": "FINISHED",
+    "score": null,
+    "genres": [
+      "Psychological"
+    ],
+    "updated_at": 1784502186
+  },
+  {
     "id": 145442,
     "id_mal": 57677,
     "url": "https://anilist.co/anime/145442",
@@ -6910,6 +7023,59 @@
       "Slice of Life"
     ],
     "updated_at": 1784498548
+  },
+  {
+    "id": 143383,
+    "id_mal": null,
+    "url": "https://anilist.co/anime/143383",
+    "title": {
+      "english": "Marine Snow",
+      "romaji": "Marine Snow",
+      "native": "Marine Snow"
+    },
+    "description": "Graduation work of Mayuka Osada at Tama Art University.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx143383-xikaatnypINL.png",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 2,
+    "status": "FINISHED",
+    "score": null,
+    "genres": [],
+    "updated_at": 1784502186
+  },
+  {
+    "id": 143382,
+    "id_mal": null,
+    "url": "https://anilist.co/anime/143382",
+    "title": {
+      "english": "teritory",
+      "romaji": "teritory",
+      "native": "テリトリー"
+    },
+    "description": "Graduation work of Saya Ishimaru at Tama Art University.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx143382-lps7KlmAOWEs.png",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 4,
+    "status": "FINISHED",
+    "score": null,
+    "genres": [
+      "Drama",
+      "Slice of Life"
+    ],
+    "updated_at": 1784502186
   },
   {
     "id": 143201,
@@ -7169,6 +7335,36 @@
     "updated_at": 1784350916
   },
   {
+    "id": 142013,
+    "id_mal": 49143,
+    "url": "https://anilist.co/anime/142013",
+    "title": {
+      "english": "The Magic Brush",
+      "romaji": "Shen Bi Ma Liang",
+      "native": "神笔马良"
+    },
+    "description": "A young hero from a close-knit town receives a brush that makes whatever he paints come alive! But it unfortunately garners the attention of a power-hungry general. \n<br><br>\n(Source: tubitv.com)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx142013-5BBYbu67Qniy.png",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/142013-4GyMBmsCCUGx.jpg",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 87,
+    "status": "FINISHED",
+    "score": null,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Fantasy"
+    ],
+    "updated_at": 1784502186
+  },
+  {
     "id": 141907,
     "id_mal": 50414,
     "url": "https://anilist.co/anime/141907",
@@ -7189,12 +7385,12 @@
     "episodes": 1,
     "duration": 72,
     "status": "FINISHED",
-    "score": 66,
+    "score": 67,
     "genres": [
       "Music",
       "Slice of Life"
     ],
-    "updated_at": 1784358109
+    "updated_at": 1784502186
   },
   {
     "id": 141902,
@@ -7315,6 +7511,110 @@
       "Sci-Fi"
     ],
     "updated_at": 1784390608
+  },
+  {
+    "id": 140624,
+    "id_mal": null,
+    "url": "https://anilist.co/anime/140624",
+    "title": {
+      "english": "the story that might be a dream",
+      "romaji": "Yume Kamo Shirenai Hanashi",
+      "native": "夢かもしれない話"
+    },
+    "description": "Graduation work of Miryan Paku at Tama Art University.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx140624-rAniuVsvTDlu.png",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 5,
+    "status": "FINISHED",
+    "score": null,
+    "genres": [
+      "Drama"
+    ],
+    "updated_at": 1784502186
+  },
+  {
+    "id": 140623,
+    "id_mal": null,
+    "url": "https://anilist.co/anime/140623",
+    "title": {
+      "english": "Six mon Gravestone",
+      "romaji": "Liu Wen Mu",
+      "native": "六文墓"
+    },
+    "description": "Graduation work of Yumi Horikoshi at Tama Art University.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx140623-cX03vaaLlOBX.png",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 5,
+    "status": "FINISHED",
+    "score": null,
+    "genres": [
+      "Supernatural"
+    ],
+    "updated_at": 1784502186
+  },
+  {
+    "id": 140621,
+    "id_mal": null,
+    "url": "https://anilist.co/anime/140621",
+    "title": {
+      "english": "night picnic in the dream",
+      "romaji": "Nemure Night",
+      "native": "眠れナイト"
+    },
+    "description": "Graduation work of Sari Ogino at Tama Art University.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx140621-cLkylHUt9ePS.png",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 4,
+    "status": "FINISHED",
+    "score": null,
+    "genres": [],
+    "updated_at": 1784502186
+  },
+  {
+    "id": 140587,
+    "id_mal": null,
+    "url": "https://anilist.co/anime/140587",
+    "title": {
+      "english": "drowsily",
+      "romaji": "utsura utsura",
+      "native": "うつらうつら"
+    },
+    "description": "Rie Oshima's Tama Art University 2015 graduate project",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx140587-1manQjhSq9O6.png",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/140587-87Ckvl37mwyr.jpg",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 4,
+    "status": "FINISHED",
+    "score": null,
+    "genres": [],
+    "updated_at": 1784502186
   },
   {
     "id": 140585,
@@ -7508,7 +7808,7 @@
       "Sci-Fi",
       "Thriller"
     ],
-    "updated_at": 1784275323
+    "updated_at": 1784502186
   },
   {
     "id": 140038,
@@ -7650,7 +7950,7 @@
       "Romance",
       "Sci-Fi"
     ],
-    "updated_at": 1784484185
+    "updated_at": 1784502186
   },
   {
     "id": 139310,
@@ -7678,7 +7978,7 @@
       "Romance",
       "Sci-Fi"
     ],
-    "updated_at": 1784473455
+    "updated_at": 1784502186
   },
   {
     "id": 139273,
@@ -7907,7 +8207,7 @@
       "Fantasy",
       "Sci-Fi"
     ],
-    "updated_at": 1784412181
+    "updated_at": 1784502186
   },
   {
     "id": 137075,
@@ -8446,6 +8746,34 @@
     "updated_at": 1784498548
   },
   {
+    "id": 131964,
+    "id_mal": 51438,
+    "url": "https://anilist.co/anime/131964",
+    "title": {
+      "english": "LIFE OF FALLING",
+      "romaji": "Rakka-sei",
+      "native": "落下生"
+    },
+    "description": "An original concept movie directed by banishment (of FLAT STUDIO). This animation is accompanied with the songs “Slumber” and “Kaede” by Eve. <br> <br>\nKaede, a high school boy living in Tokyo, was plagued by the horror of a series of mysterious dreams. At that time, in the dream world where monsters roam, he meets another self. What is the secret of the spiritual world that gradually erodes everyday life and the emotions hidden within Kaede's unconsciousness? <br> <br>\n(Source:  Official Youtube, translated.)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx131964-bYf0z9irF09w.png",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 2,
+    "status": "FINISHED",
+    "score": 56,
+    "genres": [
+      "Mystery",
+      "Supernatural"
+    ],
+    "updated_at": 1784502186
+  },
+  {
     "id": 131770,
     "id_mal": 47413,
     "url": "https://anilist.co/anime/131770",
@@ -8962,6 +9290,34 @@
     "updated_at": 1784459778
   },
   {
+    "id": 129556,
+    "id_mal": 44156,
+    "url": "https://anilist.co/anime/129556",
+    "title": {
+      "english": "",
+      "romaji": "Seer 4  Da Dianying: Sheng Mo Zhi Shan",
+      "native": "赛尔号大电影4：圣魔之战"
+    },
+    "description": "Tidak ada deskripsi.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx129556-9gBWL1W5fxHA.png",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 86,
+    "status": "FINISHED",
+    "score": null,
+    "genres": [
+      "Adventure",
+      "Fantasy"
+    ],
+    "updated_at": 1784502186
+  },
+  {
     "id": 129550,
     "id_mal": 43975,
     "url": "https://anilist.co/anime/129550",
@@ -9020,6 +9376,33 @@
       "Supernatural"
     ],
     "updated_at": 1784459806
+  },
+  {
+    "id": 129297,
+    "id_mal": 44862,
+    "url": "https://anilist.co/anime/129297",
+    "title": {
+      "english": "",
+      "romaji": "Q-ban Sanguo: San Xiao Qiang (Movie)",
+      "native": "Q版三国之三小强 大电影"
+    },
+    "description": "Tidak ada deskripsi.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx129297-QCNb1npuJB9s.png",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 80,
+    "status": "FINISHED",
+    "score": null,
+    "genres": [
+      "Comedy"
+    ],
+    "updated_at": 1784502186
   },
   {
     "id": 129157,
@@ -9273,6 +9656,33 @@
       "Sci-Fi"
     ],
     "updated_at": 1784498548
+  },
+  {
+    "id": 127253,
+    "id_mal": 48971,
+    "url": "https://anilist.co/anime/127253",
+    "title": {
+      "english": "",
+      "romaji": "Waiter",
+      "native": ""
+    },
+    "description": "A waiter finished work, goes out and gets drunk.\n<br><br>\nShown at the <i>Etiuda & Anima Film Festival</i>, 2013.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b127253-oUA53VFG0Q1Q.jpg",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 8,
+    "status": "FINISHED",
+    "score": 47,
+    "genres": [
+      "Psychological"
+    ],
+    "updated_at": 1784502186
   },
   {
     "id": 127227,
@@ -9921,6 +10331,33 @@
       "Comedy"
     ],
     "updated_at": 1784287600
+  },
+  {
+    "id": 121885,
+    "id_mal": 33320,
+    "url": "https://anilist.co/anime/121885",
+    "title": {
+      "english": "Datum Point",
+      "romaji": "Suijungenten​",
+      "native": "水準原点"
+    },
+    "description": "Animation by Ryo Orikasa, based on a poem by the same name by Ishihara Yoshirou.Yoshiro (1915-1977) was a poet of silence. He said that a poem is an impulse to resist writing. This is an attempt to seek out a landscape from his poems.\n<br><br>\n(Source: Annecy)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b121885-Tf6EaPmoBRk8.jpg",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 6,
+    "status": "FINISHED",
+    "score": null,
+    "genres": [
+      "Psychological"
+    ],
+    "updated_at": 1784502186
   },
   {
     "id": 121838,
@@ -10968,6 +11405,34 @@
     "updated_at": 1784473455
   },
   {
+    "id": 118054,
+    "id_mal": null,
+    "url": "https://anilist.co/anime/118054",
+    "title": {
+      "english": "Mrs. KABAGOdZILLA",
+      "romaji": "Mrs. Kabagodzilla",
+      "native": "ミセス・カバゴジラ"
+    },
+    "description": "”Mrs. KABAGodZILLA had a daughter whose arms and legs were the spitting image of her own.” Mother and daughter were always together, but the mother's hospitalization makes the daughter remember the past, and think a little about what lies ahead.\n<br><br>\nGraduate Work 2014, Tokyo University of the Arts, Graduate School of Film and New Media, Department of Animation.\n<br><br>\n(Source: Geidai Animation)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx118054-3Zsr8CbkAKwe.jpg",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/118054-k7t9KnS3Yrc8.jpg",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 9,
+    "status": "FINISHED",
+    "score": null,
+    "genres": [
+      "Psychological",
+      "Slice of Life"
+    ],
+    "updated_at": 1784502186
+  },
+  {
     "id": 118050,
     "id_mal": 34037,
     "url": "https://anilist.co/anime/118050",
@@ -11180,6 +11645,33 @@
       "Slice of Life"
     ],
     "updated_at": 1784288362
+  },
+  {
+    "id": 117804,
+    "id_mal": null,
+    "url": "https://anilist.co/anime/117804",
+    "title": {
+      "english": "",
+      "romaji": "Pamon",
+      "native": "パモン"
+    },
+    "description": "PAMON are magical and mysterious creatures who can move the hair on their head however they wish, and communicate using their chest hair. This tale takes a peek at an ordinary day for the PAMON. \n<br><br>\nGraduate Work 2014, Tokyo University of the Arts, Graduate School of Film and New Media, Department of Animation\n<br><br>\n(Source: Geidai Animation)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx117804-AFH57pdzEuUH.jpg",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/117804-qkcXacE6dllb.jpg",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 9,
+    "status": "FINISHED",
+    "score": null,
+    "genres": [
+      "Fantasy"
+    ],
+    "updated_at": 1784502186
   },
   {
     "id": 117801,
@@ -11420,7 +11912,7 @@
     "genres": [
       "Music"
     ],
-    "updated_at": 1784469809
+    "updated_at": 1784502186
   },
   {
     "id": 117758,
@@ -11452,6 +11944,33 @@
     "updated_at": 1784288394
   },
   {
+    "id": 117564,
+    "id_mal": null,
+    "url": "https://anilist.co/anime/117564",
+    "title": {
+      "english": "and, end",
+      "romaji": "Enen",
+      "native": "えんえん"
+    },
+    "description": "\"Someday, this will end. I hate it. I wanna live forever,\" murmurs a girl over and over again. Does she repeat the same moments, or does she move forward? It looks and sounds either way. A wordplay animation.\n<br><br>\n1st year work 2015, Tokyo University of the Arts, Graduate School of Film and New Media, Department of Animation.\n<br><br>\n(Geidai Animation)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b117564-gmjQKH6EsD5v.jpg",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/117564-6BmCJFIwzWxB.jpg",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 4,
+    "status": "FINISHED",
+    "score": null,
+    "genres": [
+      "Psychological"
+    ],
+    "updated_at": 1784502186
+  },
+  {
     "id": 117556,
     "id_mal": 41674,
     "url": "https://anilist.co/anime/117556",
@@ -11478,7 +11997,7 @@
       "Sci-Fi",
       "Slice of Life"
     ],
-    "updated_at": 1784376216
+    "updated_at": 1784502186
   },
   {
     "id": 117074,
@@ -11989,6 +12508,61 @@
     "updated_at": 1784325887
   },
   {
+    "id": 115875,
+    "id_mal": null,
+    "url": "https://anilist.co/anime/115875",
+    "title": {
+      "english": "Dreaming White",
+      "romaji": "Yumemiru Shiro",
+      "native": "ゆめみるシロ"
+    },
+    "description": "Left alone in the atelier, White has a hankering for vivid colors.\n<br><br>\n3DCG animation graduation film of Tokyo Polytechnic University, 2015\n",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b115875-pIO4W50eTk6x.png",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/115875-ngkA7eQvHyXy.jpg",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 5,
+    "status": "FINISHED",
+    "score": null,
+    "genres": [
+      "Adventure",
+      "Fantasy"
+    ],
+    "updated_at": 1784502186
+  },
+  {
+    "id": 115764,
+    "id_mal": 29832,
+    "url": "https://anilist.co/anime/115764",
+    "title": {
+      "english": "",
+      "romaji": "Panpaka Pants Movie: Bananan Oukoku no Hihou",
+      "native": "えいがパンパカパンツ バナナン王国の秘宝"
+    },
+    "description": "Tidak ada deskripsi.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx115764-JKMSywOczrr3.png",
+    "banner_url": "",
+    "schedule": "Musim: SPRING 2014",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "SPRING",
+    "year": 2014,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 65,
+    "status": "FINISHED",
+    "score": null,
+    "genres": [
+      "Adventure"
+    ],
+    "updated_at": 1784502186
+  },
+  {
     "id": 115566,
     "id_mal": 41289,
     "url": "https://anilist.co/anime/115566",
@@ -12015,6 +12589,33 @@
       "Romance"
     ],
     "updated_at": 1783948408
+  },
+  {
+    "id": 115336,
+    "id_mal": 37115,
+    "url": "https://anilist.co/anime/115336",
+    "title": {
+      "english": "",
+      "romaji": "Taka no Tsume 7: Joou Heika no Jobuubu",
+      "native": "鷹の爪７ ～女王陛下のジョブーブ～"
+    },
+    "description": "A second collaboration with Town Work. Jobuubu is looking for a job and so is the Chancellor as he was fired from his previous one. The two run into each other on the street after having an unsuccessful job hunt. Chancellor takes Jobuubu back to the Eagle Talon headquarters where they discover that he has the ability to repair hand dryers. The repair not only makes it dries properly but gives the user a sense of pure bliss. Together they team up; Chancellor finds clients while Jobuubu does the repairs. Queen Electronic, one of the manufactures of the hand dryers, gets wind of them and invites them to work on new ideas for their company in order to improve their old products. But a rival company wants to make sure they don't succeed.\n",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx115336-eYilEB1lSY87.png",
+    "banner_url": "",
+    "schedule": "Musim: SPRING 2014",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "SPRING",
+    "year": 2014,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 44,
+    "status": "FINISHED",
+    "score": 42,
+    "genres": [
+      "Comedy"
+    ],
+    "updated_at": 1784502186
   },
   {
     "id": 115294,
@@ -12326,7 +12927,7 @@
       "Comedy",
       "Slice of Life"
     ],
-    "updated_at": 1784397736
+    "updated_at": 1784502186
   },
   {
     "id": 113669,
@@ -12551,7 +13152,7 @@
       "Music",
       "Psychological"
     ],
-    "updated_at": 1784386898
+    "updated_at": 1784502186
   },
   {
     "id": 113023,
@@ -13443,7 +14044,7 @@
       "Drama",
       "Fantasy"
     ],
-    "updated_at": 1784412185
+    "updated_at": 1784502186
   },
   {
     "id": 110413,
@@ -13841,6 +14442,34 @@
       "Comedy"
     ],
     "updated_at": 1784440942
+  },
+  {
+    "id": 109568,
+    "id_mal": null,
+    "url": "https://anilist.co/anime/109568",
+    "title": {
+      "english": "2 PM at the Glass house",
+      "romaji": "Gogo 2-ji Onshitsu nite",
+      "native": "午後２時、温室にて"
+    },
+    "description": "A story of two boys is told through an dragonfly specimen. Is the story told from the boy's side? Or is this a dragonfly's dream? Who is the dragonfly? Is he alive or dead? One thing is clear - \"his\" hands are warm.<br><br>Graduate Work 2013, Tokyo University of the Arts, Graduate School of Film and New Media, Department of Animation.<br><br>(Source: Geidai Animation)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b109568-PatQxAXxfd5m.jpg",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/109568-ardwztCrC08O.jpg",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 7,
+    "status": "FINISHED",
+    "score": 54,
+    "genres": [
+      "Music",
+      "Psychological"
+    ],
+    "updated_at": 1784502186
   },
   {
     "id": 109391,
@@ -14900,7 +15529,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784494957
+    "updated_at": 1784502186
   },
   {
     "id": 107623,
@@ -15297,6 +15926,86 @@
     "updated_at": 1784292141
   },
   {
+    "id": 106565,
+    "id_mal": 40737,
+    "url": "https://anilist.co/anime/106565",
+    "title": {
+      "english": "tumbled cat",
+      "romaji": "tumbled cat",
+      "native": "tumbled cat"
+    },
+    "description": "A record of sensation and sign of watching tumble, moving and then floating.\n<br><br>\n1st year work 2014 by Toshikazu Tamiura, Tokyo University of the Arts, Graduate School of Film and New Media, Department of Animation.\n<br><br>\n(Soure: Geidai Animation)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx106565-ixhm0em3Ch6H.jpg",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/106565-103MhEjL90Uo.jpg",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 2,
+    "status": "FINISHED",
+    "score": 40,
+    "genres": [
+      "Psychological"
+    ],
+    "updated_at": 1784502186
+  },
+  {
+    "id": 106562,
+    "id_mal": 39703,
+    "url": "https://anilist.co/anime/106562",
+    "title": {
+      "english": "",
+      "romaji": "The closet",
+      "native": "The closet"
+    },
+    "description": "A young girl takes it into her head that her mother is taken by her newly born sister. Out of jealousy she hides her baby sister in darkness. <br><br>\n1st year work 2014 by Satomi Maiya, Tokyo University of the Arts, Graduate School of Film and New Media, Department of Animation. <br><br>",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx106562-ChD6J31NFKer.jpg",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 4,
+    "status": "FINISHED",
+    "score": 51,
+    "genres": [],
+    "updated_at": 1784502186
+  },
+  {
+    "id": 106559,
+    "id_mal": null,
+    "url": "https://anilist.co/anime/106559",
+    "title": {
+      "english": "My Dear",
+      "romaji": "My Dear",
+      "native": "My Dear"
+    },
+    "description": "At the waterside surrounded by factories and the wastes lives a white frog. It loves a goldfish that also lives in the neighborhood. Recently the goldfish appears to be poor in health, which worries the frog. <br><br>\n1st year work 2014 by yagi, Tokyo University of the Arts, Graduate School of Film and New Media, Department of Animation. <br><br>\n(Source: Geidai Animation)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx106559-ChZYCLcI2J92.jpg",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/106559-5rePd8WrBIp1.jpg",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 7,
+    "status": "FINISHED",
+    "score": null,
+    "genres": [
+      "Drama",
+      "Psychological"
+    ],
+    "updated_at": 1784502186
+  },
+  {
     "id": 106558,
     "id_mal": null,
     "url": "https://anilist.co/anime/106558",
@@ -15323,6 +16032,115 @@
       "Sci-Fi"
     ],
     "updated_at": 1783946636
+  },
+  {
+    "id": 106557,
+    "id_mal": null,
+    "url": "https://anilist.co/anime/106557",
+    "title": {
+      "english": "A Place to Name",
+      "romaji": "Sono Ie no Namae",
+      "native": "その家の名前"
+    },
+    "description": "This place is where my grand parents, my parents, and I once lived. Even though I lose my memories and feelings of it, it does exist there and keeps to be in existence. <br> <br>\nGraduate Work 2015 by Ataru Sakagami, Tokyo University of the Arts, Graduate School of Film and New Media, Department of Animation. <br>\n<br>\n(Source: Geidai Animation)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx106557-TPLmwa2EccB9.jpg",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/106557-vqnpo7jHJXHC.jpg",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 5,
+    "status": "FINISHED",
+    "score": null,
+    "genres": [
+      "Psychological"
+    ],
+    "updated_at": 1784502186
+  },
+  {
+    "id": 106555,
+    "id_mal": null,
+    "url": "https://anilist.co/anime/106555",
+    "title": {
+      "english": "",
+      "romaji": "SPOON",
+      "native": "SPOON"
+    },
+    "description": "A boy’s spoon falls on the floor when he is having a breakfast. The moment he is trying to pick it up, the boy is thrown into the different world. There he begins the adventure to take his spoon back.\n<br><br>\n1st year work 2014 by Yikun Wang, Tokyo University of the Arts, Graduate School of Film and New Media, Department of Animation.\n<br><br>\n(Source: Geidai Animation)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx106555-5nHTuu4YDxCC.jpg",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 4,
+    "status": "FINISHED",
+    "score": null,
+    "genres": [
+      "Fantasy"
+    ],
+    "updated_at": 1784502186
+  },
+  {
+    "id": 106539,
+    "id_mal": 40816,
+    "url": "https://anilist.co/anime/106539",
+    "title": {
+      "english": "Scape Escape",
+      "romaji": "Zenbu Wakatteru",
+      "native": "ぜんぶわかってる"
+    },
+    "description": "A man wanted to escape. He wanted to stay unaware but he found them all. <br><br>\n1st year work 2014, Tokyo University of the Arts, Graduate School of Film and New Media, Department of Animation. <br><br>\n(Source: Geidai Animation)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx106539-JlDHcxZG0Dpo.jpg",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/106539-qgxtzncVT85K.jpg",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 2,
+    "status": "FINISHED",
+    "score": 51,
+    "genres": [
+      "Psychological"
+    ],
+    "updated_at": 1784502186
+  },
+  {
+    "id": 106538,
+    "id_mal": 53082,
+    "url": "https://anilist.co/anime/106538",
+    "title": {
+      "english": "See ya Mr. Banno!",
+      "romaji": "Kiroi Kikyuu to Banno Sensei",
+      "native": "黄色い気球とばんの先生"
+    },
+    "description": "One day out of blue Prof. Banno of next class came to school with his hair shaven. Students made fun of his baldhead. Prof. Banno flew in a hot-air balloon the other day. Nobody knows anything about him afterwards. <br><br>\n1st year work 2014 by Yoko Yuki, Tokyo University of the Arts, Graduate School of Film and New Media, Department of Animation. <br><br>\n(Source: Geidai Animation)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx106538-9P5oLbF5Dk14.png",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/106538-FTnt9qetS0cd.jpg",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 4,
+    "status": "FINISHED",
+    "score": null,
+    "genres": [
+      "Psychological",
+      "Slice of Life"
+    ],
+    "updated_at": 1784502186
   },
   {
     "id": 106493,
@@ -17096,6 +17914,33 @@
     "updated_at": 1784380100
   },
   {
+    "id": 103965,
+    "id_mal": 38133,
+    "url": "https://anilist.co/anime/103965",
+    "title": {
+      "english": "",
+      "romaji": "Zhuzhu Xia: Yong Chuang Juren Dao",
+      "native": "豬豬俠 勇闖巨人島"
+    },
+    "description": "Jack the Robber loses his magic bean. G.G. Bond and friends plant it and a giant beanstalk grows. Up in the clouds there is a new world called Titan Island. They triggered the Titan's alarm and the bean's vine is severed. The team may not be able to make it back home between fighting off the Titan as well as Jack the Robber's attempt to steal treasure and sabotage the team.\n",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx103965-EzMffoIJlzeS.jpg",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 87,
+    "status": "FINISHED",
+    "score": null,
+    "genres": [
+      "Sci-Fi"
+    ],
+    "updated_at": 1784502186
+  },
+  {
     "id": 103951,
     "id_mal": 29657,
     "url": "https://anilist.co/anime/103951",
@@ -17592,6 +18437,61 @@
     "updated_at": 1784380435
   },
   {
+    "id": 103523,
+    "id_mal": 35709,
+    "url": "https://anilist.co/anime/103523",
+    "title": {
+      "english": "Oh Dear",
+      "romaji": "Arara",
+      "native": "あらら"
+    },
+    "description": "Naoko had a fight with her brother over a trivial thing and pushed him away. She knew she was childish but she ran away home.\n<br><br>\n1st year work 2014 by Megumi Ishitani, Tokyo University of the Arts, Graduate School of Film and New Media, Department of Animation.\n<br><br>\n(Source: Geidai Animation)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/103523-FlROhOYZrFOx.jpg",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/103523-5liJA3JsU5RE.jpg",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 2,
+    "status": "FINISHED",
+    "score": 53,
+    "genres": [
+      "Supernatural"
+    ],
+    "updated_at": 1784502186
+  },
+  {
+    "id": 103506,
+    "id_mal": 31463,
+    "url": "https://anilist.co/anime/103506",
+    "title": {
+      "english": "The Road Called Life",
+      "romaji": "Maemilggot, Unsu Joeun Nal, Geurigo Bombom",
+      "native": "메밀꽃, 운수 좋은 날, 그리고 봄봄"
+    },
+    "description": "Episode 1: \"When the Buckwheat Flowers Bloom\" <br>\nHeo Saeng-won is an ageing market vendor. He has been a peddler all his life. After a long day at the marketplace in Bongpyeong village, he follows his fellow peddler Jo Seon-dal into an inn where he meets a young itinerant vendor, Dong-i. As the three accompany each other under the moonlight along the buckwheat flowers, Heo Saeng-won realizes he has a special bond with Dong-i.\n<br><br>\nEpisode 2: \"Spring Spring\" <br>\nI toil on the field day and night as a servant for a man who has promised to give his daughter's hand to me in return for my labor. The man, however, keeps putting off the wedding, saying that his daughter is not growing fast enough. One day, out of fury, I call the man to the ultimate match.\n<br><br>\nEpisode 3 \"A Lucky Day\" <br>\nKim, who earns his living by driving a rickshaw, gets out on the street again, even after hearing from his wife that she is seriously ill. Kim then gets to drive an unusually large number of customers that day, and begins to suspect something hideous may lie ahead of his sudden good fortune. At the end of the long and hard day, Kim returns home, with an inexplicable sense of fear weighing down on his heart.\n<br><br>\n(Source: IndieStory)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx103506-CZz0aKODbpU7.jpg",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 90,
+    "status": "FINISHED",
+    "score": null,
+    "genres": [
+      "Drama",
+      "Slice of Life"
+    ],
+    "updated_at": 1784502186
+  },
+  {
     "id": 103492,
     "id_mal": 29681,
     "url": "https://anilist.co/anime/103492",
@@ -17950,6 +18850,34 @@
       "Psychological"
     ],
     "updated_at": 1784473455
+  },
+  {
+    "id": 103438,
+    "id_mal": 29135,
+    "url": "https://anilist.co/anime/103438",
+    "title": {
+      "english": "The Small Garden",
+      "romaji": "Chiisana Teien",
+      "native": "小さな庭園"
+    },
+    "description": "Story of a life form which wakes up in an unknown mysterious world. As he go deeper, he slowly understands what kind of place it is. The world seems beautiful, but it lacks what the real life has. He has to make a choice to stay or not.\n<br><br>\n(Source: Official Vimeo Channel)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx103438-RIdRhWdudrYI.jpg",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 12,
+    "status": "FINISHED",
+    "score": 45,
+    "genres": [
+      "Adventure",
+      "Fantasy"
+    ],
+    "updated_at": 1784502186
   },
   {
     "id": 103434,
@@ -18449,7 +19377,7 @@
       "Mystery",
       "Supernatural"
     ],
-    "updated_at": 1784467807
+    "updated_at": 1784502186
   },
   {
     "id": 103166,
@@ -18760,6 +19688,31 @@
       "Music"
     ],
     "updated_at": 1784467983
+  },
+  {
+    "id": 102770,
+    "id_mal": 31834,
+    "url": "https://anilist.co/anime/102770",
+    "title": {
+      "english": "",
+      "romaji": "Mormorando",
+      "native": "モルモランド"
+    },
+    "description": "Short animation by Komazaki Tomomi.\n",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/102770-loOlSazT8R35.jpg",
+    "banner_url": "",
+    "schedule": "Musim: SUMMER 2014",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "SUMMER",
+    "year": 2014,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 4,
+    "status": "FINISHED",
+    "score": 46,
+    "genres": [],
+    "updated_at": 1784502186
   },
   {
     "id": 102762,
@@ -19705,7 +20658,7 @@
     "genres": [
       "Psychological"
     ],
-    "updated_at": 1783948747
+    "updated_at": 1784502186
   },
   {
     "id": 102557,
@@ -21043,7 +21996,7 @@
       "Music",
       "Slice of Life"
     ],
-    "updated_at": 1784468117
+    "updated_at": 1784502186
   },
   {
     "id": 101975,
@@ -22012,7 +22965,7 @@
       "Sci-Fi",
       "Slice of Life"
     ],
-    "updated_at": 1784494940
+    "updated_at": 1784502186
   },
   {
     "id": 101231,
@@ -23555,6 +24508,31 @@
       "Comedy"
     ],
     "updated_at": 1784384074
+  },
+  {
+    "id": 98893,
+    "id_mal": 24819,
+    "url": "https://anilist.co/anime/98893",
+    "title": {
+      "english": "",
+      "romaji": "Spo-chan Taiketsu: Youkai Daikessen",
+      "native": "スポチャン対決〜妖怪大決戦〜"
+    },
+    "description": "Tidak ada deskripsi.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx98893-QLO8UuRU3dtw.png",
+    "banner_url": "",
+    "schedule": "Musim: SUMMER 2014",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "SUMMER",
+    "year": 2014,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 70,
+    "status": "FINISHED",
+    "score": null,
+    "genres": [],
+    "updated_at": 1784502186
   },
   {
     "id": 98891,
@@ -25488,7 +26466,7 @@
       "Adventure",
       "Drama"
     ],
-    "updated_at": 1784477500
+    "updated_at": 1784502186
   },
   {
     "id": 21875,
@@ -25550,7 +26528,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784494957
+    "updated_at": 1784502186
   },
   {
     "id": 21864,
@@ -26986,6 +27964,34 @@
     "updated_at": 1784386898
   },
   {
+    "id": 21267,
+    "id_mal": 31202,
+    "url": "https://anilist.co/anime/21267",
+    "title": {
+      "english": "",
+      "romaji": "Chibi Maruko-chan Movie: Italia Kara Kita Shounen",
+      "native": "映画ちびまる子ちゃん イタリアから来た少年"
+    },
+    "description": "Momoko Sakura is an elementary school student often called \"Chibi Maruko-chan\" due to her young age and small size. She lives together with her parents, her grandparents and her elder sister in a little town. In school, she has many friends with whom she studies and plays together everyday.  This is a fun-loving and enjoyable anime that portrays the simple things in life. \n<br><br>\nThe film will commemorate the 25th anniversary of the television anime's broadcast.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21267-wtKUmsAsbx2Y.jpg",
+    "banner_url": "",
+    "schedule": "Musim: FALL 2015",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "FALL",
+    "year": 2015,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 94,
+    "status": "FINISHED",
+    "score": 56,
+    "genres": [
+      "Comedy",
+      "Slice of Life"
+    ],
+    "updated_at": 1784502186
+  },
+  {
     "id": 21266,
     "id_mal": 25805,
     "url": "https://anilist.co/anime/21266",
@@ -27478,6 +28484,33 @@
       "Slice of Life"
     ],
     "updated_at": 1784304741
+  },
+  {
+    "id": 21097,
+    "id_mal": 29863,
+    "url": "https://anilist.co/anime/21097",
+    "title": {
+      "english": "",
+      "romaji": "Anata wo Zutto Aishiteru",
+      "native": "あなたをずっとあいしてる"
+    },
+    "description": "The film's story centers around Toron, an infant Tyrannosaurus who lost his mother Sera and father Zesta. Left alone, Toron embarks on a journey and meets friends, learning about true strength and courage, and what love truly means.\n<br><br>\n(Source: Anime News Network)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21097-5TErFFZDjFC2.jpg",
+    "banner_url": "",
+    "schedule": "Musim: SPRING 2015",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "SPRING",
+    "year": 2015,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 90,
+    "status": "FINISHED",
+    "score": 54,
+    "genres": [
+      "Adventure"
+    ],
+    "updated_at": 1784502186
   },
   {
     "id": 21096,
@@ -28291,7 +29324,7 @@
       "Fantasy",
       "Sci-Fi"
     ],
-    "updated_at": 1784481297
+    "updated_at": 1784502186
   },
   {
     "id": 20791,
@@ -28468,7 +29501,7 @@
       "Drama",
       "Sci-Fi"
     ],
-    "updated_at": 1784481800
+    "updated_at": 1784502186
   },
   {
     "id": 20763,
@@ -28496,7 +29529,7 @@
       "Action",
       "Sci-Fi"
     ],
-    "updated_at": 1784481800
+    "updated_at": 1784502186
   },
   {
     "id": 20760,
@@ -28623,7 +29656,7 @@
       "Sci-Fi",
       "Supernatural"
     ],
-    "updated_at": 1784481933
+    "updated_at": 1784502186
   },
   {
     "id": 20709,
@@ -28798,7 +29831,7 @@
       "Drama",
       "Fantasy"
     ],
-    "updated_at": 1784482277
+    "updated_at": 1784502186
   },
   {
     "id": 20640,
@@ -28826,6 +29859,34 @@
       "Music"
     ],
     "updated_at": 1784482279
+  },
+  {
+    "id": 20581,
+    "id_mal": 21707,
+    "url": "https://anilist.co/anime/20581",
+    "title": {
+      "english": "",
+      "romaji": "Pretty Rhythm: All Star Selection - Prism Show☆Best Ten",
+      "native": "プリティーリズム・オールスターセレクション プリズムショー☆ベストテン"
+    },
+    "description": "The film will compiles Prism Show scenes from all three television anime series.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20581-9OwVneZO0yw3.jpg",
+    "banner_url": "",
+    "schedule": "Musim: WINTER 2014",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "WINTER",
+    "year": 2014,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 48,
+    "status": "FINISHED",
+    "score": 62,
+    "genres": [
+      "Music",
+      "Sports"
+    ],
+    "updated_at": 1784502186
   },
   {
     "id": 20559,
@@ -28884,6 +29945,33 @@
       "Psychological"
     ],
     "updated_at": 1784466165
+  },
+  {
+    "id": 20549,
+    "id_mal": 21031,
+    "url": "https://anilist.co/anime/20549",
+    "title": {
+      "english": "",
+      "romaji": "Precure All Stars New Stage 3: Eien no Tomodachi",
+      "native": "プリキュアオールスターズNewStage3 永遠のともだち"
+    },
+    "description": "In the story, the world of children's dreams is threatened, so the Precure girls from 11 television anime unite to defend everyone's dreams.\n<br><br>\n(Source: Anime News Network)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/20549.jpg",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/20549-53dt0bAEzWjm.jpg",
+    "schedule": "Musim: WINTER 2014",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "WINTER",
+    "year": 2014,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 71,
+    "status": "FINISHED",
+    "score": 71,
+    "genres": [
+      "Mahou Shoujo"
+    ],
+    "updated_at": 1784502186
   },
   {
     "id": 20546,
@@ -28996,7 +30084,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784390608
+    "updated_at": 1784502186
   },
   {
     "id": 20514,
@@ -29052,7 +30140,7 @@
       "Music",
       "Slice of Life"
     ],
-    "updated_at": 1784394193
+    "updated_at": 1784502186
   },
   {
     "id": 20505,
@@ -29083,6 +30171,62 @@
     "updated_at": 1784498548
   },
   {
+    "id": 20504,
+    "id_mal": 20907,
+    "url": "https://anilist.co/anime/20504",
+    "title": {
+      "english": "The Big First-Grader and the Small Second-Grader",
+      "romaji": "Ookii 1 Nensei to Chiisana 2 Nensei",
+      "native": "大きい1年生と小さな2年生"
+    },
+    "description": "First-grader Masaya is a crybaby despite his large stature, so he can't walk by himself on the dark path to school. The one who holds his hand is Akiyo, a tiny but capable second-grader.<br>\n<br>\nMasaya wants to be strong like Akiyo and admires her, but one day, something happens that leaves Akiyo in tears.<br>\n<br>\nTo lift Akiyo's spirits, Masaya goes trekking to the distant Ipponsugi forest to find the spotted bellflowers that Akiyo loves.\n<br><br>\n(Source: Anime News Network)\n<br>\n<br>\nOne of the four 2014 Anime Mirai (Young Animator Training Project) films funded by the Japanese government's Agency of Cultural Affairs in order to support training animators.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20504-wPePbX8puXiF.png",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/20504-cOaMgfYqyXIQ.jpg",
+    "schedule": "Musim: WINTER 2014",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "WINTER",
+    "year": 2014,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 25,
+    "status": "FINISHED",
+    "score": 62,
+    "genres": [
+      "Adventure"
+    ],
+    "updated_at": 1784502186
+  },
+  {
+    "id": 20502,
+    "id_mal": 20961,
+    "url": "https://anilist.co/anime/20502",
+    "title": {
+      "english": "Paroru's Future Island",
+      "romaji": "Parol no Mirai Shima",
+      "native": "パロルのみらい島"
+    },
+    "description": "There is a tiny island floating on the other side of a distant sea. Strange animals, still unknown to humans, live there. One of the island's children, Paroru, comes across a photo of the human world one day, and fascinated by this beautiful wonder, breaks the rules and rushes out of the island. Paroru and others are surprised and excited to see the human world for the first time. However, unforeseen pitfalls await them there…. Can they safely reach their journey's destination?\n<br><br>\n(Source: Anime News Network)\n<br>\n<br>\nOne of the four 2014 Anime Mirai (Young Animator Training Project) films funded by the Japanese government's Agency of Cultural Affairs in order to support training animators.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20502-etjZg6Mp7yPu.png",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/20502-pYbTtit95IYv.jpg",
+    "schedule": "Musim: WINTER 2014",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "WINTER",
+    "year": 2014,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 25,
+    "status": "FINISHED",
+    "score": 55,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "updated_at": 1784502186
+  },
+  {
     "id": 20501,
     "id_mal": 20903,
     "url": "https://anilist.co/anime/20501",
@@ -29111,6 +30255,34 @@
       "Supernatural"
     ],
     "updated_at": 1784484185
+  },
+  {
+    "id": 20500,
+    "id_mal": 20969,
+    "url": "https://anilist.co/anime/20500",
+    "title": {
+      "english": "Osamu Tezuka's Buddha Movie 2: Endless Trip",
+      "romaji": "BUDDHA 2: Tezuka Osamu no Buddha ~Owarinaki Tabi~",
+      "native": "BUDDHA2 手塚治虫のブッダ－終わりなき旅－"
+    },
+    "description": "The second film in the planned trilogy based on the late Osamu Tezuka's Buddha manga",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20500-6XT2esuUy8rV.jpg",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/20500-bF2tfMewWJBH.jpg",
+    "schedule": "Musim: WINTER 2014",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "WINTER",
+    "year": 2014,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 85,
+    "status": "FINISHED",
+    "score": 64,
+    "genres": [
+      "Drama",
+      "Supernatural"
+    ],
+    "updated_at": 1784502186
   },
   {
     "id": 20471,
@@ -30515,7 +31687,7 @@
       "Drama",
       "Sports"
     ],
-    "updated_at": 1784376216
+    "updated_at": 1784502186
   },
   {
     "id": 17443,
@@ -30601,7 +31773,7 @@
       "Music",
       "Slice of Life"
     ],
-    "updated_at": 1784308045
+    "updated_at": 1784502186
   },
   {
     "id": 17269,
@@ -30741,7 +31913,7 @@
       "Sci-Fi",
       "Thriller"
     ],
-    "updated_at": 1784480696
+    "updated_at": 1784502186
   },
   {
     "id": 17165,
@@ -31903,7 +33075,7 @@
       "Mecha",
       "Sci-Fi"
     ],
-    "updated_at": 1784484403
+    "updated_at": 1784502186
   },
   {
     "id": 15199,
@@ -31932,7 +33104,7 @@
       "Mecha",
       "Sci-Fi"
     ],
-    "updated_at": 1784484404
+    "updated_at": 1784502186
   },
   {
     "id": 15197,
@@ -32305,7 +33477,7 @@
       "Drama",
       "Romance"
     ],
-    "updated_at": 1784484538
+    "updated_at": 1784502186
   },
   {
     "id": 14629,
@@ -32422,7 +33594,7 @@
       "Psychological",
       "Thriller"
     ],
-    "updated_at": 1784484579
+    "updated_at": 1784502186
   },
   {
     "id": 14349,
@@ -32450,7 +33622,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784484584
+    "updated_at": 1784502186
   },
   {
     "id": 14347,
@@ -33236,7 +34408,7 @@
       "Drama",
       "Supernatural"
     ],
-    "updated_at": 1784412201
+    "updated_at": 1784502186
   },
   {
     "id": 13117,
@@ -37541,7 +38713,7 @@
       "Action",
       "Supernatural"
     ],
-    "updated_at": 1784415855
+    "updated_at": 1784502186
   },
   {
     "id": 8246,
@@ -38037,7 +39209,7 @@
     "genres": [
       "Fantasy"
     ],
-    "updated_at": 1784386898
+    "updated_at": 1784502186
   },
   {
     "id": 7967,
@@ -40521,7 +41693,7 @@
       "Music",
       "Sci-Fi"
     ],
-    "updated_at": 1784312215
+    "updated_at": 1784502186
   },
   {
     "id": 6772,
@@ -41210,7 +42382,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784376216
+    "updated_at": 1784502186
   },
   {
     "id": 6217,
@@ -41386,7 +42558,7 @@
       "Adventure",
       "Sci-Fi"
     ],
-    "updated_at": 1784480696
+    "updated_at": 1784502186
   },
   {
     "id": 6156,
@@ -42399,7 +43571,7 @@
       "Supernatural",
       "Thriller"
     ],
-    "updated_at": 1784406273
+    "updated_at": 1784502186
   },
   {
     "id": 5204,
@@ -42430,7 +43602,7 @@
       "Supernatural",
       "Thriller"
     ],
-    "updated_at": 1784455295
+    "updated_at": 1784502186
   },
   {
     "id": 5178,
@@ -43137,7 +44309,7 @@
       "Psychological",
       "Sci-Fi"
     ],
-    "updated_at": 1784480696
+    "updated_at": 1784502186
   },
   {
     "id": 4640,
@@ -43705,7 +44877,7 @@
       "Supernatural",
       "Thriller"
     ],
-    "updated_at": 1784458910
+    "updated_at": 1784502186
   },
   {
     "id": 4250,
@@ -43936,7 +45108,7 @@
       "Romance",
       "Sci-Fi"
     ],
-    "updated_at": 1784494957
+    "updated_at": 1784502186
   },
   {
     "id": 4106,
@@ -45639,7 +46811,7 @@
       "Drama",
       "Supernatural"
     ],
-    "updated_at": 1784408566
+    "updated_at": 1784502186
   },
   {
     "id": 2848,
@@ -46266,7 +47438,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784489166
+    "updated_at": 1784502186
   },
   {
     "id": 2664,
@@ -48207,7 +49379,7 @@
       "Adventure",
       "Romance"
     ],
-    "updated_at": 1784489318
+    "updated_at": 1784502186
   },
   {
     "id": 2173,
@@ -51373,7 +52545,7 @@
       "Mecha",
       "Sci-Fi"
     ],
-    "updated_at": 1784490201
+    "updated_at": 1784502186
   },
   {
     "id": 1268,
@@ -52019,7 +53191,7 @@
       "Drama",
       "Fantasy"
     ],
-    "updated_at": 1784490278
+    "updated_at": 1784502186
   },
   {
     "id": 1120,
@@ -54441,7 +55613,7 @@
       "Mahou Shoujo",
       "Romance"
     ],
-    "updated_at": 1784455295
+    "updated_at": 1784502186
   },
   {
     "id": 528,
@@ -55097,7 +56269,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784412201
+    "updated_at": 1784502186
   },
   {
     "id": 451,
@@ -56232,6 +57404,6 @@
       "Mystery",
       "Sci-Fi"
     ],
-    "updated_at": 1784473455
+    "updated_at": 1784502186
   }
 ]

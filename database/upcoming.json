@@ -167,7 +167,7 @@
       "Comedy",
       "Romance"
     ],
-    "updated_at": 1784466165
+    "updated_at": 1784502186
   },
   {
     "id": 214018,
@@ -555,7 +555,7 @@
       "Adventure",
       "Sci-Fi"
     ],
-    "updated_at": 1784458910
+    "updated_at": 1784502186
   },
   {
     "id": 213846,
@@ -1326,7 +1326,7 @@
       "Comedy",
       "Romance"
     ],
-    "updated_at": 1784408542
+    "updated_at": 1784502186
   },
   {
     "id": 213396,
@@ -1644,7 +1644,7 @@
       "Drama",
       "Romance"
     ],
-    "updated_at": 1784473455
+    "updated_at": 1784502186
   },
   {
     "id": 213020,
@@ -1758,7 +1758,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784455295
+    "updated_at": 1784502186
   },
   {
     "id": 212667,
@@ -2390,7 +2390,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784440942
+    "updated_at": 1784502186
   },
   {
     "id": 211338,
@@ -3546,7 +3546,7 @@
       "Action",
       "Comedy"
     ],
-    "updated_at": 1784462595
+    "updated_at": 1784502186
   },
   {
     "id": 207191,
@@ -5127,6 +5127,34 @@
     "updated_at": 1784455295
   },
   {
+    "id": 202079,
+    "id_mal": 62907,
+    "url": "https://anilist.co/anime/202079",
+    "title": {
+      "english": "",
+      "romaji": "Oji-san wa Kawaii Mono ga Osuki.",
+      "native": "おじさんはカワイイものがお好き。"
+    },
+    "description": "The manga centers on Mitsutaka Oji, a 40-year-old man who by all appearances is attractive and cool and is excellent at his job. However, he has a secret: he absolutely loves small and cute things. The comedy manga follows his everyday life.\n<br><br>\n(Source: ANN)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx202079-qGySMdTVjRgP.jpg",
+    "banner_url": "",
+    "schedule": "Musim: FALL 2026",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "FALL",
+    "year": 2026,
+    "format": "TV",
+    "episodes": null,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Comedy",
+      "Slice of Life"
+    ],
+    "updated_at": 1784502186
+  },
+  {
     "id": 201388,
     "id_mal": 62865,
     "url": "https://anilist.co/anime/201388",
@@ -5386,7 +5414,7 @@
     "genres": [
       "Slice of Life"
     ],
-    "updated_at": 1784246835
+    "updated_at": 1784502186
   },
   {
     "id": 199590,
@@ -6132,7 +6160,7 @@
       "Drama",
       "Music"
     ],
-    "updated_at": 1784406260
+    "updated_at": 1784502186
   },
   {
     "id": 197095,
@@ -6544,7 +6572,7 @@
       "Comedy",
       "Supernatural"
     ],
-    "updated_at": 1784322117
+    "updated_at": 1784502186
   },
   {
     "id": 195210,
@@ -6921,7 +6949,7 @@
       "Supernatural",
       "Thriller"
     ],
-    "updated_at": 1784473455
+    "updated_at": 1784502186
   },
   {
     "id": 191788,
@@ -8212,7 +8240,7 @@
       "Mahou Shoujo",
       "Slice of Life"
     ],
-    "updated_at": 1784484185
+    "updated_at": 1784502186
   },
   {
     "id": 181951,
@@ -8697,7 +8725,7 @@
       "Drama",
       "Sports"
     ],
-    "updated_at": 1784469809
+    "updated_at": 1784502186
   },
   {
     "id": 174427,
@@ -9358,7 +9386,7 @@
       "Mahou Shoujo",
       "Thriller"
     ],
-    "updated_at": 1784494951
+    "updated_at": 1784502186
   },
   {
     "id": 160275,
@@ -9478,7 +9506,7 @@
       "Mecha",
       "Sci-Fi"
     ],
-    "updated_at": 1784369587
+    "updated_at": 1784502186
   },
   {
     "id": 156631,
@@ -9562,7 +9590,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784246756
+    "updated_at": 1784502186
   },
   {
     "id": 153676,
@@ -9764,7 +9792,7 @@
       "Fantasy",
       "Mahou Shoujo"
     ],
-    "updated_at": 1784473455
+    "updated_at": 1784502186
   },
   {
     "id": 137669,
@@ -10164,7 +10192,7 @@
       "Comedy",
       "Romance"
     ],
-    "updated_at": 1784287702
+    "updated_at": 1784502186
   },
   {
     "id": 120815,
