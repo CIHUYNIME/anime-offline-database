@@ -75,7 +75,7 @@
     "status": "FINISHED",
     "score": null,
     "genres": [],
-    "updated_at": 1784440942
+    "updated_at": 1784462595
   },
   {
     "id": 214070,
@@ -294,7 +294,7 @@
       "Drama",
       "Supernatural"
     ],
-    "updated_at": 1784406283
+    "updated_at": 1784462595
   },
   {
     "id": 213511,
@@ -542,7 +542,7 @@
     "status": "FINISHED",
     "score": null,
     "genres": [],
-    "updated_at": 1784390608
+    "updated_at": 1784462595
   },
   {
     "id": 211232,
@@ -940,6 +940,34 @@
       "Romance"
     ],
     "updated_at": 1784340997
+  },
+  {
+    "id": 206163,
+    "id_mal": 63323,
+    "url": "https://anilist.co/anime/206163",
+    "title": {
+      "english": "",
+      "romaji": "Soukou Kihei Votoms: Haiiro no Hexe",
+      "native": "装甲騎兵ボトムズ 灰色の魔女"
+    },
+    "description": "In January 2026, Bandai Namco Filmworks announced an new anime project titled Armored Trooper VOTOMS: Die Graue Hexe. It is set to premiere in 2026 will be produced by Sunrise with production assistance by Production I.G, and will be part of a series of projects commemorating studio Sunrise's 50th anniversary to be released between 2026 and 2028.<br><br>\n<i>Note: Relations are provisional and subject to change.</i>",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx206163-c5DwZdBNCXEO.jpg",
+    "banner_url": "",
+    "schedule": "Musim: FALL 2026",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "FALL",
+    "year": 2026,
+    "format": "MOVIE",
+    "episodes": null,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Mecha",
+      "Sci-Fi"
+    ],
+    "updated_at": 1784462595
   },
   {
     "id": 205444,
@@ -1519,7 +1547,7 @@
       "Comedy",
       "Sci-Fi"
     ],
-    "updated_at": 1784286117
+    "updated_at": 1784462595
   },
   {
     "id": 196115,
@@ -1575,7 +1603,7 @@
     "genres": [
       "Fantasy"
     ],
-    "updated_at": 1784329393
+    "updated_at": 1784462595
   },
   {
     "id": 195384,
@@ -1891,7 +1919,7 @@
       "Romance",
       "Sci-Fi"
     ],
-    "updated_at": 1784406286
+    "updated_at": 1784462595
   },
   {
     "id": 190574,
@@ -3648,7 +3676,7 @@
       "Drama",
       "Sports"
     ],
-    "updated_at": 1784397736
+    "updated_at": 1784462595
   },
   {
     "id": 174788,
@@ -3936,7 +3964,7 @@
       "Music",
       "Slice of Life"
     ],
-    "updated_at": 1784394193
+    "updated_at": 1784462595
   },
   {
     "id": 171026,
@@ -4248,7 +4276,7 @@
       "Comedy",
       "Slice of Life"
     ],
-    "updated_at": 1784386898
+    "updated_at": 1784462595
   },
   {
     "id": 166976,
@@ -4469,7 +4497,7 @@
       "Music",
       "Slice of Life"
     ],
-    "updated_at": 1784455329
+    "updated_at": 1784462595
   },
   {
     "id": 164293,
@@ -5937,7 +5965,7 @@
       "Psychological",
       "Supernatural"
     ],
-    "updated_at": 1784440942
+    "updated_at": 1784462595
   },
   {
     "id": 150084,
@@ -6890,7 +6918,7 @@
       "Music",
       "Supernatural"
     ],
-    "updated_at": 1784448140
+    "updated_at": 1784462595
   },
   {
     "id": 140113,
@@ -6921,6 +6949,33 @@
       "Thriller"
     ],
     "updated_at": 1784275323
+  },
+  {
+    "id": 140036,
+    "id_mal": 21475,
+    "url": "https://anilist.co/anime/140036",
+    "title": {
+      "english": "",
+      "romaji": "Ikkyuu-san Haru Da! Yancha Hime",
+      "native": "一休さん 春だ! やんちゃ姫"
+    },
+    "description": "Tidak ada deskripsi.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b140036-TWrxKoCifUAd.jpg",
+    "banner_url": "",
+    "schedule": "Musim: WINTER 1981",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "WINTER",
+    "year": 1981,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 15,
+    "status": "FINISHED",
+    "score": null,
+    "genres": [
+      "Comedy"
+    ],
+    "updated_at": 1784462595
   },
   {
     "id": 139498,
@@ -7606,7 +7661,7 @@
     "genres": [
       "Mahou Shoujo"
     ],
-    "updated_at": 1784459217
+    "updated_at": 1784462595
   },
   {
     "id": 132776,
@@ -9905,7 +9960,7 @@
       "Fantasy",
       "Mystery"
     ],
-    "updated_at": 1784440942
+    "updated_at": 1784462595
   },
   {
     "id": 118936,
@@ -10592,7 +10647,64 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784412201
+    "updated_at": 1784462727
+  },
+  {
+    "id": 116982,
+    "id_mal": 44061,
+    "url": "https://anilist.co/anime/116982",
+    "title": {
+      "english": "New Gods: Nezha Reborn",
+      "romaji": "Xin Shen Bang: Nezha Chonsheng",
+      "native": "新神榜：哪吒重生"
+    },
+    "description": "While living as an ordinary deliveryman and motor racing fan, Nezha encounters old nemeses and must rediscover his powers to protect his loved ones.\n<br><br>\n(Source: Netflix)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx116982-DbnQz4JPKwXW.png",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/116982-3FE2c5yju8fu.jpg",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 117,
+    "status": "FINISHED",
+    "score": 71,
+    "genres": [
+      "Action",
+      "Fantasy",
+      "Sci-Fi"
+    ],
+    "updated_at": 1784462741
+  },
+  {
+    "id": 116962,
+    "id_mal": 41519,
+    "url": "https://anilist.co/anime/116962",
+    "title": {
+      "english": "Monster Strike the Movie: Lucifer Dawn of Despair",
+      "romaji": "Monster Strike THE MOVIE: Lucifer - Zetsubou no Yoake",
+      "native": "モンスターストライク THE MOVIE ルシファー 絶望の夜明け"
+    },
+    "description": "Tidak ada deskripsi.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx116962-t13ZFswm5iar.jpg",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/116962-4O6MwQ4GxFcl.jpg",
+    "schedule": "Musim: FALL 2020",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "FALL",
+    "year": 2020,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 127,
+    "status": "FINISHED",
+    "score": 61,
+    "genres": [
+      "Action",
+      "Fantasy"
+    ],
+    "updated_at": 1784462744
   },
   {
     "id": 116756,
@@ -10621,7 +10733,7 @@
       "Fantasy",
       "Supernatural"
     ],
-    "updated_at": 1784448140
+    "updated_at": 1784462775
   },
   {
     "id": 116740,
@@ -10649,7 +10761,89 @@
       "Drama",
       "Slice of Life"
     ],
-    "updated_at": 1784350916
+    "updated_at": 1784462808
+  },
+  {
+    "id": 116714,
+    "id_mal": 40811,
+    "url": "https://anilist.co/anime/116714",
+    "title": {
+      "english": "A Black Cat",
+      "romaji": "Kuroi Neko",
+      "native": "黒い猫"
+    },
+    "description": "It consists of only woman who keeps caressing a resisting cat.\n<br><br>\n1st year work 2015, Tokyo University of the Arts, Graduate School of Film and New Media, Department of Animation\n<br><br>\n(Source: Geidai Animation)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b116714-r9yfmykahiTi.jpg",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 3,
+    "status": "FINISHED",
+    "score": 45,
+    "genres": [
+      "Psychological"
+    ],
+    "updated_at": 1784462811
+  },
+  {
+    "id": 116676,
+    "id_mal": 41471,
+    "url": "https://anilist.co/anime/116676",
+    "title": {
+      "english": "KINMOZA The Movie: Thank you!!",
+      "romaji": "Kiniro Mosaic: Thank you!!",
+      "native": "きんいろモザイク Thank you!!"
+    },
+    "description": "Time flies when you're having fun, and it seems like only yesterday that Shinobu Omiya was nervously waiting for her friend Alice Cartelet to arrive from England to study at Shinobu's school in Japan. Now, in their third and final year, Alice, Shinobu, Aya, and Yoko have truly become the best of friends and even Karen, Honoka, and Kana are part of the gang as well. But since it's their last year, that means their time will be split between preparing for the big senior trip to Nara and Kyoto, and trying to make plans for whatever is to come next in their lives… and in Shinobu's case, that may mean something so amazing that she'd never even dared to dream it!\n<br><br>\n(Source: Sentai Filmworks)\n<br><br>\n<i>Note: Announced in the May issue of Houbunsha's Manga Time Kirara Max magazine. </i>",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx116676-SmbBAKOS6XUw.jpg",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/116676-OqYV2EmmrvdW.jpg",
+    "schedule": "Musim: SUMMER 2021",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "SUMMER",
+    "year": 2021,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 82,
+    "status": "FINISHED",
+    "score": 75,
+    "genres": [
+      "Comedy",
+      "Slice of Life"
+    ],
+    "updated_at": 1784462815
+  },
+  {
+    "id": 116610,
+    "id_mal": 41462,
+    "url": "https://anilist.co/anime/116610",
+    "title": {
+      "english": "BanG Dream! FILM LIVE 2nd Stage",
+      "romaji": "BanG Dream! FILM LIVE 2nd Stage",
+      "native": "BanG Dream! FILM LIVE 2nd Stage"
+    },
+    "description": "\"The best concert, once again!\"\n\nBanG Dream! FILM LIVE 2nd Stage is the second animated live movie for the BanG Dream! franchise and the sequel to BanG Dream! FILM LIVE.\n\nIt was announced on March 16, 2020 and premiered in Japanese theaters on August 20, 2021. Additionally, a pre-screening was held in five selected theaters across the country on August 10, 2021. It premiered in the United States and Canada through Eventive on September 18, 2021.<br><br>\n<i>Note: The film has 3 different post-credit scenes originally rotated weekly on theater showings. On Crunchyroll, these alternative scenes are streamed as separate episodes.</i>",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx116610-CliKhWCWvvKc.jpg",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/116610-fbSbVT4GD9aC.jpg",
+    "schedule": "Musim: SUMMER 2021",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "SUMMER",
+    "year": 2021,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 84,
+    "status": "FINISHED",
+    "score": 77,
+    "genres": [
+      "Music"
+    ],
+    "updated_at": 1784462837
   },
   {
     "id": 116226,
@@ -10676,7 +10870,7 @@
     "genres": [
       "Fantasy"
     ],
-    "updated_at": 1784412201
+    "updated_at": 1784462595
   },
   {
     "id": 116069,
@@ -10732,6 +10926,34 @@
       "Fantasy"
     ],
     "updated_at": 1784329393
+  },
+  {
+    "id": 116016,
+    "id_mal": 32835,
+    "url": "https://anilist.co/anime/116016",
+    "title": {
+      "english": "",
+      "romaji": "Ganbare!! Tabuchi-kun!!",
+      "native": "がんばれ!! タブチくん!!"
+    },
+    "description": "The Seibu Lions baseball team makes it to the next round of a baseball tournament thanks to the heroic efforts of its star player, Tabuchi, but the next stage will involve hard work and cooperation.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx116016-Wswuwj9R8AaY.png",
+    "banner_url": "",
+    "schedule": "Musim: FALL 1979",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "FALL",
+    "year": 1979,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 95,
+    "status": "FINISHED",
+    "score": 45,
+    "genres": [
+      "Comedy",
+      "Sports"
+    ],
+    "updated_at": 1784462595
   },
   {
     "id": 115918,
@@ -11302,7 +11524,7 @@
       "Comedy",
       "Sports"
     ],
-    "updated_at": 1784289866
+    "updated_at": 1784462595
   },
   {
     "id": 113024,
@@ -12337,7 +12559,7 @@
       "Action",
       "Adventure"
     ],
-    "updated_at": 1784329393
+    "updated_at": 1784462595
   },
   {
     "id": 110206,
@@ -12976,7 +13198,7 @@
       "Drama",
       "Romance"
     ],
-    "updated_at": 1784291118
+    "updated_at": 1784462595
   },
   {
     "id": 109006,
@@ -14480,7 +14702,7 @@
       "Drama",
       "Fantasy"
     ],
-    "updated_at": 1784379820
+    "updated_at": 1784462595
   },
   {
     "id": 105018,
@@ -17348,7 +17570,7 @@
     "status": "FINISHED",
     "score": 32,
     "genres": [],
-    "updated_at": 1784380830
+    "updated_at": 1784462595
   },
   {
     "id": 102627,
@@ -17725,6 +17947,33 @@
     "updated_at": 1784380846
   },
   {
+    "id": 102509,
+    "id_mal": 21163,
+    "url": "https://anilist.co/anime/102509",
+    "title": {
+      "english": "",
+      "romaji": "Oni no Ko to Yuki Usagi",
+      "native": "鬼の子とゆきうさぎ"
+    },
+    "description": "One night a Goblin father came home gave his son a red handball. But the boy was shocked to hear that his father picked it up in front of the house of a girl called Yuki\nThe boy decided to return it to her.\n<br><br>\nNext morning, he ran in the snow to a village and saw many boys and girls singing cheerfully. When he came to a small house, he saw a girl sitting alone on the veranda. She said, \"I am Yuki. Who are you?\" He handed a ball to her without an answer. She was very glad and said \" I was looking for it. My sickly mother made this for me. Thank you very much.\" That gave him relief and they become friends.\n<br><br>\n(Source: Kyowa Film)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/102509-Ugdovu6OhADI.jpg",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 22,
+    "status": "FINISHED",
+    "score": 49,
+    "genres": [
+      "Fantasy"
+    ],
+    "updated_at": 1784462595
+  },
+  {
     "id": 102506,
     "id_mal": 30666,
     "url": "https://anilist.co/anime/102506",
@@ -17850,7 +18099,7 @@
     "status": "FINISHED",
     "score": 40,
     "genres": [],
-    "updated_at": 1784380852
+    "updated_at": 1784462595
   },
   {
     "id": 102439,
@@ -18633,7 +18882,7 @@
     "genres": [
       "Fantasy"
     ],
-    "updated_at": 1783948819
+    "updated_at": 1784462595
   },
   {
     "id": 101974,
@@ -19583,7 +19832,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784440942
+    "updated_at": 1784462595
   },
   {
     "id": 101126,
@@ -21040,7 +21289,7 @@
       "Drama",
       "Sports"
     ],
-    "updated_at": 1784455295
+    "updated_at": 1784462595
   },
   {
     "id": 98884,
@@ -21069,7 +21318,7 @@
       "Drama",
       "Sports"
     ],
-    "updated_at": 1784448130
+    "updated_at": 1784462595
   },
   {
     "id": 98876,
@@ -21384,7 +21633,7 @@
       "Horror",
       "Supernatural"
     ],
-    "updated_at": 1784384175
+    "updated_at": 1784462595
   },
   {
     "id": 98662,
@@ -22465,6 +22714,35 @@
       "Horror"
     ],
     "updated_at": 1784390608
+  },
+  {
+    "id": 87505,
+    "id_mal": 33728,
+    "url": "https://anilist.co/anime/87505",
+    "title": {
+      "english": "",
+      "romaji": "Chain Chronicle: Haecceitas no Hikari Part 1",
+      "native": "チェインクロニクル〜ヘクセイタスの閃（ひかり）〜 第１章"
+    },
+    "description": "The first movie of the Chain Chronicle series.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/87505-m17RlCojRKO1.jpg",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/87505-LadikivRmP4i.jpg",
+    "schedule": "Musim: FALL 2016",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "FALL",
+    "year": 2016,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 86,
+    "status": "FINISHED",
+    "score": 65,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "updated_at": 1784462595
   },
   {
     "id": 87458,
@@ -23643,7 +23921,7 @@
       "Mystery",
       "Supernatural"
     ],
-    "updated_at": 1784408567
+    "updated_at": 1784462595
   },
   {
     "id": 21411,
@@ -25394,7 +25672,7 @@
       "Music",
       "Slice of Life"
     ],
-    "updated_at": 1784455295
+    "updated_at": 1784462595
   },
   {
     "id": 20764,
@@ -26126,6 +26404,34 @@
     "updated_at": 1784458910
   },
   {
+    "id": 20007,
+    "id_mal": 20007,
+    "url": "https://anilist.co/anime/20007",
+    "title": {
+      "english": "",
+      "romaji": "Hi Gekiga Ukiyoe Senya Ichiya",
+      "native": "(秘)劇画 浮世絵千一夜"
+    },
+    "description": "An adult movie about a painter whose pictures come alive and commit murder. This film was made in the wake of the success of the Mushi Pro 1001 Nights. Six scenes were cut for obscenity after the movie was released.<br><br>\n(Source: Pelleas)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/20007.jpg",
+    "banner_url": "",
+    "schedule": "Musim: FALL 1969",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "FALL",
+    "year": 1969,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 70,
+    "status": "FINISHED",
+    "score": null,
+    "genres": [
+      "Action",
+      "Hentai"
+    ],
+    "updated_at": 1784462595
+  },
+  {
     "id": 19957,
     "id_mal": 19957,
     "url": "https://anilist.co/anime/19957",
@@ -26798,6 +27104,64 @@
     "updated_at": 1784307950
   },
   {
+    "id": 18319,
+    "id_mal": 18319,
+    "url": "https://anilist.co/anime/18319",
+    "title": {
+      "english": "",
+      "romaji": "Gancheopjamneun Ttorijanggun",
+      "native": "간첩잡는 똘이장군"
+    },
+    "description": "A 1979 Korean jungle hero movie.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/18319.jpg",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 75,
+    "status": "FINISHED",
+    "score": null,
+    "genres": [
+      "Action",
+      "Drama",
+      "Sci-Fi"
+    ],
+    "updated_at": 1784462595
+  },
+  {
+    "id": 18313,
+    "id_mal": 18313,
+    "url": "https://anilist.co/anime/18313",
+    "title": {
+      "english": "",
+      "romaji": "Dokkaebi Gamtu",
+      "native": "도깨비 감투"
+    },
+    "description": "A 1979 Korean movie about a boy dealing with demons.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/18313.jpg",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 70,
+    "status": "FINISHED",
+    "score": null,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "updated_at": 1784462595
+  },
+  {
     "id": 18063,
     "id_mal": 18063,
     "url": "https://anilist.co/anime/18063",
@@ -27390,6 +27754,35 @@
     "updated_at": 1784412201
   },
   {
+    "id": 17165,
+    "id_mal": 17165,
+    "url": "https://anilist.co/anime/17165",
+    "title": {
+      "english": "",
+      "romaji": "SF Saiyuuki Starzinger (Movie)",
+      "native": "ＳＦ西遊記 スタージンガー"
+    },
+    "description": "Princess Aurora, the only survivor of her planet destroyed by evil mutants, is resolved to put an end to the mutant menace in the galaxy along with three enhanced human cyborgs Jesse Dart, Porkos and Aramus, she travels space in the Cosmos Queen to the Dekkos System to fight the final battle.\n<br><br>\n(Source: Anime News Network)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/17165.jpg",
+    "banner_url": "",
+    "schedule": "Musim: SPRING 1979",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "SPRING",
+    "year": 1979,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 25,
+    "status": "FINISHED",
+    "score": 45,
+    "genres": [
+      "Adventure",
+      "Mecha",
+      "Sci-Fi"
+    ],
+    "updated_at": 1784462595
+  },
+  {
     "id": 17121,
     "id_mal": 17121,
     "url": "https://anilist.co/anime/17121",
@@ -27415,7 +27808,7 @@
       "Drama",
       "Slice of Life"
     ],
-    "updated_at": 1784308066
+    "updated_at": 1784462595
   },
   {
     "id": 17117,
@@ -27615,7 +28008,63 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784406265
+    "updated_at": 1784462595
+  },
+  {
+    "id": 16754,
+    "id_mal": 16754,
+    "url": "https://anilist.co/anime/16754",
+    "title": {
+      "english": "",
+      "romaji": "Taekwon Boy White Eagle",
+      "native": "태극소년 흰 독수리"
+    },
+    "description": "A Korean super hero movie.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/16754.jpg",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 90,
+    "status": "FINISHED",
+    "score": null,
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "updated_at": 1784462595
+  },
+  {
+    "id": 16748,
+    "id_mal": 16748,
+    "url": "https://anilist.co/anime/16748",
+    "title": {
+      "english": "Fly, Space Battleship Geobukseon",
+      "romaji": "Narara Ujujeonham Geobukseon",
+      "native": "날아라 우주전함 거북선"
+    },
+    "description": "A Korean animated film taking place in the same universe as Robot Taekwon V. It tells the story of the lone spaceship and its mission to save the Earth.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/16748.jpg",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 90,
+    "status": "FINISHED",
+    "score": null,
+    "genres": [
+      "Action",
+      "Sci-Fi"
+    ],
+    "updated_at": 1784462595
   },
   {
     "id": 16746,
@@ -27673,7 +28122,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784394193
+    "updated_at": 1784462595
   },
   {
     "id": 16664,
@@ -28011,7 +28460,7 @@
       "Drama",
       "Romance"
     ],
-    "updated_at": 1784448140
+    "updated_at": 1784462595
   },
   {
     "id": 16399,
@@ -29242,7 +29691,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784406298
+    "updated_at": 1784462595
   },
   {
     "id": 13215,
@@ -29325,7 +29774,7 @@
     "genres": [
       "Supernatural"
     ],
-    "updated_at": 1784398661
+    "updated_at": 1784462595
   },
   {
     "id": 13169,
@@ -29550,7 +29999,7 @@
       "Comedy",
       "Drama"
     ],
-    "updated_at": 1784448140
+    "updated_at": 1784462595
   },
   {
     "id": 12857,
@@ -30075,7 +30524,7 @@
       "Horror",
       "Supernatural"
     ],
-    "updated_at": 1784398968
+    "updated_at": 1784462595
   },
   {
     "id": 12053,
@@ -31209,7 +31658,7 @@
       "Mahou Shoujo",
       "Sci-Fi"
     ],
-    "updated_at": 1784408567
+    "updated_at": 1784462595
   },
   {
     "id": 10116,
@@ -31607,7 +32056,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784440942
+    "updated_at": 1784462595
   },
   {
     "id": 9751,
@@ -31748,6 +32197,34 @@
       "Slice of Life"
     ],
     "updated_at": 1784322117
+  },
+  {
+    "id": 9547,
+    "id_mal": 9547,
+    "url": "https://anilist.co/anime/9547",
+    "title": {
+      "english": "The Story of Heidi",
+      "romaji": "Alps no Shoujo Heidi (1979)",
+      "native": "アルプスの少女ハイジ (1979)"
+    },
+    "description": "Condensed version of the entire TV series where all the voice actors, except for Heidi and the grandfather, were replaced.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9547.jpg",
+    "banner_url": "",
+    "schedule": "Musim: SPRING 1979",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "SPRING",
+    "year": 1979,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 107,
+    "status": "FINISHED",
+    "score": 66,
+    "genres": [
+      "Drama",
+      "Slice of Life"
+    ],
+    "updated_at": 1784462595
   },
   {
     "id": 9544,
@@ -32178,6 +32655,34 @@
       "Comedy"
     ],
     "updated_at": 1784282525
+  },
+  {
+    "id": 8783,
+    "id_mal": 8783,
+    "url": "https://anilist.co/anime/8783",
+    "title": {
+      "english": "Prince Nezha's Triumph Against Dragon King",
+      "romaji": "Nezha Nao Hai",
+      "native": "哪吒鬧海"
+    },
+    "description": "Prince Nezha's Triumph Against Dragon King is a 1979 Chinese animated film. It was screened out of competition at the 1980 Cannes Film Festival.<br><br>\n(Source: Wikipedia)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx8783-nQpPLDZixRu8.jpg",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/8783-eCEsuRkH3QCt.jpg",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 65,
+    "status": "FINISHED",
+    "score": 56,
+    "genres": [
+      "Adventure",
+      "Fantasy"
+    ],
+    "updated_at": 1784462595
   },
   {
     "id": 8707,
@@ -33753,6 +34258,33 @@
     "updated_at": 1784329393
   },
   {
+    "id": 7729,
+    "id_mal": 7729,
+    "url": "https://anilist.co/anime/7729",
+    "title": {
+      "english": "Adventures of the Polar Cubs",
+      "romaji": "Hokkyoku no Muushika Miishika",
+      "native": "北極のムーシカ・ミーシカ"
+    },
+    "description": "Adventures of the polar cubs is a delightful story of Mushka and Mishka, two polar bear cubs who set out on a series of adventures in the North Pole. Mushka is thoughtful; Mishka is daring. While out on their own Mishka befriends Aura, A prank-playing seal and Mushka stumbles over swan eggs, breaks them and creates havoc in the bird village. The cub's father is Scholar Mu (voice of Joseph Campanella), who is the wise leader of the Great Northern animal kingdom and is in charge of their annual Summer Festival. When Mu is injured by man, the cubs must take on the responsibilities of their father and save the other animals from the hunters.\n<br><br>\n(Source: Anime News Network)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/7729.jpg",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/7729-cMLivUk8DN7w.jpg",
+    "schedule": "Musim: SUMMER 1979",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "SUMMER",
+    "year": 1979,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 78,
+    "status": "FINISHED",
+    "score": 46,
+    "genres": [
+      "Adventure"
+    ],
+    "updated_at": 1784462595
+  },
+  {
     "id": 7718,
     "id_mal": 7718,
     "url": "https://anilist.co/anime/7718",
@@ -35067,6 +35599,33 @@
     "updated_at": 1784376216
   },
   {
+    "id": 7170,
+    "id_mal": 7170,
+    "url": "https://anilist.co/anime/7170",
+    "title": {
+      "english": "",
+      "romaji": "Kataku",
+      "native": "火宅"
+    },
+    "description": "Many years ago, a young woman named Unai-Otome lived in the village of Ikuta. As she was beautiful it was no surprise that she had two suitors, both deeply in love with her. The girl was torn apart over which one to choose. In her desperation she chose a third option - taking her own life. Although her intentions were absolutely pure, not even in death did she find the solace she desired. Many decades later, a pilgrim walking by her grave meets a beautiful young woman and her story once again rises from the depths of time.... With a plot based on a classic play of Noh traditional theatre, the film presents the peak of Kawamoto&rsquo;s mastery thanks to its expert mediation of the absurdity of the human condition.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx7170-uKVqEtg0oPbj.png",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 19,
+    "status": "FINISHED",
+    "score": 56,
+    "genres": [
+      "Supernatural"
+    ],
+    "updated_at": 1784462595
+  },
+  {
     "id": 7169,
     "id_mal": 7169,
     "url": "https://anilist.co/anime/7169",
@@ -35874,6 +36433,34 @@
       "Sports"
     ],
     "updated_at": 1784455295
+  },
+  {
+    "id": 6671,
+    "id_mal": 6671,
+    "url": "https://anilist.co/anime/6671",
+    "title": {
+      "english": "Space Three Musketeers",
+      "romaji": "Byeolnala Samchongsa",
+      "native": "별나라 삼총사"
+    },
+    "description": "Three Earth boys aid a space princess to protect her giggly planet of happiness from evil, grim space pirates. They travel to her planet, storm the enemy base and then get chased in space.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx6671-29fGbywuzTF9.png",
+    "banner_url": "",
+    "schedule": "Musim: SUMMER 1979",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "SUMMER",
+    "year": 1979,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 66,
+    "status": "FINISHED",
+    "score": 37,
+    "genres": [
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "updated_at": 1784462595
   },
   {
     "id": 6654,
@@ -37392,6 +37979,33 @@
     "updated_at": 1784312500
   },
   {
+    "id": 5272,
+    "id_mal": 5272,
+    "url": "https://anilist.co/anime/5272",
+    "title": {
+      "english": "The Legend of Manxmouse",
+      "romaji": "Tondemo Nezumi Daikatsuyaku",
+      "native": "トンデモネズミ大活躍"
+    },
+    "description": "This animated story features Manxmouse, the mouse that looks like a rabbit, and all because of his ears. Join in the adventures in this delightful story. <br><br>\n(Source: MSN Movies)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b5272-xhPx7inHv34N.jpg",
+    "banner_url": "",
+    "schedule": "Musim: SUMMER 1979",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "SUMMER",
+    "year": 1979,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 80,
+    "status": "FINISHED",
+    "score": 45,
+    "genres": [
+      "Adventure"
+    ],
+    "updated_at": 1784462595
+  },
+  {
     "id": 5225,
     "id_mal": 5225,
     "url": "https://anilist.co/anime/5225",
@@ -37900,7 +38514,7 @@
     "genres": [
       "Sci-Fi"
     ],
-    "updated_at": 1784312727
+    "updated_at": 1784462595
   },
   {
     "id": 4876,
@@ -39007,7 +39621,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784282525
+    "updated_at": 1784462595
   },
   {
     "id": 3930,
@@ -40700,6 +41314,35 @@
     "updated_at": 1783948413
   },
   {
+    "id": 2722,
+    "id_mal": 2722,
+    "url": "https://anilist.co/anime/2722",
+    "title": {
+      "english": "Crusher Joe: The Movie",
+      "romaji": "Crusher Joe",
+      "native": "クラッシャージョウ"
+    },
+    "description": "Crushers: intergalactic Jacks-of-All-Trades who will take on any assignment for the right price. Crusher Joe heads a small team of these outer space troubleshooters that includes the cyborg Talos, the beautiful Alfin, and the obligatory kid sidekick Ricky. A routine assignment escorting a cryogenically frozen heiress to a medical facility goes awry when the girl goes missing and Joe and his team are left holding the bag. It seems space pirates are trying to play the Crushers for patsies, but Joe doesn&rsquo;t take kindly to the setup and tracks the pirates to their home world. The four heroes not only have to rescue their human cargo but take down the pirates in the process, which involves a heck of a lot of space dogfights, explosions, and good old-fashioned hand-to-hand combat. <br><br>\n(Source: AniDB)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx2722-z9zqg2mEfGW4.jpg",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/2722-pTgnnshWInBm.jpg",
+    "schedule": "Musim: SPRING 1983",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "SPRING",
+    "year": 1983,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 131,
+    "status": "FINISHED",
+    "score": 69,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "updated_at": 1784462595
+  },
+  {
     "id": 2678,
     "id_mal": 2678,
     "url": "https://anilist.co/anime/2678",
@@ -41394,7 +42037,7 @@
       "Supernatural",
       "Thriller"
     ],
-    "updated_at": 1784427209
+    "updated_at": 1784462595
   },
   {
     "id": 2591,
@@ -41709,7 +42352,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784402651
+    "updated_at": 1784462595
   },
   {
     "id": 2427,
@@ -44888,7 +45531,7 @@
       "Adventure",
       "Mystery"
     ],
-    "updated_at": 1784403770
+    "updated_at": 1784462595
   },
   {
     "id": 1365,
@@ -45169,7 +45812,7 @@
       "Mecha",
       "Sci-Fi"
     ],
-    "updated_at": 1784403795
+    "updated_at": 1784462595
   },
   {
     "id": 1290,
@@ -45517,7 +46160,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784403836
+    "updated_at": 1784462595
   },
   {
     "id": 1207,
@@ -46113,7 +46756,7 @@
       "Mystery",
       "Sci-Fi"
     ],
-    "updated_at": 1784403871
+    "updated_at": 1784462595
   },
   {
     "id": 1095,
@@ -46382,7 +47025,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784440942
+    "updated_at": 1784462595
   },
   {
     "id": 1032,
@@ -47906,7 +48549,7 @@
       "Horror",
       "Romance"
     ],
-    "updated_at": 1784419267
+    "updated_at": 1784462595
   },
   {
     "id": 597,
@@ -48268,7 +48911,7 @@
       "Fantasy",
       "Sci-Fi"
     ],
-    "updated_at": 1784427249
+    "updated_at": 1784462595
   },
   {
     "id": 523,
@@ -48298,7 +48941,7 @@
       "Slice of Life",
       "Supernatural"
     ],
-    "updated_at": 1784419265
+    "updated_at": 1784462595
   },
   {
     "id": 522,
@@ -49489,7 +50132,7 @@
       "Romance",
       "Sports"
     ],
-    "updated_at": 1784316817
+    "updated_at": 1784462595
   },
   {
     "id": 304,
