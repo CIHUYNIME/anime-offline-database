@@ -45402,7 +45402,34 @@
     "genres": [
       "Fantasy"
     ],
-    "updated_at": 1784304124
+    "updated_at": 1784489163
+  },
+  {
+    "id": 2676,
+    "id_mal": 2676,
+    "url": "https://anilist.co/anime/2676",
+    "title": {
+      "english": "Doraemon: Nobita's Fantastical Three Musketeers",
+      "romaji": "Doraemon: Nobita to Mugen Sankenshi",
+      "native": "ドラえもん のび太と夢幻三剣士"
+    },
+    "description": "Tired of the daily life and being the weakest, slowest, and dumbest, Nobita seeks comfort in his dreams where, using Doraemon's tools, he sets out on a fantasy journey. But when Nobita's dream world gets threatened by an evil sorcerer, Nobita gathers his friends to join him in his dream to fight the evil as the Three Musketeers.\n<br><br>\n(Source: Anime News Network)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2676-iDXA4qLWtSmY.jpg",
+    "banner_url": "",
+    "schedule": "Musim: WINTER 1994",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "WINTER",
+    "year": 1994,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 100,
+    "status": "FINISHED",
+    "score": 72,
+    "genres": [
+      "Fantasy"
+    ],
+    "updated_at": 1784489164
   },
   {
     "id": 2675,
@@ -45429,7 +45456,36 @@
     "genres": [
       "Fantasy"
     ],
-    "updated_at": 1784300508
+    "updated_at": 1784489164
+  },
+  {
+    "id": 2674,
+    "id_mal": 2674,
+    "url": "https://anilist.co/anime/2674",
+    "title": {
+      "english": "",
+      "romaji": "Doraemon: Nobita no Sousei Nikki",
+      "native": "ドラえもん のび太の創世日記"
+    },
+    "description": "Nobita had to find a topic for his summer break research homework. As he was blaming everything to Adam and Eve for sinning and causing their descendants to suffer (from homework), Doraemon decided to provide him with a gadget to observe the creation of the world so that he may write it in a diary-like report. Suneo, Giant and Shizuka eventually joined them and together they watch over the birth of tribes and civilizations. Meanwhile, the time patrol is looking for an illegal time machine whose controllers accidentally heard Giant speaking of the genesis diary project. They captured Giant and Suneo; leaving Nobita, Shizuka and Doraemon to watch over the genesis set and to rescue them.\n<br><br>\n(Source: Anime News Network)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2674-cBaj4yUp5AMT.jpg",
+    "banner_url": "",
+    "schedule": "Musim: WINTER 1995",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "WINTER",
+    "year": 1995,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 98,
+    "status": "FINISHED",
+    "score": 67,
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Fantasy"
+    ],
+    "updated_at": 1784489164
   },
   {
     "id": 2673,
@@ -45458,7 +45514,34 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784406289
+    "updated_at": 1784489164
+  },
+  {
+    "id": 2672,
+    "id_mal": 2672,
+    "url": "https://anilist.co/anime/2672",
+    "title": {
+      "english": "Doraemon: Nobita's Great Adventure in the World of Magic",
+      "romaji": "Doraemon: Nobita no Makai Daibouken",
+      "native": "ドラえもん のび太の魔界大冒険"
+    },
+    "description": "Having dreamed of being in a world of magic, Nobita and Doraemon used the what-if-telephone-booth gadget to turn the world into one that is based on magic instead of science. Little did they know that demons exist and threaten this magical world.\n<br><br>\n(Source: Anime News Network)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2672.jpg",
+    "banner_url": "",
+    "schedule": "Musim: WINTER 1984",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "WINTER",
+    "year": 1984,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 98,
+    "status": "FINISHED",
+    "score": 68,
+    "genres": [
+      "Fantasy"
+    ],
+    "updated_at": 1784489165
   },
   {
     "id": 2671,
@@ -45486,6 +45569,62 @@
       "Adventure"
     ],
     "updated_at": 1784304124
+  },
+  {
+    "id": 2670,
+    "id_mal": 2670,
+    "url": "https://anilist.co/anime/2670",
+    "title": {
+      "english": "",
+      "romaji": "Doraemon: Nobita in Dorabian Nights",
+      "native": "ドラえもん のび太のドラビアンナイト"
+    },
+    "description": "Doraemon and Nobita were using special shoes that allows them to jump into the worlds of the books that they want. Nobita let Shizuka use those shoes to enter the world of the book that she wants. Shizuka got lost in one Nobita's Sinbad Legend of the Seven Seas book. After Nobita's mother burned all of his books, Doraemon and the others must find another way to save Shizuka.\n<br><br>\n(Source: Anime News Network)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2670-Iioq4YfxHzWl.jpg",
+    "banner_url": "",
+    "schedule": "Musim: WINTER 1991",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "WINTER",
+    "year": 1991,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 120,
+    "status": "FINISHED",
+    "score": 71,
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Fantasy"
+    ],
+    "updated_at": 1784489165
+  },
+  {
+    "id": 2669,
+    "id_mal": 2669,
+    "url": "https://anilist.co/anime/2669",
+    "title": {
+      "english": "Doraemon: Nobita's Little Star Wars",
+      "romaji": "Doraemon: Nobita no Little Star Wars",
+      "native": "ドラえもん のび太の宇宙小戦争"
+    },
+    "description": "Papi, the tiny president of a faraway planet, escapes to Earth to avoid being captured by the military forces that took over. Despite being welcomed by Doraemon, Nobita and their friends, the little alien notices that his enemies have also reached this world and doesn't want to get his human friends involved in this war. Doraemon, Nobita, Gian, Suneo, and Shizuka start a big adventure as they try to hide and protect Papi.\n<br><br>\n(Source: Anime News Network)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2669-IVycnrkH5Sq5.jpg",
+    "banner_url": "",
+    "schedule": "Musim: SPRING 1985",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "SPRING",
+    "year": 1985,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 98,
+    "status": "FINISHED",
+    "score": 68,
+    "genres": [
+      "Fantasy"
+    ],
+    "updated_at": 1784489165
   },
   {
     "id": 2668,
@@ -45541,7 +45680,65 @@
     "genres": [
       "Fantasy"
     ],
-    "updated_at": 1784304124
+    "updated_at": 1784489166
+  },
+  {
+    "id": 2666,
+    "id_mal": 2666,
+    "url": "https://anilist.co/anime/2666",
+    "title": {
+      "english": "Doraemon: Nobita at the Birth of Japan",
+      "romaji": "Doraemon: Nobita no Nippon Tanjou",
+      "native": "ドラえもん のび太の日本誕生"
+    },
+    "description": "<i>The 10th Doraemon movie.</i> \n<br><br>\nNobita wants to run away from home, again. He finds out that there is nowhere for him to go. All the land is owned by someone. His friends end up wanting to run away also, even Doraemon. They figure out that the only way to find land that isn't owned by anyone is to go back in time to when no humans existed. They end up helping a prehistoric boy rescue his tribe from Gigazombie.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2666-f0EGXLLgYU1a.jpg",
+    "banner_url": "",
+    "schedule": "Musim: WINTER 1989",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "WINTER",
+    "year": 1989,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 100,
+    "status": "FINISHED",
+    "score": 68,
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Fantasy"
+    ],
+    "updated_at": 1784489166
+  },
+  {
+    "id": 2665,
+    "id_mal": 2665,
+    "url": "https://anilist.co/anime/2665",
+    "title": {
+      "english": "Doraemon: Nobita and the Platoon of Iron Men",
+      "romaji": "Doraemon: Nobita to Tetsujin Heidan",
+      "native": "ドラえもん のび太と鉄人兵団"
+    },
+    "description": "Giant robot parts fell from the sky, so Nobita and Doraemon took it into the mirror world to build it and called it the Zandacross. It seems that Zandacross is a dangerous weapon so they kept it a secret. A mysterious girl named Lilulu appeared and asked for Zandacross for the invasion but she doesn't agree to invade the Earth. Doraemon and the others join forces to stop the invasion of the robot army but it seems that Lilulu is the only one that can stop it.\n<br><br>\n(Source: Anime News Network)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2665-mnohfB1j7y8y.png",
+    "banner_url": "",
+    "schedule": "Musim: WINTER 1986",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "WINTER",
+    "year": 1986,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 97,
+    "status": "FINISHED",
+    "score": 73,
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Fantasy"
+    ],
+    "updated_at": 1784489166
   },
   {
     "id": 2664,
@@ -45568,7 +45765,35 @@
     "genres": [
       "Fantasy"
     ],
-    "updated_at": 1784329393
+    "updated_at": 1784489167
+  },
+  {
+    "id": 2661,
+    "id_mal": 2661,
+    "url": "https://anilist.co/anime/2661",
+    "title": {
+      "english": "Doraemon: Nobita and the Kingdom of Clouds",
+      "romaji": "Doraemon: Nobita to Kumo no Oukoku",
+      "native": "ドラえもん のび太と雲の王国"
+    },
+    "description": "During class, Nobita questions the teacher where heaven is located when he was being taught about clouds. Being laughed at, Nobita looks for proof that a heavenly place exists on the clouds, but was explained by Doraemon that it cannot exist scientifically. Disappointed, he was eventually helped by Doraemon to create their own kingdom of clouds. Little did they know that there are creatures who have been living on clouds for a long time.\n<br><br>\n(Source: Anime News Network)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2661-t74APVa55OZw.jpg",
+    "banner_url": "",
+    "schedule": "Musim: WINTER 1992",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "WINTER",
+    "year": 1992,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 93,
+    "status": "FINISHED",
+    "score": 70,
+    "genres": [
+      "Adventure",
+      "Comedy"
+    ],
+    "updated_at": 1784489167
   },
   {
     "id": 2660,
@@ -45622,7 +45847,7 @@
     "genres": [
       "Fantasy"
     ],
-    "updated_at": 1784304124
+    "updated_at": 1784489167
   },
   {
     "id": 2658,
@@ -45650,6 +45875,121 @@
       "Fantasy"
     ],
     "updated_at": 1784304124
+  },
+  {
+    "id": 2657,
+    "id_mal": 2657,
+    "url": "https://anilist.co/anime/2657",
+    "title": {
+      "english": "Doraemon: Nobita and the Dragon Rider",
+      "romaji": "Doraemon: Nobita to Ryuu no Kishi",
+      "native": "ドラえもん のび太と竜の騎士"
+    },
+    "description": "Doraemon created a hideout for everyone in an underground cave and Suneo got lost. Everyone came back out except Suneo. After finding out that he was lost the entrance was broken. They have to find another entrance to the caves and end up in a dinosaur world. Vanho , a soldier rescued them and said that he found Suneo. When they found Suneo they found out about Vanho's people's plans. Their plan it to study Doraemon's group as human specimens and take over Earth's suface .\n<br><br>\n(Source: Anime News Network)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2657-afg3dpcrYhqB.jpg",
+    "banner_url": "",
+    "schedule": "Musim: WINTER 1987",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "WINTER",
+    "year": 1987,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 91,
+    "status": "FINISHED",
+    "score": 67,
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Fantasy"
+    ],
+    "updated_at": 1784489168
+  },
+  {
+    "id": 2656,
+    "id_mal": 2656,
+    "url": "https://anilist.co/anime/2656",
+    "title": {
+      "english": "Doraemon: Nobita's Wannyan Space-Time Legend",
+      "romaji": "Doraemon: Nobita no Wan Nyan Jikuuden",
+      "native": "ドラえもん のび太のワンニャン時空伝"
+    },
+    "description": "One day, Nobita finds a stray dog drowning in a river while playing by the river side. Feeling sorry for the dog, he decides to take it home by hiding it in a \"kennel on the wall\" and names it Ichi (originated from \"One\", which sounds similar to \"wan\", the sound a dog makes according to the Japanese language), and secretly feeds it and plays with Ichi with his Kendama to find. Soon after, he also adopts a stray cat named Zubu (or wet in Japanese, due to the discovery of it in a rainstorm)... and many other stray cats and dogs. With so many stray cats and dogs, Nobita, along with his friends, decide to send them back in time, 300 million years ago, where there was no other living beings around. After using the Ray of Evolution to allow them to operate a food-making machine, they depart, with a promise to return to the present.<br><br>\nHowever, when they try to visit them the next day (from their point of view), they encountered a time-space anomaly, sending them crash landing 1,000 years before their original time-destination&mdash; to their surprise, They found out the dogs and cats have evolved enough to form a civilized society that rivaled those of Future Society. As the time machine is broken, they try to find help to repair it so they can continue their chrono-journey, only to learn of a bigger issue &mdash; a cluster of asteroids are going to Collide with Earth.<br><br>\nWill Nobita finally reunite with Ichi, as he promised? More over, what's with Hachi, a dog who resembles Ichi greatly? The 300 million years of time and space adventure begins.<br><br>\n(Source: Wikipedia)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2656.jpg",
+    "banner_url": "",
+    "schedule": "Musim: SPRING 2004",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "SPRING",
+    "year": 2004,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 80,
+    "status": "FINISHED",
+    "score": 70,
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Sci-Fi"
+    ],
+    "updated_at": 1784489168
+  },
+  {
+    "id": 2655,
+    "id_mal": 2655,
+    "url": "https://anilist.co/anime/2655",
+    "title": {
+      "english": "",
+      "romaji": "Doraemon: Nobita to Robot Oukoku",
+      "native": "ドラえもん のび太とロボット王国"
+    },
+    "description": "Doraemon and friends travels into another world via the time machine; where humans and robots are living together. However they soon find out that the Empress of Robot Kingdom was trying to capture robots there and turn them emotionless. As the situation goes tense, our heroes sets out to stop the Empress and her plan.<br><br>\n(Source: Wikipedia)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2655-Q5IKupd2pN98.jpg",
+    "banner_url": "",
+    "schedule": "Musim: WINTER 2002",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "WINTER",
+    "year": 2002,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 81,
+    "status": "FINISHED",
+    "score": 69,
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Fantasy"
+    ],
+    "updated_at": 1784489168
+  },
+  {
+    "id": 2654,
+    "id_mal": 2654,
+    "url": "https://anilist.co/anime/2654",
+    "title": {
+      "english": "Doraemon: Nobita's Winged Heroes",
+      "romaji": "Doraemon: Nobita to Tsubasa no Yuusha-tachi",
+      "native": "ドラえもん のび太と翼の勇者たち"
+    },
+    "description": "Nobita and his friends gathered at Shizuka's house when they heard about the news about missing flocks of bird species. Nobita believed they were taken away by winged creatures and became obsessed on flying on his own. He created mechanical wings and upon the experiment he encountered an actual winged creature flying out of a time-space distortion. Upon helping him whose name is Gusuke, Nobita and his friends were sucked into the distortion and reached Gusuke's home, Birdpia or the world where the winged creatures live.\n<br><br>\n(Source: Anime News Network)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2654.jpg",
+    "banner_url": "",
+    "schedule": "Musim: WINTER 2001",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "WINTER",
+    "year": 2001,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 90,
+    "status": "FINISHED",
+    "score": 70,
+    "genres": [
+      "Adventure",
+      "Fantasy"
+    ],
+    "updated_at": 1784489168
   },
   {
     "id": 2652,
@@ -45760,7 +46100,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784427252
+    "updated_at": 1784489169
   },
   {
     "id": 2645,
@@ -45815,6 +46155,33 @@
       "Fantasy"
     ],
     "updated_at": 1784386898
+  },
+  {
+    "id": 2631,
+    "id_mal": 2631,
+    "url": "https://anilist.co/anime/2631",
+    "title": {
+      "english": "",
+      "romaji": "The☆Doraemons: Goal! Goal! Goal!!",
+      "native": "ザ☆ドラえもんズ ゴール！ゴール！ゴール！！"
+    },
+    "description": "The Doraemons, a group of culturally different versions of the Doraemon, gather to play a game of soccer.\n<br><br>\n(Source: Anime News Network)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2631-QY4JOkJNnO5j.png",
+    "banner_url": "",
+    "schedule": "Musim: SPRING 2002",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "SPRING",
+    "year": 2002,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 7,
+    "status": "FINISHED",
+    "score": 60,
+    "genres": [
+      "Fantasy"
+    ],
+    "updated_at": 1784489170
   },
   {
     "id": 2626,
@@ -45896,7 +46263,7 @@
       "Drama",
       "Slice of Life"
     ],
-    "updated_at": 1783948413
+    "updated_at": 1784489171
   },
   {
     "id": 2621,
@@ -45924,7 +46291,7 @@
       "Drama",
       "Romance"
     ],
-    "updated_at": 1784332879
+    "updated_at": 1784489173
   },
   {
     "id": 2611,
@@ -45985,7 +46352,7 @@
       "Fantasy",
       "Sci-Fi"
     ],
-    "updated_at": 1784473455
+    "updated_at": 1784489181
   },
   {
     "id": 2594,
@@ -46015,7 +46382,7 @@
       "Drama",
       "Music"
     ],
-    "updated_at": 1784473455
+    "updated_at": 1784489194
   },
   {
     "id": 2593,
@@ -46045,7 +46412,7 @@
       "Supernatural",
       "Thriller"
     ],
-    "updated_at": 1784473455
+    "updated_at": 1784489202
   },
   {
     "id": 2591,
@@ -46101,7 +46468,7 @@
       "Drama",
       "Sci-Fi"
     ],
-    "updated_at": 1784368905
+    "updated_at": 1784489211
   },
   {
     "id": 2511,
@@ -46132,6 +46499,36 @@
     "updated_at": 1784332878
   },
   {
+    "id": 2499,
+    "id_mal": 2499,
+    "url": "https://anilist.co/anime/2499",
+    "title": {
+      "english": "Slam Dunk: Roar!! Basket Man Spirit",
+      "romaji": "SLAM DUNK: Hoero Basketman-damashii! Hanamichi to Rukawa no Atsuki Natsu",
+      "native": "SLAM DUNK 吠えろバスケットマン魂! 花道と流川の熱き夏"
+    },
+    "description": "Ichiro Mizusawa, a player from Rukawa's old junior high school, Tomigoaka, is diagnosed with a crippling leg condition and wants to play one last game with Rukawa. Hanamichi sets out to help the boy and fulfill his wish. <br><br>\n(Source: Anime News Network)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2499-qAUPg4OdYFnU.png",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/n2499-IhdcWBIRGM7L.jpg",
+    "schedule": "Musim: SUMMER 1995",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "SUMMER",
+    "year": 1995,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 40,
+    "status": "FINISHED",
+    "score": 73,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Slice of Life",
+      "Sports"
+    ],
+    "updated_at": 1784489222
+  },
+  {
     "id": 2498,
     "id_mal": 2498,
     "url": "https://anilist.co/anime/2498",
@@ -46159,7 +46556,35 @@
       "Slice of Life",
       "Sports"
     ],
-    "updated_at": 1784322117
+    "updated_at": 1784489222
+  },
+  {
+    "id": 2488,
+    "id_mal": 2488,
+    "url": "https://anilist.co/anime/2488",
+    "title": {
+      "english": "Mei and the Baby Cat Bus",
+      "romaji": "Mei to Koneko Bus",
+      "native": "めいとこねこバス"
+    },
+    "description": "A short film only screened at the Ghibli Museum in Mitaka. This work is a mini-sequel to the film <i>My Neighbor Totoro</i>.<br><br>\nMei is eating a caramel on one very windy day, when suddenly a whirlwind appears and starts chasing her. The whirlwind turns out to be a baby cat bus. Mei offers the kitten a caramel and the two become friends. That night, the baby cat bus visits Mei. Letting Mei ride inside him, he leaps out into the sky. They head for the midnight forest full of ghosts. Other cat buses large and small have also gathered together. In the forest, Mei encounters... <br><br>\n(Source: Ghibli Museum)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2488.jpg",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/2488-Aib07hKbsJfD.jpg",
+    "schedule": "Musim: FALL 2002",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "FALL",
+    "year": 2002,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 14,
+    "status": "FINISHED",
+    "score": 70,
+    "genres": [
+      "Adventure",
+      "Fantasy"
+    ],
+    "updated_at": 1784489226
   },
   {
     "id": 2472,
@@ -46189,7 +46614,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784406300
+    "updated_at": 1784489239
   },
   {
     "id": 2470,
@@ -46217,7 +46642,7 @@
       "Action",
       "Sci-Fi"
     ],
-    "updated_at": 1784402644
+    "updated_at": 1784489240
   },
   {
     "id": 2460,
@@ -46245,7 +46670,7 @@
       "Comedy",
       "Romance"
     ],
-    "updated_at": 1784402645
+    "updated_at": 1784489241
   },
   {
     "id": 2454,
@@ -46275,7 +46700,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784402646
+    "updated_at": 1784489242
   },
   {
     "id": 2452,
@@ -46304,7 +46729,7 @@
       "Adventure",
       "Sci-Fi"
     ],
-    "updated_at": 1784427256
+    "updated_at": 1784489242
   },
   {
     "id": 2450,
@@ -46332,7 +46757,35 @@
       "Comedy",
       "Slice of Life"
     ],
-    "updated_at": 1784402649
+    "updated_at": 1784489243
+  },
+  {
+    "id": 2429,
+    "id_mal": 2429,
+    "url": "https://anilist.co/anime/2429",
+    "title": {
+      "english": "Unico in the Island of Magic",
+      "romaji": "Unico Mahou no Shima e",
+      "native": "ユニコ 魔法の島へ"
+    },
+    "description": "Based on \"Unico and the Kingdom of the Sun,\" which was newly written as a theater version, this animated film features a battle between the wizard Kukuruku and Unico. Kukuruku builds a castle using dolls transformed from men as building parts. The story revolves around the sorrow and terror of men who have been transfigured into dolls, and a girl named Cherry who wishes to recover the kindness in her brother, who is a student of Kukuruku. This work reminds us of the fact that \"transformation\" or \"transfiguration\" - favorite themes of Tezuka Osamu - involves not only material aspects, but also man's immaterial heart.<br><br>\n(Source: Tezuka Osamu's Website)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx2429-DxUplF0kJqU3.jpg",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/2429-LULrPvixSy7I.jpg",
+    "schedule": "Musim: SUMMER 1983",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "SUMMER",
+    "year": 1983,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 91,
+    "status": "FINISHED",
+    "score": 70,
+    "genres": [
+      "Adventure",
+      "Fantasy"
+    ],
+    "updated_at": 1784489245
   },
   {
     "id": 2428,
@@ -46355,12 +46808,12 @@
     "episodes": 1,
     "duration": 26,
     "status": "FINISHED",
-    "score": 62,
+    "score": 61,
     "genres": [
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784462595
+    "updated_at": 1784489245
   },
   {
     "id": 2427,
@@ -46388,7 +46841,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784402651
+    "updated_at": 1784489245
   },
   {
     "id": 2423,
@@ -46417,7 +46870,7 @@
       "Fantasy",
       "Sci-Fi"
     ],
-    "updated_at": 1784415834
+    "updated_at": 1784489246
   },
   {
     "id": 2418,
@@ -46445,7 +46898,38 @@
       "Action",
       "Adventure"
     ],
-    "updated_at": 1784408560
+    "updated_at": 1784489249
+  },
+  {
+    "id": 2408,
+    "id_mal": 2408,
+    "url": "https://anilist.co/anime/2408",
+    "title": {
+      "english": "Sergeant Keroro: The Super Duper Movie 2",
+      "romaji": "Keroro Gunsou Movie 2: Shinkai no Princess de Arimasu!",
+      "native": "超劇場版　ケロロ軍曹２　深海のプリンセスであります！"
+    },
+    "description": "During a vacation Natsumi is visited by a female alien and male alien who she later gains feelings for from the ocean that makes her the Deep Sea Princess who, along with the rest of the Keroro Platoon, encounter many dangers summoned by a mysterious creature. <br><br>\r\n(Source: Wikipedia)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2408-7a8WPvRvTDnQ.jpg",
+    "banner_url": "",
+    "schedule": "Musim: SPRING 2007",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "SPRING",
+    "year": 2007,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 78,
+    "status": "FINISHED",
+    "score": 67,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Drama",
+      "Sci-Fi"
+    ],
+    "updated_at": 1784489250
   },
   {
     "id": 2407,
@@ -46473,7 +46957,7 @@
       "Comedy",
       "Sci-Fi"
     ],
-    "updated_at": 1784473455
+    "updated_at": 1784489250
   },
   {
     "id": 2398,
@@ -46504,7 +46988,7 @@
       "Drama",
       "Sci-Fi"
     ],
-    "updated_at": 1784402661
+    "updated_at": 1784489253
   },
   {
     "id": 2397,
@@ -46534,7 +47018,7 @@
       "Fantasy",
       "Sci-Fi"
     ],
-    "updated_at": 1784480696
+    "updated_at": 1784489254
   },
   {
     "id": 2393,
@@ -46563,7 +47047,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784402663
+    "updated_at": 1784489254
   },
   {
     "id": 2392,
@@ -46591,7 +47075,34 @@
       "Adventure",
       "Comedy"
     ],
-    "updated_at": 1784402663
+    "updated_at": 1784489254
+  },
+  {
+    "id": 2388,
+    "id_mal": 2388,
+    "url": "https://anilist.co/anime/2388",
+    "title": {
+      "english": "Tachigui: The Amazing Lives of the Fast Food Grifters",
+      "romaji": "Tachiguishi Retsuden",
+      "native": "立喰師列伝"
+    },
+    "description": "Immediately following the end of the World War II, Tokyo was trying to emerge from the rubble. In a corner of the black market stood a flimsy soba (buckwheat noodle) eatery. <br>\nIt was a delicate time just before the closing. A man appeared at the threshold. \"One moongaze (raw egg). With soba.\" This was none other than the legendary Fast Food Grifter known as Moongaze Ginji. His relentless scam quietly initiates. <br><br>\nThe time changes. In the midst of the first anti Japan-US Security Treaty movement (1960), the streets rumored about Foxy Croquette O-Gin, a beautiful lady Fast Food Grifter, who disappeared all of a sudden. Wandering the alleys in the years of the economic miracle was Crying Inumaru, the loser. Then came Cold Badger Masa, whose scandalous death made people aware of the presence of Fast Food Grifters within the Japanese society. Beefbowl Ushigoro put an end to a major gyudon (beef and rice bowl) restaurant chain. And it is not possible not to mention Hamburger Tetsu, who shocked the entire fast food industry. <br><br>\nFast Food Grifters are the phantoms that rise and fall with the shifting diet-styles. They are the dissenting heroes who carved their names on the dark side of dietary culture with their glare. Now their legend revives, strong as ever...<br><br>\n(Source: Production I.G.)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2388.jpg",
+    "banner_url": "",
+    "schedule": "Musim: SPRING 2006",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "SPRING",
+    "year": 2006,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 104,
+    "status": "FINISHED",
+    "score": 46,
+    "genres": [
+      "Comedy"
+    ],
+    "updated_at": 1784489255
   },
   {
     "id": 2360,
@@ -46649,7 +47160,7 @@
       "Horror",
       "Supernatural"
     ],
-    "updated_at": 1784473455
+    "updated_at": 1784489265
   },
   {
     "id": 2314,
@@ -46678,6 +47189,35 @@
       "Drama"
     ],
     "updated_at": 1784253710
+  },
+  {
+    "id": 2312,
+    "id_mal": 2312,
+    "url": "https://anilist.co/anime/2312",
+    "title": {
+      "english": "Bagi, the Monster of Mighty Nature",
+      "romaji": "Daishizen no Majuu: Bagi",
+      "native": "大自然の魔獣 バギ"
+    },
+    "description": "Ryo is sent out by the people of a village to kill the monster which has been attacking the villagers. It is rumored that this monster is a cat-woman named Bagi. As Ryo waits for the monster to come to its watering hole, he thinks back to how he first met Bagi as a kitten who learned how to write, and later reenters his life on a quest to discover who and what she really is. But now she has gone wild, and as the time of her arrival approaches, he strengthens his resolve to kill her.\n<br><br>\n(Source: Anime News Network)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2312-jAjilSdUc8Ba.jpg",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/2312-G97Vl9fgGV21.jpg",
+    "schedule": "Musim: SUMMER 1984",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "SUMMER",
+    "year": 1984,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 90,
+    "status": "FINISHED",
+    "score": 60,
+    "genres": [
+      "Action",
+      "Romance",
+      "Sci-Fi"
+    ],
+    "updated_at": 1784489271
   },
   {
     "id": 2289,
@@ -46710,6 +47250,34 @@
     "updated_at": 1784402682
   },
   {
+    "id": 2286,
+    "id_mal": 2286,
+    "url": "https://anilist.co/anime/2286",
+    "title": {
+      "english": "Little Nemo: Adventures in Slumberland",
+      "romaji": "Nemo",
+      "native": "ニモ"
+    },
+    "description": "Welcome to the fantasy world of \"Little Nemo,\" where dreams of enchanted lands and new friends take young Nemo into an exciting, fun-filled adventure through Slumberland. On one unforgettable night, Nemo falls asleep. Soon, with the help of his flying pet squirrel Icarus and his friend Professor Genius, they journey together into Slumberland. Nemo is lovingly embraced by the people of Slumberland, particularly the King, who adopts Nemo and makes him heir to the throne. He is entrusted with two very special possessions: the prized royal Scepter, and a mysterious key that unlocks many secrets!<br>\n<br>\nThough Nemo is warned not to open the one door with the power to destroy Slumberland, temptation proves too strong and the King is abducted as a black cloud of nightmares washes over the formerly idyllic dreamscape. Now, if Nemo is to reverse his error and bring the King back, he must rally his friends and journey deep into Nightmare Land.<br>\n<br>\n(Source: Discotek Media)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2286-DqqpxLrOazca.png",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/2286-uh9L7sNpGw9w.jpg",
+    "schedule": "Musim: SUMMER 1989",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "SUMMER",
+    "year": 1989,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 94,
+    "status": "FINISHED",
+    "score": 64,
+    "genres": [
+      "Adventure",
+      "Fantasy"
+    ],
+    "updated_at": 1784489276
+  },
+  {
     "id": 2279,
     "id_mal": 2279,
     "url": "https://anilist.co/anime/2279",
@@ -46736,7 +47304,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784402683
+    "updated_at": 1784489277
   },
   {
     "id": 2273,
@@ -46766,7 +47334,7 @@
       "Mecha",
       "Sci-Fi"
     ],
-    "updated_at": 1784427258
+    "updated_at": 1784489278
   },
   {
     "id": 2265,
@@ -46795,7 +47363,7 @@
       "Mecha",
       "Sci-Fi"
     ],
-    "updated_at": 1784419289
+    "updated_at": 1784489280
   },
   {
     "id": 2264,
@@ -46852,7 +47420,34 @@
       "Romance",
       "Sci-Fi"
     ],
-    "updated_at": 1784402724
+    "updated_at": 1784489302
+  },
+  {
+    "id": 2211,
+    "id_mal": 2211,
+    "url": "https://anilist.co/anime/2211",
+    "title": {
+      "english": "",
+      "romaji": "Jumping",
+      "native": "ジャンピング"
+    },
+    "description": "A boy walks down the street and as he goes along his strides increase. Eventually he leaps over towns, forests, and oceans, seeing many things and surprising many people along the way.\n<br><br>\n(Source: Anime News Network)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2211.jpg",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/2211-nmLr5BT3alxM.jpg",
+    "schedule": "Musim: SUMMER 1984",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "SUMMER",
+    "year": 1984,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 6,
+    "status": "FINISHED",
+    "score": 61,
+    "genres": [
+      "Adventure"
+    ],
+    "updated_at": 1784489311
   },
   {
     "id": 2202,
@@ -46911,7 +47506,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784402730
+    "updated_at": 1784489313
   },
   {
     "id": 2199,
@@ -46940,7 +47535,7 @@
       "Drama",
       "Fantasy"
     ],
-    "updated_at": 1784402732
+    "updated_at": 1784489314
   },
   {
     "id": 2178,
@@ -46968,7 +47563,7 @@
       "Action",
       "Sci-Fi"
     ],
-    "updated_at": 1784473455
+    "updated_at": 1784489317
   },
   {
     "id": 2176,
@@ -46997,7 +47592,7 @@
       "Mecha",
       "Sci-Fi"
     ],
-    "updated_at": 1784473455
+    "updated_at": 1784489317
   },
   {
     "id": 2175,
@@ -47026,7 +47621,36 @@
       "Drama",
       "Fantasy"
     ],
-    "updated_at": 1784402735
+    "updated_at": 1784489318
+  },
+  {
+    "id": 2174,
+    "id_mal": 2174,
+    "url": "https://anilist.co/anime/2174",
+    "title": {
+      "english": "Fist of the North Star: The Legend of the True Savior: Legend of Raoh: Chapter of Fierce Fighting",
+      "romaji": "Hokuto no Ken: Raoh Gaiden Gekitou-hen",
+      "native": "真救世主伝説　北斗の拳　ラオウ伝　激闘の章"
+    },
+    "description": "The third chapter of the pentalogy (3 Movies + 2 OVAs). A retelling of Kenshiro's final battle with Raoh.<br><br>\n(Source: Wikipedia)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2174-U6tKfduGFNAX.jpg",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/2174-rXxGktSKSeHJ.jpg",
+    "schedule": "Musim: SPRING 2007",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "SPRING",
+    "year": 2007,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 89,
+    "status": "FINISHED",
+    "score": 72,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Romance"
+    ],
+    "updated_at": 1784489318
   },
   {
     "id": 2173,
@@ -47054,7 +47678,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784473455
+    "updated_at": 1784489318
   },
   {
     "id": 2172,
@@ -47082,7 +47706,7 @@
       "Comedy",
       "Ecchi"
     ],
-    "updated_at": 1784473455
+    "updated_at": 1784489318
   },
   {
     "id": 2171,
@@ -47109,7 +47733,7 @@
     "genres": [
       "Mystery"
     ],
-    "updated_at": 1784402737
+    "updated_at": 1784489319
   },
   {
     "id": 2154,
@@ -47138,7 +47762,7 @@
       "Psychological",
       "Supernatural"
     ],
-    "updated_at": 1784427239
+    "updated_at": 1784489340
   },
   {
     "id": 2144,
@@ -47166,7 +47790,7 @@
       "Action",
       "Adventure"
     ],
-    "updated_at": 1784408567
+    "updated_at": 1784489343
   },
   {
     "id": 2141,
@@ -47253,7 +47877,7 @@
       "Romance",
       "Supernatural"
     ],
-    "updated_at": 1784473455
+    "updated_at": 1784489345
   },
   {
     "id": 2123,
@@ -47283,7 +47907,7 @@
       "Fantasy",
       "Sci-Fi"
     ],
-    "updated_at": 1784427260
+    "updated_at": 1784489349
   },
   {
     "id": 2121,
@@ -47391,7 +48015,7 @@
     "genres": [
       "Sports"
     ],
-    "updated_at": 1784242996
+    "updated_at": 1784489350
   },
   {
     "id": 2111,
@@ -47448,7 +48072,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784473455
+    "updated_at": 1784489353
   },
   {
     "id": 2100,
@@ -47506,7 +48130,7 @@
       "Sci-Fi",
       "Supernatural"
     ],
-    "updated_at": 1784402792
+    "updated_at": 1784489370
   },
   {
     "id": 2077,
@@ -47533,7 +48157,7 @@
     "genres": [
       "Mystery"
     ],
-    "updated_at": 1784402794
+    "updated_at": 1784489373
   },
   {
     "id": 2071,
@@ -47593,7 +48217,7 @@
       "Mecha",
       "Sci-Fi"
     ],
-    "updated_at": 1784402796
+    "updated_at": 1784489375
   },
   {
     "id": 2055,
@@ -47626,6 +48250,33 @@
     "updated_at": 1784402796
   },
   {
+    "id": 2047,
+    "id_mal": 2047,
+    "url": "https://anilist.co/anime/2047",
+    "title": {
+      "english": "Mermaid",
+      "romaji": "Ningyo",
+      "native": "人魚"
+    },
+    "description": "In a fictional place where using the imagination is banned, a boy saves a fish, which surprises everyone by turning into a mermaid. The boy is arrested for imagining this \"nonsense\", and is robbed of his imagination as punishment.\n<br><br>\n(Source: Anime News Network)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2047.jpg",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/2047-CYFpeeBjnDOM.jpg",
+    "schedule": "Musim: FALL 1964",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "FALL",
+    "year": 1964,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 8,
+    "status": "FINISHED",
+    "score": 57,
+    "genres": [
+      "Fantasy"
+    ],
+    "updated_at": 1784489377
+  },
+  {
     "id": 2042,
     "id_mal": 2042,
     "url": "https://anilist.co/anime/2042",
@@ -47654,7 +48305,7 @@
       "Mecha",
       "Sci-Fi"
     ],
-    "updated_at": 1784402798
+    "updated_at": 1784489380
   },
   {
     "id": 2033,
@@ -47683,7 +48334,7 @@
       "Psychological",
       "Sci-Fi"
     ],
-    "updated_at": 1784402804
+    "updated_at": 1784489386
   },
   {
     "id": 2029,
@@ -47712,7 +48363,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784402805
+    "updated_at": 1784489387
   },
   {
     "id": 2013,
@@ -47741,7 +48392,7 @@
       "Comedy",
       "Drama"
     ],
-    "updated_at": 1784402815
+    "updated_at": 1784489398
   },
   {
     "id": 2006,
@@ -47770,7 +48421,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784402817
+    "updated_at": 1784489400
   },
   {
     "id": 2000,
@@ -47801,7 +48452,61 @@
       "Mecha",
       "Sci-Fi"
     ],
-    "updated_at": 1784402834
+    "updated_at": 1784489421
+  },
+  {
+    "id": 1989,
+    "id_mal": 1989,
+    "url": "https://anilist.co/anime/1989",
+    "title": {
+      "english": "The Drop",
+      "romaji": "Shizuku",
+      "native": "しずく"
+    },
+    "description": "A man trapped on a raft in the middle of the ocean is in desperate need of water. Luckily for him, a few drops of rain water are about to fall from the raft's mast. Comedy ensues as the thirsty man attempts to drink the few small drops of water.\n<br><br>\n(Source: Anime News Network)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1989-Dm1rneWQkXBA.png",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/1989-DLY41qSfk26E.jpg",
+    "schedule": "Musim: FALL 1965",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "FALL",
+    "year": 1965,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 4,
+    "status": "FINISHED",
+    "score": 50,
+    "genres": [
+      "Comedy"
+    ],
+    "updated_at": 1784489422
+  },
+  {
+    "id": 1984,
+    "id_mal": 1984,
+    "url": "https://anilist.co/anime/1984",
+    "title": {
+      "english": "",
+      "romaji": "Memory",
+      "native": "めもりい"
+    },
+    "description": "This is a short, privately produced animated film. While elucidating the mystery and fuzziness as well as merits and demerits of memory in idealizing reality, the story develops into a tale of destruction of human beings, turning the existence of the earth into a memory of the universe. The production, only 5 minutes long, greatly helps expand the viewer's imagination, embodying the enchantment of animation.<br><br>\n(Source: AniDB)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1984-AxWxVpjQzLBB.png",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/1984-yE5h0iZoRH4p.jpg",
+    "schedule": "Musim: FALL 1964",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "FALL",
+    "year": 1964,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 5,
+    "status": "FINISHED",
+    "score": 54,
+    "genres": [
+      "Mystery"
+    ],
+    "updated_at": 1784489422
   },
   {
     "id": 1983,
@@ -47831,6 +48536,33 @@
     "updated_at": 1784402836
   },
   {
+    "id": 1982,
+    "id_mal": 1982,
+    "url": "https://anilist.co/anime/1982",
+    "title": {
+      "english": "Male",
+      "romaji": "Osu",
+      "native": "おす"
+    },
+    "description": "A cat just wants some alone time with his girl, but is interrupted by his stressed owner. Can't those stupid humans just keep things like relationships simple?",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx1982-XW3AItdy1oRi.jpg",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/n1982-TNfY8MY2lS2E.jpg",
+    "schedule": "Musim: FALL 1962",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "FALL",
+    "year": 1962,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 3,
+    "status": "FINISHED",
+    "score": 46,
+    "genres": [
+      "Slice of Life"
+    ],
+    "updated_at": 1784489423
+  },
+  {
     "id": 1978,
     "id_mal": 1978,
     "url": "https://anilist.co/anime/1978",
@@ -47857,7 +48589,7 @@
       "Fantasy",
       "Sci-Fi"
     ],
-    "updated_at": 1784242996
+    "updated_at": 1784489424
   },
   {
     "id": 1969,
@@ -47886,7 +48618,7 @@
       "Mecha",
       "Sci-Fi"
     ],
-    "updated_at": 1784419286
+    "updated_at": 1784489425
   },
   {
     "id": 1968,
@@ -47916,7 +48648,7 @@
       "Romance",
       "Sci-Fi"
     ],
-    "updated_at": 1784419286
+    "updated_at": 1784489426
   },
   {
     "id": 1967,
@@ -47945,7 +48677,7 @@
       "Mecha",
       "Sci-Fi"
     ],
-    "updated_at": 1784419286
+    "updated_at": 1784489426
   },
   {
     "id": 1961,
@@ -47975,7 +48707,7 @@
       "Drama",
       "Fantasy"
     ],
-    "updated_at": 1784402839
+    "updated_at": 1784489428
   },
   {
     "id": 1951,
@@ -48006,7 +48738,7 @@
       "Sci-Fi",
       "Supernatural"
     ],
-    "updated_at": 1784473455
+    "updated_at": 1784489430
   },
   {
     "id": 1943,
@@ -48037,7 +48769,7 @@
       "Sci-Fi",
       "Thriller"
     ],
-    "updated_at": 1784419286
+    "updated_at": 1784489436
   },
   {
     "id": 1931,
@@ -48067,7 +48799,7 @@
       "Fantasy",
       "Mahou Shoujo"
     ],
-    "updated_at": 1784419285
+    "updated_at": 1784489437
   },
   {
     "id": 1930,
@@ -48097,7 +48829,68 @@
       "Fantasy",
       "Mahou Shoujo"
     ],
-    "updated_at": 1784419285
+    "updated_at": 1784489437
+  },
+  {
+    "id": 1925,
+    "id_mal": 1925,
+    "url": "https://anilist.co/anime/1925",
+    "title": {
+      "english": "Urusei Yatsura Movie 6: Always My Darling",
+      "romaji": "Urusei Yatsura: Itsudatte My Darling",
+      "native": "うる星やつら いつだって・マイ・ダーリン"
+    },
+    "description": "Lupica, another one of the legion of space princesses that all seem to have found out about Earth in some tour book, appears and abducts Ataru! <br><br>\r\nBut Lupica isn't after Ataru for his great looks or charming personality (because he doesn't have either). Lupica's goal is the greatest love potion in the galaxy, which she intends to use to induce her sweetheart to tie the knot. To get it, she needs the possessor of the greatest lust in the universe...<br><br>\r\n(Source: AniDB)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1925-t4wSF5Q1MAEF.png",
+    "banner_url": "",
+    "schedule": "Musim: SUMMER 1991",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "SUMMER",
+    "year": 1991,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 77,
+    "status": "FINISHED",
+    "score": 65,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Drama",
+      "Romance",
+      "Sci-Fi"
+    ],
+    "updated_at": 1784489438
+  },
+  {
+    "id": 1924,
+    "id_mal": 1924,
+    "url": "https://anilist.co/anime/1924",
+    "title": {
+      "english": "Urusei Yatsura Movie 5: The Final Chapter",
+      "romaji": "Urusei Yatsura: Kanketsu-hen",
+      "native": "うる星やつら 完結篇"
+    },
+    "description": "The Urusei Yatsura story comes to a climax in this animated retelling of the final Manga story (although not the final movie). Lupa, yet another one of Lum's fiancés, arrives on the scene, and Lum and Ataru have to repeat their game of tag in order to prevent the Earth from being destroyed.<br><br>\r\nAll Ataru has to do to win is say \"I love you\" the three words he has steadfastly refused to say to Lum. Will he admit his true feelings and save the Earth? Or will his pride doom it to destruction?<br><br>\r\n(Source: AniDB)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1924-ManowHsbyauK.png",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/1924-aBkt45SCiODJ.jpg",
+    "schedule": "Musim: WINTER 1988",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "WINTER",
+    "year": 1988,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 85,
+    "status": "FINISHED",
+    "score": 72,
+    "genres": [
+      "Comedy",
+      "Romance",
+      "Sci-Fi"
+    ],
+    "updated_at": 1784489438
   },
   {
     "id": 1923,
@@ -48127,7 +48920,7 @@
       "Romance",
       "Sci-Fi"
     ],
-    "updated_at": 1784402869
+    "updated_at": 1784489439
   },
   {
     "id": 1922,
@@ -48157,7 +48950,7 @@
       "Romance",
       "Sci-Fi"
     ],
-    "updated_at": 1784402869
+    "updated_at": 1784489439
   },
   {
     "id": 1921,
@@ -48187,7 +48980,7 @@
       "Romance",
       "Sci-Fi"
     ],
-    "updated_at": 1784419285
+    "updated_at": 1784489439
   },
   {
     "id": 1920,
@@ -48217,7 +49010,7 @@
       "Romance",
       "Sci-Fi"
     ],
-    "updated_at": 1784402870
+    "updated_at": 1784489439
   },
   {
     "id": 1911,
@@ -48248,7 +49041,7 @@
       "Mecha",
       "Sci-Fi"
     ],
-    "updated_at": 1784286117
+    "updated_at": 1784489441
   },
   {
     "id": 1906,
@@ -48278,7 +49071,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784402877
+    "updated_at": 1784489442
   },
   {
     "id": 1901,
@@ -48310,7 +49103,7 @@
       "Romance",
       "Sci-Fi"
     ],
-    "updated_at": 1784473455
+    "updated_at": 1784489443
   },
   {
     "id": 1894,
@@ -48338,7 +49131,37 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784402881
+    "updated_at": 1784489444
+  },
+  {
+    "id": 1866,
+    "id_mal": 1866,
+    "url": "https://anilist.co/anime/1866",
+    "title": {
+      "english": "Elementalors",
+      "romaji": "Seirei Tsukai",
+      "native": "精霊使い"
+    },
+    "description": "Based on the manga by Okazaki Takeshi begun in 1990.<br><br>\nAfter a family tragedy, Kagura is left with only his beloved friend Asami for consolation. Meanwhile, there is a war beginning in the spiritual world. Beings known as \"Elementalors\" call upon power from spirits to maintain harmony in the world by balancing individual forces of nature. Lord Shiki, a water Elementalor, kidnaps Asami in order to use special powers she posesses to retrieve his daughter, who has been imprisioned for nearly destroying the Earth. Kagura discovers that he is also an Elementalor - a very powerful one. He must join forces with other Elementalors to save Asami and prevent Lord Shiki from causing a great imbalance by releasing his daughter.\n<br><br>\n(Source: Anime News Network)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1866-yDHuwdkjYMK9.png",
+    "banner_url": "",
+    "schedule": "Musim: SPRING 1995",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "SPRING",
+    "year": 1995,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 48,
+    "status": "FINISHED",
+    "score": 51,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy",
+      "Romance"
+    ],
+    "updated_at": 1784489456
   },
   {
     "id": 1861,
@@ -48368,7 +49191,7 @@
       "Slice of Life",
       "Sports"
     ],
-    "updated_at": 1784402903
+    "updated_at": 1784489457
   },
   {
     "id": 1833,
@@ -48397,7 +49220,7 @@
       "Adventure",
       "Sci-Fi"
     ],
-    "updated_at": 1784415855
+    "updated_at": 1784489468
   },
   {
     "id": 1829,
@@ -48425,7 +49248,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784466165
+    "updated_at": 1784489470
   },
   {
     "id": 1825,
@@ -48452,7 +49275,7 @@
     "genres": [
       "Drama"
     ],
-    "updated_at": 1784402927
+    "updated_at": 1784489473
   },
   {
     "id": 1824,
@@ -48479,7 +49302,7 @@
     "genres": [
       "Drama"
     ],
-    "updated_at": 1784419284
+    "updated_at": 1784489475
   },
   {
     "id": 1815,
@@ -48511,7 +49334,7 @@
       "Romance",
       "Supernatural"
     ],
-    "updated_at": 1784473455
+    "updated_at": 1784489486
   },
   {
     "id": 1796,
@@ -48542,7 +49365,7 @@
       "Ecchi",
       "Sci-Fi"
     ],
-    "updated_at": 1784484185
+    "updated_at": 1784489490
   },
   {
     "id": 1793,
@@ -48575,7 +49398,7 @@
       "Psychological",
       "Sci-Fi"
     ],
-    "updated_at": 1784484185
+    "updated_at": 1784489492
   },
   {
     "id": 1777,
@@ -48607,6 +49430,34 @@
     "updated_at": 1784402943
   },
   {
+    "id": 1773,
+    "id_mal": 1773,
+    "url": "https://anilist.co/anime/1773",
+    "title": {
+      "english": "Fist of the North Star: The Legend of the True Savior: Legend of Raoh: Chapter of Death in Love",
+      "romaji": "Hokuto no Ken: Raoh Gaiden Junai-hen",
+      "native": "真救世主伝説 北斗の拳ラオウ伝 殉愛の章"
+    },
+    "description": "The first part of the new Hokuto no Ken pentalogy (3 Movies, 2 OVAs).\n\nKenshiro is the heir of the legendary martial arts known as Hokuto Shinken, which can kill a man with a single blow, by striking the pressure points in the enemy's body. Hokuto Shinken can be passed only to one successor at a time. When he was chosen as the successor, he parted ways with his brothers, Toki and Raoh. The former decided to use what he knew of the art to cure people... while the latter has chosen to use his supreme strength to install peace in the world by power. <br>\nKenshiro is accompanied by Lynn and Bart, and the movie's story begins when an overlord starts kidnapping children to use them as slaves for building his own pyramid... <br><br>\n(Source: AniDB)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1773-ehFOZp9e3ma0.jpg",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/1773-qJO8i0RMW5ML.jpg",
+    "schedule": "Musim: SPRING 2006",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "SPRING",
+    "year": 2006,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 95,
+    "status": "FINISHED",
+    "score": 70,
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "updated_at": 1784489495
+  },
+  {
     "id": 1764,
     "id_mal": 1764,
     "url": "https://anilist.co/anime/1764",
@@ -48634,7 +49485,7 @@
       "Slice of Life",
       "Sports"
     ],
-    "updated_at": 1784402944
+    "updated_at": 1784489497
   },
   {
     "id": 1760,
@@ -48663,7 +49514,7 @@
       "Adventure",
       "Drama"
     ],
-    "updated_at": 1784402945
+    "updated_at": 1784489497
   },
   {
     "id": 1752,
@@ -48690,7 +49541,7 @@
     "genres": [
       "Comedy"
     ],
-    "updated_at": 1784402946
+    "updated_at": 1784489498
   },
   {
     "id": 1723,
@@ -48719,7 +49570,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784403006
+    "updated_at": 1784489549
   },
   {
     "id": 1689,
@@ -48748,7 +49599,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784427227
+    "updated_at": 1784489572
   },
   {
     "id": 1686,
@@ -48778,7 +49629,7 @@
       "Drama",
       "Supernatural"
     ],
-    "updated_at": 1784458910
+    "updated_at": 1784489574
   },
   {
     "id": 1681,
@@ -48808,7 +49659,7 @@
       "Fantasy",
       "Supernatural"
     ],
-    "updated_at": 1784403174
+    "updated_at": 1784489575
   },
   {
     "id": 1670,
@@ -48871,7 +49722,7 @@
       "Mecha",
       "Sci-Fi"
     ],
-    "updated_at": 1784403265
+    "updated_at": 1784489587
   },
   {
     "id": 1552,
@@ -48900,7 +49751,37 @@
       "Drama",
       "Romance"
     ],
-    "updated_at": 1784403552
+    "updated_at": 1784489643
+  },
+  {
+    "id": 1549,
+    "id_mal": 1549,
+    "url": "https://anilist.co/anime/1549",
+    "title": {
+      "english": "Queen Millennia Movie",
+      "romaji": "1000-nen Joou: Queen Millennia",
+      "native": "1000年女王 Queen Millennia"
+    },
+    "description": "AD 1999, the Earth was in a critical situation; a planet Lar Metal was approaching to the Earth. Meanwhile, Yukino Yayoi was heard about Lar Metal from Dr. Amamori of Tokyo Observatory. She was a junior high school teacher, but she also worked for Dr. Amamori who appreciated her astronomical knowledge. Actually Yukino Yayoi was Queen Millennia who had come from Lar Metal 1000 years before, and she had been watching human beings since then.<br><br>\nSoon, numerous meteors fell on the Earth, and people were in panic. In this catastrophe, Hajime, who was a student of Yayoi, came to help Yayoi. Yayoi invited him into a big cave under the ground.<br><br>\n(Source: AnimeNfo)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1549.jpg",
+    "banner_url": "",
+    "schedule": "Musim: SPRING 1982",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "SPRING",
+    "year": 1982,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 121,
+    "status": "FINISHED",
+    "score": 67,
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Fantasy",
+      "Sci-Fi"
+    ],
+    "updated_at": 1784489643
   },
   {
     "id": 1526,
@@ -48930,7 +49811,7 @@
       "Drama",
       "Fantasy"
     ],
-    "updated_at": 1784403717
+    "updated_at": 1784490052
   },
   {
     "id": 1521,
@@ -48959,7 +49840,7 @@
       "Mystery",
       "Thriller"
     ],
-    "updated_at": 1784403718
+    "updated_at": 1784490067
   },
   {
     "id": 1506,
@@ -48986,7 +49867,7 @@
     "genres": [
       "Mystery"
     ],
-    "updated_at": 1784403726
+    "updated_at": 1784490091
   },
   {
     "id": 1505,
@@ -49015,7 +49896,7 @@
       "Comedy",
       "Mystery"
     ],
-    "updated_at": 1784403726
+    "updated_at": 1784490095
   },
   {
     "id": 1497,
@@ -49045,7 +49926,7 @@
       "Music",
       "Romance"
     ],
-    "updated_at": 1784403728
+    "updated_at": 1784490097
   },
   {
     "id": 1494,
@@ -49075,7 +49956,7 @@
       "Psychological",
       "Sci-Fi"
     ],
-    "updated_at": 1784403728
+    "updated_at": 1784490098
   },
   {
     "id": 1476,
@@ -49191,7 +50072,7 @@
       "Psychological",
       "Sci-Fi"
     ],
-    "updated_at": 1784448140
+    "updated_at": 1784490129
   },
   {
     "id": 1451,
@@ -49220,7 +50101,7 @@
       "Supernatural",
       "Thriller"
     ],
-    "updated_at": 1784403750
+    "updated_at": 1784490135
   },
   {
     "id": 1441,
@@ -49249,7 +50130,7 @@
       "Fantasy",
       "Mystery"
     ],
-    "updated_at": 1784403751
+    "updated_at": 1784490139
   },
   {
     "id": 1435,
@@ -49279,7 +50160,7 @@
       "Mystery",
       "Sci-Fi"
     ],
-    "updated_at": 1784419278
+    "updated_at": 1784490140
   },
   {
     "id": 1433,
@@ -49307,7 +50188,7 @@
       "Adventure",
       "Comedy"
     ],
-    "updated_at": 1784403753
+    "updated_at": 1784490141
   },
   {
     "id": 1432,
@@ -49335,7 +50216,7 @@
       "Adventure",
       "Comedy"
     ],
-    "updated_at": 1784403753
+    "updated_at": 1784490143
   },
   {
     "id": 1430,
@@ -49365,7 +50246,7 @@
       "Comedy",
       "Mystery"
     ],
-    "updated_at": 1784403754
+    "updated_at": 1784490152
   },
   {
     "id": 1419,
@@ -49393,7 +50274,7 @@
       "Adventure",
       "Comedy"
     ],
-    "updated_at": 1784403756
+    "updated_at": 1784490157
   },
   {
     "id": 1416,
@@ -49453,7 +50334,7 @@
       "Music",
       "Sci-Fi"
     ],
-    "updated_at": 1784403760
+    "updated_at": 1784490164
   },
   {
     "id": 1380,
@@ -49484,7 +50365,7 @@
       "Mecha",
       "Sci-Fi"
     ],
-    "updated_at": 1784403764
+    "updated_at": 1784490169
   },
   {
     "id": 1379,
@@ -49514,7 +50395,7 @@
       "Fantasy",
       "Slice of Life"
     ],
-    "updated_at": 1784448140
+    "updated_at": 1784490170
   },
   {
     "id": 1378,
@@ -49569,7 +50450,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784403769
+    "updated_at": 1784490172
   },
   {
     "id": 1367,
@@ -49597,7 +50478,7 @@
       "Adventure",
       "Mystery"
     ],
-    "updated_at": 1784403770
+    "updated_at": 1784490173
   },
   {
     "id": 1366,
@@ -49626,7 +50507,7 @@
       "Adventure",
       "Mystery"
     ],
-    "updated_at": 1784462595
+    "updated_at": 1784490174
   },
   {
     "id": 1365,
@@ -49654,7 +50535,7 @@
       "Adventure",
       "Mystery"
     ],
-    "updated_at": 1784403771
+    "updated_at": 1784490174
   },
   {
     "id": 1364,
@@ -49681,7 +50562,7 @@
     "genres": [
       "Mystery"
     ],
-    "updated_at": 1784403772
+    "updated_at": 1784490174
   },
   {
     "id": 1363,
@@ -49710,7 +50591,7 @@
       "Drama",
       "Mystery"
     ],
-    "updated_at": 1784403772
+    "updated_at": 1784490175
   },
   {
     "id": 1362,
@@ -49737,7 +50618,7 @@
     "genres": [
       "Action"
     ],
-    "updated_at": 1784448133
+    "updated_at": 1784490175
   },
   {
     "id": 1361,
@@ -49766,7 +50647,7 @@
       "Drama",
       "Sci-Fi"
     ],
-    "updated_at": 1784403773
+    "updated_at": 1784490176
   },
   {
     "id": 1358,
@@ -49795,7 +50676,7 @@
       "Adventure",
       "Sci-Fi"
     ],
-    "updated_at": 1784403774
+    "updated_at": 1784490177
   },
   {
     "id": 1329,
@@ -49877,7 +50758,7 @@
       "Drama",
       "Sci-Fi"
     ],
-    "updated_at": 1784480696
+    "updated_at": 1784490193
   },
   {
     "id": 1301,
@@ -49907,7 +50788,7 @@
       "Mecha",
       "Sci-Fi"
     ],
-    "updated_at": 1784484185
+    "updated_at": 1784490193
   },
   {
     "id": 1290,
@@ -49935,7 +50816,7 @@
       "Mecha",
       "Sci-Fi"
     ],
-    "updated_at": 1784473455
+    "updated_at": 1784490201
   },
   {
     "id": 1268,
@@ -50137,7 +51018,7 @@
       "Mystery",
       "Romance"
     ],
-    "updated_at": 1784403818
+    "updated_at": 1784490216
   },
   {
     "id": 1240,
@@ -50168,7 +51049,7 @@
       "Mahou Shoujo",
       "Romance"
     ],
-    "updated_at": 1784403820
+    "updated_at": 1784490219
   },
   {
     "id": 1211,
@@ -50200,7 +51081,7 @@
       "Romance",
       "Sci-Fi"
     ],
-    "updated_at": 1784458910
+    "updated_at": 1784490230
   },
   {
     "id": 1209,
@@ -50227,7 +51108,7 @@
     "genres": [
       "Sports"
     ],
-    "updated_at": 1784403836
+    "updated_at": 1784490241
   },
   {
     "id": 1208,
@@ -50255,7 +51136,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784462595
+    "updated_at": 1784490241
   },
   {
     "id": 1207,
@@ -50278,13 +51159,13 @@
     "episodes": 1,
     "duration": 96,
     "status": "FINISHED",
-    "score": 64,
+    "score": 65,
     "genres": [
       "Adventure",
       "Drama",
       "Fantasy"
     ],
-    "updated_at": 1784403836
+    "updated_at": 1784490243
   },
   {
     "id": 1203,
@@ -50312,7 +51193,7 @@
       "Drama",
       "Music"
     ],
-    "updated_at": 1784403837
+    "updated_at": 1784490246
   },
   {
     "id": 1192,
@@ -50341,7 +51222,7 @@
       "Psychological",
       "Supernatural"
     ],
-    "updated_at": 1784419275
+    "updated_at": 1784490256
   },
   {
     "id": 1160,
@@ -50426,7 +51307,7 @@
       "Romance",
       "Sci-Fi"
     ],
-    "updated_at": 1784406300
+    "updated_at": 1784490269
   },
   {
     "id": 1141,
@@ -50456,7 +51337,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784403855
+    "updated_at": 1784490270
   },
   {
     "id": 1140,
@@ -50487,7 +51368,7 @@
       "Romance",
       "Sci-Fi"
     ],
-    "updated_at": 1784473455
+    "updated_at": 1784490271
   },
   {
     "id": 1130,
@@ -50518,7 +51399,7 @@
       "Romance",
       "Sci-Fi"
     ],
-    "updated_at": 1784403858
+    "updated_at": 1784490274
   },
   {
     "id": 1122,
@@ -50550,7 +51431,7 @@
       "Sci-Fi",
       "Supernatural"
     ],
-    "updated_at": 1784473455
+    "updated_at": 1784490276
   },
   {
     "id": 1121,
@@ -50581,7 +51462,7 @@
       "Drama",
       "Fantasy"
     ],
-    "updated_at": 1784473455
+    "updated_at": 1784490278
   },
   {
     "id": 1120,
@@ -50612,7 +51493,7 @@
       "Drama",
       "Fantasy"
     ],
-    "updated_at": 1784473455
+    "updated_at": 1784490280
   },
   {
     "id": 1119,
@@ -50643,7 +51524,7 @@
       "Drama",
       "Fantasy"
     ],
-    "updated_at": 1784473455
+    "updated_at": 1784490281
   },
   {
     "id": 1118,
@@ -50673,7 +51554,7 @@
       "Drama",
       "Fantasy"
     ],
-    "updated_at": 1784473455
+    "updated_at": 1784490282
   },
   {
     "id": 1117,
@@ -50703,7 +51584,7 @@
       "Drama",
       "Fantasy"
     ],
-    "updated_at": 1784419274
+    "updated_at": 1784490285
   },
   {
     "id": 1116,
@@ -50732,7 +51613,7 @@
       "Fantasy",
       "Slice of Life"
     ],
-    "updated_at": 1784403865
+    "updated_at": 1784490286
   },
   {
     "id": 1107,
@@ -50764,7 +51645,7 @@
       "Horror",
       "Supernatural"
     ],
-    "updated_at": 1784419274
+    "updated_at": 1784490288
   },
   {
     "id": 1106,
@@ -50792,7 +51673,7 @@
       "Comedy",
       "Psychological"
     ],
-    "updated_at": 1784315686
+    "updated_at": 1784490288
   },
   {
     "id": 1101,
@@ -50821,7 +51702,7 @@
       "Comedy",
       "Sci-Fi"
     ],
-    "updated_at": 1784427254
+    "updated_at": 1784490289
   },
   {
     "id": 1096,
@@ -50851,7 +51732,7 @@
       "Mystery",
       "Sci-Fi"
     ],
-    "updated_at": 1784462595
+    "updated_at": 1784490290
   },
   {
     "id": 1095,
@@ -50880,7 +51761,7 @@
       "Mecha",
       "Sci-Fi"
     ],
-    "updated_at": 1784415838
+    "updated_at": 1784490291
   },
   {
     "id": 1092,
@@ -50910,7 +51791,7 @@
       "Mecha",
       "Sci-Fi"
     ],
-    "updated_at": 1784427260
+    "updated_at": 1784490296
   },
   {
     "id": 1091,
@@ -50940,7 +51821,7 @@
       "Mecha",
       "Sci-Fi"
     ],
-    "updated_at": 1784403874
+    "updated_at": 1784490296
   },
   {
     "id": 1090,
@@ -50971,7 +51852,7 @@
       "Mecha",
       "Sci-Fi"
     ],
-    "updated_at": 1784427260
+    "updated_at": 1784490297
   },
   {
     "id": 1089,
@@ -51002,7 +51883,7 @@
       "Romance",
       "Sci-Fi"
     ],
-    "updated_at": 1784440942
+    "updated_at": 1784490297
   },
   {
     "id": 1049,
@@ -51032,7 +51913,7 @@
       "Fantasy",
       "Music"
     ],
-    "updated_at": 1784403898
+    "updated_at": 1784490313
   },
   {
     "id": 1044,
@@ -51062,7 +51943,7 @@
       "Drama",
       "Fantasy"
     ],
-    "updated_at": 1784315729
+    "updated_at": 1784490314
   },
   {
     "id": 1034,
@@ -51091,7 +51972,7 @@
       "Drama",
       "Sci-Fi"
     ],
-    "updated_at": 1784403901
+    "updated_at": 1784490319
   },
   {
     "id": 1033,
@@ -51120,7 +52001,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784480696
+    "updated_at": 1784490326
   },
   {
     "id": 1032,
@@ -51150,7 +52031,7 @@
       "Drama",
       "Romance"
     ],
-    "updated_at": 1784403903
+    "updated_at": 1784490327
   },
   {
     "id": 1031,
@@ -51178,7 +52059,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784473455
+    "updated_at": 1784490327
   },
   {
     "id": 1030,
@@ -51207,7 +52088,7 @@
       "Drama",
       "Fantasy"
     ],
-    "updated_at": 1784455295
+    "updated_at": 1784490328
   },
   {
     "id": 1029,
@@ -51236,7 +52117,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784480696
+    "updated_at": 1784490329
   },
   {
     "id": 1028,
@@ -51264,7 +52145,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784403906
+    "updated_at": 1784490330
   },
   {
     "id": 1010,
@@ -51294,7 +52175,7 @@
       "Comedy",
       "Supernatural"
     ],
-    "updated_at": 1784403910
+    "updated_at": 1784490335
   },
   {
     "id": 1006,
@@ -51324,7 +52205,7 @@
       "Romance",
       "Sci-Fi"
     ],
-    "updated_at": 1784427251
+    "updated_at": 1784490338
   },
   {
     "id": 997,
@@ -51357,7 +52238,7 @@
       "Mahou Shoujo",
       "Romance"
     ],
-    "updated_at": 1784448134
+    "updated_at": 1784490345
   },
   {
     "id": 974,
