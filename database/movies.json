@@ -50,7 +50,7 @@
     "status": "FINISHED",
     "score": null,
     "genres": [],
-    "updated_at": 1784412201
+    "updated_at": 1784440942
   },
   {
     "id": 214071,
@@ -75,7 +75,7 @@
     "status": "FINISHED",
     "score": null,
     "genres": [],
-    "updated_at": 1784406259
+    "updated_at": 1784440942
   },
   {
     "id": 214070,
@@ -89,21 +89,21 @@
     "description": "A young girl arrives of the surface of a harsh and dangerous world. There she meets a boy prepared to confront those dangers. Each is there with a purpose, as the world around them gradually falls apart, atom by atom—or rather, datum by datum.<br><br>\n(Source: Fantasia Festival)",
     "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx214070-DvLRZXO5xGo6.png",
     "banner_url": "",
-    "schedule": "Episode 1 tayang pada 19/7/2026, 02.00.00 WIB",
-    "next_episode": 1,
-    "next_airing_timestamp": 1784401200,
+    "schedule": "Musim: SUMMER 2026",
+    "next_episode": null,
+    "next_airing_timestamp": null,
     "season": "SUMMER",
     "year": 2026,
     "format": "MOVIE",
     "episodes": 1,
     "duration": 21,
-    "status": "NOT_YET_RELEASED",
+    "status": "FINISHED",
     "score": null,
     "genres": [
       "Action",
       "Sci-Fi"
     ],
-    "updated_at": 1784386898
+    "updated_at": 1784440942
   },
   {
     "id": 214068,
@@ -145,22 +145,22 @@
     "description": "Captain Kepo and his crew, the inquisitive agent Alcia and naive junior teammate Rigel, arrive on an alien planet to explore, and attempt to understand, the mysterious remnants of a highly intelligent species that was once dominant, and is now long departed. The planet these three strange creatures are visiting? Earth.<br><br>\n(Source: Fantasia Festival)",
     "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx214067-695OvCTmT3ZB.png",
     "banner_url": "",
-    "schedule": "Episode 1 tayang pada 19/7/2026, 02.00.00 WIB",
-    "next_episode": 1,
-    "next_airing_timestamp": 1784401200,
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
     "season": "",
     "year": null,
     "format": "MOVIE",
     "episodes": 1,
     "duration": 20,
-    "status": "NOT_YET_RELEASED",
+    "status": "FINISHED",
     "score": null,
     "genres": [
       "Action",
       "Comedy",
       "Sci-Fi"
     ],
-    "updated_at": 1784386898
+    "updated_at": 1784440942
   },
   {
     "id": 214018,
@@ -1603,7 +1603,7 @@
       "Horror",
       "Sci-Fi"
     ],
-    "updated_at": 1784394193
+    "updated_at": 1784440942
   },
   {
     "id": 195201,
@@ -1720,7 +1720,7 @@
       "Music",
       "Slice of Life"
     ],
-    "updated_at": 1784408567
+    "updated_at": 1784440942
   },
   {
     "id": 194029,
@@ -1946,7 +1946,7 @@
       "Music",
       "Slice of Life"
     ],
-    "updated_at": 1784408567
+    "updated_at": 1784440942
   },
   {
     "id": 188034,
@@ -2089,6 +2089,33 @@
       "Fantasy"
     ],
     "updated_at": 1784341006
+  },
+  {
+    "id": 186764,
+    "id_mal": 59224,
+    "url": "https://anilist.co/anime/186764",
+    "title": {
+      "english": "",
+      "romaji": "SINoALICE: Ichiban Saigo no Monogatari",
+      "native": "シノアリス 一番最後のモノガタリ"
+    },
+    "description": "Alice's life has been miserable ever since she started playing SINoALICE. In despair at the world, she takes her own life, but wakes up and finds herself within the game, interacting with the game's navigator characters Parrah and Noya, who throw every despair of her previous life at her. As Parrah and Noya take Alice away, the game's characters plan to face the two.<br><br>\n(Source: Anime News Network)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186764-xza3eXsvxNz2.png",
+    "banner_url": "",
+    "schedule": "Musim: WINTER 2024",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "WINTER",
+    "year": 2024,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 64,
+    "status": "FINISHED",
+    "score": 49,
+    "genres": [
+      "Fantasy"
+    ],
+    "updated_at": 1784440942
   },
   {
     "id": 186716,
@@ -2311,7 +2338,7 @@
       "Drama",
       "Fantasy"
     ],
-    "updated_at": 1784397736
+    "updated_at": 1784440942
   },
   {
     "id": 184694,
@@ -2369,7 +2396,7 @@
       "Adventure",
       "Mystery"
     ],
-    "updated_at": 1784406300
+    "updated_at": 1784440942
   },
   {
     "id": 184351,
@@ -2396,7 +2423,7 @@
     "genres": [
       "Fantasy"
     ],
-    "updated_at": 1784415855
+    "updated_at": 1784440942
   },
   {
     "id": 184334,
@@ -2833,7 +2860,7 @@
       "Psychological",
       "Supernatural"
     ],
-    "updated_at": 1784408565
+    "updated_at": 1784440942
   },
   {
     "id": 179727,
@@ -3086,7 +3113,7 @@
       "Comedy",
       "Sci-Fi"
     ],
-    "updated_at": 1784322117
+    "updated_at": 1784440942
   },
   {
     "id": 177778,
@@ -4560,7 +4587,7 @@
       "Music",
       "Romance"
     ],
-    "updated_at": 1784427249
+    "updated_at": 1784440942
   },
   {
     "id": 162904,
@@ -5772,7 +5799,7 @@
       "Psychological",
       "Supernatural"
     ],
-    "updated_at": 1784408552
+    "updated_at": 1784440942
   },
   {
     "id": 150084,
@@ -6263,6 +6290,35 @@
     "score": null,
     "genres": [],
     "updated_at": 1784372516
+  },
+  {
+    "id": 143201,
+    "id_mal": 50675,
+    "url": "https://anilist.co/anime/143201",
+    "title": {
+      "english": "",
+      "romaji": "Soukyuu no Fafner: BEHIND THE LINE",
+      "native": "蒼穹のファフナー BEHIND THE LINE"
+    },
+    "description": "Announced at the Soushi Minashiro Birthday Fes 2021. Initially promised to fans during the 2017 birthday event, this self-contained entry to the Fafner series will be a \"peaceful spinoff\". <br><br>\n(Source: Anime News Network, edited)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx143201-UZk4gT07EWb5.jpg",
+    "banner_url": "",
+    "schedule": "Musim: WINTER 2023",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "WINTER",
+    "year": 2023,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 53,
+    "status": "FINISHED",
+    "score": 64,
+    "genres": [
+      "Drama",
+      "Mecha",
+      "Sci-Fi"
+    ],
+    "updated_at": 1784440942
   },
   {
     "id": 143156,
@@ -6785,7 +6841,7 @@
       "Romance",
       "Sci-Fi"
     ],
-    "updated_at": 1784415855
+    "updated_at": 1784440942
   },
   {
     "id": 139310,
@@ -6813,7 +6869,7 @@
       "Romance",
       "Sci-Fi"
     ],
-    "updated_at": 1784408567
+    "updated_at": 1784440942
   },
   {
     "id": 139273,
@@ -6841,7 +6897,7 @@
       "Mecha",
       "Sci-Fi"
     ],
-    "updated_at": 1784358109
+    "updated_at": 1784440942
   },
   {
     "id": 138899,
@@ -7272,7 +7328,7 @@
       "Fantasy",
       "Sci-Fi"
     ],
-    "updated_at": 1784394193
+    "updated_at": 1784440942
   },
   {
     "id": 133845,
@@ -7843,7 +7899,7 @@
       "Drama",
       "Supernatural"
     ],
-    "updated_at": 1784415855
+    "updated_at": 1784440942
   },
   {
     "id": 129759,
@@ -8075,7 +8131,7 @@
       "Mystery",
       "Sci-Fi"
     ],
-    "updated_at": 1784394193
+    "updated_at": 1784440942
   },
   {
     "id": 127227,
@@ -8611,7 +8667,7 @@
     "genres": [
       "Music"
     ],
-    "updated_at": 1784372518
+    "updated_at": 1784440942
   },
   {
     "id": 123394,
@@ -9486,7 +9542,7 @@
       "Fantasy",
       "Mystery"
     ],
-    "updated_at": 1784412201
+    "updated_at": 1784440942
   },
   {
     "id": 118936,
@@ -10033,7 +10089,7 @@
     "genres": [
       "Music"
     ],
-    "updated_at": 1784408567
+    "updated_at": 1784440942
   },
   {
     "id": 117764,
@@ -10060,7 +10116,7 @@
     "genres": [
       "Music"
     ],
-    "updated_at": 1784386898
+    "updated_at": 1784440942
   },
   {
     "id": 117763,
@@ -10660,7 +10716,7 @@
       "Mecha",
       "Sci-Fi"
     ],
-    "updated_at": 1784329393
+    "updated_at": 1784440942
   },
   {
     "id": 113692,
@@ -12063,7 +12119,7 @@
       "Music",
       "Supernatural"
     ],
-    "updated_at": 1784412201
+    "updated_at": 1784440942
   },
   {
     "id": 109821,
@@ -12120,6 +12176,33 @@
       "Mahou Shoujo"
     ],
     "updated_at": 1783945324
+  },
+  {
+    "id": 109689,
+    "id_mal": 35388,
+    "url": "https://anilist.co/anime/109689",
+    "title": {
+      "english": "",
+      "romaji": "Ameya Tanuki",
+      "native": "あめやたぬき"
+    },
+    "description": "A candy man performs for some children in the same manner that tanuki did in folklore.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx109689-G1HtYZEfblZi.jpg",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/109689-Gql9g02u5ZZB.jpg",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 4,
+    "status": "FINISHED",
+    "score": 33,
+    "genres": [
+      "Comedy"
+    ],
+    "updated_at": 1784440942
   },
   {
     "id": 109391,
@@ -12780,7 +12863,7 @@
       "Slice of Life",
       "Supernatural"
     ],
-    "updated_at": 1784406287
+    "updated_at": 1784440942
   },
   {
     "id": 108553,
@@ -14063,7 +14146,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784427207
+    "updated_at": 1784440942
   },
   {
     "id": 104990,
@@ -16457,7 +16540,7 @@
     "genres": [
       "Sports"
     ],
-    "updated_at": 1784380801
+    "updated_at": 1784440942
   },
   {
     "id": 102755,
@@ -19137,7 +19220,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784415855
+    "updated_at": 1784440942
   },
   {
     "id": 101126,
@@ -20652,7 +20735,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784412183
+    "updated_at": 1784440942
   },
   {
     "id": 98873,
@@ -20681,7 +20764,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784412187
+    "updated_at": 1784440942
   },
   {
     "id": 98784,
@@ -21695,7 +21778,7 @@
       "Mecha",
       "Sci-Fi"
     ],
-    "updated_at": 1784427236
+    "updated_at": 1784440942
   },
   {
     "id": 97860,
@@ -24015,6 +24098,33 @@
     "updated_at": 1784412186
   },
   {
+    "id": 21072,
+    "id_mal": 29517,
+    "url": "https://anilist.co/anime/21072",
+    "title": {
+      "english": "",
+      "romaji": "Kumi to Tulip",
+      "native": "クミとチューリップ"
+    },
+    "description": "Kumi is a little girl who lives in a world with sparkling metal skyscrapers, and where robots support everything. Kumi's playground is a garden by one of those skyscrapers with a man-made water fountain, artificial vegetation, and digital water and butterflies. Kumi meets an old man who visits the park every day to paint the artificial flowers. The old man tells Kumi of when he discovered a \"breathing\" tulip sprouting amidst the artificial flowers, and the two decide to watch over the tulip together as it grows.\n<br><br>\n(Source: Anime News Network)\n<br>\n<br>\nProject by Tezuka Productions announced to be part of Anime Mirai 2015.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21072-lkgk3ZCHmQe1.jpg",
+    "banner_url": "",
+    "schedule": "Musim: WINTER 2015",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "WINTER",
+    "year": 2015,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 24,
+    "status": "FINISHED",
+    "score": 54,
+    "genres": [
+      "Sci-Fi"
+    ],
+    "updated_at": 1784440942
+  },
+  {
     "id": 21071,
     "id_mal": 29511,
     "url": "https://anilist.co/anime/21071",
@@ -24041,6 +24151,35 @@
       "Slice of Life"
     ],
     "updated_at": 1783962843
+  },
+  {
+    "id": 21070,
+    "id_mal": 29515,
+    "url": "https://anilist.co/anime/21070",
+    "title": {
+      "english": "",
+      "romaji": "Happy ComeCome",
+      "native": "ハッピーカムカム"
+    },
+    "description": "Hiroshi is tired of living alone so he orders a maid robot from a company called Happy Come Come, but ends up with the robot mom Yoshiko instead. Yoshiko acts more motherly than Hiroshi's real mother, and over time she is able to heal his heart.\n<br><br>\n(Source: Anime News Network)\n<br>\n<br>\nProject by SynergySP announced to be part of Anime Mirai 2015.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21070-cJJKAoeP0BOZ.jpg",
+    "banner_url": "",
+    "schedule": "Musim: WINTER 2015",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "WINTER",
+    "year": 2015,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 25,
+    "status": "FINISHED",
+    "score": 48,
+    "genres": [
+      "Comedy",
+      "Sci-Fi",
+      "Slice of Life"
+    ],
+    "updated_at": 1784440942
   },
   {
     "id": 21069,
@@ -24160,7 +24299,7 @@
       "Slice of Life",
       "Supernatural"
     ],
-    "updated_at": 1784390608
+    "updated_at": 1784440942
   },
   {
     "id": 20990,
@@ -26967,7 +27106,7 @@
       "Action",
       "Supernatural"
     ],
-    "updated_at": 1784397736
+    "updated_at": 1784440942
   },
   {
     "id": 16870,
@@ -27171,7 +27310,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784397736
+    "updated_at": 1784440942
   },
   {
     "id": 16662,
@@ -27708,7 +27847,7 @@
       "Slice of Life",
       "Supernatural"
     ],
-    "updated_at": 1784397887
+    "updated_at": 1784440942
   },
   {
     "id": 15399,
@@ -28484,7 +28623,7 @@
       "Drama",
       "Slice of Life"
     ],
-    "updated_at": 1784398179
+    "updated_at": 1784440942
   },
   {
     "id": 13971,
@@ -29308,7 +29447,34 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784427192
+    "updated_at": 1784440942
+  },
+  {
+    "id": 12295,
+    "id_mal": 12295,
+    "url": "https://anilist.co/anime/12295",
+    "title": {
+      "english": "",
+      "romaji": "Tabako to Hai",
+      "native": "たばこと灰"
+    },
+    "description": "In the summer of 2000 in Hollywood, Spielberg's Dreamworks Film Corp. made the film \"Chicken Run\" with Nick Park, the great master of clay-figure animation, and it became a big hit. A chicken was the main character, and the story unfolded like the masterpiece \"The Great Escape.\" Thirty-five years ago, Mushi Production created an animated work in which a chicken was the main character and a rebellion between the rulers and the ruled eventually escalated into a great war. Despite the scale of the story, the film ran for only three minutes. The ability to depict the endless repetition of war in human history in just three minutes is a unique feature of short animation, relying on exaggeration and great imagination. <br><br>\n(Source: en.tezuka.co.jp)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/12295.jpg",
+    "banner_url": "",
+    "schedule": "Musim: FALL 1965",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "FALL",
+    "year": 1965,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 4,
+    "status": "FINISHED",
+    "score": 47,
+    "genres": [
+      "Adventure"
+    ],
+    "updated_at": 1784440942
   },
   {
     "id": 12279,
@@ -31049,7 +31215,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784412201
+    "updated_at": 1784440942
   },
   {
     "id": 9751,
@@ -34946,7 +35112,7 @@
     "genres": [
       "Adventure"
     ],
-    "updated_at": 1784386898
+    "updated_at": 1784440942
   },
   {
     "id": 6950,
@@ -35092,7 +35258,7 @@
       "Fantasy",
       "Supernatural"
     ],
-    "updated_at": 1784415855
+    "updated_at": 1784440942
   },
   {
     "id": 6872,
@@ -35897,7 +36063,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784412201
+    "updated_at": 1784440942
   },
   {
     "id": 6172,
@@ -36948,7 +37114,7 @@
       "Action",
       "Supernatural"
     ],
-    "updated_at": 1784312533
+    "updated_at": 1784440942
   },
   {
     "id": 5101,
@@ -37201,7 +37367,7 @@
       "Mahou Shoujo",
       "Sci-Fi"
     ],
-    "updated_at": 1784358109
+    "updated_at": 1784440942
   },
   {
     "id": 4983,
@@ -37260,7 +37426,7 @@
     "genres": [
       "Action"
     ],
-    "updated_at": 1784406276
+    "updated_at": 1784440942
   },
   {
     "id": 4926,
@@ -37766,7 +37932,7 @@
       "Action",
       "Supernatural"
     ],
-    "updated_at": 1784412189
+    "updated_at": 1784440942
   },
   {
     "id": 4406,
@@ -38310,7 +38476,7 @@
       "Romance",
       "Sci-Fi"
     ],
-    "updated_at": 1784408567
+    "updated_at": 1784440942
   },
   {
     "id": 4106,
@@ -39054,6 +39220,31 @@
       "Romance"
     ],
     "updated_at": 1783945915
+  },
+  {
+    "id": 3473,
+    "id_mal": 3473,
+    "url": "https://anilist.co/anime/3473",
+    "title": {
+      "english": "The Genesis",
+      "romaji": "Souseiki",
+      "native": "創世記"
+    },
+    "description": "This is a short film parodying the major Hollywood film \"The Creation\" directed by John Houston. This film has the look of a tongue-in-cheek production, done on a small budget by animators who wanted to make fun of great works that cost enormous sums of money.\n<br><br>\n(Source: Anime News Network)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b3473-d14KckXCNjs6.png",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/3473-XSD8cinJcF8r.jpg",
+    "schedule": "Musim: FALL 1968",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "FALL",
+    "year": 1968,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 4,
+    "status": "FINISHED",
+    "score": 49,
+    "genres": [],
+    "updated_at": 1784440942
   },
   {
     "id": 3446,
@@ -39876,7 +40067,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784427190
+    "updated_at": 1784440942
   },
   {
     "id": 2889,
@@ -43074,7 +43265,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784419284
+    "updated_at": 1784440942
   },
   {
     "id": 1825,
@@ -45230,7 +45421,7 @@
       "Drama",
       "Fantasy"
     ],
-    "updated_at": 1784419274
+    "updated_at": 1784440942
   },
   {
     "id": 1120,
@@ -45261,7 +45452,7 @@
       "Drama",
       "Fantasy"
     ],
-    "updated_at": 1784403862
+    "updated_at": 1784440942
   },
   {
     "id": 1119,
@@ -45651,7 +45842,7 @@
       "Romance",
       "Sci-Fi"
     ],
-    "updated_at": 1784403876
+    "updated_at": 1784440942
   },
   {
     "id": 1049,
@@ -45769,7 +45960,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784419273
+    "updated_at": 1784440942
   },
   {
     "id": 1032,
@@ -45828,7 +46019,7 @@
       "Drama",
       "Fantasy"
     ],
-    "updated_at": 1784419273
+    "updated_at": 1784440942
   },
   {
     "id": 1029,
@@ -45857,7 +46048,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784427223
+    "updated_at": 1784440942
   },
   {
     "id": 1028,
@@ -46128,7 +46319,7 @@
       "Adventure",
       "Sci-Fi"
     ],
-    "updated_at": 1784361747
+    "updated_at": 1784440942
   },
   {
     "id": 903,
@@ -46215,7 +46406,7 @@
       "Adventure",
       "Sci-Fi"
     ],
-    "updated_at": 1784427235
+    "updated_at": 1784440942
   },
   {
     "id": 900,
@@ -46302,7 +46493,7 @@
       "Adventure",
       "Sci-Fi"
     ],
-    "updated_at": 1784368905
+    "updated_at": 1784440942
   },
   {
     "id": 897,
@@ -46360,7 +46551,7 @@
       "Adventure",
       "Sci-Fi"
     ],
-    "updated_at": 1784415843
+    "updated_at": 1784440942
   },
   {
     "id": 895,
@@ -46973,7 +47164,7 @@
       "Fantasy",
       "Supernatural"
     ],
-    "updated_at": 1784386898
+    "updated_at": 1784440942
   },
   {
     "id": 781,
@@ -47353,7 +47544,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784419266
+    "updated_at": 1784440942
   },
   {
     "id": 578,
@@ -48669,7 +48860,7 @@
       "Comedy",
       "Slice of Life"
     ],
-    "updated_at": 1784361747
+    "updated_at": 1784440942
   },
   {
     "id": 405,
@@ -48759,7 +48950,7 @@
       "Mahou Shoujo",
       "Romance"
     ],
-    "updated_at": 1784350916
+    "updated_at": 1784440942
   },
   {
     "id": 371,
@@ -49206,7 +49397,7 @@
       "Mecha",
       "Sci-Fi"
     ],
-    "updated_at": 1784390608
+    "updated_at": 1784440942
   },
   {
     "id": 47,
@@ -49386,6 +49577,6 @@
       "Mystery",
       "Sci-Fi"
     ],
-    "updated_at": 1784419208
+    "updated_at": 1784440942
   }
 ]
