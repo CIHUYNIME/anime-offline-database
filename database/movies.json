@@ -103,7 +103,7 @@
       "Action",
       "Sci-Fi"
     ],
-    "updated_at": 1784440942
+    "updated_at": 1784455295
   },
   {
     "id": 214068,
@@ -968,7 +968,7 @@
       "Fantasy",
       "Slice of Life"
     ],
-    "updated_at": 1784408539
+    "updated_at": 1784455295
   },
   {
     "id": 205081,
@@ -1312,7 +1312,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784307728
+    "updated_at": 1784455295
   },
   {
     "id": 199340,
@@ -2687,7 +2687,7 @@
       "Fantasy",
       "Slice of Life"
     ],
-    "updated_at": 1784427234
+    "updated_at": 1784455295
   },
   {
     "id": 181449,
@@ -3115,7 +3115,7 @@
       "Sci-Fi",
       "Supernatural"
     ],
-    "updated_at": 1784406300
+    "updated_at": 1784455295
   },
   {
     "id": 178436,
@@ -3228,6 +3228,33 @@
       "Drama"
     ],
     "updated_at": 1783948398
+  },
+  {
+    "id": 177518,
+    "id_mal": 58837,
+    "url": "https://anilist.co/anime/177518",
+    "title": {
+      "english": "",
+      "romaji": "Odekake Kozame: Tokai no Otomodachi",
+      "native": "おでかけ子ザメ とかいのおともだち"
+    },
+    "description": "Kozame-chan's everyday life is full of fun and excitement! This time, the next destination is the big city. What awaits Kozame-chan is an unfamiliar place, and new friends. A big adventure filed with tiny miracles is about to begin.\n<br><br>\n(Source: Youtube)\n<br><br>\n<i>Note: The film received an early premiere at the Tokyo International Shark Film Festival on August 3, 2025.</i>",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177518-jv8sDYLdEsmb.png",
+    "banner_url": "",
+    "schedule": "Musim: SUMMER 2025",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "SUMMER",
+    "year": 2025,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 72,
+    "status": "FINISHED",
+    "score": 58,
+    "genres": [
+      "Slice of Life"
+    ],
+    "updated_at": 1784455295
   },
   {
     "id": 177132,
@@ -4386,7 +4413,7 @@
     "genres": [
       "Sci-Fi"
     ],
-    "updated_at": 1784415855
+    "updated_at": 1784455296
   },
   {
     "id": 165253,
@@ -4415,7 +4442,35 @@
       "Music",
       "Slice of Life"
     ],
-    "updated_at": 1784408540
+    "updated_at": 1784455329
+  },
+  {
+    "id": 164293,
+    "id_mal": 55149,
+    "url": "https://anilist.co/anime/164293",
+    "title": {
+      "english": "Komada - A Whisky Family",
+      "romaji": "Komada Jouryuusho e Youkoso",
+      "native": "駒田蒸留所へようこそ"
+    },
+    "description": "Koutarou, a novice editor for a web news, visits Komada Distillery for a project on Japanese craft whisky. Led by a young female president Rui who recently took over the family business, the distillery works hard to reproduce its signature whisky KOMA they had to stop making years ago. KOMA was a brand that Rui’s grandfather and father had lovingly preserved and a symbol of happiness for all. However, not to mention financial backing, too many clues are missing to revive the whisky once lost. Rui, Koutarou, and the distillery supporters pull together every thread to bring back the whisky filled with family memories.<br>\n<br>\n(Source: GAGA International)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx164293-cO2azRMUFry8.jpg",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/164293-1ZEskbpX5zTh.jpg",
+    "schedule": "Musim: FALL 2023",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "FALL",
+    "year": 2023,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 91,
+    "status": "FINISHED",
+    "score": 67,
+    "genres": [
+      "Drama",
+      "Slice of Life"
+    ],
+    "updated_at": 1784455399
   },
   {
     "id": 164226,
@@ -4443,7 +4498,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784282525
+    "updated_at": 1784455405
   },
   {
     "id": 163788,
@@ -4472,7 +4527,7 @@
       "Drama",
       "Mystery"
     ],
-    "updated_at": 1784368934
+    "updated_at": 1784455443
   },
   {
     "id": 163785,
@@ -4526,7 +4581,7 @@
     "status": "FINISHED",
     "score": null,
     "genres": [],
-    "updated_at": 1784368941
+    "updated_at": 1784455449
   },
   {
     "id": 163363,
@@ -4555,7 +4610,7 @@
       "Slice of Life",
       "Sports"
     ],
-    "updated_at": 1784376216
+    "updated_at": 1784455478
   },
   {
     "id": 163147,
@@ -4584,7 +4639,7 @@
       "Drama",
       "Sports"
     ],
-    "updated_at": 1784408542
+    "updated_at": 1784455503
   },
   {
     "id": 163143,
@@ -4614,7 +4669,7 @@
       "Psychological",
       "Sci-Fi"
     ],
-    "updated_at": 1784368999
+    "updated_at": 1784455505
   },
   {
     "id": 162987,
@@ -4643,7 +4698,7 @@
       "Music",
       "Romance"
     ],
-    "updated_at": 1784440942
+    "updated_at": 1784455530
   },
   {
     "id": 162904,
@@ -4670,7 +4725,7 @@
     "genres": [
       "Slice of Life"
     ],
-    "updated_at": 1784369030
+    "updated_at": 1784455539
   },
   {
     "id": 162682,
@@ -4727,7 +4782,7 @@
       "Romance",
       "Supernatural"
     ],
-    "updated_at": 1784369157
+    "updated_at": 1784455662
   },
   {
     "id": 161441,
@@ -4870,7 +4925,7 @@
       "Mahou Shoujo",
       "Romance"
     ],
-    "updated_at": 1784369201
+    "updated_at": 1784455705
   },
   {
     "id": 160275,
@@ -4902,7 +4957,7 @@
       "Mystery",
       "Sci-Fi"
     ],
-    "updated_at": 1784369254
+    "updated_at": 1784455752
   },
   {
     "id": 159886,
@@ -5660,7 +5715,7 @@
       "Sci-Fi",
       "Thriller"
     ],
-    "updated_at": 1784412195
+    "updated_at": 1784455295
   },
   {
     "id": 153658,
@@ -7470,7 +7525,7 @@
       "Drama",
       "Sports"
     ],
-    "updated_at": 1784412201
+    "updated_at": 1784455295
   },
   {
     "id": 133007,
@@ -7956,7 +8011,7 @@
       "Action",
       "Fantasy"
     ],
-    "updated_at": 1784372875
+    "updated_at": 1784455295
   },
   {
     "id": 130050,
@@ -8216,7 +8271,7 @@
       "Mystery",
       "Sci-Fi"
     ],
-    "updated_at": 1784448137
+    "updated_at": 1784455295
   },
   {
     "id": 127227,
@@ -12888,7 +12943,7 @@
       "Action",
       "Sci-Fi"
     ],
-    "updated_at": 1784322117
+    "updated_at": 1784455295
   },
   {
     "id": 108623,
@@ -12976,7 +13031,7 @@
       "Action",
       "Sci-Fi"
     ],
-    "updated_at": 1784427214
+    "updated_at": 1784455295
   },
   {
     "id": 108487,
@@ -13179,7 +13234,7 @@
       "Mystery",
       "Thriller"
     ],
-    "updated_at": 1784329393
+    "updated_at": 1784455295
   },
   {
     "id": 107875,
@@ -13347,7 +13402,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784427205
+    "updated_at": 1784455295
   },
   {
     "id": 107623,
@@ -13578,7 +13633,7 @@
       "Slice of Life",
       "Sports"
     ],
-    "updated_at": 1784406293
+    "updated_at": 1784455295
   },
   {
     "id": 107199,
@@ -14568,7 +14623,7 @@
       "Comedy",
       "Slice of Life"
     ],
-    "updated_at": 1784390608
+    "updated_at": 1784455295
   },
   {
     "id": 104456,
@@ -15604,7 +15659,7 @@
       "Mahou Shoujo",
       "Romance"
     ],
-    "updated_at": 1784380246
+    "updated_at": 1784455295
   },
   {
     "id": 103692,
@@ -16312,7 +16367,7 @@
       "Action",
       "Fantasy"
     ],
-    "updated_at": 1784408567
+    "updated_at": 1784455295
   },
   {
     "id": 103276,
@@ -16340,7 +16395,7 @@
       "Action",
       "Fantasy"
     ],
-    "updated_at": 1784408567
+    "updated_at": 1784455295
   },
   {
     "id": 103221,
@@ -19274,7 +19329,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784381566
+    "updated_at": 1784455295
   },
   {
     "id": 101166,
@@ -19681,7 +19736,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784394193
+    "updated_at": 1784455295
   },
   {
     "id": 100653,
@@ -19773,7 +19828,7 @@
       "Psychological",
       "Sci-Fi"
     ],
-    "updated_at": 1784427201
+    "updated_at": 1784455295
   },
   {
     "id": 100561,
@@ -19860,7 +19915,7 @@
       "Fantasy",
       "Mystery"
     ],
-    "updated_at": 1784408567
+    "updated_at": 1784455295
   },
   {
     "id": 100361,
@@ -20230,7 +20285,7 @@
       "Action",
       "Sports"
     ],
-    "updated_at": 1784448130
+    "updated_at": 1784455295
   },
   {
     "id": 99900,
@@ -20377,7 +20432,7 @@
       "Mahou Shoujo",
       "Sci-Fi"
     ],
-    "updated_at": 1784408567
+    "updated_at": 1784455295
   },
   {
     "id": 99547,
@@ -20762,7 +20817,7 @@
       "Drama",
       "Sports"
     ],
-    "updated_at": 1784448128
+    "updated_at": 1784455295
   },
   {
     "id": 98884,
@@ -21833,7 +21888,7 @@
       "Comedy",
       "Romance"
     ],
-    "updated_at": 1784412201
+    "updated_at": 1784455295
   },
   {
     "id": 97908,
@@ -22132,7 +22187,7 @@
       "Comedy",
       "Drama"
     ],
-    "updated_at": 1784412201
+    "updated_at": 1784455295
   },
   {
     "id": 97594,
@@ -25058,7 +25113,7 @@
       "Comedy",
       "Sci-Fi"
     ],
-    "updated_at": 1784397736
+    "updated_at": 1784455295
   },
   {
     "id": 20768,
@@ -25116,7 +25171,7 @@
       "Music",
       "Slice of Life"
     ],
-    "updated_at": 1784448129
+    "updated_at": 1784455295
   },
   {
     "id": 20764,
@@ -26351,7 +26406,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784390608
+    "updated_at": 1784455295
   },
   {
     "id": 18943,
@@ -28102,7 +28157,7 @@
       "Drama",
       "Slice of Life"
     ],
-    "updated_at": 1784408548
+    "updated_at": 1784455295
   },
   {
     "id": 15201,
@@ -28189,7 +28244,7 @@
       "Mecha",
       "Sci-Fi"
     ],
-    "updated_at": 1784397975
+    "updated_at": 1784455295
   },
   {
     "id": 15177,
@@ -28594,7 +28649,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784448133
+    "updated_at": 1784455295
   },
   {
     "id": 14293,
@@ -30354,7 +30409,7 @@
       "Sci-Fi",
       "Thriller"
     ],
-    "updated_at": 1784415836
+    "updated_at": 1784455295
   },
   {
     "id": 11561,
@@ -33582,7 +33637,7 @@
       "Drama",
       "Fantasy"
     ],
-    "updated_at": 1784427206
+    "updated_at": 1784455295
   },
   {
     "id": 7709,
@@ -35595,7 +35650,7 @@
       "Sci-Fi",
       "Sports"
     ],
-    "updated_at": 1784397736
+    "updated_at": 1784455295
   },
   {
     "id": 6654,
@@ -36657,7 +36712,7 @@
       "Romance",
       "Sci-Fi"
     ],
-    "updated_at": 1784427259
+    "updated_at": 1784455295
   },
   {
     "id": 5673,
@@ -37200,7 +37255,7 @@
       "Supernatural",
       "Thriller"
     ],
-    "updated_at": 1784408567
+    "updated_at": 1784455295
   },
   {
     "id": 5178,
@@ -38590,7 +38645,7 @@
       "Romance",
       "Sci-Fi"
     ],
-    "updated_at": 1784448129
+    "updated_at": 1784455295
   },
   {
     "id": 4106,
@@ -40181,7 +40236,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784440942
+    "updated_at": 1784455295
   },
   {
     "id": 2889,
@@ -43379,7 +43434,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784440942
+    "updated_at": 1784455295
   },
   {
     "id": 1825,
@@ -46133,7 +46188,7 @@
       "Drama",
       "Fantasy"
     ],
-    "updated_at": 1784448133
+    "updated_at": 1784455295
   },
   {
     "id": 1029,
@@ -46375,7 +46430,7 @@
       "Adventure",
       "Sci-Fi"
     ],
-    "updated_at": 1784361747
+    "updated_at": 1784455295
   },
   {
     "id": 905,
@@ -46404,7 +46459,7 @@
       "Adventure",
       "Sci-Fi"
     ],
-    "updated_at": 1784419271
+    "updated_at": 1784455295
   },
   {
     "id": 904,
@@ -46433,7 +46488,7 @@
       "Adventure",
       "Sci-Fi"
     ],
-    "updated_at": 1784440942
+    "updated_at": 1784455295
   },
   {
     "id": 903,
@@ -46520,7 +46575,7 @@
       "Adventure",
       "Sci-Fi"
     ],
-    "updated_at": 1784440942
+    "updated_at": 1784455295
   },
   {
     "id": 900,
@@ -46636,7 +46691,7 @@
       "Adventure",
       "Sci-Fi"
     ],
-    "updated_at": 1784325887
+    "updated_at": 1784455295
   },
   {
     "id": 896,
@@ -46665,7 +46720,7 @@
       "Adventure",
       "Sci-Fi"
     ],
-    "updated_at": 1784440942
+    "updated_at": 1784455295
   },
   {
     "id": 895,
@@ -46694,7 +46749,7 @@
       "Adventure",
       "Sci-Fi"
     ],
-    "updated_at": 1784412201
+    "updated_at": 1784455295
   },
   {
     "id": 894,
@@ -46753,7 +46808,7 @@
       "Comedy",
       "Sci-Fi"
     ],
-    "updated_at": 1784427229
+    "updated_at": 1784455295
   },
   {
     "id": 892,
@@ -46783,7 +46838,7 @@
       "Comedy",
       "Sci-Fi"
     ],
-    "updated_at": 1784383565
+    "updated_at": 1784455295
   },
   {
     "id": 891,
@@ -47747,7 +47802,7 @@
       "Romance",
       "Thriller"
     ],
-    "updated_at": 1784419266
+    "updated_at": 1784455295
   },
   {
     "id": 565,
@@ -47929,7 +47984,7 @@
       "Mahou Shoujo",
       "Romance"
     ],
-    "updated_at": 1784390608
+    "updated_at": 1784455295
   },
   {
     "id": 528,
@@ -48020,7 +48075,7 @@
       "Romance",
       "Sci-Fi"
     ],
-    "updated_at": 1784419264
+    "updated_at": 1784455295
   },
   {
     "id": 520,
@@ -48646,7 +48701,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784316620
+    "updated_at": 1784455295
   },
   {
     "id": 449,
@@ -48858,7 +48913,7 @@
       "Drama",
       "Fantasy"
     ],
-    "updated_at": 1784419261
+    "updated_at": 1784455295
   },
   {
     "id": 420,
@@ -49093,7 +49148,7 @@
       "Fantasy",
       "Mahou Shoujo"
     ],
-    "updated_at": 1784350916
+    "updated_at": 1784455295
   },
   {
     "id": 317,
@@ -49600,7 +49655,7 @@
       "Psychological",
       "Sci-Fi"
     ],
-    "updated_at": 1784427204
+    "updated_at": 1784455295
   },
   {
     "id": 32,
@@ -49691,6 +49746,6 @@
       "Mystery",
       "Sci-Fi"
     ],
-    "updated_at": 1784440942
+    "updated_at": 1784455295
   }
 ]
