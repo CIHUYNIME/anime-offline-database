@@ -350,7 +350,7 @@
       "Psychological",
       "Sci-Fi"
     ],
-    "updated_at": 1784406300
+    "updated_at": 1784458910
   },
   {
     "id": 212391,
@@ -998,7 +998,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784386898
+    "updated_at": 1784458910
   },
   {
     "id": 204949,
@@ -1116,7 +1116,7 @@
       "Drama",
       "Supernatural"
     ],
-    "updated_at": 1784427206
+    "updated_at": 1784458910
   },
   {
     "id": 203100,
@@ -1548,7 +1548,7 @@
       "Adventure",
       "Comedy"
     ],
-    "updated_at": 1784394193
+    "updated_at": 1784458910
   },
   {
     "id": 195494,
@@ -1695,6 +1695,33 @@
       "Supernatural"
     ],
     "updated_at": 1784427208
+  },
+  {
+    "id": 194213,
+    "id_mal": 61813,
+    "url": "https://anilist.co/anime/194213",
+    "title": {
+      "english": "ghost – end of night",
+      "romaji": "ghost／yoru no hate",
+      "native": "ghost／夜の果て"
+    },
+    "description": "Everyone has a \"ghost\" in their hearts. It is a genuine feeling that is there but inexpressible. In this work, the girl Nike opposes the absurdity of the world in order to protect the \"starry sky.\" This challenging work expresses Nike's solitude and heroism, and the subtleties of the heart as she interacts with others. \n<br><br>\n\n(Source:  Bandai Namco Filmworks Press Release via Anime News Network)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx194213-hbKL5BMfdtcK.jpg",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/194213-IZb2of7CgJnp.jpg",
+    "schedule": "Episode 1 tayang pada 10/2/2027, 22.00.00 WIB",
+    "next_episode": 1,
+    "next_airing_timestamp": 1802271600,
+    "season": "",
+    "year": null,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Supernatural"
+    ],
+    "updated_at": 1784458910
   },
   {
     "id": 194167,
@@ -3565,7 +3592,7 @@
       "Music",
       "Romance"
     ],
-    "updated_at": 1784448140
+    "updated_at": 1784458910
   },
   {
     "id": 175138,
@@ -4333,7 +4360,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784448140
+    "updated_at": 1784458910
   },
   {
     "id": 166457,
@@ -4413,7 +4440,7 @@
     "genres": [
       "Sci-Fi"
     ],
-    "updated_at": 1784455296
+    "updated_at": 1784458910
   },
   {
     "id": 165253,
@@ -4698,7 +4725,7 @@
       "Music",
       "Romance"
     ],
-    "updated_at": 1784455530
+    "updated_at": 1784458910
   },
   {
     "id": 162904,
@@ -5773,7 +5800,7 @@
       "Comedy",
       "Sci-Fi"
     ],
-    "updated_at": 1784427258
+    "updated_at": 1784458910
   },
   {
     "id": 151743,
@@ -6746,7 +6773,7 @@
       "Fantasy",
       "Music"
     ],
-    "updated_at": 1784448135
+    "updated_at": 1784458910
   },
   {
     "id": 141056,
@@ -6981,7 +7008,7 @@
       "Romance",
       "Sci-Fi"
     ],
-    "updated_at": 1784440942
+    "updated_at": 1784458910
   },
   {
     "id": 139310,
@@ -7009,7 +7036,7 @@
       "Romance",
       "Sci-Fi"
     ],
-    "updated_at": 1784440942
+    "updated_at": 1784458910
   },
   {
     "id": 139273,
@@ -7413,6 +7440,33 @@
     "updated_at": 1784397736
   },
   {
+    "id": 134226,
+    "id_mal": 49743,
+    "url": "https://anilist.co/anime/134226",
+    "title": {
+      "english": "",
+      "romaji": "Tabi Hani: Kyoto-hen",
+      "native": "旅はに 〜京都篇〜"
+    },
+    "description": "Akari and Nagi come to Kyoto during their first summer holidays after entering high school for a certain purpose. While Akari wants to get there as quickly as possible, Nagi does as much sightseeing as possible to make many memories of their trip.\n<br><br>\nAkari urges Nagi to hurry up to their destination but Nagi does otherwise and continues sightseeing leaving Akari no choice but to follow along. While enjoying the sights of Kyoto for the first time, Akari gradually realizes the joys of traveling.\n<br><br>\nAnd then the two finally reach their destination…\n<br><br>\n(Source: Official Website, translated)\n<br><br>\nTabi Hani is a crowdfunded project with the theme of traveling through Japan. The first episode \"Kyoto-hen\" (京都編) was shown to the project's backers at UPLINK Kyoto on April 8th 2023. A second and a third episode were originally planned.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx134226-EoY2t7VLArXg.jpg",
+    "banner_url": "",
+    "schedule": "Musim: SPRING 2023",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "SPRING",
+    "year": 2023,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 13,
+    "status": "FINISHED",
+    "score": 53,
+    "genres": [
+      "Slice of Life"
+    ],
+    "updated_at": 1784459033
+  },
+  {
     "id": 133904,
     "id_mal": null,
     "url": "https://anilist.co/anime/133904",
@@ -7438,7 +7492,7 @@
       "Action",
       "Comedy"
     ],
-    "updated_at": 1784325887
+    "updated_at": 1784459119
   },
   {
     "id": 133898,
@@ -7468,7 +7522,7 @@
       "Fantasy",
       "Sci-Fi"
     ],
-    "updated_at": 1784440942
+    "updated_at": 1784459121
   },
   {
     "id": 133845,
@@ -7497,7 +7551,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784253694
+    "updated_at": 1784459129
   },
   {
     "id": 133124,
@@ -7525,7 +7579,7 @@
       "Drama",
       "Sports"
     ],
-    "updated_at": 1784455295
+    "updated_at": 1784459197
   },
   {
     "id": 133007,
@@ -7552,7 +7606,34 @@
     "genres": [
       "Mahou Shoujo"
     ],
-    "updated_at": 1784427255
+    "updated_at": 1784459217
+  },
+  {
+    "id": 132776,
+    "id_mal": 48701,
+    "url": "https://anilist.co/anime/132776",
+    "title": {
+      "english": "",
+      "romaji": "Peleliu: Rakuen no Guernica",
+      "native": "ペリリュー～楽園のゲルニカ～"
+    },
+    "description": "Anime adaptation of Kazuyoshi Takeda's <i>Peleliu: Rakuen no Guernica</i> manga.\n<br><br>\nThe story follows the daily lives of Japanese soldiers taking part in the Battle of Peleliu during World War II: a high-casualty, months-long campaign. The main character, Tamaru, dreams of returning home to become a mangaka, and sees their island outpost as a wild paradise that can one day be used as a setting for one of his stories. Most of his comrades, however, are prepared for the more realistic scenario - that they will not be leaving Peleliu alive.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx132776-uZLvjGAa4qup.jpg",
+    "banner_url": "",
+    "schedule": "Musim: FALL 2025",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "FALL",
+    "year": 2025,
+    "format": "MOVIE",
+    "episodes": null,
+    "duration": null,
+    "status": "FINISHED",
+    "score": null,
+    "genres": [
+      "Drama"
+    ],
+    "updated_at": 1784459236
   },
   {
     "id": 132545,
@@ -7581,7 +7662,7 @@
       "Drama",
       "Romance"
     ],
-    "updated_at": 1784246715
+    "updated_at": 1784459254
   },
   {
     "id": 132420,
@@ -7609,7 +7690,36 @@
       "Action",
       "Sports"
     ],
-    "updated_at": 1784412201
+    "updated_at": 1784459271
+  },
+  {
+    "id": 132324,
+    "id_mal": 43204,
+    "url": "https://anilist.co/anime/132324",
+    "title": {
+      "english": "Reconguista in G the Movie III Legacy from Space",
+      "romaji": "Gundam: G no Reconguista III - Uchuu kara no Isan",
+      "native": "Ｇのレコンギスタ Ⅲ 宇宙からの遺産"
+    },
+    "description": "The third film compiling the <i>Gundam: G no Reconguista</i> TV series.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx132324-xAuecCQM2wFN.png",
+    "banner_url": "",
+    "schedule": "Musim: SUMMER 2021",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "SUMMER",
+    "year": 2021,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 104,
+    "status": "FINISHED",
+    "score": 68,
+    "genres": [
+      "Action",
+      "Mecha",
+      "Sci-Fi"
+    ],
+    "updated_at": 1784459290
   },
   {
     "id": 132232,
@@ -7639,7 +7749,37 @@
       "Psychological",
       "Supernatural"
     ],
-    "updated_at": 1784372520
+    "updated_at": 1784459298
+  },
+  {
+    "id": 131770,
+    "id_mal": 47413,
+    "url": "https://anilist.co/anime/131770",
+    "title": {
+      "english": "",
+      "romaji": "Meitantei Conan: Hiiro no Fuzai Shoumei",
+      "native": "名探偵コナン 緋色の不在証明"
+    },
+    "description": "The Akai family, is a dangerous family shrouded in mystery, with members of the family entangled in various intrigues.\nCentering around Shuuichi Akai, who was thought to be dead at the Raiha pass, this movie gets up-close with the personalities and perspectives of Masumi Sera, Shukichi Haneda, and Mary, which have been revealed in bits and pieces so far, and unravels their relationship.<br>\nThe climax of the \"Scarlet\" series ends with the splendid come-back of Shuuichi Akai at the Raiha pass. A prologue to a certain incident shows that Toru Amuro aka Bourbon, Shuuichi Akai's rival, gets \"clues\" from the FBI. Toru Amuro intensively investigates the relationship between Shuuichi Akai and Subaru Okiya. Akai's return at the end of the unparalleled battle between wits and intellect has shocked all viewers. To add to that, the truth behind the \"Alibi play\" series reveals that Conan played a part in it.\nThe Akai family is an integral part of the \"Detective Conan\" series. This compilation will thoroughly dissect the clues, foreshadowing, and the family's relationship with Conan seen so far in the series. This is a must-watch for those who want to understand the mysterious Akai family. This compilation focusing on one illicit family features new narration by Conan and edited audio and presents the [Dangerous family that has shot through the world] with its clear story line.\n<br><br>\n(Source: TMS Entertainment)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx131770-thmn0mH6eDS7.jpg",
+    "banner_url": "",
+    "schedule": "Musim: WINTER 2021",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "WINTER",
+    "year": 2021,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 94,
+    "status": "FINISHED",
+    "score": 70,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Drama",
+      "Mystery"
+    ],
+    "updated_at": 1784459359
   },
   {
     "id": 131680,
@@ -7669,7 +7809,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784427221
+    "updated_at": 1784459378
   },
   {
     "id": 131573,
@@ -7697,7 +7837,7 @@
       "Action",
       "Supernatural"
     ],
-    "updated_at": 1784372726
+    "updated_at": 1784459404
   },
   {
     "id": 131563,
@@ -7755,7 +7895,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784372737
+    "updated_at": 1784459416
   },
   {
     "id": 131486,
@@ -7811,7 +7951,7 @@
     "genres": [
       "Mahou Shoujo"
     ],
-    "updated_at": 1784372778
+    "updated_at": 1784459467
   },
   {
     "id": 130622,
@@ -7839,7 +7979,7 @@
       "Horror",
       "Supernatural"
     ],
-    "updated_at": 1784372821
+    "updated_at": 1784459518
   },
   {
     "id": 130558,
@@ -7868,7 +8008,7 @@
       "Sci-Fi",
       "Slice of Life"
     ],
-    "updated_at": 1784372838
+    "updated_at": 1784459545
   },
   {
     "id": 130370,
@@ -7895,7 +8035,7 @@
     "genres": [
       "Psychological"
     ],
-    "updated_at": 1784397736
+    "updated_at": 1784459574
   },
   {
     "id": 130369,
@@ -7924,7 +8064,7 @@
       "Romance",
       "Supernatural"
     ],
-    "updated_at": 1784372855
+    "updated_at": 1784459574
   },
   {
     "id": 130305,
@@ -7955,7 +8095,7 @@
       "Fantasy",
       "Slice of Life"
     ],
-    "updated_at": 1784415855
+    "updated_at": 1784459583
   },
   {
     "id": 130254,
@@ -8011,7 +8151,7 @@
       "Action",
       "Fantasy"
     ],
-    "updated_at": 1784455295
+    "updated_at": 1784459638
   },
   {
     "id": 130050,
@@ -8039,7 +8179,35 @@
       "Drama",
       "Supernatural"
     ],
-    "updated_at": 1784440942
+    "updated_at": 1784459677
+  },
+  {
+    "id": 129817,
+    "id_mal": 34744,
+    "url": "https://anilist.co/anime/129817",
+    "title": {
+      "english": "",
+      "romaji": "Kumo no Gakkou",
+      "native": "雲の学校"
+    },
+    "description": "Near the end of the 19th century, a young boy loses his father and has to move from a comfortable city to a poor village in Saitama. There, living with his mother, elder sister, and a dog, he learns valuable lessons about what's truly important in life.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx129817-JRhpZ4q7m6Km.png",
+    "banner_url": "",
+    "schedule": "Musim: SPRING 2005",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "SPRING",
+    "year": 2005,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 90,
+    "status": "FINISHED",
+    "score": null,
+    "genres": [
+      "Drama",
+      "Slice of Life"
+    ],
+    "updated_at": 1784459770
   },
   {
     "id": 129759,
@@ -8068,7 +8236,7 @@
       "Adventure",
       "Sci-Fi"
     ],
-    "updated_at": 1784372938
+    "updated_at": 1784459778
   },
   {
     "id": 129549,
@@ -8100,7 +8268,62 @@
       "Sci-Fi",
       "Supernatural"
     ],
-    "updated_at": 1784386898
+    "updated_at": 1784459806
+  },
+  {
+    "id": 129157,
+    "id_mal": 29842,
+    "url": "https://anilist.co/anime/129157",
+    "title": {
+      "english": "",
+      "romaji": "Akuei to Gacchinpo THE MOVIE: Chelsea no Gyakushuu/Akuei to Mahou no Hammer",
+      "native": "アークエとガッチンポー THE MOVIE チェルシーの逆襲 / アークエと魔法のハンマー"
+    },
+    "description": "A double release featuring two Akuei movies; Counterattack of Chelsea and Akuei and His Magic Hammer.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b129157-8UIaqOoHH8oy.jpg",
+    "banner_url": "",
+    "schedule": "Musim: SPRING 2005",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "SPRING",
+    "year": 2005,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 105,
+    "status": "FINISHED",
+    "score": null,
+    "genres": [
+      "Comedy"
+    ],
+    "updated_at": 1784459932
+  },
+  {
+    "id": 129134,
+    "id_mal": null,
+    "url": "https://anilist.co/anime/129134",
+    "title": {
+      "english": "",
+      "romaji": "Yingtao Xiaowanzi: Qihuan Biji",
+      "native": "樱桃小丸子：奇幻笔记"
+    },
+    "description": "Maruko, who has jumped out of her everyday life, travels on a mysterious adventure in a new world of fantasy.\n<br><br>\n(Source: Sakura Production)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx129134-LzKeuF3HgtQS.jpg",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Comedy",
+      "Slice of Life"
+    ],
+    "updated_at": 1784459934
   },
   {
     "id": 128740,
@@ -10229,7 +10452,7 @@
     "genres": [
       "Music"
     ],
-    "updated_at": 1784440942
+    "updated_at": 1784458910
   },
   {
     "id": 117764,
@@ -10256,7 +10479,7 @@
     "genres": [
       "Music"
     ],
-    "updated_at": 1784440942
+    "updated_at": 1784458910
   },
   {
     "id": 117763,
@@ -10283,7 +10506,7 @@
     "genres": [
       "Music"
     ],
-    "updated_at": 1784386898
+    "updated_at": 1784458910
   },
   {
     "id": 117758,
@@ -10655,7 +10878,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784340961
+    "updated_at": 1784458910
   },
   {
     "id": 114719,
@@ -11535,7 +11758,7 @@
       "Music",
       "Slice of Life"
     ],
-    "updated_at": 1784300508
+    "updated_at": 1784458910
   },
   {
     "id": 111943,
@@ -12972,7 +13195,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784448140
+    "updated_at": 1784458910
   },
   {
     "id": 108577,
@@ -13061,7 +13284,7 @@
       "Slice of Life",
       "Supernatural"
     ],
-    "updated_at": 1784291300
+    "updated_at": 1784458910
   },
   {
     "id": 108260,
@@ -13944,7 +14167,7 @@
       "Romance",
       "Sci-Fi"
     ],
-    "updated_at": 1784394193
+    "updated_at": 1784458910
   },
   {
     "id": 106206,
@@ -14032,7 +14255,7 @@
       "Mecha",
       "Sci-Fi"
     ],
-    "updated_at": 1784386898
+    "updated_at": 1784458910
   },
   {
     "id": 105445,
@@ -14316,7 +14539,7 @@
       "Sci-Fi",
       "Thriller"
     ],
-    "updated_at": 1784412194
+    "updated_at": 1784458910
   },
   {
     "id": 104956,
@@ -15744,7 +15967,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784380336
+    "updated_at": 1784458910
   },
   {
     "id": 103534,
@@ -17704,7 +17927,7 @@
     "genres": [
       "Drama"
     ],
-    "updated_at": 1783948768
+    "updated_at": 1784458910
   },
   {
     "id": 102396,
@@ -20313,7 +20536,7 @@
       "Comedy",
       "Drama"
     ],
-    "updated_at": 1784427260
+    "updated_at": 1784458910
   },
   {
     "id": 99750,
@@ -20678,7 +20901,7 @@
     "genres": [
       "Action"
     ],
-    "updated_at": 1784383801
+    "updated_at": 1784458910
   },
   {
     "id": 99196,
@@ -20733,7 +20956,7 @@
       "Comedy",
       "Sci-Fi"
     ],
-    "updated_at": 1784384044
+    "updated_at": 1784458910
   },
   {
     "id": 98998,
@@ -20904,7 +21127,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784440942
+    "updated_at": 1784458910
   },
   {
     "id": 98873,
@@ -20933,7 +21156,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784440942
+    "updated_at": 1784458910
   },
   {
     "id": 98784,
@@ -21860,7 +22083,7 @@
       "Horror",
       "Supernatural"
     ],
-    "updated_at": 1784412189
+    "updated_at": 1784458910
   },
   {
     "id": 97917,
@@ -22132,7 +22355,7 @@
       "Sci-Fi",
       "Supernatural"
     ],
-    "updated_at": 1784385195
+    "updated_at": 1784458910
   },
   {
     "id": 97661,
@@ -22418,7 +22641,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784394193
+    "updated_at": 1784458910
   },
   {
     "id": 21864,
@@ -23599,7 +23822,7 @@
       "Drama",
       "Fantasy"
     ],
-    "updated_at": 1784448140
+    "updated_at": 1784458910
   },
   {
     "id": 21314,
@@ -23769,7 +23992,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784412201
+    "updated_at": 1784458910
   },
   {
     "id": 21265,
@@ -23830,7 +24053,7 @@
       "Sci-Fi",
       "Supernatural"
     ],
-    "updated_at": 1784427235
+    "updated_at": 1784458910
   },
   {
     "id": 21244,
@@ -24822,7 +25045,7 @@
       "Psychological",
       "Sci-Fi"
     ],
-    "updated_at": 1784394325
+    "updated_at": 1784458910
   },
   {
     "id": 20917,
@@ -25143,7 +25366,7 @@
       "Slice of Life",
       "Supernatural"
     ],
-    "updated_at": 1784448140
+    "updated_at": 1784458910
   },
   {
     "id": 20766,
@@ -25323,7 +25546,7 @@
       "Sci-Fi",
       "Supernatural"
     ],
-    "updated_at": 1784397736
+    "updated_at": 1784458910
   },
   {
     "id": 20736,
@@ -25355,7 +25578,7 @@
       "Sci-Fi",
       "Supernatural"
     ],
-    "updated_at": 1784397736
+    "updated_at": 1784458910
   },
   {
     "id": 20709,
@@ -25814,7 +26037,7 @@
       "Psychological",
       "Supernatural"
     ],
-    "updated_at": 1784376216
+    "updated_at": 1784458910
   },
   {
     "id": 20471,
@@ -25900,7 +26123,7 @@
       "Drama",
       "Romance"
     ],
-    "updated_at": 1784412184
+    "updated_at": 1784458910
   },
   {
     "id": 19957,
@@ -28564,7 +28787,7 @@
       "Sci-Fi",
       "Supernatural"
     ],
-    "updated_at": 1784448140
+    "updated_at": 1784458910
   },
   {
     "id": 14381,
@@ -29502,7 +29725,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784398857
+    "updated_at": 1784458910
   },
   {
     "id": 12561,
@@ -29911,7 +30134,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784415840
+    "updated_at": 1784458910
   },
   {
     "id": 12035,
@@ -30152,7 +30375,7 @@
       "Psychological",
       "Thriller"
     ],
-    "updated_at": 1784398990
+    "updated_at": 1784458910
   },
   {
     "id": 11791,
@@ -31608,7 +31831,7 @@
       "Action",
       "Sci-Fi"
     ],
-    "updated_at": 1784397736
+    "updated_at": 1784458910
   },
   {
     "id": 9288,
@@ -33774,7 +33997,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784394193
+    "updated_at": 1784458910
   },
   {
     "id": 7683,
@@ -36032,7 +36255,7 @@
       "Action",
       "Comedy"
     ],
-    "updated_at": 1784412201
+    "updated_at": 1784458910
   },
   {
     "id": 6305,
@@ -36232,7 +36455,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784440942
+    "updated_at": 1784458910
   },
   {
     "id": 6172,
@@ -37478,7 +37701,7 @@
       "Action",
       "Sports"
     ],
-    "updated_at": 1784312690
+    "updated_at": 1784458910
   },
   {
     "id": 5006,
@@ -37568,7 +37791,7 @@
       "Fantasy",
       "Horror"
     ],
-    "updated_at": 1784358109
+    "updated_at": 1784458910
   },
   {
     "id": 4970,
@@ -38443,7 +38666,7 @@
       "Supernatural",
       "Thriller"
     ],
-    "updated_at": 1784412186
+    "updated_at": 1784458910
   },
   {
     "id": 4250,
@@ -38586,7 +38809,7 @@
       "Drama",
       "Fantasy"
     ],
-    "updated_at": 1784412201
+    "updated_at": 1784458910
   },
   {
     "id": 4147,
@@ -39132,7 +39355,7 @@
       "Supernatural",
       "Thriller"
     ],
-    "updated_at": 1784406284
+    "updated_at": 1784458910
   },
   {
     "id": 3782,
@@ -39724,7 +39947,7 @@
       "Action",
       "Sci-Fi"
     ],
-    "updated_at": 1784406300
+    "updated_at": 1784458910
   },
   {
     "id": 3067,
@@ -40044,7 +40267,7 @@
       "Fantasy",
       "Sci-Fi"
     ],
-    "updated_at": 1784448133
+    "updated_at": 1784458910
   },
   {
     "id": 2952,
@@ -40327,7 +40550,7 @@
       "Drama",
       "Fantasy"
     ],
-    "updated_at": 1784329393
+    "updated_at": 1784458910
   },
   {
     "id": 2830,
@@ -40417,6 +40640,36 @@
       "Sci-Fi"
     ],
     "updated_at": 1784427237
+  },
+  {
+    "id": 2755,
+    "id_mal": 2755,
+    "url": "https://anilist.co/anime/2755",
+    "title": {
+      "english": "Cleopatra",
+      "romaji": "Cleopatra",
+      "native": "クレオパトラ"
+    },
+    "description": "Three people from the future are spiritually sent back in time to relive the era of Caesar, Marc Anthony and Cleopatra. As close companions to these key historical figures, they seek to understand the nature of an enemy's plan in their own time.\n<br><br>(Source: Anime News Network)<br><br>\n<i>Note: This is the second major animated piece following the big hit \"A Thousand and One Night Stories\" in Japan. The distributor treated the film as an erotic animated work for adults, advertising it as a piece \"far more erotic than a thousand and one might stories.\" The movie produced a number of popular sayings and gags that have since become outdated. However, the film remains an impressive and beautiful piece.</i>",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2755-nWtdJUN0x72o.jpg",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/2755-bxZEuzCS1UQK.jpg",
+    "schedule": "Musim: FALL 1970",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "FALL",
+    "year": 1970,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 113,
+    "status": "FINISHED",
+    "score": 53,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Ecchi",
+      "Sci-Fi"
+    ],
+    "updated_at": 1784458910
   },
   {
     "id": 2753,
@@ -41081,7 +41334,7 @@
       "Fantasy",
       "Sci-Fi"
     ],
-    "updated_at": 1784368905
+    "updated_at": 1784458910
   },
   {
     "id": 2594,
@@ -41630,7 +41883,7 @@
       "Fantasy",
       "Sci-Fi"
     ],
-    "updated_at": 1784402662
+    "updated_at": 1784458910
   },
   {
     "id": 2393,
@@ -43787,7 +44040,7 @@
       "Drama",
       "Supernatural"
     ],
-    "updated_at": 1784412185
+    "updated_at": 1784458910
   },
   {
     "id": 1681,
@@ -45209,7 +45462,7 @@
       "Romance",
       "Sci-Fi"
     ],
-    "updated_at": 1784403830
+    "updated_at": 1784458910
   },
   {
     "id": 1209,
@@ -45652,7 +45905,7 @@
       "Drama",
       "Fantasy"
     ],
-    "updated_at": 1784412201
+    "updated_at": 1784458910
   },
   {
     "id": 1118,
@@ -46896,7 +47149,7 @@
       "Action",
       "Fantasy"
     ],
-    "updated_at": 1784315889
+    "updated_at": 1784458910
   },
   {
     "id": 883,
@@ -47333,7 +47586,7 @@
       "Fantasy",
       "Supernatural"
     ],
-    "updated_at": 1784440942
+    "updated_at": 1784458910
   },
   {
     "id": 781,
@@ -47507,7 +47760,7 @@
       "Sci-Fi",
       "Supernatural"
     ],
-    "updated_at": 1784419268
+    "updated_at": 1784458910
   },
   {
     "id": 731,
@@ -47683,7 +47936,7 @@
       "Drama",
       "Fantasy"
     ],
-    "updated_at": 1784427247
+    "updated_at": 1784458910
   },
   {
     "id": 585,
@@ -47713,7 +47966,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784440942
+    "updated_at": 1784458910
   },
   {
     "id": 578,
@@ -47771,7 +48024,7 @@
       "Fantasy",
       "Sci-Fi"
     ],
-    "updated_at": 1784419266
+    "updated_at": 1784458910
   },
   {
     "id": 570,
@@ -47862,7 +48115,7 @@
       "Romance",
       "Sci-Fi"
     ],
-    "updated_at": 1784390608
+    "updated_at": 1784458910
   },
   {
     "id": 544,
@@ -47924,7 +48177,7 @@
       "Romance",
       "Sci-Fi"
     ],
-    "updated_at": 1784419265
+    "updated_at": 1784458910
   },
   {
     "id": 536,
@@ -48164,7 +48417,7 @@
       "Fantasy",
       "Sci-Fi"
     ],
-    "updated_at": 1784419264
+    "updated_at": 1784458910
   },
   {
     "id": 512,
@@ -49029,7 +49282,7 @@
       "Comedy",
       "Slice of Life"
     ],
-    "updated_at": 1784440942
+    "updated_at": 1784458910
   },
   {
     "id": 405,
@@ -49536,7 +49789,7 @@
       "Mecha",
       "Sci-Fi"
     ],
-    "updated_at": 1784427260
+    "updated_at": 1784458910
   },
   {
     "id": 54,
