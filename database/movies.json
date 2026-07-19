@@ -103,7 +103,7 @@
       "Action",
       "Sci-Fi"
     ],
-    "updated_at": 1784473455
+    "updated_at": 1784494957
   },
   {
     "id": 214068,
@@ -131,7 +131,7 @@
       "Drama",
       "Fantasy"
     ],
-    "updated_at": 1784469809
+    "updated_at": 1784494938
   },
   {
     "id": 214067,
@@ -322,6 +322,31 @@
       "Adventure"
     ],
     "updated_at": 1784376216
+  },
+  {
+    "id": 212568,
+    "id_mal": null,
+    "url": "https://anilist.co/anime/212568",
+    "title": {
+      "english": "Mamiko’s Poop",
+      "romaji": "Mamiko no Unko",
+      "native": "マミ子のウン子"
+    },
+    "description": "Graduation work of Yasuteru Ohno at Tama Art University.\n<br><br>A heartbroken schoolgirl drowns her sorrows in food after being cheated on. When nature calls, what follows in the bathroom becomes an explosive outlet for her rage directed straight at her unfaithful boyfriend.<br><br>\n<i>Notes: Selected for the Fantasia Film Festival Anime no Bento official selection highlighting indie talent.</i>",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx212568-JpoUw7GHCux2.png",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/212568-laAmNUxMv99m.jpg",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 2,
+    "status": "FINISHED",
+    "score": 64,
+    "genres": [],
+    "updated_at": 1784494934
   },
   {
     "id": 212539,
@@ -597,7 +622,7 @@
       "Comedy",
       "Romance"
     ],
-    "updated_at": 1784427228
+    "updated_at": 1784494936
   },
   {
     "id": 209961,
@@ -738,7 +763,7 @@
       "Mystery",
       "Romance"
     ],
-    "updated_at": 1784427217
+    "updated_at": 1784494945
   },
   {
     "id": 207213,
@@ -823,6 +848,34 @@
       "Fantasy"
     ],
     "updated_at": 1784325887
+  },
+  {
+    "id": 206841,
+    "id_mal": 55787,
+    "url": "https://anilist.co/anime/206841",
+    "title": {
+      "english": "",
+      "romaji": "Koutarou in Space Wonderland",
+      "native": "こうたろう イン スペースワンダーランド"
+    },
+    "description": "Tidak ada deskripsi.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b206841-6zTEeSqF6b2A.png",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 26,
+    "status": "FINISHED",
+    "score": null,
+    "genres": [
+      "Adventure",
+      "Slice of Life"
+    ],
+    "updated_at": 1784494954
   },
   {
     "id": 206819,
@@ -1398,7 +1451,7 @@
       "Romance",
       "Supernatural"
     ],
-    "updated_at": 1784358109
+    "updated_at": 1784494949
   },
   {
     "id": 199150,
@@ -1631,7 +1684,7 @@
     "genres": [
       "Fantasy"
     ],
-    "updated_at": 1784462595
+    "updated_at": 1784494957
   },
   {
     "id": 195384,
@@ -2420,7 +2473,7 @@
       "Fantasy",
       "Psychological"
     ],
-    "updated_at": 1783948258
+    "updated_at": 1784494938
   },
   {
     "id": 185714,
@@ -4216,6 +4269,35 @@
     "updated_at": 1784484185
   },
   {
+    "id": 169746,
+    "id_mal": 53598,
+    "url": "https://anilist.co/anime/169746",
+    "title": {
+      "english": "",
+      "romaji": "Vapor Trail",
+      "native": "Vapor Trail"
+    },
+    "description": "In 2079, the world's first orbital elevator was built in the Pacific Ocean to commemorate the peace that mankind regained after the 3rd World War. However, during the completion ceremony, a huge red humanoid object appears from outer space. It was so powerful that mankind was defeated in vain resistance. The orbital elevator was occupied, and since then mankind has entered a war with the red hostile flying object \"Vacant\" flying from there.\n<br><br>\nSummer 2099. \"It's been 20 years since the war started.\" Humanity developed the humanoid 7th generation fighter \"Seventh\" and succeeded in suppressing \"Vacant\" to the vicinity of the orbital elevator.\n<br><br>\nYashima military base floating in the Pacific Ocean. A woman who belongs to the special technology research department, Miku, drives the black forward wing Seventh F/SX-02 Tenra and flies in the blue sky. Together with the personality data of Liza, a girl who was once separated, stored in the machine's computer. Just to be together.\n<br><br>\nA yuri mecha movie starring two girls bound together by a bond far stronger than friendship.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b169746-wyxr9LLbmiGQ.jpg",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/169746-d86B5I08ooqI.jpg",
+    "schedule": "Musim: SUMMER 2021",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "SUMMER",
+    "year": 2021,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 35,
+    "status": "FINISHED",
+    "score": 52,
+    "genres": [
+      "Action",
+      "Mecha",
+      "Sci-Fi"
+    ],
+    "updated_at": 1784494956
+  },
+  {
     "id": 169021,
     "id_mal": 53158,
     "url": "https://anilist.co/anime/169021",
@@ -4551,7 +4633,34 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784390608
+    "updated_at": 1784494957
+  },
+  {
+    "id": 166056,
+    "id_mal": 27375,
+    "url": "https://anilist.co/anime/166056",
+    "title": {
+      "english": "",
+      "romaji": "Hitoribocchi",
+      "native": "ひとりぼっち"
+    },
+    "description": "A short film that was screened at the 1969 Toei Manga Matsuri.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b166056-jKc87gyf3V3L.jpg",
+    "banner_url": "",
+    "schedule": "Musim: WINTER 1969",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "WINTER",
+    "year": 1969,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 25,
+    "status": "FINISHED",
+    "score": null,
+    "genres": [
+      "Drama"
+    ],
+    "updated_at": 1784494948
   },
   {
     "id": 165890,
@@ -4800,7 +4909,7 @@
       "Slice of Life",
       "Sports"
     ],
-    "updated_at": 1784455478
+    "updated_at": 1784494957
   },
   {
     "id": 163147,
@@ -4888,7 +4997,7 @@
       "Music",
       "Romance"
     ],
-    "updated_at": 1784458910
+    "updated_at": 1784494944
   },
   {
     "id": 162904,
@@ -4972,7 +5081,7 @@
       "Romance",
       "Supernatural"
     ],
-    "updated_at": 1784492920
+    "updated_at": 1784494949
   },
   {
     "id": 161441,
@@ -5027,7 +5136,7 @@
     "genres": [
       "Music"
     ],
-    "updated_at": 1784282577
+    "updated_at": 1784494957
   },
   {
     "id": 160982,
@@ -5851,6 +5960,31 @@
       "Sci-Fi"
     ],
     "updated_at": 1784283255
+  },
+  {
+    "id": 154038,
+    "id_mal": 58184,
+    "url": "https://anilist.co/anime/154038",
+    "title": {
+      "english": "",
+      "romaji": "Kasabuta",
+      "native": "かさぶた"
+    },
+    "description": "Student work by Honami Yano.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b154038-Dk396iNIetlx.jpg",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 9,
+    "status": "FINISHED",
+    "score": null,
+    "genres": [],
+    "updated_at": 1784494951
   },
   {
     "id": 153734,
@@ -6750,6 +6884,34 @@
     "updated_at": 1784372516
   },
   {
+    "id": 143386,
+    "id_mal": null,
+    "url": "https://anilist.co/anime/143386",
+    "title": {
+      "english": "INORI",
+      "romaji": "INORI",
+      "native": "祈り-INORI-"
+    },
+    "description": "Graduation work of Tomotari Oishi at Tama Art University.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx143386-KZbhrQPIrAL9.png",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 4,
+    "status": "FINISHED",
+    "score": null,
+    "genres": [
+      "Comedy",
+      "Slice of Life"
+    ],
+    "updated_at": 1784494950
+  },
+  {
     "id": 143201,
     "id_mal": 50675,
     "url": "https://anilist.co/anime/143201",
@@ -7155,6 +7317,31 @@
     "updated_at": 1784390608
   },
   {
+    "id": 140585,
+    "id_mal": null,
+    "url": "https://anilist.co/anime/140585",
+    "title": {
+      "english": "I'm ok.",
+      "romaji": "Betsuni Daijoubudesu",
+      "native": "別に大丈夫です"
+    },
+    "description": "Mizuinokima's Tama Art University 2018 graduate project",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx140585-hX89tVrSFWGW.png",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/140585-QpShZ19tzHq3.jpg",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 2,
+    "status": "FINISHED",
+    "score": null,
+    "genres": [],
+    "updated_at": 1784494952
+  },
+  {
     "id": 140580,
     "id_mal": null,
     "url": "https://anilist.co/anime/140580",
@@ -7265,6 +7452,33 @@
       "Slice of Life"
     ],
     "updated_at": 1784480696
+  },
+  {
+    "id": 140238,
+    "id_mal": 54193,
+    "url": "https://anilist.co/anime/140238",
+    "title": {
+      "english": "",
+      "romaji": "Joseito",
+      "native": "女生徒"
+    },
+    "description": "Based off of Osamu Dazai's novel \"Schoolgirl\". This work is a first-person female novel based on the diary of a girl who is a favorite reader of Tadashi, and was published in the 1939 magazine \"Bungakukai\". The story depicts May 1st of a year. In the words of a female student living in Tokyo, I draw the heart of adolescents who are self-conscious. \"I want to live beautifully,\" says the girl.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx140238-rNEHBWO79kgD.jpg",
+    "banner_url": "",
+    "schedule": "Musim: WINTER 2014",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "WINTER",
+    "year": 2014,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 14,
+    "status": "FINISHED",
+    "score": null,
+    "genres": [
+      "Psychological"
+    ],
+    "updated_at": 1784494951
   },
   {
     "id": 140113,
@@ -7662,7 +7876,7 @@
       "Mystery",
       "Sci-Fi"
     ],
-    "updated_at": 1784412192
+    "updated_at": 1784494957
   },
   {
     "id": 137310,
@@ -7860,7 +8074,7 @@
       "Romance",
       "Supernatural"
     ],
-    "updated_at": 1784448140
+    "updated_at": 1784494949
   },
   {
     "id": 136064,
@@ -9226,7 +9440,7 @@
       "Adventure",
       "Sci-Fi"
     ],
-    "updated_at": 1784427228
+    "updated_at": 1784494944
   },
   {
     "id": 126649,
@@ -11295,6 +11509,35 @@
     "updated_at": 1784462727
   },
   {
+    "id": 117009,
+    "id_mal": null,
+    "url": "https://anilist.co/anime/117009",
+    "title": {
+      "english": "Lonesome hero",
+      "romaji": "Hitoribocchi no Hero",
+      "native": "ひとりぼっちのヒーロー"
+    },
+    "description": "This is for children who couldn't be on their own. And, for the time when you're older and you've forgotten your determination to be on your own.\n<br><br>\nGraduate Work 2014, Tokyo University of the Arts, Graduate School of Film and New Media, Department of Animation.\n<br><br>\n(Source:  Geidai Animation)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b117009-VpI9NBGD1xK7.jpg",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/117009-ytHItycRpUFn.jpg",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 8,
+    "status": "FINISHED",
+    "score": null,
+    "genres": [
+      "Fantasy",
+      "Psychological",
+      "Slice of Life"
+    ],
+    "updated_at": 1784494956
+  },
+  {
     "id": 116982,
     "id_mal": 44061,
     "url": "https://anilist.co/anime/116982",
@@ -11378,7 +11621,7 @@
       "Fantasy",
       "Supernatural"
     ],
-    "updated_at": 1784462775
+    "updated_at": 1784494957
   },
   {
     "id": 116740,
@@ -11542,7 +11785,7 @@
     "genres": [
       "Fantasy"
     ],
-    "updated_at": 1784484185
+    "updated_at": 1784494957
   },
   {
     "id": 116069,
@@ -12222,7 +12465,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784289685
+    "updated_at": 1784494957
   },
   {
     "id": 113345,
@@ -12559,7 +12802,7 @@
       "Mecha",
       "Sci-Fi"
     ],
-    "updated_at": 1784290060
+    "updated_at": 1784494939
   },
   {
     "id": 112305,
@@ -12646,7 +12889,7 @@
       "Drama",
       "Slice of Life"
     ],
-    "updated_at": 1784480696
+    "updated_at": 1784494941
   },
   {
     "id": 112023,
@@ -14257,7 +14500,7 @@
       "Action",
       "Sci-Fi"
     ],
-    "updated_at": 1784492948
+    "updated_at": 1784494948
   },
   {
     "id": 108487,
@@ -14287,7 +14530,7 @@
       "Slice of Life",
       "Supernatural"
     ],
-    "updated_at": 1784458910
+    "updated_at": 1784494957
   },
   {
     "id": 108260,
@@ -14628,7 +14871,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784455295
+    "updated_at": 1784494957
   },
   {
     "id": 107623,
@@ -15170,7 +15413,7 @@
       "Romance",
       "Sci-Fi"
     ],
-    "updated_at": 1784492957
+    "updated_at": 1784494957
   },
   {
     "id": 106206,
@@ -18038,6 +18281,33 @@
     "score": 41,
     "genres": [],
     "updated_at": 1783947553
+  },
+  {
+    "id": 103323,
+    "id_mal": 32041,
+    "url": "https://anilist.co/anime/103323",
+    "title": {
+      "english": "Legend of the Forest: 2nd Movement",
+      "romaji": "Mori no Densetsu: Dai Ni Gakushou",
+      "native": "森の伝説 第二楽章"
+    },
+    "description": "Sequel of Mori no Densetsu",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/103323-VyMOYXmc1gWL.jpg",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 11,
+    "status": "FINISHED",
+    "score": 53,
+    "genres": [
+      "Fantasy"
+    ],
+    "updated_at": 1784494955
   },
   {
     "id": 103316,
@@ -21048,7 +21318,7 @@
       "Sci-Fi",
       "Thriller"
     ],
-    "updated_at": 1784468340
+    "updated_at": 1784494935
   },
   {
     "id": 101812,
@@ -21713,7 +21983,7 @@
       "Sci-Fi",
       "Slice of Life"
     ],
-    "updated_at": 1784468766
+    "updated_at": 1784494940
   },
   {
     "id": 101231,
@@ -21773,7 +22043,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784492958
+    "updated_at": 1784494957
   },
   {
     "id": 101126,
@@ -21804,7 +22074,7 @@
       "Romance",
       "Sci-Fi"
     ],
-    "updated_at": 1783949623
+    "updated_at": 1784494957
   },
   {
     "id": 101102,
@@ -21892,7 +22162,7 @@
       "Psychological",
       "Thriller"
     ],
-    "updated_at": 1784381695
+    "updated_at": 1784494957
   },
   {
     "id": 100965,
@@ -22149,7 +22419,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784455295
+    "updated_at": 1784494957
   },
   {
     "id": 100653,
@@ -22241,7 +22511,7 @@
       "Psychological",
       "Sci-Fi"
     ],
-    "updated_at": 1784455295
+    "updated_at": 1784494941
   },
   {
     "id": 100561,
@@ -23399,7 +23669,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784470767
+    "updated_at": 1784494938
   },
   {
     "id": 98873,
@@ -23428,7 +23698,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784470769
+    "updated_at": 1784494938
   },
   {
     "id": 98784,
@@ -23568,7 +23838,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784470834
+    "updated_at": 1784494957
   },
   {
     "id": 98746,
@@ -24183,7 +24453,7 @@
       "Sports",
       "Supernatural"
     ],
-    "updated_at": 1784471328
+    "updated_at": 1784494950
   },
   {
     "id": 98222,
@@ -25251,7 +25521,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784477538
+    "updated_at": 1784494957
   },
   {
     "id": 21864,
@@ -26034,7 +26304,7 @@
       "Fantasy",
       "Sci-Fi"
     ],
-    "updated_at": 1784478382
+    "updated_at": 1784494957
   },
   {
     "id": 21554,
@@ -26182,7 +26452,7 @@
       "Fantasy",
       "Sci-Fi"
     ],
-    "updated_at": 1784478649
+    "updated_at": 1784494957
   },
   {
     "id": 21498,
@@ -26213,7 +26483,7 @@
       "Psychological",
       "Sci-Fi"
     ],
-    "updated_at": 1784478657
+    "updated_at": 1784494937
   },
   {
     "id": 21496,
@@ -26742,7 +27012,7 @@
       "Adventure",
       "Sci-Fi"
     ],
-    "updated_at": 1784473455
+    "updated_at": 1784494934
   },
   {
     "id": 21248,
@@ -26774,7 +27044,7 @@
       "Sci-Fi",
       "Supernatural"
     ],
-    "updated_at": 1784480696
+    "updated_at": 1784494942
   },
   {
     "id": 21244,
@@ -26918,7 +27188,7 @@
       "Mecha",
       "Sci-Fi"
     ],
-    "updated_at": 1784466165
+    "updated_at": 1784494957
   },
   {
     "id": 21158,
@@ -27208,7 +27478,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784412186
+    "updated_at": 1784494957
   },
   {
     "id": 21072,
@@ -27822,7 +28092,32 @@
       "Mystery",
       "Slice of Life"
     ],
-    "updated_at": 1784481057
+    "updated_at": 1784494957
+  },
+  {
+    "id": 20886,
+    "id_mal": 24073,
+    "url": "https://anilist.co/anime/20886",
+    "title": {
+      "english": "",
+      "romaji": "Konna Watashitachi ga Nariyuki de Heroine ni Natta Kekka www Movie",
+      "native": "こんな私たちがなりゆきでヒロインになった結果www"
+    },
+    "description": "Running alongside the gdgd Fairies film.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/20886.jpg",
+    "banner_url": "",
+    "schedule": "Musim: SUMMER 2014",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "SUMMER",
+    "year": 2014,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 14,
+    "status": "FINISHED",
+    "score": 36,
+    "genres": [],
+    "updated_at": 1784494953
   },
   {
     "id": 20842,
@@ -27851,7 +28146,7 @@
       "Drama",
       "Sports"
     ],
-    "updated_at": 1784481113
+    "updated_at": 1784494950
   },
   {
     "id": 20810,
@@ -28267,7 +28562,7 @@
       "Sci-Fi",
       "Supernatural"
     ],
-    "updated_at": 1784484185
+    "updated_at": 1784494941
   },
   {
     "id": 20736,
@@ -28700,7 +28995,7 @@
       "Action",
       "Sci-Fi"
     ],
-    "updated_at": 1784492945
+    "updated_at": 1784494957
   },
   {
     "id": 20512,
@@ -28729,6 +29024,34 @@
       "Slice of Life"
     ],
     "updated_at": 1784394193
+  },
+  {
+    "id": 20505,
+    "id_mal": 20889,
+    "url": "https://anilist.co/anime/20505",
+    "title": {
+      "english": "",
+      "romaji": "Kuro no Sumika -Chronus-",
+      "native": "黒の栖 -Chronus-"
+    },
+    "description": "Makoto Nakazono is a high school student with a small dark secret. Since he was little, he has had the mysterious power to see \"black entities\" that steal souls.<br>\n<br>\nOne day, he is suddenly interrogated by one of the \"black entities,\" Akira Seno: \"Will you get in our way?\"<br>\n<br>\nBut Makoto replies with an air of resignation, \"There's nothing I can do anyway, so I won't.\"<br>\n<br>\nAt that moment, Makoto didn't notice the threatening shadow approaching his childhood friend Hazuki…\n<br><br>\n(Source: Anime News Network)\n<br>\n<br>\nOne of the four 2014 Anime Mirai (Young Animator Training Project) films funded by the Japanese government's Agency of Cultural Affairs in order to support training animators.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20505-bE2CRsOocE24.png",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/20505-X6byjnUaRHzs.jpg",
+    "schedule": "Musim: WINTER 2014",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "WINTER",
+    "year": 2014,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 25,
+    "status": "FINISHED",
+    "score": 64,
+    "genres": [
+      "Psychological",
+      "Supernatural"
+    ],
+    "updated_at": 1784494954
   },
   {
     "id": 20501,
@@ -28929,7 +29252,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784361740
+    "updated_at": 1784494940
   },
   {
     "id": 19943,
@@ -28986,6 +29309,35 @@
       "Fantasy"
     ],
     "updated_at": 1784307757
+  },
+  {
+    "id": 19781,
+    "id_mal": 19781,
+    "url": "https://anilist.co/anime/19781",
+    "title": {
+      "english": "",
+      "romaji": "Kuiba III: Zhanshen Jueqi",
+      "native": "魁拔III：战神崛起"
+    },
+    "description": "\"Kuiba III\" is the third film of the \"Kuiba Pentalogy\" animated film series . The film reveals the entire line-up of the Kuiba Legion, \"Twelve Devils\" and the mysterious character that will appear in the show - Ao Jiang; at the same time, one of the film's animated scenes shows the earthshaking take of the ultimate showdown between Kuiba's pulse beast and the Lion pulse beast.<br><br>\r\n(Original translation by thanatoz of rayout.org)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx19781-rQseuY1IOqFZ.jpg",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 80,
+    "status": "FINISHED",
+    "score": 52,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "updated_at": 1784494954
   },
   {
     "id": 19731,
@@ -31493,7 +31845,7 @@
       "Drama",
       "Slice of Life"
     ],
-    "updated_at": 1784484399
+    "updated_at": 1784494943
   },
   {
     "id": 15201,
@@ -31984,7 +32336,7 @@
       "Sci-Fi",
       "Supernatural"
     ],
-    "updated_at": 1784484572
+    "updated_at": 1784494942
   },
   {
     "id": 14381,
@@ -32884,7 +33236,7 @@
       "Drama",
       "Supernatural"
     ],
-    "updated_at": 1784484831
+    "updated_at": 1784494957
   },
   {
     "id": 13091,
@@ -34704,6 +35056,36 @@
     "updated_at": 1784268121
   },
   {
+    "id": 10714,
+    "id_mal": 10714,
+    "url": "https://anilist.co/anime/10714",
+    "title": {
+      "english": "Towanoquon: The Complicity of Dreams",
+      "romaji": "Towa no Quon 3: Mugen no Renza",
+      "native": "トワノクオン 第３章 夢幻の連座"
+    },
+    "description": "A Strange Journey through the mind leads Quon to ancient Japan. A new Attractor is discovered, and while this dream state becomes more dangerous, so does the situation for their new would be ally.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/10714.jpg",
+    "banner_url": "",
+    "schedule": "Musim: SUMMER 2011",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "SUMMER",
+    "year": 2011,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 48,
+    "status": "FINISHED",
+    "score": 70,
+    "genres": [
+      "Action",
+      "Psychological",
+      "Sci-Fi",
+      "Supernatural"
+    ],
+    "updated_at": 1784494957
+  },
+  {
     "id": 10686,
     "id_mal": 10686,
     "url": "https://anilist.co/anime/10686",
@@ -34815,7 +35197,7 @@
       "Psychological",
       "Sci-Fi"
     ],
-    "updated_at": 1784350916
+    "updated_at": 1784494934
   },
   {
     "id": 10589,
@@ -34985,7 +35367,7 @@
       "Sci-Fi",
       "Supernatural"
     ],
-    "updated_at": 1784286117
+    "updated_at": 1784494957
   },
   {
     "id": 10261,
@@ -35160,7 +35542,7 @@
       "Fantasy",
       "Mecha"
     ],
-    "updated_at": 1784268121
+    "updated_at": 1784494934
   },
   {
     "id": 10074,
@@ -35647,6 +36029,35 @@
     "updated_at": 1784484185
   },
   {
+    "id": 9724,
+    "id_mal": 9724,
+    "url": "https://anilist.co/anime/9724",
+    "title": {
+      "english": "Broken Blade 5",
+      "romaji": "Break Blade 5: Shisen no Hate",
+      "native": "ブレイク ブレイド 死線ノ涯"
+    },
+    "description": "Fifth Break Blade Movie.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b9724-HonFjiMT9QHy.jpg",
+    "banner_url": "",
+    "schedule": "Musim: WINTER 2011",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "WINTER",
+    "year": 2011,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 47,
+    "status": "FINISHED",
+    "score": 75,
+    "genres": [
+      "Action",
+      "Fantasy",
+      "Mecha"
+    ],
+    "updated_at": 1784494935
+  },
+  {
     "id": 9617,
     "id_mal": 9617,
     "url": "https://anilist.co/anime/9617",
@@ -36015,6 +36426,35 @@
       "Drama"
     ],
     "updated_at": 1784473455
+  },
+  {
+    "id": 9252,
+    "id_mal": 9252,
+    "url": "https://anilist.co/anime/9252",
+    "title": {
+      "english": "Broken Blade 3",
+      "romaji": "Break Blade 3: Kyoujin no Ato",
+      "native": "ブレイク ブレイド 第三章 凶刃ノ痕"
+    },
+    "description": "Third Break Blade movie.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx9252-DaJ0C9Bwucr9.jpg",
+    "banner_url": "",
+    "schedule": "Musim: FALL 2010",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "FALL",
+    "year": 2010,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 47,
+    "status": "FINISHED",
+    "score": 74,
+    "genres": [
+      "Action",
+      "Fantasy",
+      "Mecha"
+    ],
+    "updated_at": 1784494935
   },
   {
     "id": 9135,
@@ -36522,7 +36962,7 @@
       "Fantasy",
       "Mecha"
     ],
-    "updated_at": 1784311845
+    "updated_at": 1784494935
   },
   {
     "id": 8500,
@@ -36752,6 +37192,36 @@
       "Drama"
     ],
     "updated_at": 1784311852
+  },
+  {
+    "id": 8442,
+    "id_mal": 8442,
+    "url": "https://anilist.co/anime/8442",
+    "title": {
+      "english": "",
+      "romaji": "MAZE☆Bakunetsu Jikuu: Tenpen Kyoui no Giant",
+      "native": "MAZE☆爆熱時空 天変脅威の大巨人"
+    },
+    "description": "Long time ago, there was peace until the giants decide to wake up after years and years of slumber.The three priestesses sisters who were guarding their shrine had to retreat to seek help and who better to ask Maze for help. <br>\n<br>\n<i>Note: This movie has never received a home release.</i>",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx8442-UBpY6w1S4Nmu.png",
+    "banner_url": "",
+    "schedule": "Musim: SPRING 1998",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "SPRING",
+    "year": 1998,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 42,
+    "status": "FINISHED",
+    "score": null,
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Fantasy",
+      "Mecha"
+    ],
+    "updated_at": 1784494935
   },
   {
     "id": 8416,
@@ -37396,7 +37866,7 @@
       "Fantasy",
       "Mahou Shoujo"
     ],
-    "updated_at": 1784311939
+    "updated_at": 1784494955
   },
   {
     "id": 8115,
@@ -38009,7 +38479,7 @@
       "Drama",
       "Fantasy"
     ],
-    "updated_at": 1784466165
+    "updated_at": 1784494935
   },
   {
     "id": 7709,
@@ -38560,7 +39030,7 @@
       "Comedy",
       "Sci-Fi"
     ],
-    "updated_at": 1784394193
+    "updated_at": 1784494957
   },
   {
     "id": 7465,
@@ -38785,7 +39255,7 @@
     "genres": [
       "Comedy"
     ],
-    "updated_at": 1784332902
+    "updated_at": 1784494946
   },
   {
     "id": 7336,
@@ -40051,7 +40521,7 @@
       "Fantasy",
       "Mecha"
     ],
-    "updated_at": 1784312220
+    "updated_at": 1784494935
   },
   {
     "id": 6769,
@@ -40337,6 +40807,35 @@
       "Thriller"
     ],
     "updated_at": 1784408567
+  },
+  {
+    "id": 6585,
+    "id_mal": null,
+    "url": "https://anilist.co/anime/6585",
+    "title": {
+      "english": "The Dream Machine",
+      "romaji": "Yume Miru Kikai",
+      "native": "夢みる機械"
+    },
+    "description": "Satoshi Kon's fifth movie.<br><br>\n\"The title will be Yume Miru Kikai. In English, it will be The Dream Machine. On the surface, it's going to be a fantasy-adventure targeted at younger audiences. However, it will also be a film that people who have seen our films up to this point will be able to enjoy. So it will be an adventure that even older audiences can appreciate. There will be no human characters in the film; only robots. It'll be like a \"road movie\" for robots.\"\n<br><br>\n(Source: Anime News Network)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6585.jpg",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/6585-NGWuAZhmjr9i.jpg",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": null,
+    "status": "CANCELLED",
+    "score": null,
+    "genres": [
+      "Adventure",
+      "Fantasy",
+      "Sci-Fi"
+    ],
+    "updated_at": 1784494944
   },
   {
     "id": 6527,
@@ -40770,7 +41269,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784484185
+    "updated_at": 1784494957
   },
   {
     "id": 6172,
@@ -43234,7 +43733,7 @@
       "Romance",
       "Sci-Fi"
     ],
-    "updated_at": 1784332889
+    "updated_at": 1784494957
   },
   {
     "id": 4218,
@@ -43408,7 +43907,7 @@
       "Romance",
       "Sci-Fi"
     ],
-    "updated_at": 1784480696
+    "updated_at": 1784494957
   },
   {
     "id": 4106,
@@ -43547,7 +44046,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784462595
+    "updated_at": 1784494957
   },
   {
     "id": 3930,
@@ -44151,7 +44650,7 @@
       "Drama",
       "Sci-Fi"
     ],
-    "updated_at": 1784329393
+    "updated_at": 1784494957
   },
   {
     "id": 3488,
@@ -45172,7 +45671,7 @@
       "Drama",
       "Fantasy"
     ],
-    "updated_at": 1784473455
+    "updated_at": 1784494957
   },
   {
     "id": 2830,
@@ -47161,6 +47660,35 @@
       "Supernatural"
     ],
     "updated_at": 1784489265
+  },
+  {
+    "id": 2334,
+    "id_mal": 2334,
+    "url": "https://anilist.co/anime/2334",
+    "title": {
+      "english": "The Three Musketeers: Adventure of Aramis",
+      "romaji": "Anime Sanjuushi: Aramis no Bouken",
+      "native": "アニメ三銃士 アラミスの冒険"
+    },
+    "description": "Aramis fell off her horse and received the aid of a man named Francois. They fell in love with each other at first sight and spent their time happily for a while. Francois was killed by Manson and the Ironmask`s people, so Aramis swore revenge. Then she went to Paris to be a musketeer.<br><br>\n1 year after the end of TV series, D'Artagnan had a drink with 3 musketeers and found that Jussac and the Cardinal's Guards harrassed a woman in a tavern in Paris. Of couse, they fought Jussac and the Cardinal`s guards and won. On his way to home, D'Artagnan witnessed the woman whom he rescued from Jussac about to jump into the river, and rescued her again. D'Artagnan brought her to home but she disappeared soon. After a day, D'Artagnan heard that the woman was killed last night and Rochefort and Cardinal's guards arrested him for murder because his hat was found by the woman's body. Aramis discovers that the story has a link with Catherine de M&eacute;dicis, and launches out an investigation. This one will bring back her to the castle of her beloved where she will have to face Pizzaro to protect a dangerous document.<br><br>\n(Source: AniDB)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2334.jpg",
+    "banner_url": "",
+    "schedule": "Musim: SPRING 1989",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "SPRING",
+    "year": 1989,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 46,
+    "status": "FINISHED",
+    "score": 58,
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Romance"
+    ],
+    "updated_at": 1784494957
   },
   {
     "id": 2314,
@@ -49302,7 +49830,7 @@
     "genres": [
       "Drama"
     ],
-    "updated_at": 1784489475
+    "updated_at": 1784494957
   },
   {
     "id": 1815,
@@ -49514,7 +50042,7 @@
       "Adventure",
       "Drama"
     ],
-    "updated_at": 1784489497
+    "updated_at": 1784494957
   },
   {
     "id": 1752,
@@ -50535,7 +51063,7 @@
       "Adventure",
       "Mystery"
     ],
-    "updated_at": 1784490174
+    "updated_at": 1784494957
   },
   {
     "id": 1364,
@@ -50591,7 +51119,7 @@
       "Drama",
       "Mystery"
     ],
-    "updated_at": 1784490175
+    "updated_at": 1784494957
   },
   {
     "id": 1362,
@@ -50758,7 +51286,7 @@
       "Drama",
       "Sci-Fi"
     ],
-    "updated_at": 1784490193
+    "updated_at": 1784494957
   },
   {
     "id": 1301,
@@ -51972,7 +52500,7 @@
       "Drama",
       "Sci-Fi"
     ],
-    "updated_at": 1784490319
+    "updated_at": 1784494957
   },
   {
     "id": 1033,
@@ -52796,7 +53324,7 @@
       "Action",
       "Fantasy"
     ],
-    "updated_at": 1784458910
+    "updated_at": 1784494957
   },
   {
     "id": 883,
@@ -53261,7 +53789,7 @@
       "Adventure",
       "Mystery"
     ],
-    "updated_at": 1784480696
+    "updated_at": 1784494957
   },
   {
     "id": 780,
@@ -53289,7 +53817,7 @@
       "Adventure",
       "Mystery"
     ],
-    "updated_at": 1784379737
+    "updated_at": 1784494957
   },
   {
     "id": 779,
@@ -53437,7 +53965,7 @@
       "Music",
       "Sci-Fi"
     ],
-    "updated_at": 1784419268
+    "updated_at": 1784494952
   },
   {
     "id": 723,
@@ -53613,7 +54141,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784458910
+    "updated_at": 1784494934
   },
   {
     "id": 578,
@@ -54418,7 +54946,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784419263
+    "updated_at": 1784494938
   },
   {
     "id": 461,
@@ -54478,7 +55006,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784419263
+    "updated_at": 1784494957
   },
   {
     "id": 459,
@@ -55106,7 +55634,7 @@
       "Fantasy",
       "Sci-Fi"
     ],
-    "updated_at": 1784412201
+    "updated_at": 1784494957
   },
   {
     "id": 315,

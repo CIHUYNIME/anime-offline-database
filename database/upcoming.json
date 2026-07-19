@@ -469,7 +469,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784462595
+    "updated_at": 1784494941
   },
   {
     "id": 213867,
@@ -980,7 +980,7 @@
       "Comedy",
       "Romance"
     ],
-    "updated_at": 1784492942
+    "updated_at": 1784494957
   },
   {
     "id": 213656,
@@ -1122,7 +1122,7 @@
       "Comedy",
       "Romance"
     ],
-    "updated_at": 1784492913
+    "updated_at": 1784494957
   },
   {
     "id": 213580,
@@ -1414,7 +1414,7 @@
     "genres": [
       "Drama"
     ],
-    "updated_at": 1784492948
+    "updated_at": 1784494957
   },
   {
     "id": 213338,
@@ -1588,7 +1588,7 @@
     "genres": [
       "Hentai"
     ],
-    "updated_at": 1784282525
+    "updated_at": 1784494957
   },
   {
     "id": 213066,
@@ -1615,7 +1615,7 @@
     "genres": [
       "Hentai"
     ],
-    "updated_at": 1784242996
+    "updated_at": 1784494957
   },
   {
     "id": 213052,
@@ -1872,7 +1872,7 @@
     "genres": [
       "Hentai"
     ],
-    "updated_at": 1784275323
+    "updated_at": 1784494957
   },
   {
     "id": 212575,
@@ -2101,7 +2101,7 @@
       "Hentai",
       "Romance"
     ],
-    "updated_at": 1784440942
+    "updated_at": 1784494957
   },
   {
     "id": 212144,
@@ -2129,7 +2129,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784268121
+    "updated_at": 1784494940
   },
   {
     "id": 212105,
@@ -2417,7 +2417,7 @@
     "genres": [
       "Hentai"
     ],
-    "updated_at": 1784275323
+    "updated_at": 1784494957
   },
   {
     "id": 211308,
@@ -2616,7 +2616,7 @@
       "Ecchi",
       "Fantasy"
     ],
-    "updated_at": 1784484185
+    "updated_at": 1784494937
   },
   {
     "id": 210482,
@@ -2650,6 +2650,34 @@
     "updated_at": 1784368905
   },
   {
+    "id": 210465,
+    "id_mal": 62715,
+    "url": "https://anilist.co/anime/210465",
+    "title": {
+      "english": "",
+      "romaji": "Sheng Xu",
+      "native": "圣墟"
+    },
+    "description": "The vast sea turns to dust, the thunder and lightning cease, and the mist approaches the earth once again. The shackles of the world are once again unlocked, and a brand new world unveils a mysterious corner...<br><br>(Source: Tencent, translated)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx210465-nfyPPD27dou5.jpg",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "ONA",
+    "episodes": null,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Action",
+      "Fantasy"
+    ],
+    "updated_at": 1784494957
+  },
+  {
     "id": 210309,
     "id_mal": 48832,
     "url": "https://anilist.co/anime/210309",
@@ -2675,7 +2703,7 @@
       "Comedy",
       "Romance"
     ],
-    "updated_at": 1784427228
+    "updated_at": 1784494936
   },
   {
     "id": 210199,
@@ -2940,7 +2968,7 @@
       "Comedy",
       "Romance"
     ],
-    "updated_at": 1784406283
+    "updated_at": 1784494957
   },
   {
     "id": 209670,
@@ -3490,7 +3518,7 @@
       "Mystery",
       "Romance"
     ],
-    "updated_at": 1784427217
+    "updated_at": 1784494945
   },
   {
     "id": 207251,
@@ -3691,7 +3719,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784406300
+    "updated_at": 1784494939
   },
   {
     "id": 206774,
@@ -3973,7 +4001,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784448140
+    "updated_at": 1784494935
   },
   {
     "id": 205430,
@@ -4120,7 +4148,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784480696
+    "updated_at": 1784494957
   },
   {
     "id": 204747,
@@ -4266,7 +4294,7 @@
       "Sci-Fi",
       "Supernatural"
     ],
-    "updated_at": 1784473455
+    "updated_at": 1784494939
   },
   {
     "id": 204585,
@@ -4470,7 +4498,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784455295
+    "updated_at": 1784494937
   },
   {
     "id": 204363,
@@ -5616,7 +5644,7 @@
       "Romance",
       "Supernatural"
     ],
-    "updated_at": 1784358109
+    "updated_at": 1784494949
   },
   {
     "id": 199337,
@@ -5790,7 +5818,7 @@
     "genres": [
       "Fantasy"
     ],
-    "updated_at": 1784412201
+    "updated_at": 1784494936
   },
   {
     "id": 198966,
@@ -7379,7 +7407,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784484185
+    "updated_at": 1784494936
   },
   {
     "id": 187361,
@@ -7862,7 +7890,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784492942
+    "updated_at": 1784494957
   },
   {
     "id": 185543,
@@ -8154,7 +8182,7 @@
       "Drama",
       "Fantasy"
     ],
-    "updated_at": 1784246808
+    "updated_at": 1784494946
   },
   {
     "id": 182544,
@@ -8242,7 +8270,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784427213
+    "updated_at": 1784494951
   },
   {
     "id": 180894,
@@ -8640,7 +8668,7 @@
       "Fantasy",
       "Mahou Shoujo"
     ],
-    "updated_at": 1784350916
+    "updated_at": 1784494956
   },
   {
     "id": 174871,
@@ -9046,7 +9074,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784390608
+    "updated_at": 1784494957
   },
   {
     "id": 165831,
@@ -9330,7 +9358,7 @@
       "Mahou Shoujo",
       "Thriller"
     ],
-    "updated_at": 1784462595
+    "updated_at": 1784494951
   },
   {
     "id": 160275,
@@ -9624,7 +9652,7 @@
       "Romance",
       "Supernatural"
     ],
-    "updated_at": 1784427250
+    "updated_at": 1784494936
   },
   {
     "id": 143103,
