@@ -103,7 +103,7 @@
       "Action",
       "Sci-Fi"
     ],
-    "updated_at": 1784494957
+    "updated_at": 1784520159
   },
   {
     "id": 214068,
@@ -490,7 +490,7 @@
     "genres": [
       "Drama"
     ],
-    "updated_at": 1784242996
+    "updated_at": 1784520159
   },
   {
     "id": 211328,
@@ -623,7 +623,7 @@
     "genres": [
       "Fantasy"
     ],
-    "updated_at": 1784469809
+    "updated_at": 1784520159
   },
   {
     "id": 210309,
@@ -2379,7 +2379,7 @@
       "native": "プリンセス・プリンシパル Crown Handler 第4章"
     },
     "description": "The fourth out of six movie sequels to the <i>Princess Principal</i> TV series.",
-    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186716-I873Q1vDa3Xt.jpg",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186716-1oz2nkanT5pk.jpg",
     "banner_url": "",
     "schedule": "Musim: SPRING 2025",
     "next_episode": null,
@@ -2397,7 +2397,7 @@
       "Mystery",
       "Sci-Fi"
     ],
-    "updated_at": 1784412193
+    "updated_at": 1784520159
   },
   {
     "id": 186169,
@@ -3078,7 +3078,7 @@
       "Drama",
       "Music"
     ],
-    "updated_at": 1784448140
+    "updated_at": 1784520149
   },
   {
     "id": 179874,
@@ -3140,7 +3140,7 @@
       "Psychological",
       "Supernatural"
     ],
-    "updated_at": 1784440942
+    "updated_at": 1784520159
   },
   {
     "id": 179727,
@@ -3641,7 +3641,7 @@
       "Slice of Life",
       "Supernatural"
     ],
-    "updated_at": 1784297606
+    "updated_at": 1784520159
   },
   {
     "id": 176373,
@@ -4691,7 +4691,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784458910
+    "updated_at": 1784520159
   },
   {
     "id": 166457,
@@ -5195,7 +5195,7 @@
       "Action",
       "Horror"
     ],
-    "updated_at": 1784369159
+    "updated_at": 1784520159
   },
   {
     "id": 161440,
@@ -6772,7 +6772,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784506065
+    "updated_at": 1784520159
   },
   {
     "id": 146609,
@@ -6940,7 +6940,7 @@
     "genres": [
       "Fantasy"
     ],
-    "updated_at": 1784304124
+    "updated_at": 1784520159
   },
   {
     "id": 144687,
@@ -7104,7 +7104,7 @@
       "Mecha",
       "Sci-Fi"
     ],
-    "updated_at": 1784498548
+    "updated_at": 1784520159
   },
   {
     "id": 143156,
@@ -9737,7 +9737,7 @@
     "genres": [
       "Drama"
     ],
-    "updated_at": 1784373417
+    "updated_at": 1784520159
   },
   {
     "id": 126863,
@@ -10134,7 +10134,7 @@
       "Slice of Life",
       "Supernatural"
     ],
-    "updated_at": 1784372518
+    "updated_at": 1784520159
   },
   {
     "id": 124115,
@@ -12025,7 +12025,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784498548
+    "updated_at": 1784520159
   },
   {
     "id": 117009,
@@ -12140,7 +12140,7 @@
       "Fantasy",
       "Supernatural"
     ],
-    "updated_at": 1784505972
+    "updated_at": 1784520159
   },
   {
     "id": 116740,
@@ -13066,7 +13066,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784494957
+    "updated_at": 1784520159
   },
   {
     "id": 113345,
@@ -14271,7 +14271,7 @@
       "Mecha",
       "Sci-Fi"
     ],
-    "updated_at": 1783945143
+    "updated_at": 1784520159
   },
   {
     "id": 109979,
@@ -16603,7 +16603,7 @@
       "Drama",
       "Fantasy"
     ],
-    "updated_at": 1784505941
+    "updated_at": 1784520159
   },
   {
     "id": 105018,
@@ -16997,6 +16997,34 @@
       "Slice of Life"
     ],
     "updated_at": 1784480696
+  },
+  {
+    "id": 104457,
+    "id_mal": 28047,
+    "url": "https://anilist.co/anime/104457",
+    "title": {
+      "english": "Will Power",
+      "romaji": "Kokoro no Chikara",
+      "native": "心の力"
+    },
+    "description": "A man in love with a noble lady tries to get close to her with the help of cats.\n<br><br>\n(Source: TMDB)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx104457-fqoS9WznlieN.png",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 18,
+    "status": "FINISHED",
+    "score": 42,
+    "genres": [
+      "Adventure",
+      "Romance"
+    ],
+    "updated_at": 1784520159
   },
   {
     "id": 104456,
@@ -18159,6 +18187,31 @@
     "score": 43,
     "genres": [],
     "updated_at": 1783947491
+  },
+  {
+    "id": 103716,
+    "id_mal": 31759,
+    "url": "https://anilist.co/anime/103716",
+    "title": {
+      "english": "Natural History",
+      "romaji": "Hakubutsushi",
+      "native": "博物誌"
+    },
+    "description": "Inspired by Ish Patel's After Life, and Pliny's Natural History, I draw and transform medieval European creatures by drawing clay on a transmitted light stand.\n<br><br>\n(Source:  http://www.yamamura-animation.jp)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/103716-52FQrwDT1kmE.jpg",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 2,
+    "status": "FINISHED",
+    "score": 41,
+    "genres": [],
+    "updated_at": 1784520159
   },
   {
     "id": 103713,
@@ -22820,7 +22873,7 @@
       "Mystery",
       "Sci-Fi"
     ],
-    "updated_at": 1784468596
+    "updated_at": 1784520159
   },
   {
     "id": 101343,
@@ -22994,7 +23047,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784455295
+    "updated_at": 1784520159
   },
   {
     "id": 101166,
@@ -23493,7 +23546,7 @@
       "Psychological",
       "Sci-Fi"
     ],
-    "updated_at": 1784494941
+    "updated_at": 1784520159
   },
   {
     "id": 100561,
@@ -23777,7 +23830,7 @@
       "Mecha",
       "Sci-Fi"
     ],
-    "updated_at": 1783950727
+    "updated_at": 1784520159
   },
   {
     "id": 100181,
@@ -23837,7 +23890,7 @@
       "Music",
       "Slice of Life"
     ],
-    "updated_at": 1784469809
+    "updated_at": 1784520155
   },
   {
     "id": 100130,
@@ -24152,7 +24205,7 @@
       "Mahou Shoujo",
       "Sci-Fi"
     ],
-    "updated_at": 1784498548
+    "updated_at": 1784520159
   },
   {
     "id": 99547,
@@ -24211,7 +24264,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784492927
+    "updated_at": 1784520159
   },
   {
     "id": 99470,
@@ -24296,7 +24349,7 @@
       "Mecha",
       "Sci-Fi"
     ],
-    "updated_at": 1784470219
+    "updated_at": 1784520159
   },
   {
     "id": 99212,
@@ -24589,7 +24642,7 @@
       "Drama",
       "Sports"
     ],
-    "updated_at": 1784470755
+    "updated_at": 1784520159
   },
   {
     "id": 98884,
@@ -25601,7 +25654,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784471628
+    "updated_at": 1784520159
   },
   {
     "id": 97920,
@@ -25746,7 +25799,7 @@
       "Mecha",
       "Sci-Fi"
     ],
-    "updated_at": 1784498548
+    "updated_at": 1784520159
   },
   {
     "id": 97860,
@@ -25987,7 +26040,7 @@
       "Sci-Fi",
       "Supernatural"
     ],
-    "updated_at": 1784472072
+    "updated_at": 1784520159
   },
   {
     "id": 97661,
@@ -26528,7 +26581,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784502186
+    "updated_at": 1784520159
   },
   {
     "id": 21864,
@@ -26902,7 +26955,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784477995
+    "updated_at": 1784520159
   },
   {
     "id": 21750,
@@ -27761,7 +27814,7 @@
       "Psychological",
       "Supernatural"
     ],
-    "updated_at": 1784469809
+    "updated_at": 1784520159
   },
   {
     "id": 21377,
@@ -28138,6 +28191,36 @@
       "Comedy"
     ],
     "updated_at": 1784427258
+  },
+  {
+    "id": 21212,
+    "id_mal": 30868,
+    "url": "https://anilist.co/anime/21212",
+    "title": {
+      "english": "AJIN: Demi-Human -Compel-",
+      "romaji": "Ajin: Shoudou",
+      "native": "亜人 -衝動-"
+    },
+    "description": "Kei discovers the curse of immortality when he gets hit by a bus... and doesn't die. Now on the run from a government that wants to experiment on him, and his fellow Ajin, Kei's only hope to live a peaceful life lies in his ability to learn how to use his new powers. Aided by the strength of his \"Black Ghost\", a once apathetic Kei must now fight to avoid becoming a cruel demi-human experiment.<br>\n<br>\n(Source: Sentai Filmworks)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21212-qtt0FLVsS8wZ.jpg",
+    "banner_url": "",
+    "schedule": "Musim: FALL 2015",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "FALL",
+    "year": 2015,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 104,
+    "status": "FINISHED",
+    "score": 69,
+    "genres": [
+      "Action",
+      "Horror",
+      "Mystery",
+      "Supernatural"
+    ],
+    "updated_at": 1784520159
   },
   {
     "id": 21194,
@@ -28540,7 +28623,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784494957
+    "updated_at": 1784520159
   },
   {
     "id": 21072,
@@ -29384,7 +29467,7 @@
       "Mecha",
       "Sci-Fi"
     ],
-    "updated_at": 1784481704
+    "updated_at": 1784520159
   },
   {
     "id": 20778,
@@ -29444,7 +29527,7 @@
       "Slice of Life",
       "Supernatural"
     ],
-    "updated_at": 1784484185
+    "updated_at": 1784520159
   },
   {
     "id": 20766,
@@ -29472,7 +29555,7 @@
       "Music",
       "Slice of Life"
     ],
-    "updated_at": 1784481799
+    "updated_at": 1784520156
   },
   {
     "id": 20764,
@@ -30055,7 +30138,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784480696
+    "updated_at": 1784520159
   },
   {
     "id": 20515,
@@ -30112,7 +30195,7 @@
       "Action",
       "Sci-Fi"
     ],
-    "updated_at": 1784494957
+    "updated_at": 1784520159
   },
   {
     "id": 20512,
@@ -30368,7 +30451,7 @@
       "Drama",
       "Romance"
     ],
-    "updated_at": 1784458910
+    "updated_at": 1784520159
   },
   {
     "id": 20007,
@@ -30705,7 +30788,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784498548
+    "updated_at": 1784520151
   },
   {
     "id": 19271,
@@ -31461,7 +31544,7 @@
       "Mecha",
       "Sci-Fi"
     ],
-    "updated_at": 1784480696
+    "updated_at": 1784520159
   },
   {
     "id": 17721,
@@ -31773,7 +31856,7 @@
       "Music",
       "Slice of Life"
     ],
-    "updated_at": 1784502186
+    "updated_at": 1784520159
   },
   {
     "id": 17269,
@@ -35238,7 +35321,7 @@
       "Horror",
       "Supernatural"
     ],
-    "updated_at": 1784485196
+    "updated_at": 1784520159
   },
   {
     "id": 12113,
@@ -36341,7 +36424,7 @@
       "Horror",
       "Supernatural"
     ],
-    "updated_at": 1784332935
+    "updated_at": 1784520159
   },
   {
     "id": 10627,
@@ -37599,7 +37682,7 @@
       "Psychological",
       "Supernatural"
     ],
-    "updated_at": 1784372518
+    "updated_at": 1784520159
   },
   {
     "id": 9254,
@@ -38713,7 +38796,7 @@
       "Action",
       "Supernatural"
     ],
-    "updated_at": 1784502186
+    "updated_at": 1784520149
   },
   {
     "id": 8246,
@@ -40231,7 +40314,7 @@
       "Comedy",
       "Sci-Fi"
     ],
-    "updated_at": 1784494957
+    "updated_at": 1784520159
   },
   {
     "id": 7465,
@@ -41581,7 +41664,7 @@
       "Fantasy",
       "Supernatural"
     ],
-    "updated_at": 1784480696
+    "updated_at": 1784520159
   },
   {
     "id": 6872,
@@ -42839,6 +42922,35 @@
     "updated_at": 1784242996
   },
   {
+    "id": 5895,
+    "id_mal": 5895,
+    "url": "https://anilist.co/anime/5895",
+    "title": {
+      "english": "",
+      "romaji": "Tistou Midori no Oyayubi",
+      "native": "チスト みどりのおやゆび"
+    },
+    "description": "Based on the children’s novel \"<i>Tistou les pouces verts</i>\" by French author Maurice Druon.\n<br><br>\nAn 8 year old boy discovers he has an unusual gift, the ability to cause anything he touches with his thumbs to grow into beautiful plants. The story follows Tistou as he attempts to use his gift to make a better world.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b5895-N08fGxSUpKH5.png",
+    "banner_url": "",
+    "schedule": "Musim: SPRING 1990",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "SPRING",
+    "year": 1990,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 74,
+    "status": "FINISHED",
+    "score": 50,
+    "genres": [
+      "Drama",
+      "Fantasy",
+      "Slice of Life"
+    ],
+    "updated_at": 1784520150
+  },
+  {
     "id": 5889,
     "id_mal": 5889,
     "url": "https://anilist.co/anime/5889",
@@ -43945,7 +44057,7 @@
       "Fantasy",
       "Horror"
     ],
-    "updated_at": 1784473455
+    "updated_at": 1784520159
   },
   {
     "id": 4970,
@@ -44877,7 +44989,7 @@
       "Supernatural",
       "Thriller"
     ],
-    "updated_at": 1784502186
+    "updated_at": 1784520157
   },
   {
     "id": 4250,
@@ -45137,7 +45249,7 @@
       "Comedy",
       "Sci-Fi"
     ],
-    "updated_at": 1784484185
+    "updated_at": 1784520159
   },
   {
     "id": 4097,
@@ -45822,7 +45934,7 @@
       "Adventure",
       "Horror"
     ],
-    "updated_at": 1784498548
+    "updated_at": 1784520159
   },
   {
     "id": 3602,
@@ -46589,7 +46701,7 @@
       "Fantasy",
       "Sci-Fi"
     ],
-    "updated_at": 1784458910
+    "updated_at": 1784520159
   },
   {
     "id": 2952,
@@ -46811,7 +46923,7 @@
       "Drama",
       "Supernatural"
     ],
-    "updated_at": 1784502186
+    "updated_at": 1784520159
   },
   {
     "id": 2848,
@@ -48598,7 +48710,7 @@
       "Action",
       "Adventure"
     ],
-    "updated_at": 1784489249
+    "updated_at": 1784520159
   },
   {
     "id": 2408,
@@ -49350,7 +49462,7 @@
       "Drama",
       "Fantasy"
     ],
-    "updated_at": 1784498548
+    "updated_at": 1784520159
   },
   {
     "id": 2174,
@@ -50121,7 +50233,7 @@
       "Comedy",
       "Drama"
     ],
-    "updated_at": 1784489398
+    "updated_at": 1784520155
   },
   {
     "id": 2006,
@@ -51358,7 +51470,7 @@
       "Drama",
       "Supernatural"
     ],
-    "updated_at": 1784489574
+    "updated_at": 1784520159
   },
   {
     "id": 1681,
@@ -51801,7 +51913,7 @@
       "Psychological",
       "Sci-Fi"
     ],
-    "updated_at": 1784490129
+    "updated_at": 1784520159
   },
   {
     "id": 1451,
@@ -53097,7 +53209,7 @@
       "Romance",
       "Sci-Fi"
     ],
-    "updated_at": 1784490271
+    "updated_at": 1784520159
   },
   {
     "id": 1130,
@@ -53313,7 +53425,7 @@
       "Drama",
       "Fantasy"
     ],
-    "updated_at": 1784490285
+    "updated_at": 1784520159
   },
   {
     "id": 1116,
@@ -53461,7 +53573,7 @@
       "Mystery",
       "Sci-Fi"
     ],
-    "updated_at": 1784490290
+    "updated_at": 1784520155
   },
   {
     "id": 1095,
@@ -53998,7 +54110,7 @@
       "Psychological",
       "Sci-Fi"
     ],
-    "updated_at": 1784419272
+    "updated_at": 1784520159
   },
   {
     "id": 936,
@@ -54059,7 +54171,7 @@
       "Adventure",
       "Sci-Fi"
     ],
-    "updated_at": 1784492939
+    "updated_at": 1784520159
   },
   {
     "id": 905,
@@ -54088,7 +54200,7 @@
       "Adventure",
       "Sci-Fi"
     ],
-    "updated_at": 1784498548
+    "updated_at": 1784520159
   },
   {
     "id": 904,
@@ -54117,7 +54229,7 @@
       "Adventure",
       "Sci-Fi"
     ],
-    "updated_at": 1784498548
+    "updated_at": 1784520159
   },
   {
     "id": 903,
@@ -54175,7 +54287,7 @@
       "Adventure",
       "Sci-Fi"
     ],
-    "updated_at": 1784419271
+    "updated_at": 1784520159
   },
   {
     "id": 901,
@@ -54262,7 +54374,7 @@
       "Adventure",
       "Sci-Fi"
     ],
-    "updated_at": 1784498548
+    "updated_at": 1784520159
   },
   {
     "id": 898,
@@ -54320,7 +54432,7 @@
       "Adventure",
       "Sci-Fi"
     ],
-    "updated_at": 1784498548
+    "updated_at": 1784520159
   },
   {
     "id": 896,
@@ -54349,7 +54461,7 @@
       "Adventure",
       "Sci-Fi"
     ],
-    "updated_at": 1784455295
+    "updated_at": 1784520159
   },
   {
     "id": 895,
@@ -54378,7 +54490,7 @@
       "Adventure",
       "Sci-Fi"
     ],
-    "updated_at": 1784473455
+    "updated_at": 1784520159
   },
   {
     "id": 894,
@@ -54437,7 +54549,7 @@
       "Comedy",
       "Sci-Fi"
     ],
-    "updated_at": 1784469809
+    "updated_at": 1784520159
   },
   {
     "id": 892,
@@ -54497,7 +54609,7 @@
       "Comedy",
       "Supernatural"
     ],
-    "updated_at": 1784412201
+    "updated_at": 1784520159
   },
   {
     "id": 884,
@@ -55046,7 +55158,7 @@
       "Adventure",
       "Mystery"
     ],
-    "updated_at": 1784498548
+    "updated_at": 1784520159
   },
   {
     "id": 760,
@@ -55461,7 +55573,7 @@
       "Drama",
       "Sci-Fi"
     ],
-    "updated_at": 1784448140
+    "updated_at": 1784520159
   },
   {
     "id": 548,
@@ -55644,7 +55756,7 @@
       "Fantasy",
       "Sci-Fi"
     ],
-    "updated_at": 1784498548
+    "updated_at": 1784520159
   },
   {
     "id": 523,
@@ -56392,7 +56504,7 @@
       "Drama",
       "Supernatural"
     ],
-    "updated_at": 1784448140
+    "updated_at": 1784520159
   },
   {
     "id": 441,
@@ -56482,7 +56594,7 @@
       "Romance",
       "Sci-Fi"
     ],
-    "updated_at": 1784419261
+    "updated_at": 1784520159
   },
   {
     "id": 431,
@@ -56658,7 +56770,7 @@
       "Comedy",
       "Slice of Life"
     ],
-    "updated_at": 1784458910
+    "updated_at": 1784520159
   },
   {
     "id": 405,
@@ -56718,7 +56830,7 @@
       "Romance",
       "Sci-Fi"
     ],
-    "updated_at": 1784376216
+    "updated_at": 1784520159
   },
   {
     "id": 378,

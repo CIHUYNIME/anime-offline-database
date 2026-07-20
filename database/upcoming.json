@@ -111,7 +111,7 @@
       "Adventure",
       "Sci-Fi"
     ],
-    "updated_at": 1784506220
+    "updated_at": 1784520157
   },
   {
     "id": 214049,
@@ -362,7 +362,7 @@
     "genres": [
       "Action"
     ],
-    "updated_at": 1784462595
+    "updated_at": 1784520159
   },
   {
     "id": 213878,
@@ -440,7 +440,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784466165
+    "updated_at": 1784520159
   },
   {
     "id": 213872,
@@ -609,7 +609,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784383565
+    "updated_at": 1784520159
   },
   {
     "id": 213815,
@@ -1184,6 +1184,33 @@
     "updated_at": 1784386898
   },
   {
+    "id": 213498,
+    "id_mal": 64466,
+    "url": "https://anilist.co/anime/213498",
+    "title": {
+      "english": "",
+      "romaji": "Nabe ni Dangan wo Uke Nagara",
+      "native": "鍋に弾丸を受けながら"
+    },
+    "description": "Meet Juntaro. A Japanese fishing addict who was born and raised in what is perceived to be one of the roughest parts of Japan. It is through his lens where you can experience various parts of the world, their culture, and of course their food. He particularly loves to visit countries and cities that are also believed to be highly dangerous due to his personal belief that they will absolutely have delicious food. Because this was intended for a Japanese audience, you will also get to witness various worldviews unique to Japan alongside it all. There's just one problem:<br><br>\n\nHe has extreme brainrot and views the world through a cute anime girl filter.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b213498-dwHdDfksyw8D.jpg",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "TV",
+    "episodes": null,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Slice of Life"
+    ],
+    "updated_at": 1784520155
+  },
+  {
     "id": 213497,
     "id_mal": 64467,
     "url": "https://anilist.co/anime/213497",
@@ -1443,7 +1470,7 @@
       "Comedy",
       "Drama"
     ],
-    "updated_at": 1784506216
+    "updated_at": 1784520159
   },
   {
     "id": 213316,
@@ -2187,7 +2214,7 @@
       "Ecchi",
       "Romance"
     ],
-    "updated_at": 1784506215
+    "updated_at": 1784520156
   },
   {
     "id": 211778,
@@ -2793,7 +2820,7 @@
       "Mystery",
       "Supernatural"
     ],
-    "updated_at": 1784462595
+    "updated_at": 1784520159
   },
   {
     "id": 209980,
@@ -3024,7 +3051,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784498548
+    "updated_at": 1784520159
   },
   {
     "id": 209562,
@@ -3136,7 +3163,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784480696
+    "updated_at": 1784520159
   },
   {
     "id": 209247,
@@ -3256,7 +3283,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784462595
+    "updated_at": 1784520159
   },
   {
     "id": 209032,
@@ -3338,7 +3365,7 @@
       "Mecha",
       "Sci-Fi"
     ],
-    "updated_at": 1784506209
+    "updated_at": 1784520159
   },
   {
     "id": 208025,
@@ -3517,7 +3544,7 @@
       "Romance",
       "Supernatural"
     ],
-    "updated_at": 1784492943
+    "updated_at": 1784520156
   },
   {
     "id": 207327,
@@ -3628,7 +3655,7 @@
     "genres": [
       "Fantasy"
     ],
-    "updated_at": 1784466165
+    "updated_at": 1784520147
   },
   {
     "id": 206874,
@@ -3660,7 +3687,7 @@
       "Supernatural",
       "Thriller"
     ],
-    "updated_at": 1784480696
+    "updated_at": 1784520159
   },
   {
     "id": 206814,
@@ -3804,6 +3831,36 @@
       "Slice of Life"
     ],
     "updated_at": 1784469809
+  },
+  {
+    "id": 206244,
+    "id_mal": null,
+    "url": "https://anilist.co/anime/206244",
+    "title": {
+      "english": "",
+      "romaji": "Luo Xiaohei Zhan Ji: Xue Qian Pian",
+      "native": "罗小黑战记 学前篇"
+    },
+    "description": "The third season of <i>Luo Xiaohei Zhan Ji</i>.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx206244-e6MhuLkqbXZ9.jpg",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "ONA",
+    "episodes": null,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Supernatural"
+    ],
+    "updated_at": 1784520159
   },
   {
     "id": 206163,
@@ -4203,7 +4260,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784494957
+    "updated_at": 1784520159
   },
   {
     "id": 204747,
@@ -4233,7 +4290,7 @@
       "Sci-Fi",
       "Supernatural"
     ],
-    "updated_at": 1784506205
+    "updated_at": 1784520152
   },
   {
     "id": 204738,
@@ -4725,7 +4782,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784480696
+    "updated_at": 1784520159
   },
   {
     "id": 203651,
@@ -4837,7 +4894,34 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784480696
+    "updated_at": 1784520159
+  },
+  {
+    "id": 203141,
+    "id_mal": 63035,
+    "url": "https://anilist.co/anime/203141",
+    "title": {
+      "english": "",
+      "romaji": "Everyday Host (Zoku-hen)",
+      "native": "えぶりでいホスト (続編)"
+    },
+    "description": "Sequel to <i>Everyday Host</i>.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx203141-O5BLSDhZTAHR.png",
+    "banner_url": "",
+    "schedule": "Musim: WINTER 2027",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "WINTER",
+    "year": 2027,
+    "format": "",
+    "episodes": null,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Comedy"
+    ],
+    "updated_at": 1784520156
   },
   {
     "id": 203129,
@@ -5813,7 +5897,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784492922
+    "updated_at": 1784520159
   },
   {
     "id": 199150,
@@ -5901,7 +5985,7 @@
     "genres": [
       "Fantasy"
     ],
-    "updated_at": 1784494936
+    "updated_at": 1784520151
   },
   {
     "id": 198966,
@@ -6569,7 +6653,7 @@
       "Mystery",
       "Supernatural"
     ],
-    "updated_at": 1784458910
+    "updated_at": 1784520159
   },
   {
     "id": 195436,
@@ -6657,7 +6741,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784341006
+    "updated_at": 1784520151
   },
   {
     "id": 195201,
@@ -7031,7 +7115,7 @@
     "genres": [
       "Sports"
     ],
-    "updated_at": 1784506183
+    "updated_at": 1784520150
   },
   {
     "id": 191656,
@@ -7149,7 +7233,7 @@
       "Romance",
       "Supernatural"
     ],
-    "updated_at": 1784480696
+    "updated_at": 1784520159
   },
   {
     "id": 189796,
@@ -7292,7 +7376,7 @@
       "Comedy",
       "Romance"
     ],
-    "updated_at": 1784506177
+    "updated_at": 1784520152
   },
   {
     "id": 188889,
@@ -7575,7 +7659,7 @@
       "Drama",
       "Sports"
     ],
-    "updated_at": 1784304124
+    "updated_at": 1784520151
   },
   {
     "id": 186822,
@@ -7919,7 +8003,7 @@
       "Fantasy",
       "Slice of Life"
     ],
-    "updated_at": 1784412201
+    "updated_at": 1784520153
   },
   {
     "id": 185697,
@@ -8032,7 +8116,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784406284
+    "updated_at": 1784520159
   },
   {
     "id": 184376,
@@ -8295,7 +8379,7 @@
       "Mahou Shoujo",
       "Slice of Life"
     ],
-    "updated_at": 1784502186
+    "updated_at": 1784520159
   },
   {
     "id": 181951,
@@ -8441,6 +8525,35 @@
     "updated_at": 1784246801
   },
   {
+    "id": 179294,
+    "id_mal": 59266,
+    "url": "https://anilist.co/anime/179294",
+    "title": {
+      "english": "",
+      "romaji": "Watari Tori to Katatsumuri",
+      "native": "渡り鳥とカタツムリ"
+    },
+    "description": "Unpei Mochizuki had been working for two years as a spare parts dealer. After making a mistake, he had only one wish: to go far, where no one can recognize him. That’s when he crosses paths with Tsugumi Nagisa, illustrator… and nomad. A woman of indefinable age, who lives with her dog in a van. Unpei begins a new life on the road with Tsugumi and her car. Far from the usual tidy, sedentary lifestyle, the nomadic spirit offers new surprises every single day. From beaches to mountains, from the North to the South… Freedom and endless new landscapes await!\n<br><br>\n(Source: Noeve grafx, translated)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx179294-pVNoLa5QabZh.jpg",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "TV",
+    "episodes": null,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Slice of Life"
+    ],
+    "updated_at": 1784520157
+  },
+  {
     "id": 179088,
     "id_mal": 59235,
     "url": "https://anilist.co/anime/179088",
@@ -8495,7 +8608,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784506146
+    "updated_at": 1784520151
   },
   {
     "id": 178972,
@@ -8584,7 +8697,7 @@
       "Romance",
       "Supernatural"
     ],
-    "updated_at": 1784268114
+    "updated_at": 1784520159
   },
   {
     "id": 178031,
@@ -9129,7 +9242,7 @@
       "Action",
       "Sci-Fi"
     ],
-    "updated_at": 1784408567
+    "updated_at": 1784520159
   },
   {
     "id": 166457,
@@ -9675,7 +9788,7 @@
       "Drama",
       "Sports"
     ],
-    "updated_at": 1784448140
+    "updated_at": 1784520159
   },
   {
     "id": 153461,
