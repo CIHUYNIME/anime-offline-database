@@ -50,7 +50,7 @@
     "status": "FINISHED",
     "score": null,
     "genres": [],
-    "updated_at": 1784563304
+    "updated_at": 1784570509
   },
   {
     "id": 214071,
@@ -75,7 +75,7 @@
     "status": "FINISHED",
     "score": null,
     "genres": [],
-    "updated_at": 1784556649
+    "updated_at": 1784570509
   },
   {
     "id": 214070,
@@ -103,7 +103,7 @@
       "Action",
       "Sci-Fi"
     ],
-    "updated_at": 1784520159
+    "updated_at": 1784570509
   },
   {
     "id": 214068,
@@ -433,7 +433,7 @@
       "Psychological",
       "Sci-Fi"
     ],
-    "updated_at": 1784458910
+    "updated_at": 1784570509
   },
   {
     "id": 212391,
@@ -765,7 +765,7 @@
     "genres": [
       "Slice of Life"
     ],
-    "updated_at": 1784350916
+    "updated_at": 1784570509
   },
   {
     "id": 207486,
@@ -983,14 +983,14 @@
     "episodes": 1,
     "duration": 83,
     "status": "FINISHED",
-    "score": 59,
+    "score": 60,
     "genres": [
       "Drama",
       "Romance",
       "Slice of Life",
       "Supernatural"
     ],
-    "updated_at": 1784448140
+    "updated_at": 1784570509
   },
   {
     "id": 206610,
@@ -1020,7 +1020,7 @@
       "Slice of Life",
       "Supernatural"
     ],
-    "updated_at": 1784469809
+    "updated_at": 1784570509
   },
   {
     "id": 206609,
@@ -1050,7 +1050,7 @@
       "Slice of Life",
       "Supernatural"
     ],
-    "updated_at": 1784448140
+    "updated_at": 1784570509
   },
   {
     "id": 206500,
@@ -1106,7 +1106,7 @@
       "Mecha",
       "Sci-Fi"
     ],
-    "updated_at": 1784556649
+    "updated_at": 1784570509
   },
   {
     "id": 205444,
@@ -1224,7 +1224,7 @@
       "Mystery",
       "Sci-Fi"
     ],
-    "updated_at": 1784412193
+    "updated_at": 1784570502
   },
   {
     "id": 204584,
@@ -1254,7 +1254,7 @@
       "Mystery",
       "Sci-Fi"
     ],
-    "updated_at": 1784415855
+    "updated_at": 1784570502
   },
   {
     "id": 204066,
@@ -1596,7 +1596,7 @@
       "Sci-Fi",
       "Supernatural"
     ],
-    "updated_at": 1784506193
+    "updated_at": 1784570501
   },
   {
     "id": 198188,
@@ -1831,7 +1831,7 @@
       "Drama",
       "Supernatural"
     ],
-    "updated_at": 1784376216
+    "updated_at": 1784570509
   },
   {
     "id": 195200,
@@ -1999,7 +1999,7 @@
     "genres": [
       "Comedy"
     ],
-    "updated_at": 1784480696
+    "updated_at": 1784570509
   },
   {
     "id": 193294,
@@ -2169,7 +2169,7 @@
       "Mystery",
       "Supernatural"
     ],
-    "updated_at": 1784466165
+    "updated_at": 1784570509
   },
   {
     "id": 188941,
@@ -2453,7 +2453,7 @@
       "Mystery",
       "Sci-Fi"
     ],
-    "updated_at": 1784520159
+    "updated_at": 1784570509
   },
   {
     "id": 186169,
@@ -2481,7 +2481,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1783945915
+    "updated_at": 1784570509
   },
   {
     "id": 185879,
@@ -2647,6 +2647,62 @@
       "Fantasy"
     ],
     "updated_at": 1784484185
+  },
+  {
+    "id": 185537,
+    "id_mal": 60862,
+    "url": "https://anilist.co/anime/185537",
+    "title": {
+      "english": "",
+      "romaji": "Crayon Shin-chan: Chou Karei! Shakunetsu no Kasukabe Dancers",
+      "native": "映画クレヨンしんちゃん 超華麗！灼熱のカスカベダンサーズ"
+    },
+    "description": "Tidak ada deskripsi.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185537-bHzg7pq3EIKe.png",
+    "banner_url": "",
+    "schedule": "Musim: SUMMER 2025",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "SUMMER",
+    "year": 2025,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 105,
+    "status": "FINISHED",
+    "score": 59,
+    "genres": [
+      "Comedy",
+      "Ecchi",
+      "Slice of Life"
+    ],
+    "updated_at": 1784570509
+  },
+  {
+    "id": 185260,
+    "id_mal": 60411,
+    "url": "https://anilist.co/anime/185260",
+    "title": {
+      "english": "",
+      "romaji": "PUI PUI Molcar the Movie MOLMAX (Zoku-hen)",
+      "native": "PUI PUI モルカー ザ・ムービー MOLMAX (続編)"
+    },
+    "description": "Sequel film to <i>PUI PUI Molcar the Movie MOLMAX</i>.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185260-l48JlMk853qY.png",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Comedy"
+    ],
+    "updated_at": 1784570509
   },
   {
     "id": 184694,
@@ -3134,7 +3190,7 @@
       "Action",
       "Sci-Fi"
     ],
-    "updated_at": 1784563304
+    "updated_at": 1784570509
   },
   {
     "id": 179878,
@@ -3477,7 +3533,7 @@
       "Comedy",
       "Sci-Fi"
     ],
-    "updated_at": 1784484185
+    "updated_at": 1784570509
   },
   {
     "id": 177778,
@@ -4007,7 +4063,7 @@
       "Drama",
       "Sports"
     ],
-    "updated_at": 1784541708
+    "updated_at": 1784570509
   },
   {
     "id": 174788,
@@ -4122,6 +4178,34 @@
     "updated_at": 1784502186
   },
   {
+    "id": 173174,
+    "id_mal": 57754,
+    "url": "https://anilist.co/anime/173174",
+    "title": {
+      "english": "",
+      "romaji": "BanG Dream! It's MyGO!!!!!: Haru no Hidamari, Mayoi Neko",
+      "native": "BanG Dream! It's MyGO!!!!! 春の陽だまり、迷い猫"
+    },
+    "description": "Compilation film of <i>BanG Dream! It's MyGO!!!!!</i>. The first of the Bandori MyGO compilation movie duology.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx173174-PhUFHaaVnvgv.png",
+    "banner_url": "",
+    "schedule": "Musim: FALL 2024",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "FALL",
+    "year": 2024,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 118,
+    "status": "FINISHED",
+    "score": 76,
+    "genres": [
+      "Drama",
+      "Music"
+    ],
+    "updated_at": 1784570509
+  },
+  {
     "id": 172420,
     "id_mal": 57647,
     "url": "https://anilist.co/anime/172420",
@@ -4149,7 +4233,7 @@
       "Slice of Life",
       "Sports"
     ],
-    "updated_at": 1784506132
+    "updated_at": 1784570502
   },
   {
     "id": 172393,
@@ -4407,7 +4491,7 @@
       "Music",
       "Supernatural"
     ],
-    "updated_at": 1784480696
+    "updated_at": 1784570509
   },
   {
     "id": 170060,
@@ -4769,14 +4853,14 @@
     "episodes": 1,
     "duration": 115,
     "status": "FINISHED",
-    "score": 69,
+    "score": 70,
     "genres": [
       "Adventure",
       "Comedy",
       "Music",
       "Sci-Fi"
     ],
-    "updated_at": 1784506116
+    "updated_at": 1784570509
   },
   {
     "id": 166975,
@@ -5415,7 +5499,7 @@
       "Romance",
       "Supernatural"
     ],
-    "updated_at": 1784541980
+    "updated_at": 1784570505
   },
   {
     "id": 161441,
@@ -6145,7 +6229,7 @@
       "Drama",
       "Mystery"
     ],
-    "updated_at": 1784542330
+    "updated_at": 1784570509
   },
   {
     "id": 156727,
@@ -9137,7 +9221,7 @@
       "Drama",
       "Sports"
     ],
-    "updated_at": 1784498548
+    "updated_at": 1784570509
   },
   {
     "id": 133007,
@@ -9794,7 +9878,7 @@
       "Drama",
       "Supernatural"
     ],
-    "updated_at": 1784505999
+    "updated_at": 1784570509
   },
   {
     "id": 129817,
@@ -10189,7 +10273,7 @@
     "genres": [
       "Comedy"
     ],
-    "updated_at": 1784373355
+    "updated_at": 1784570509
   },
   {
     "id": 127271,
@@ -10668,7 +10752,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784549437
+    "updated_at": 1784570509
   },
   {
     "id": 124132,
@@ -10754,7 +10838,7 @@
       "Music",
       "Sci-Fi"
     ],
-    "updated_at": 1784427232
+    "updated_at": 1784570505
   },
   {
     "id": 123645,
@@ -11683,7 +11767,7 @@
     "genres": [
       "Fantasy"
     ],
-    "updated_at": 1784427260
+    "updated_at": 1784570509
   },
   {
     "id": 119258,
@@ -12561,7 +12645,7 @@
       "Sci-Fi",
       "Slice of Life"
     ],
-    "updated_at": 1784502186
+    "updated_at": 1784570509
   },
   {
     "id": 117074,
@@ -13236,6 +13320,31 @@
     "updated_at": 1784480696
   },
   {
+    "id": 115139,
+    "id_mal": 25149,
+    "url": "https://anilist.co/anime/115139",
+    "title": {
+      "english": "",
+      "romaji": "Lu Ling",
+      "native": "鹿铃"
+    },
+    "description": "An old man and his granddaughter found a wounded fawn while searching for Chinese medicinal herbs in the mountains. Under the girl's careful care, the fawn gradually recovered and became an inseparable friend with the girl... \n<br><br> \n(Source: Douban)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx115139-kYvva5XzUxeN.jpg",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/115139-ClFwYKT9YbYC.jpg",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 20,
+    "status": "FINISHED",
+    "score": 53,
+    "genres": [],
+    "updated_at": 1784570509
+  },
+  {
     "id": 114963,
     "id_mal": 41168,
     "url": "https://anilist.co/anime/114963",
@@ -13431,7 +13540,7 @@
       "Drama",
       "Sci-Fi"
     ],
-    "updated_at": 1784549491
+    "updated_at": 1784570509
   },
   {
     "id": 114120,
@@ -13575,7 +13684,7 @@
       "Comedy",
       "Sci-Fi"
     ],
-    "updated_at": 1784549501
+    "updated_at": 1784570509
   },
   {
     "id": 113596,
@@ -13685,7 +13794,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784541708
+    "updated_at": 1784570509
   },
   {
     "id": 113345,
@@ -14323,7 +14432,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784549550
+    "updated_at": 1784570503
   },
   {
     "id": 112732,
@@ -14992,7 +15101,7 @@
       "Music",
       "Romance"
     ],
-    "updated_at": 1784549783
+    "updated_at": 1784570502
   },
   {
     "id": 111312,
@@ -15382,7 +15491,7 @@
       "Drama",
       "Fantasy"
     ],
-    "updated_at": 1784549998
+    "updated_at": 1784570509
   },
   {
     "id": 110413,
@@ -15411,7 +15520,7 @@
       "Adventure",
       "Mystery"
     ],
-    "updated_at": 1784550015
+    "updated_at": 1784570509
   },
   {
     "id": 110381,
@@ -16381,7 +16490,7 @@
       "Fantasy",
       "Slice of Life"
     ],
-    "updated_at": 1784550421
+    "updated_at": 1784570509
   },
   {
     "id": 109171,
@@ -16437,7 +16546,7 @@
       "Drama",
       "Romance"
     ],
-    "updated_at": 1784550438
+    "updated_at": 1784570509
   },
   {
     "id": 109100,
@@ -16790,7 +16899,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784549479
+    "updated_at": 1784570509
   },
   {
     "id": 108577,
@@ -17052,7 +17161,7 @@
       "Mystery",
       "Thriller"
     ],
-    "updated_at": 1784466165
+    "updated_at": 1784570509
   },
   {
     "id": 107875,
@@ -19960,7 +20069,7 @@
       "Mahou Shoujo",
       "Romance"
     ],
-    "updated_at": 1784467431
+    "updated_at": 1784570509
   },
   {
     "id": 103712,
@@ -20123,7 +20232,7 @@
     "genres": [
       "Comedy"
     ],
-    "updated_at": 1784380254
+    "updated_at": 1784570509
   },
   {
     "id": 103631,
@@ -21149,7 +21258,7 @@
       "Mystery",
       "Supernatural"
     ],
-    "updated_at": 1784563304
+    "updated_at": 1784570509
   },
   {
     "id": 103166,
@@ -23579,7 +23688,7 @@
     "status": "FINISHED",
     "score": 51,
     "genres": [],
-    "updated_at": 1784380913
+    "updated_at": 1784570509
   },
   {
     "id": 102099,
@@ -24707,7 +24816,7 @@
       "Fantasy",
       "Sci-Fi"
     ],
-    "updated_at": 1784549440
+    "updated_at": 1784570509
   },
   {
     "id": 101249,
@@ -24737,7 +24846,7 @@
       "Sci-Fi",
       "Slice of Life"
     ],
-    "updated_at": 1784502186
+    "updated_at": 1784570509
   },
   {
     "id": 101231,
@@ -25141,7 +25250,7 @@
       "Fantasy",
       "Slice of Life"
     ],
-    "updated_at": 1784382119
+    "updated_at": 1784570509
   },
   {
     "id": 100744,
@@ -25258,7 +25367,7 @@
       "Comedy",
       "Mystery"
     ],
-    "updated_at": 1784469809
+    "updated_at": 1784570509
   },
   {
     "id": 100652,
@@ -25408,7 +25517,7 @@
       "Fantasy",
       "Mystery"
     ],
-    "updated_at": 1784530893
+    "updated_at": 1784570509
   },
   {
     "id": 100361,
@@ -25519,7 +25628,7 @@
     "genres": [
       "Comedy"
     ],
-    "updated_at": 1783950702
+    "updated_at": 1784570509
   },
   {
     "id": 100289,
@@ -26039,7 +26148,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784520159
+    "updated_at": 1784570509
   },
   {
     "id": 99470,
@@ -26308,7 +26417,7 @@
       "Comedy",
       "Sci-Fi"
     ],
-    "updated_at": 1784557034
+    "updated_at": 1784570509
   },
   {
     "id": 98998,
@@ -26730,7 +26839,7 @@
     "genres": [
       "Comedy"
     ],
-    "updated_at": 1784557122
+    "updated_at": 1784570509
   },
   {
     "id": 98663,
@@ -26909,7 +27018,7 @@
       "Slice of Life",
       "Sports"
     ],
-    "updated_at": 1784557213
+    "updated_at": 1784570509
   },
   {
     "id": 98496,
@@ -27288,7 +27397,7 @@
       "Sports",
       "Supernatural"
     ],
-    "updated_at": 1784557355
+    "updated_at": 1784570501
   },
   {
     "id": 98222,
@@ -27317,7 +27426,7 @@
       "Comedy",
       "Mystery"
     ],
-    "updated_at": 1784557355
+    "updated_at": 1784570509
   },
   {
     "id": 98208,
@@ -27688,7 +27797,7 @@
       "Mahou Shoujo",
       "Slice of Life"
     ],
-    "updated_at": 1784557603
+    "updated_at": 1784570506
   },
   {
     "id": 97859,
@@ -27898,7 +28007,7 @@
       "Sci-Fi",
       "Supernatural"
     ],
-    "updated_at": 1784557697
+    "updated_at": 1784570509
   },
   {
     "id": 97661,
@@ -28636,7 +28745,7 @@
       "Action",
       "Supernatural"
     ],
-    "updated_at": 1784477936
+    "updated_at": 1784570509
   },
   {
     "id": 21794,
@@ -29136,7 +29245,7 @@
       "Action",
       "Mystery"
     ],
-    "updated_at": 1784478256
+    "updated_at": 1784570509
   },
   {
     "id": 21638,
@@ -29957,7 +30066,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784549501
+    "updated_at": 1784570505
   },
   {
     "id": 21265,
@@ -30509,7 +30618,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784549453
+    "updated_at": 1784570503
   },
   {
     "id": 21072,
@@ -31123,7 +31232,7 @@
       "Mystery",
       "Slice of Life"
     ],
-    "updated_at": 1784494957
+    "updated_at": 1784570509
   },
   {
     "id": 20886,
@@ -31323,7 +31432,7 @@
       "Psychological",
       "Supernatural"
     ],
-    "updated_at": 1784481588
+    "updated_at": 1784570509
   },
   {
     "id": 20786,
@@ -31383,7 +31492,7 @@
       "Comedy",
       "Sci-Fi"
     ],
-    "updated_at": 1784549501
+    "updated_at": 1784570509
   },
   {
     "id": 20768,
@@ -31441,7 +31550,7 @@
       "Music",
       "Slice of Life"
     ],
-    "updated_at": 1784520156
+    "updated_at": 1784570509
   },
   {
     "id": 20764,
@@ -31800,7 +31909,7 @@
       "Drama",
       "Fantasy"
     ],
-    "updated_at": 1784530893
+    "updated_at": 1784570506
   },
   {
     "id": 20640,
@@ -31969,7 +32078,7 @@
       "Comedy",
       "Mystery"
     ],
-    "updated_at": 1784394193
+    "updated_at": 1784570509
   },
   {
     "id": 20535,
@@ -31996,7 +32105,7 @@
     "genres": [
       "Comedy"
     ],
-    "updated_at": 1783948388
+    "updated_at": 1784570509
   },
   {
     "id": 20519,
@@ -32591,7 +32700,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784307823
+    "updated_at": 1784570509
   },
   {
     "id": 19555,
@@ -34253,7 +34362,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784563304
+    "updated_at": 1784570509
   },
   {
     "id": 16664,
@@ -34479,7 +34588,7 @@
       "Romance",
       "Sci-Fi"
     ],
-    "updated_at": 1784390608
+    "updated_at": 1784570509
   },
   {
     "id": 16480,
@@ -34759,7 +34868,7 @@
     "genres": [
       "Comedy"
     ],
-    "updated_at": 1784484308
+    "updated_at": 1784570509
   },
   {
     "id": 15813,
@@ -35015,7 +35124,7 @@
       "Drama",
       "Slice of Life"
     ],
-    "updated_at": 1784494943
+    "updated_at": 1784570502
   },
   {
     "id": 15201,
@@ -35417,7 +35526,7 @@
       "Comedy",
       "Mystery"
     ],
-    "updated_at": 1784484505
+    "updated_at": 1784570509
   },
   {
     "id": 14669,
@@ -35446,7 +35555,7 @@
       "Drama",
       "Romance"
     ],
-    "updated_at": 1784502186
+    "updated_at": 1784570509
   },
   {
     "id": 14629,
@@ -36916,7 +37025,7 @@
     "genres": [
       "Comedy"
     ],
-    "updated_at": 1784485063
+    "updated_at": 1784570509
   },
   {
     "id": 12477,
@@ -37175,7 +37284,7 @@
       "Comedy",
       "Mystery"
     ],
-    "updated_at": 1784485192
+    "updated_at": 1784570509
   },
   {
     "id": 12115,
@@ -37298,7 +37407,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784485226
+    "updated_at": 1784570509
   },
   {
     "id": 12035,
@@ -38049,7 +38158,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784485921
+    "updated_at": 1784570509
   },
   {
     "id": 11001,
@@ -38196,6 +38305,34 @@
     "updated_at": 1783962141
   },
   {
+    "id": 10820,
+    "id_mal": 10820,
+    "url": "https://anilist.co/anime/10820",
+    "title": {
+      "english": "",
+      "romaji": "Sengoku Majin Goushougun (Movie)",
+      "native": "戦国魔神ゴーショーグン"
+    },
+    "description": "Compilation movie of the eponymous TV series.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/10820.jpg",
+    "banner_url": "",
+    "schedule": "Musim: SPRING 1982",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "SPRING",
+    "year": 1982,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 65,
+    "status": "FINISHED",
+    "score": 55,
+    "genres": [
+      "Mecha",
+      "Sci-Fi"
+    ],
+    "updated_at": 1784570509
+  },
+  {
     "id": 10740,
     "id_mal": 10740,
     "url": "https://anilist.co/anime/10740",
@@ -38281,7 +38418,7 @@
       "Action",
       "Adventure"
     ],
-    "updated_at": 1784412188
+    "updated_at": 1784570509
   },
   {
     "id": 10681,
@@ -38452,7 +38589,7 @@
     "genres": [
       "Comedy"
     ],
-    "updated_at": 1784427260
+    "updated_at": 1784570509
   },
   {
     "id": 10500,
@@ -38911,7 +39048,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784484185
+    "updated_at": 1784570507
   },
   {
     "id": 9963,
@@ -38941,6 +39078,36 @@
       "Mystery"
     ],
     "updated_at": 1784412185
+  },
+  {
+    "id": 9917,
+    "id_mal": 9917,
+    "url": "https://anilist.co/anime/9917",
+    "title": {
+      "english": "Pokémon the Movie: White—Victini and Zekrom",
+      "romaji": "Pocket Monsters Best Wishes!: Victini to Kuroki Eiyuu Zekrom",
+      "native": "ポケットモンスター ベストウイッシュ 「ビクティニと黒き英雄 ゼクロム」"
+    },
+    "description": "One of the two Pokémon Best Wishes movies that will premiere simultaneously on July 16th. The two titles are:<br><br>\nPokémon Best Wishes! the Movie: Victini to Kuroki Eiyuu Zekrom<br>\nPokémon Best Wishes! the Movie: Victini to Shiroki Eiyuu Reshiram<br><br>\nThe stories of the two movies will be the same until Satoshi and Pikachu meet Victini but the legendary Pokémon will be either Zekrom or Reshiram.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9917.jpg",
+    "banner_url": "",
+    "schedule": "Musim: SUMMER 2011",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "SUMMER",
+    "year": 2011,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 96,
+    "status": "FINISHED",
+    "score": 63,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Fantasy"
+    ],
+    "updated_at": 1784570508
   },
   {
     "id": 9858,
@@ -39536,7 +39703,7 @@
     "genres": [
       "Drama"
     ],
-    "updated_at": 1784379737
+    "updated_at": 1784570509
   },
   {
     "id": 9274,
@@ -40564,7 +40731,7 @@
       "Comedy",
       "Slice of Life"
     ],
-    "updated_at": 1784311873
+    "updated_at": 1784570509
   },
   {
     "id": 8361,
@@ -40739,7 +40906,7 @@
       "Action",
       "Comedy"
     ],
-    "updated_at": 1784549466
+    "updated_at": 1784570509
   },
   {
     "id": 8245,
@@ -43109,6 +43276,35 @@
     "updated_at": 1784312130
   },
   {
+    "id": 7045,
+    "id_mal": 7045,
+    "url": "https://anilist.co/anime/7045",
+    "title": {
+      "english": "Doraemon: Nobita and the Legend of the Sun King",
+      "romaji": "Doraemon: Nobita no Taiyou Ou Densetsu",
+      "native": "ドラえもん のび太の太陽王伝説"
+    },
+    "description": "Doraemon and its friends open a hole in the time and they're travel to the Country of Mayana, a lost Mayan civilization in the jungle. There, Nobita will know its perfect double, prince Thio, heir to the throne. Both will decide to interchange papers to try to save to the Country of Mayana of the claws of the infernal Ledina witch and her evil forces.\n<br><br>\n(Source: Anime News Network)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx7045-86snI3wvxyDE.jpg",
+    "banner_url": "",
+    "schedule": "Musim: SPRING 2000",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "SPRING",
+    "year": 2000,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 93,
+    "status": "FINISHED",
+    "score": 69,
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Fantasy"
+    ],
+    "updated_at": 1784570509
+  },
+  {
     "id": 7030,
     "id_mal": 7030,
     "url": "https://anilist.co/anime/7030",
@@ -43296,7 +43492,7 @@
     "genres": [
       "Comedy"
     ],
-    "updated_at": 1783948372
+    "updated_at": 1784570509
   },
   {
     "id": 6985,
@@ -43575,7 +43771,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784480696
+    "updated_at": 1784570509
   },
   {
     "id": 6927,
@@ -43778,7 +43974,7 @@
       "Fantasy",
       "Mecha"
     ],
-    "updated_at": 1784498548
+    "updated_at": 1784570509
   },
   {
     "id": 6769,
@@ -44233,7 +44429,7 @@
       "Action",
       "Mystery"
     ],
-    "updated_at": 1784379737
+    "updated_at": 1784570509
   },
   {
     "id": 6460,
@@ -44409,7 +44605,7 @@
       "Mecha",
       "Sci-Fi"
     ],
-    "updated_at": 1784541708
+    "updated_at": 1784570509
   },
   {
     "id": 6281,
@@ -44553,7 +44749,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784494957
+    "updated_at": 1784570507
   },
   {
     "id": 6172,
@@ -45340,7 +45536,7 @@
       "Drama",
       "Mystery"
     ],
-    "updated_at": 1784412183
+    "updated_at": 1784570509
   },
   {
     "id": 5421,
@@ -45683,7 +45879,7 @@
       "Supernatural",
       "Thriller"
     ],
-    "updated_at": 1784502186
+    "updated_at": 1784570503
   },
   {
     "id": 5204,
@@ -45742,7 +45938,7 @@
       "Action",
       "Supernatural"
     ],
-    "updated_at": 1784563304
+    "updated_at": 1784570509
   },
   {
     "id": 5136,
@@ -46025,7 +46221,7 @@
       "Mahou Shoujo",
       "Sci-Fi"
     ],
-    "updated_at": 1784530893
+    "updated_at": 1784570509
   },
   {
     "id": 4983,
@@ -46619,7 +46815,7 @@
       "Music",
       "Mystery"
     ],
-    "updated_at": 1784372518
+    "updated_at": 1784570509
   },
   {
     "id": 4437,
@@ -47049,6 +47245,34 @@
     "updated_at": 1784494957
   },
   {
+    "id": 4220,
+    "id_mal": 4220,
+    "url": "https://anilist.co/anime/4220",
+    "title": {
+      "english": "",
+      "romaji": "Okonjoururi",
+      "native": "おこんじょうるり"
+    },
+    "description": "The 25 minute film tells the tale of an ailing elderly woman named Itako who encounters a fox named Okon. <br><br>\nThe story opens with Itako lying bedridden, as she has for a long time. Okon enters her home and Itako tells the fox that he is welcome to take anything that he wants, for she has no use for anything anymore. Okon is delighted and in order to return the favour (the act of ongaeshi), Okon performs a magic jy&#333;ruri (a ballad with shamisen accompaniment) that heals Itako so that she is fit enough to walk again. Everyone is surprised by Itako's sudden recovery. She then hears of a hunter who has been badly injured and is near death. Itako hides Okon in the back of her shirt and has the fox sing the song while she plays shamisen in order to heal the man. This act of kindness is repeated for others until Itako's good fortune leads some to be suspicious of her. <br>\n(Source: Nishikata Film Review)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4220.jpg",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 25,
+    "status": "FINISHED",
+    "score": 53,
+    "genres": [
+      "Drama",
+      "Fantasy"
+    ],
+    "updated_at": 1784570509
+  },
+  {
     "id": 4218,
     "id_mal": 4218,
     "url": "https://anilist.co/anime/4218",
@@ -47359,7 +47583,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784494957
+    "updated_at": 1784570506
   },
   {
     "id": 3946,
@@ -47879,7 +48103,35 @@
     "genres": [
       "Comedy"
     ],
-    "updated_at": 1784322112
+    "updated_at": 1784570509
+  },
+  {
+    "id": 3727,
+    "id_mal": 3727,
+    "url": "https://anilist.co/anime/3727",
+    "title": {
+      "english": "Doraemon: Nobita's Dinosaur",
+      "romaji": "Doraemon: Nobita no Kyouryuu",
+      "native": "ドラえもん のび太の恐竜"
+    },
+    "description": "Nobita finds a fossilized dinosaur egg by accident, and with the help of Doraemon's tools, they hatched the egg and began raising the dinosaur. Knowing that they can't keep the dinosaur forever, Nobita was forced to send it back to prehistoric times where a group of hunters from the future threatens to endanger the dinosaurs. Determined to save the dinosaurs from the claws of the hunters, Doraemon and the gang returns to the past and sets out in a prehistoric adventure.\n<br><br>\n(Source: Anime News Network)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx3727-idWMbFqsVI8X.jpg",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/3727-0qBzwF50fvA5.jpg",
+    "schedule": "Musim: WINTER 1980",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "WINTER",
+    "year": 1980,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 92,
+    "status": "FINISHED",
+    "score": 69,
+    "genres": [
+      "Adventure",
+      "Comedy"
+    ],
+    "updated_at": 1784570509
   },
   {
     "id": 3720,
@@ -47995,6 +48247,39 @@
     "updated_at": 1784494957
   },
   {
+    "id": 3508,
+    "id_mal": 3508,
+    "url": "https://anilist.co/anime/3508",
+    "title": {
+      "english": "",
+      "romaji": "Genius Party",
+      "native": "ジーニアスパーティー"
+    },
+    "description": "An anthology of seven short animated films from Studio 4°C:\n <br><br>\n1.) <b>Genius Party</b> (directed by Atsuko Fukushima)<br>\nA bizarre bird-like creature runs through a barren desert and finds what seems to be a smiling egg lying on the ground.\n <br><br>\n2.) <b>Shanghai Dragon</b> (directed by Shouji Kawamori)<br>\nAn imaginative Chinese boy finds a futuristic device that can make his own drawings come to life. After discovering the device, the town he lives in is about to be invaded by spaceships and machines of mass destruction that are all centuries ahead of Earth's time.\n <br><br>\n3.) <b>Deathtic 4</b> (directed by Shinji Kimura)<br>\nA tale set in a world full of zombies, living their normal zombie lives. A living frog falls from the blackened sky of the zombie world, and a little zombie boy with his friends try to bring the living creature back to its own world.\n <br><br>\n4.) <b>Doorbell</b> (directed by Youji Fukuyama)<br>\nThe main character is a ghost in his own world. He must outrun the other versions of himself, or they will take over his life.\n <br><br>\n5.) <b>Limit Cycle</b> (directed by Hideki Futamura)<br>\nAn existential examination of the world as seen through the lens of a man seemingly trapped in an endless cycle of work.\n <br><br>\n6.) <b>Happy Machine</b> (directed by Masaaki Yuasa)<br>\nAn infant who is happily secured in his own nursery suddenly discovers that everything about the nursery is fake. Soon the infant is forced out of the nursery into the world that exists outside, where adventure awaits, and there are many alien-like creatures to encounter.\n <br><br>\n7.) <b>Baby Blue</b> (directed by Shinichirou Watanabe)<br>\nA small adventure of two young students who decide to go anywhere they can for just one day, to enjoy that day without caring about the rest, and simply be together.\n <br><br>\n(Source: Anime News Network)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx3508-zfk3BhdhfMiH.jpg",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/3508-d7GIG4VvWNX3.jpg",
+    "schedule": "Musim: SUMMER 2007",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "SUMMER",
+    "year": 2007,
+    "format": "MOVIE",
+    "episodes": 7,
+    "duration": 14,
+    "status": "FINISHED",
+    "score": 66,
+    "genres": [
+      "Action",
+      "Fantasy",
+      "Mecha",
+      "Music",
+      "Psychological",
+      "Romance",
+      "Sci-Fi"
+    ],
+    "updated_at": 1784570509
+  },
+  {
     "id": 3488,
     "id_mal": 3488,
     "url": "https://anilist.co/anime/3488",
@@ -48074,7 +48359,7 @@
       "Horror",
       "Sci-Fi"
     ],
-    "updated_at": 1784530893
+    "updated_at": 1784570509
   },
   {
     "id": 3367,
@@ -48980,7 +49265,7 @@
       "Drama",
       "Supernatural"
     ],
-    "updated_at": 1784563304
+    "updated_at": 1784570509
   },
   {
     "id": 2848,
@@ -49041,7 +49326,7 @@
       "Drama",
       "Fantasy"
     ],
-    "updated_at": 1784494957
+    "updated_at": 1784570505
   },
   {
     "id": 2830,
@@ -49325,7 +49610,7 @@
     "genres": [
       "Fantasy"
     ],
-    "updated_at": 1784489164
+    "updated_at": 1784570509
   },
   {
     "id": 2674,
@@ -49383,7 +49668,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784489164
+    "updated_at": 1784570509
   },
   {
     "id": 2672,
@@ -49549,7 +49834,7 @@
     "genres": [
       "Fantasy"
     ],
-    "updated_at": 1784489166
+    "updated_at": 1784570509
   },
   {
     "id": 2666,
@@ -49634,7 +49919,7 @@
     "genres": [
       "Fantasy"
     ],
-    "updated_at": 1784489167
+    "updated_at": 1784570509
   },
   {
     "id": 2662,
@@ -49745,7 +50030,7 @@
     "genres": [
       "Fantasy"
     ],
-    "updated_at": 1784489167
+    "updated_at": 1784570509
   },
   {
     "id": 2658,
@@ -49772,7 +50057,7 @@
     "genres": [
       "Fantasy"
     ],
-    "updated_at": 1784304124
+    "updated_at": 1784570509
   },
   {
     "id": 2657,
@@ -49830,7 +50115,7 @@
       "Comedy",
       "Sci-Fi"
     ],
-    "updated_at": 1784489168
+    "updated_at": 1784570509
   },
   {
     "id": 2655,
@@ -50133,7 +50418,7 @@
     "genres": [
       "Fantasy"
     ],
-    "updated_at": 1784242996
+    "updated_at": 1784570509
   },
   {
     "id": 2623,
@@ -50280,7 +50565,7 @@
       "Drama",
       "Music"
     ],
-    "updated_at": 1784489194
+    "updated_at": 1784570507
   },
   {
     "id": 2593,
@@ -50512,7 +50797,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784489239
+    "updated_at": 1784570509
   },
   {
     "id": 2470,
@@ -50945,7 +51230,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784489254
+    "updated_at": 1784570509
   },
   {
     "id": 2392,
@@ -51633,7 +51918,7 @@
       "Comedy",
       "Ecchi"
     ],
-    "updated_at": 1784489318
+    "updated_at": 1784570509
   },
   {
     "id": 2171,
@@ -51660,7 +51945,7 @@
     "genres": [
       "Mystery"
     ],
-    "updated_at": 1784489319
+    "updated_at": 1784570509
   },
   {
     "id": 2154,
@@ -51717,7 +52002,7 @@
       "Action",
       "Adventure"
     ],
-    "updated_at": 1784549501
+    "updated_at": 1784570509
   },
   {
     "id": 2141,
@@ -53030,7 +53315,7 @@
       "Romance",
       "Sci-Fi"
     ],
-    "updated_at": 1784530893
+    "updated_at": 1784570509
   },
   {
     "id": 1894,
@@ -53708,7 +53993,7 @@
       "Fantasy",
       "Sci-Fi"
     ],
-    "updated_at": 1784489643
+    "updated_at": 1784570509
   },
   {
     "id": 1526,
@@ -54173,7 +54458,7 @@
       "Comedy",
       "Mystery"
     ],
-    "updated_at": 1784490152
+    "updated_at": 1784570509
   },
   {
     "id": 1419,
@@ -54322,7 +54607,7 @@
       "Fantasy",
       "Slice of Life"
     ],
-    "updated_at": 1784490170
+    "updated_at": 1784570509
   },
   {
     "id": 1378,
@@ -54405,7 +54690,7 @@
       "Adventure",
       "Mystery"
     ],
-    "updated_at": 1784490173
+    "updated_at": 1784570509
   },
   {
     "id": 1366,
@@ -54462,7 +54747,7 @@
       "Adventure",
       "Mystery"
     ],
-    "updated_at": 1784494957
+    "updated_at": 1784570509
   },
   {
     "id": 1364,
@@ -54489,7 +54774,7 @@
     "genres": [
       "Mystery"
     ],
-    "updated_at": 1784490174
+    "updated_at": 1784570509
   },
   {
     "id": 1363,
@@ -54518,7 +54803,7 @@
       "Drama",
       "Mystery"
     ],
-    "updated_at": 1784494957
+    "updated_at": 1784570509
   },
   {
     "id": 1362,
@@ -55869,7 +56154,7 @@
       "Fantasy",
       "Music"
     ],
-    "updated_at": 1784490313
+    "updated_at": 1784570509
   },
   {
     "id": 1044,
@@ -56101,7 +56386,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784541708
+    "updated_at": 1784570509
   },
   {
     "id": 1010,
@@ -56840,7 +57125,7 @@
       "Psychological",
       "Romance"
     ],
-    "updated_at": 1784530893
+    "updated_at": 1784570509
   },
   {
     "id": 869,
@@ -57217,7 +57502,7 @@
       "Adventure",
       "Mystery"
     ],
-    "updated_at": 1784494957
+    "updated_at": 1784570509
   },
   {
     "id": 780,
@@ -57245,7 +57530,7 @@
       "Adventure",
       "Mystery"
     ],
-    "updated_at": 1784494957
+    "updated_at": 1784570509
   },
   {
     "id": 779,
@@ -57273,7 +57558,7 @@
       "Adventure",
       "Mystery"
     ],
-    "updated_at": 1784520159
+    "updated_at": 1784570509
   },
   {
     "id": 760,
@@ -57689,7 +57974,7 @@
       "Romance",
       "Thriller"
     ],
-    "updated_at": 1784455295
+    "updated_at": 1784570509
   },
   {
     "id": 565,
@@ -57811,7 +58096,7 @@
       "Romance",
       "Sci-Fi"
     ],
-    "updated_at": 1784541708
+    "updated_at": 1784570509
   },
   {
     "id": 536,
@@ -57962,7 +58247,7 @@
       "Romance",
       "Sci-Fi"
     ],
-    "updated_at": 1784541708
+    "updated_at": 1784570509
   },
   {
     "id": 520,
@@ -58650,7 +58935,7 @@
       "Drama",
       "Supernatural"
     ],
-    "updated_at": 1784549444
+    "updated_at": 1784570509
   },
   {
     "id": 441,
@@ -59064,7 +59349,7 @@
       "Fantasy",
       "Mahou Shoujo"
     ],
-    "updated_at": 1784455295
+    "updated_at": 1784570509
   },
   {
     "id": 317,
@@ -59394,7 +59679,7 @@
       "Mecha",
       "Sci-Fi"
     ],
-    "updated_at": 1784376216
+    "updated_at": 1784570502
   },
   {
     "id": 87,

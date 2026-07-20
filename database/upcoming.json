@@ -363,7 +363,7 @@
       "Mystery",
       "Supernatural"
     ],
-    "updated_at": 1784506220
+    "updated_at": 1784570509
   },
   {
     "id": 213879,
@@ -497,7 +497,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784541708
+    "updated_at": 1784570509
   },
   {
     "id": 213867,
@@ -583,7 +583,7 @@
       "Adventure",
       "Sci-Fi"
     ],
-    "updated_at": 1784549446
+    "updated_at": 1784570509
   },
   {
     "id": 213846,
@@ -1065,7 +1065,7 @@
     "genres": [
       "Sci-Fi"
     ],
-    "updated_at": 1784556649
+    "updated_at": 1784570509
   },
   {
     "id": 213628,
@@ -1180,7 +1180,7 @@
       "Fantasy",
       "Supernatural"
     ],
-    "updated_at": 1784498548
+    "updated_at": 1784570503
   },
   {
     "id": 213579,
@@ -1442,7 +1442,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784556649
+    "updated_at": 1784570509
   },
   {
     "id": 213360,
@@ -1531,7 +1531,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784530893
+    "updated_at": 1784570509
   },
   {
     "id": 213298,
@@ -1751,7 +1751,7 @@
     "status": "NOT_YET_RELEASED",
     "score": null,
     "genres": [],
-    "updated_at": 1784469809
+    "updated_at": 1784570509
   },
   {
     "id": 212955,
@@ -2094,7 +2094,7 @@
       "Psychological",
       "Sci-Fi"
     ],
-    "updated_at": 1784458910
+    "updated_at": 1784570509
   },
   {
     "id": 212507,
@@ -2410,7 +2410,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784492949
+    "updated_at": 1784570509
   },
   {
     "id": 211538,
@@ -2613,7 +2613,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784246841
+    "updated_at": 1784570509
   },
   {
     "id": 211220,
@@ -2725,7 +2725,7 @@
       "Action",
       "Fantasy"
     ],
-    "updated_at": 1784530893
+    "updated_at": 1784570509
   },
   {
     "id": 210483,
@@ -2961,7 +2961,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784541708
+    "updated_at": 1784570509
   },
   {
     "id": 209963,
@@ -2990,7 +2990,7 @@
       "Drama",
       "Fantasy"
     ],
-    "updated_at": 1784469809
+    "updated_at": 1784570509
   },
   {
     "id": 209939,
@@ -3274,7 +3274,7 @@
       "Action",
       "Sci-Fi"
     ],
-    "updated_at": 1784563302
+    "updated_at": 1784570509
   },
   {
     "id": 209463,
@@ -3505,7 +3505,7 @@
       "Mecha",
       "Sci-Fi"
     ],
-    "updated_at": 1784520159
+    "updated_at": 1784570509
   },
   {
     "id": 208025,
@@ -3827,7 +3827,7 @@
       "Supernatural",
       "Thriller"
     ],
-    "updated_at": 1784549493
+    "updated_at": 1784570509
   },
   {
     "id": 206814,
@@ -4056,7 +4056,7 @@
       "Mecha",
       "Sci-Fi"
     ],
-    "updated_at": 1784556649
+    "updated_at": 1784570509
   },
   {
     "id": 206160,
@@ -4197,7 +4197,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784358109
+    "updated_at": 1784570509
   },
   {
     "id": 205619,
@@ -4459,7 +4459,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784541708
+    "updated_at": 1784570509
   },
   {
     "id": 204747,
@@ -4635,7 +4635,7 @@
       "Mystery",
       "Sci-Fi"
     ],
-    "updated_at": 1784412193
+    "updated_at": 1784570502
   },
   {
     "id": 204584,
@@ -4665,7 +4665,7 @@
       "Mystery",
       "Sci-Fi"
     ],
-    "updated_at": 1784415855
+    "updated_at": 1784570502
   },
   {
     "id": 204579,
@@ -4723,7 +4723,7 @@
       "Drama",
       "Fantasy"
     ],
-    "updated_at": 1784530893
+    "updated_at": 1784570509
   },
   {
     "id": 204431,
@@ -4780,7 +4780,7 @@
       "Horror",
       "Supernatural"
     ],
-    "updated_at": 1784408567
+    "updated_at": 1784570509
   },
   {
     "id": 204389,
@@ -4981,7 +4981,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784520159
+    "updated_at": 1784570509
   },
   {
     "id": 203651,
@@ -5261,7 +5261,7 @@
       "Ecchi",
       "Romance"
     ],
-    "updated_at": 1784506203
+    "updated_at": 1784570509
   },
   {
     "id": 202503,
@@ -5290,7 +5290,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784563304
+    "updated_at": 1784570509
   },
   {
     "id": 202429,
@@ -5519,7 +5519,7 @@
       "Horror",
       "Supernatural"
     ],
-    "updated_at": 1784318438
+    "updated_at": 1784570509
   },
   {
     "id": 200929,
@@ -5635,7 +5635,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784530893
+    "updated_at": 1784570509
   },
   {
     "id": 200294,
@@ -6067,7 +6067,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784556649
+    "updated_at": 1784570509
   },
   {
     "id": 199185,
@@ -6591,6 +6591,35 @@
     "updated_at": 1784246831
   },
   {
+    "id": 196333,
+    "id_mal": 62100,
+    "url": "https://anilist.co/anime/196333",
+    "title": {
+      "english": "",
+      "romaji": "Hirayasumi",
+      "native": "ひらやすみ"
+    },
+    "description": "With a carefree outlook on life, Hiroto knows better than anyone that slowing down is sometimes the best way to move forward. \n\n<br><br>\nAt 29 years old, carefree Hiroto Ikuta doesn’t have a girlfriend, a full-time job, or a plan for the future—and he couldn’t be happier. Hiroto’s breezy attitude isn’t easy for everyone to understand, though. In a world filled with anxiety, confusion, and grief, Hiroto and the people who surround him are all just doing their best to figure out this thing called life. \n\n<br><br>\nAfter developing an unlikely friendship with the grouchy old granny who lives in his neighborhood, Hiroto suddenly finds himself inheriting not just her house, but some rather difficult emotions as well. His 18-year-old cousin Natsumi moves in with him, but as a struggling art student, she has her own troubles to deal with and may just put Hiroto’s easygoing lifestyle to the test. \n<br><br>\n(Source: VIZ Media)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx196333-3UbU6QT5oTkN.jpg",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/196333-EmXZBmnr8clg.jpg",
+    "schedule": "Musim: WINTER 2027",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "WINTER",
+    "year": 2027,
+    "format": "",
+    "episodes": null,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Slice of Life"
+    ],
+    "updated_at": 1784570501
+  },
+  {
     "id": 196222,
     "id_mal": 62081,
     "url": "https://anilist.co/anime/196222",
@@ -6617,7 +6646,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784563304
+    "updated_at": 1784570509
   },
   {
     "id": 195787,
@@ -6999,7 +7028,7 @@
       "Drama",
       "Supernatural"
     ],
-    "updated_at": 1784376216
+    "updated_at": 1784570509
   },
   {
     "id": 195200,
@@ -8283,7 +8312,7 @@
     "status": "NOT_YET_RELEASED",
     "score": null,
     "genres": [],
-    "updated_at": 1784246812
+    "updated_at": 1784570509
   },
   {
     "id": 185657,
@@ -8371,7 +8400,34 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784520159
+    "updated_at": 1784570509
+  },
+  {
+    "id": 185260,
+    "id_mal": 60411,
+    "url": "https://anilist.co/anime/185260",
+    "title": {
+      "english": "",
+      "romaji": "PUI PUI Molcar the Movie MOLMAX (Zoku-hen)",
+      "native": "PUI PUI モルカー ザ・ムービー MOLMAX (続編)"
+    },
+    "description": "Sequel film to <i>PUI PUI Molcar the Movie MOLMAX</i>.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185260-l48JlMk853qY.png",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Comedy"
+    ],
+    "updated_at": 1784570509
   },
   {
     "id": 184376,
@@ -8401,7 +8457,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784440942
+    "updated_at": 1784570504
   },
   {
     "id": 184321,
@@ -8430,7 +8486,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784563303
+    "updated_at": 1784570509
   },
   {
     "id": 184141,
@@ -8634,7 +8690,7 @@
       "Mahou Shoujo",
       "Slice of Life"
     ],
-    "updated_at": 1784541708
+    "updated_at": 1784570509
   },
   {
     "id": 181951,
@@ -9178,7 +9234,7 @@
       "Drama",
       "Sports"
     ],
-    "updated_at": 1784541708
+    "updated_at": 1784570509
   },
   {
     "id": 174427,
@@ -9842,7 +9898,7 @@
       "Adventure",
       "Comedy"
     ],
-    "updated_at": 1784563304
+    "updated_at": 1784570509
   },
   {
     "id": 161410,
@@ -10246,7 +10302,7 @@
       "Romance",
       "Supernatural"
     ],
-    "updated_at": 1784542712
+    "updated_at": 1784570509
   },
   {
     "id": 143103,
