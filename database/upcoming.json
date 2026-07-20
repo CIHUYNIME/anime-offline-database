@@ -195,7 +195,7 @@
       "Comedy",
       "Romance"
     ],
-    "updated_at": 1784530893
+    "updated_at": 1784563304
   },
   {
     "id": 214018,
@@ -440,7 +440,7 @@
     "status": "NOT_YET_RELEASED",
     "score": null,
     "genres": [],
-    "updated_at": 1784480696
+    "updated_at": 1784563304
   },
   {
     "id": 213873,
@@ -637,7 +637,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784520159
+    "updated_at": 1784563304
   },
   {
     "id": 213815,
@@ -813,7 +813,7 @@
       "Drama",
       "Romance"
     ],
-    "updated_at": 1784492947
+    "updated_at": 1784563297
   },
   {
     "id": 213740,
@@ -952,7 +952,7 @@
     "genres": [
       "Hentai"
     ],
-    "updated_at": 1784325887
+    "updated_at": 1784563304
   },
   {
     "id": 213658,
@@ -1295,7 +1295,7 @@
       "Fantasy",
       "Slice of Life"
     ],
-    "updated_at": 1784530893
+    "updated_at": 1784563304
   },
   {
     "id": 213477,
@@ -1469,7 +1469,7 @@
     "genres": [
       "Drama"
     ],
-    "updated_at": 1784556649
+    "updated_at": 1784563304
   },
   {
     "id": 213338,
@@ -1726,7 +1726,7 @@
       "Drama",
       "Romance"
     ],
-    "updated_at": 1784502186
+    "updated_at": 1784563295
   },
   {
     "id": 213020,
@@ -2151,7 +2151,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784473455
+    "updated_at": 1784563304
   },
   {
     "id": 212391,
@@ -2325,7 +2325,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784440942
+    "updated_at": 1784563300
   },
   {
     "id": 211711,
@@ -2499,7 +2499,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784530893
+    "updated_at": 1784563304
   },
   {
     "id": 211338,
@@ -2555,7 +2555,7 @@
       "Fantasy",
       "Mahou Shoujo"
     ],
-    "updated_at": 1784549498
+    "updated_at": 1784563304
   },
   {
     "id": 211304,
@@ -2620,16 +2620,16 @@
     "id_mal": 63987,
     "url": "https://anilist.co/anime/211220",
     "title": {
-      "english": "",
+      "english": "Raised by Demons: Panda Li",
       "romaji": "Li Xiongmao",
       "native": "李熊猫"
     },
     "description": "Adapted from a novel by Wen Zhou, this story follows Li Xiongmao, a human boy raised by demons who is sent by his master to leave Black-White Mountain and kill the three enemies responsible for the demons’ downfall. As he searches for the truth, he gradually unravels the mysteries behind the conflict between humans and demons, the secrets of the dynasty, and his own destiny.\n<br><br>\n(Source: iQIYI, translated)",
-    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx211220-V4JuyjRR4auR.png",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx211220-fkWS8gCM2rA5.png",
     "banner_url": "",
-    "schedule": "Jadwal belum diketahui",
-    "next_episode": null,
-    "next_airing_timestamp": null,
+    "schedule": "Episode 1 tayang pada 29/7/2026, 08.00.00 WIB",
+    "next_episode": 1,
+    "next_airing_timestamp": 1785286800,
     "season": "",
     "year": null,
     "format": "ONA",
@@ -2640,7 +2640,7 @@
     "genres": [
       "Adventure"
     ],
-    "updated_at": 1784530893
+    "updated_at": 1784563735
   },
   {
     "id": 211217,
@@ -2669,6 +2669,35 @@
       "Fantasy"
     ],
     "updated_at": 1784394193
+  },
+  {
+    "id": 211070,
+    "id_mal": 63970,
+    "url": "https://anilist.co/anime/211070",
+    "title": {
+      "english": "",
+      "romaji": "Pen to Wappa to Jijitsukon",
+      "native": "ペンと手錠と事実婚"
+    },
+    "description": "Forty-year-old detective Eiji Kirisame has found maybe the strangest witness of his life: a silent high school girl named Tsugumi Kuchinashi who was at the scene of the crime. Her statements mostly consist of shoddy doodles on a drawing pad, but Eiji is no stranger to piecing together the truth from limited evidence. He'll take every page seriously if it might help solve the case. But why does the last page say...<br><br><i> \"Will you marry me?! \"</i><br><br>(Source: Yen Press)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx211070-XAxff3A1GOrA.jpg",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "TV",
+    "episodes": null,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Comedy",
+      "Mystery",
+      "Romance"
+    ],
+    "updated_at": 1784563304
   },
   {
     "id": 210945,
@@ -2902,7 +2931,7 @@
       "Mystery",
       "Supernatural"
     ],
-    "updated_at": 1784541708
+    "updated_at": 1784563304
   },
   {
     "id": 209980,
@@ -3245,7 +3274,7 @@
       "Action",
       "Sci-Fi"
     ],
-    "updated_at": 1784556649
+    "updated_at": 1784563302
   },
   {
     "id": 209463,
@@ -3448,7 +3477,7 @@
     "genres": [
       "Slice of Life"
     ],
-    "updated_at": 1784480696
+    "updated_at": 1784563304
   },
   {
     "id": 208192,
@@ -3534,7 +3563,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784498548
+    "updated_at": 1784563297
   },
   {
     "id": 207692,
@@ -4255,7 +4284,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784494935
+    "updated_at": 1784563304
   },
   {
     "id": 205430,
@@ -4836,7 +4865,7 @@
       "Action",
       "Sci-Fi"
     ],
-    "updated_at": 1784530893
+    "updated_at": 1784563304
   },
   {
     "id": 204293,
@@ -5203,7 +5232,7 @@
       "Comedy",
       "Slice of Life"
     ],
-    "updated_at": 1783951258
+    "updated_at": 1784563304
   },
   {
     "id": 202564,
@@ -5261,7 +5290,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784466165
+    "updated_at": 1784563304
   },
   {
     "id": 202429,
@@ -5634,7 +5663,7 @@
       "Comedy",
       "Slice of Life"
     ],
-    "updated_at": 1784458910
+    "updated_at": 1784563304
   },
   {
     "id": 199793,
@@ -5666,7 +5695,7 @@
       "Slice of Life",
       "Supernatural"
     ],
-    "updated_at": 1784549494
+    "updated_at": 1784563304
   },
   {
     "id": 199597,
@@ -5780,7 +5809,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784462595
+    "updated_at": 1784563295
   },
   {
     "id": 199431,
@@ -6157,7 +6186,7 @@
       "Mystery",
       "Supernatural"
     ],
-    "updated_at": 1784541708
+    "updated_at": 1784563304
   },
   {
     "id": 199006,
@@ -6411,7 +6440,7 @@
     "genres": [
       "Mahou Shoujo"
     ],
-    "updated_at": 1784408547
+    "updated_at": 1784563296
   },
   {
     "id": 197620,
@@ -6588,7 +6617,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784541708
+    "updated_at": 1784563304
   },
   {
     "id": 195787,
@@ -6910,7 +6939,7 @@
       "Comedy",
       "Supernatural"
     ],
-    "updated_at": 1784502186
+    "updated_at": 1784563304
   },
   {
     "id": 195210,
@@ -7114,7 +7143,7 @@
       "Music",
       "Slice of Life"
     ],
-    "updated_at": 1784440942
+    "updated_at": 1784563304
   },
   {
     "id": 194030,
@@ -7430,7 +7459,7 @@
       "Romance",
       "Sci-Fi"
     ],
-    "updated_at": 1784530893
+    "updated_at": 1784563304
   },
   {
     "id": 190054,
@@ -7487,7 +7516,7 @@
       "Comedy",
       "Romance"
     ],
-    "updated_at": 1784412199
+    "updated_at": 1784563297
   },
   {
     "id": 189323,
@@ -8058,7 +8087,7 @@
       "Romance",
       "Sci-Fi"
     ],
-    "updated_at": 1784448135
+    "updated_at": 1784563304
   },
   {
     "id": 186057,
@@ -8200,7 +8229,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784458910
+    "updated_at": 1784563299
   },
   {
     "id": 185699,
@@ -8401,7 +8430,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784556649
+    "updated_at": 1784563303
   },
   {
     "id": 184141,
@@ -8720,7 +8749,7 @@
       "Action",
       "Fantasy"
     ],
-    "updated_at": 1784530893
+    "updated_at": 1784563304
   },
   {
     "id": 179876,
@@ -8864,6 +8893,36 @@
       "Sci-Fi"
     ],
     "updated_at": 1784549495
+  },
+  {
+    "id": 178868,
+    "id_mal": 59204,
+    "url": "https://anilist.co/anime/178868",
+    "title": {
+      "english": "",
+      "romaji": "Magic Knight Rayearth (2026)",
+      "native": "魔法騎士レイアース (2026)"
+    },
+    "description": "In celebration of <i>\"Magic Knight Rayearth”</i> animes' 30th anniversary, a new animation project has been launched!<br><br>\n\n<i>Note: Title and relations are provisional and subject to change.</i>",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178868-k4udc2gxnMZY.jpg",
+    "banner_url": "",
+    "schedule": "Episode 1 tayang pada 7/10/2026, 21.46.00 WIB",
+    "next_episode": 1,
+    "next_airing_timestamp": 1791384360,
+    "season": "FALL",
+    "year": 2026,
+    "format": "TV",
+    "episodes": null,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Adventure",
+      "Fantasy",
+      "Mahou Shoujo",
+      "Mecha"
+    ],
+    "updated_at": 1784563304
   },
   {
     "id": 178467,
@@ -9090,7 +9149,7 @@
       "Fantasy",
       "Mahou Shoujo"
     ],
-    "updated_at": 1784549485
+    "updated_at": 1784563299
   },
   {
     "id": 174871,
@@ -9350,7 +9409,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784549495
+    "updated_at": 1784563300
   },
   {
     "id": 169579,
@@ -9411,7 +9470,7 @@
       "Music",
       "Romance"
     ],
-    "updated_at": 1784455295
+    "updated_at": 1784563304
   },
   {
     "id": 167151,
@@ -9468,7 +9527,7 @@
       "Action",
       "Sci-Fi"
     ],
-    "updated_at": 1784520159
+    "updated_at": 1784563296
   },
   {
     "id": 166457,
@@ -9783,7 +9842,7 @@
       "Adventure",
       "Comedy"
     ],
-    "updated_at": 1784541894
+    "updated_at": 1784563304
   },
   {
     "id": 161410,
@@ -9808,7 +9867,7 @@
     "status": "NOT_YET_RELEASED",
     "score": null,
     "genres": [],
-    "updated_at": 1784541987
+    "updated_at": 1784563304
   },
   {
     "id": 160803,
