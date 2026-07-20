@@ -187,7 +187,7 @@
     "genres": [
       "Sci-Fi"
     ],
-    "updated_at": 1784282525
+    "updated_at": 1784574187
   },
   {
     "id": 213908,
@@ -9134,7 +9134,7 @@
       "Action",
       "Comedy"
     ],
-    "updated_at": 1784473455
+    "updated_at": 1784574187
   },
   {
     "id": 133898,
@@ -16930,7 +16930,7 @@
       "Slice of Life",
       "Supernatural"
     ],
-    "updated_at": 1784563304
+    "updated_at": 1784574187
   },
   {
     "id": 108553,
@@ -28840,6 +28840,31 @@
     "updated_at": 1784477949
   },
   {
+    "id": 21779,
+    "id_mal": 33130,
+    "url": "https://anilist.co/anime/21779",
+    "title": {
+      "english": "",
+      "romaji": "Naze Ikiru: Rennyo Shounin to Yoshizaki Enjou",
+      "native": "なぜ生きる─蓮如上人と吉崎炎上─"
+    },
+    "description": "The story centers around Ryōken, a young man who lamented his misfortune and despised temples and monks. He had placed all his hope on his unborn child, but an unfortunate incident took everything away from him. In his time of despair and suffering in the dark, Ryōken came across the preachings of the holy priest Rennyo. They tell the answer to \"why we live,\" as revealed by the monk Shinran. Finding new meaning, Ryōken becomes Rennyo's apprentice. Angry at the increase of followers at Honnōdera, the other Buddhist sects chase Rennyo and Ryōken out of Kyoto. Seeking a new place of worship, the two arrive in Yoshizaki (Fukui) in the Hokuriku region.\n<br><br>\n(Source: Anime News Network)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21779-TO1Vww3APGOx.jpg",
+    "banner_url": "",
+    "schedule": "Musim: SPRING 2016",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "SPRING",
+    "year": 2016,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 83,
+    "status": "FINISHED",
+    "score": null,
+    "genres": [],
+    "updated_at": 1784574187
+  },
+  {
     "id": 21771,
     "id_mal": 33190,
     "url": "https://anilist.co/anime/21771",
@@ -28866,7 +28891,7 @@
       "Fantasy",
       "Sci-Fi"
     ],
-    "updated_at": 1784477979
+    "updated_at": 1784574187
   },
   {
     "id": 21770,
@@ -30822,7 +30847,7 @@
       "Slice of Life",
       "Supernatural"
     ],
-    "updated_at": 1784556649
+    "updated_at": 1784574187
   },
   {
     "id": 20990,
@@ -31670,7 +31695,7 @@
       "Romance",
       "Sci-Fi"
     ],
-    "updated_at": 1784563304
+    "updated_at": 1784574187
   },
   {
     "id": 20737,
@@ -31734,7 +31759,7 @@
       "Sci-Fi",
       "Supernatural"
     ],
-    "updated_at": 1784502186
+    "updated_at": 1784574187
   },
   {
     "id": 20709,
@@ -32162,7 +32187,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784556649
+    "updated_at": 1784574187
   },
   {
     "id": 20514,
@@ -33539,7 +33564,7 @@
       "Mecha",
       "Sci-Fi"
     ],
-    "updated_at": 1784520159
+    "updated_at": 1784574187
   },
   {
     "id": 17721,
@@ -33567,6 +33592,35 @@
       "Drama"
     ],
     "updated_at": 1784329393
+  },
+  {
+    "id": 17699,
+    "id_mal": 17699,
+    "url": "https://anilist.co/anime/17699",
+    "title": {
+      "english": "Toriko the Movie: Secret Recipe of Gourmet God!",
+      "romaji": "Toriko Movie: Bishokushin no Special Menu",
+      "native": "劇場版トリコ 美食神の超食宝 (スペシャル・メニュー)"
+    },
+    "description": "In a world where the most delicious ingredients come from dangerous lands and deadly beasts, only the strongest and bravest can be true gourmands. Toriko is a Gourmet Hunter, a mighty warrior with Gourmet Cells. These can be implanted into humans, and those who successfully intergrate them see rapid enhancement of their particular traits, alowing them to gain superhuman abilities. Together with his chef partner Komatsu, he seeks out the world’s most delicious foods! Their latest mission is to investigate a mysterious biotope said to house a special recipe left there by the world’s most legendary hunter, Acacia. But a mysterious and deadly hunter named Girim interrupts, declaring that he will find Acacia’s legacy and keep it for himself! When his power proves too overwhelming even for Toriko, allies and enemies alike must work together, to stop Girim before it’s too late!<br>\n<br>\n(Source: Amazon.com)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/n17699-AemUkaxHWeiq.jpg",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/n17699-1ZGLVyZQrw00.jpg",
+    "schedule": "Musim: SUMMER 2013",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "SUMMER",
+    "year": 2013,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 81,
+    "status": "FINISHED",
+    "score": 66,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "updated_at": 1784574187
   },
   {
     "id": 17677,
@@ -33597,7 +33651,7 @@
       "Romance",
       "Sci-Fi"
     ],
-    "updated_at": 1784350916
+    "updated_at": 1784574187
   },
   {
     "id": 17673,
@@ -34131,7 +34185,7 @@
       "Action",
       "Supernatural"
     ],
-    "updated_at": 1784440942
+    "updated_at": 1784574187
   },
   {
     "id": 16870,
@@ -34672,7 +34726,7 @@
     "genres": [
       "Mahou Shoujo"
     ],
-    "updated_at": 1784484215
+    "updated_at": 1784574270
   },
   {
     "id": 16434,
@@ -34700,7 +34754,7 @@
       "Drama",
       "Romance"
     ],
-    "updated_at": 1784484216
+    "updated_at": 1784574271
   },
   {
     "id": 16399,
@@ -34755,7 +34809,7 @@
     "genres": [
       "Fantasy"
     ],
-    "updated_at": 1784397780
+    "updated_at": 1784574287
   },
   {
     "id": 16233,
@@ -34841,7 +34895,7 @@
       "Romance",
       "Sports"
     ],
-    "updated_at": 1784484276
+    "updated_at": 1784574300
   },
   {
     "id": 15925,
@@ -34868,7 +34922,7 @@
     "genres": [
       "Comedy"
     ],
-    "updated_at": 1784570509
+    "updated_at": 1784574354
   },
   {
     "id": 15813,
@@ -34896,7 +34950,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784309449
+    "updated_at": 1784574359
   },
   {
     "id": 15785,
@@ -34927,7 +34981,7 @@
       "Sports",
       "Supernatural"
     ],
-    "updated_at": 1784484338
+    "updated_at": 1784574376
   },
   {
     "id": 15771,
@@ -34956,7 +35010,7 @@
       "Slice of Life",
       "Supernatural"
     ],
-    "updated_at": 1784484340
+    "updated_at": 1784574377
   },
   {
     "id": 15399,
@@ -35068,7 +35122,7 @@
       "Comedy",
       "Sci-Fi"
     ],
-    "updated_at": 1784549491
+    "updated_at": 1784574409
   },
   {
     "id": 15307,
@@ -35124,7 +35178,7 @@
       "Drama",
       "Slice of Life"
     ],
-    "updated_at": 1784570502
+    "updated_at": 1784574414
   },
   {
     "id": 15201,
@@ -35153,7 +35207,7 @@
       "Mecha",
       "Sci-Fi"
     ],
-    "updated_at": 1784502186
+    "updated_at": 1784574417
   },
   {
     "id": 15199,
@@ -35182,7 +35236,7 @@
       "Mecha",
       "Sci-Fi"
     ],
-    "updated_at": 1784502186
+    "updated_at": 1784574418
   },
   {
     "id": 15197,
@@ -35211,7 +35265,7 @@
       "Mecha",
       "Sci-Fi"
     ],
-    "updated_at": 1784498548
+    "updated_at": 1784574431
   },
   {
     "id": 15177,
@@ -35356,7 +35410,7 @@
       "Slice of Life",
       "Supernatural"
     ],
-    "updated_at": 1784484432
+    "updated_at": 1784574448
   },
   {
     "id": 14947,
@@ -35414,7 +35468,7 @@
       "Comedy",
       "Sci-Fi"
     ],
-    "updated_at": 1784484450
+    "updated_at": 1784574488
   },
   {
     "id": 14821,
@@ -35468,7 +35522,7 @@
     "genres": [
       "Sci-Fi"
     ],
-    "updated_at": 1784484461
+    "updated_at": 1784574493
   },
   {
     "id": 14807,
@@ -35497,7 +35551,7 @@
       "Mystery",
       "Supernatural"
     ],
-    "updated_at": 1784484481
+    "updated_at": 1784574506
   },
   {
     "id": 14735,
@@ -35526,7 +35580,7 @@
       "Comedy",
       "Mystery"
     ],
-    "updated_at": 1784570509
+    "updated_at": 1784574534
   },
   {
     "id": 14669,
@@ -35555,7 +35609,7 @@
       "Drama",
       "Romance"
     ],
-    "updated_at": 1784570509
+    "updated_at": 1784574559
   },
   {
     "id": 14629,
@@ -35583,7 +35637,7 @@
       "Action",
       "Sci-Fi"
     ],
-    "updated_at": 1784484543
+    "updated_at": 1784574563
   },
   {
     "id": 14407,
@@ -35615,7 +35669,7 @@
       "Sci-Fi",
       "Supernatural"
     ],
-    "updated_at": 1784498548
+    "updated_at": 1784574591
   },
   {
     "id": 14381,
@@ -35672,7 +35726,7 @@
       "Psychological",
       "Thriller"
     ],
-    "updated_at": 1784502186
+    "updated_at": 1784574596
   },
   {
     "id": 14349,
@@ -35700,7 +35754,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784549501
+    "updated_at": 1784574603
   },
   {
     "id": 14347,
@@ -35728,7 +35782,7 @@
       "Action",
       "Drama"
     ],
-    "updated_at": 1784484585
+    "updated_at": 1784574603
   },
   {
     "id": 14293,
@@ -35756,7 +35810,7 @@
       "Romance",
       "Sci-Fi"
     ],
-    "updated_at": 1784484595
+    "updated_at": 1784574609
   },
   {
     "id": 14267,
@@ -35787,7 +35841,7 @@
       "Sci-Fi",
       "Supernatural"
     ],
-    "updated_at": 1784484605
+    "updated_at": 1784574614
   },
   {
     "id": 14249,
@@ -35814,7 +35868,7 @@
     "genres": [
       "Adventure"
     ],
-    "updated_at": 1784398148
+    "updated_at": 1784574614
   },
   {
     "id": 14183,
@@ -35842,7 +35896,7 @@
       "Drama",
       "Sports"
     ],
-    "updated_at": 1784398177
+    "updated_at": 1784574627
   },
   {
     "id": 14175,
@@ -35871,7 +35925,7 @@
       "Drama",
       "Slice of Life"
     ],
-    "updated_at": 1784484621
+    "updated_at": 1784574636
   },
   {
     "id": 13971,
@@ -35925,7 +35979,7 @@
     "genres": [
       "Fantasy"
     ],
-    "updated_at": 1784484641
+    "updated_at": 1784574648
   },
   {
     "id": 13863,
@@ -36039,7 +36093,7 @@
     "genres": [
       "Action"
     ],
-    "updated_at": 1784484678
+    "updated_at": 1784574666
   },
   {
     "id": 13667,
@@ -36067,7 +36121,7 @@
       "Action",
       "Adventure"
     ],
-    "updated_at": 1784556649
+    "updated_at": 1784574672
   },
   {
     "id": 13513,
@@ -36204,7 +36258,7 @@
       "Mecha",
       "Sci-Fi"
     ],
-    "updated_at": 1784530892
+    "updated_at": 1784574722
   },
   {
     "id": 13365,
@@ -36289,7 +36343,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784549448
+    "updated_at": 1784574786
   },
   {
     "id": 13239,
@@ -36318,7 +36372,7 @@
       "Adventure",
       "Sci-Fi"
     ],
-    "updated_at": 1784484807
+    "updated_at": 1784574789
   },
   {
     "id": 13215,
@@ -36347,7 +36401,7 @@
       "Fantasy",
       "Slice of Life"
     ],
-    "updated_at": 1784484809
+    "updated_at": 1784574791
   },
   {
     "id": 13175,
@@ -36374,7 +36428,7 @@
     "genres": [
       "Drama"
     ],
-    "updated_at": 1784484815
+    "updated_at": 1784574794
   },
   {
     "id": 13173,
@@ -36401,7 +36455,7 @@
     "genres": [
       "Slice of Life"
     ],
-    "updated_at": 1784484815
+    "updated_at": 1784574794
   },
   {
     "id": 13171,
@@ -36428,7 +36482,7 @@
     "genres": [
       "Supernatural"
     ],
-    "updated_at": 1784563296
+    "updated_at": 1784574795
   },
   {
     "id": 13169,
@@ -36451,13 +36505,13 @@
     "episodes": 1,
     "duration": 25,
     "status": "FINISHED",
-    "score": 60,
+    "score": 61,
     "genres": [
       "Action",
       "Adventure",
       "Comedy"
     ],
-    "updated_at": 1784484816
+    "updated_at": 1784574797
   },
   {
     "id": 13119,
@@ -36486,7 +36540,7 @@
       "Drama",
       "Supernatural"
     ],
-    "updated_at": 1784502186
+    "updated_at": 1784575815
   },
   {
     "id": 13117,
@@ -36515,7 +36569,7 @@
       "Drama",
       "Supernatural"
     ],
-    "updated_at": 1784494957
+    "updated_at": 1784575817
   },
   {
     "id": 13091,
@@ -36624,7 +36678,7 @@
     "genres": [
       "Drama"
     ],
-    "updated_at": 1784484848
+    "updated_at": 1784575942
   },
   {
     "id": 12867,
@@ -36651,7 +36705,7 @@
     "genres": [
       "Drama"
     ],
-    "updated_at": 1784484860
+    "updated_at": 1784575978
   },
   {
     "id": 12861,
@@ -36708,7 +36762,7 @@
       "Comedy",
       "Drama"
     ],
-    "updated_at": 1784556649
+    "updated_at": 1784575989
   },
   {
     "id": 12857,
@@ -36736,7 +36790,7 @@
       "Action",
       "Mecha"
     ],
-    "updated_at": 1784484867
+    "updated_at": 1784575989
   },
   {
     "id": 12851,
@@ -36822,7 +36876,7 @@
       "Drama",
       "Fantasy"
     ],
-    "updated_at": 1784398836
+    "updated_at": 1784575994
   },
   {
     "id": 12783,
@@ -36853,7 +36907,7 @@
       "Sci-Fi",
       "Supernatural"
     ],
-    "updated_at": 1784484882
+    "updated_at": 1784575997
   },
   {
     "id": 12745,
@@ -36882,7 +36936,7 @@
       "Drama",
       "Sports"
     ],
-    "updated_at": 1784309888
+    "updated_at": 1784576000
   },
   {
     "id": 12723,
@@ -37054,7 +37108,7 @@
       "Romance",
       "Sci-Fi"
     ],
-    "updated_at": 1784485079
+    "updated_at": 1784576056
   },
   {
     "id": 12355,
@@ -37084,7 +37138,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784485143
+    "updated_at": 1784576083
   },
   {
     "id": 12295,
@@ -37221,13 +37275,13 @@
     "episodes": 1,
     "duration": 71,
     "status": "FINISHED",
-    "score": 69,
+    "score": 70,
     "genres": [
       "Action",
       "Fantasy",
       "Mahou Shoujo"
     ],
-    "updated_at": 1784485164
+    "updated_at": 1784576091
   },
   {
     "id": 12163,
@@ -37284,7 +37338,7 @@
       "Comedy",
       "Mystery"
     ],
-    "updated_at": 1784570509
+    "updated_at": 1784576105
   },
   {
     "id": 12115,
@@ -37316,7 +37370,7 @@
       "Horror",
       "Supernatural"
     ],
-    "updated_at": 1784520159
+    "updated_at": 1784576106
   },
   {
     "id": 12113,
@@ -37348,7 +37402,7 @@
       "Horror",
       "Supernatural"
     ],
-    "updated_at": 1784485205
+    "updated_at": 1784576120
   },
   {
     "id": 12053,
@@ -37377,7 +37431,7 @@
       "Psychological",
       "Sci-Fi"
     ],
-    "updated_at": 1784498548
+    "updated_at": 1784576123
   },
   {
     "id": 12049,
@@ -37407,7 +37461,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784570509
+    "updated_at": 1784576124
   },
   {
     "id": 12035,
@@ -37465,7 +37519,7 @@
       "Comedy",
       "Mystery"
     ],
-    "updated_at": 1784485235
+    "updated_at": 1784576127
   },
   {
     "id": 12015,
@@ -37494,7 +37548,7 @@
       "Comedy",
       "Mystery"
     ],
-    "updated_at": 1784485235
+    "updated_at": 1784576127
   },
   {
     "id": 12001,
@@ -37584,7 +37638,7 @@
       "Psychological",
       "Thriller"
     ],
-    "updated_at": 1784485260
+    "updated_at": 1784576130
   },
   {
     "id": 11979,
@@ -37616,7 +37670,7 @@
       "Psychological",
       "Thriller"
     ],
-    "updated_at": 1784485267
+    "updated_at": 1784576131
   },
   {
     "id": 11977,
@@ -37648,7 +37702,7 @@
       "Psychological",
       "Thriller"
     ],
-    "updated_at": 1784485272
+    "updated_at": 1784576132
   },
   {
     "id": 11791,
@@ -37705,7 +37759,7 @@
       "Mecha",
       "Sci-Fi"
     ],
-    "updated_at": 1784485641
+    "updated_at": 1784576282
   },
   {
     "id": 11743,
@@ -37734,7 +37788,7 @@
       "Music",
       "Sci-Fi"
     ],
-    "updated_at": 1784485646
+    "updated_at": 1784576299
   },
   {
     "id": 11737,
@@ -37763,7 +37817,7 @@
       "Fantasy",
       "Supernatural"
     ],
-    "updated_at": 1784485675
+    "updated_at": 1784576325
   },
   {
     "id": 11705,
@@ -37791,7 +37845,7 @@
       "Action",
       "Fantasy"
     ],
-    "updated_at": 1784485676
+    "updated_at": 1784576327
   },
   {
     "id": 11693,
@@ -37929,7 +37983,7 @@
       "Action",
       "Sci-Fi"
     ],
-    "updated_at": 1784485689
+    "updated_at": 1784576338
   },
   {
     "id": 11577,
@@ -37959,7 +38013,7 @@
       "Sci-Fi",
       "Thriller"
     ],
-    "updated_at": 1784498548
+    "updated_at": 1784576372
   },
   {
     "id": 11569,
@@ -38043,7 +38097,7 @@
       "Mystery",
       "Supernatural"
     ],
-    "updated_at": 1784485730
+    "updated_at": 1784576398
   },
   {
     "id": 11447,
@@ -38100,7 +38154,7 @@
       "Fantasy",
       "Mystery"
     ],
-    "updated_at": 1784485749
+    "updated_at": 1784576413
   },
   {
     "id": 11269,
@@ -38158,7 +38212,35 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784570509
+    "updated_at": 1784576597
+  },
+  {
+    "id": 11049,
+    "id_mal": 11049,
+    "url": "https://anilist.co/anime/11049",
+    "title": {
+      "english": "",
+      "romaji": "Shin Maple Town Monogatari: Palm Town-hen - Konnichiwa! Atarashii Machi",
+      "native": "新メイプルタウン物語 パームタウン編 こんにちは! 新しい町"
+    },
+    "description": "An extended version of the first episode of the TV series.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b11049-lU6PF3kQOaKR.jpg",
+    "banner_url": "",
+    "schedule": "Musim: SPRING 1987",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "SPRING",
+    "year": 1987,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 30,
+    "status": "FINISHED",
+    "score": 48,
+    "genres": [
+      "Fantasy",
+      "Slice of Life"
+    ],
+    "updated_at": 1784576597
   },
   {
     "id": 11001,
@@ -38215,7 +38297,7 @@
       "Sports",
       "Supernatural"
     ],
-    "updated_at": 1784485929
+    "updated_at": 1784576608
   },
   {
     "id": 10918,
@@ -38245,7 +38327,7 @@
       "Sci-Fi",
       "Slice of Life"
     ],
-    "updated_at": 1784485935
+    "updated_at": 1784576643
   },
   {
     "id": 10904,
@@ -38330,7 +38412,7 @@
       "Mecha",
       "Sci-Fi"
     ],
-    "updated_at": 1784570509
+    "updated_at": 1784576659
   },
   {
     "id": 10740,
@@ -38360,7 +38442,152 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784268121
+    "updated_at": 1784576696
+  },
+  {
+    "id": 10731,
+    "id_mal": 10731,
+    "url": "https://anilist.co/anime/10731",
+    "title": {
+      "english": "",
+      "romaji": "Tennis no Ouji-sama: Eikokushiki Teikyuu Shiro Kessen!",
+      "native": "劇場版テニスの王子様 英国式庭球城決戦！"
+    },
+    "description": "Seigaku travels to England to play a tournament representing Japan but they are attacked by a group of street tennis players who were banned from playing official tournaments because of their rough play. <br><br>\nNote: 10th Anniversary Movie of the Prince of Tennis anime.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx10731-ZaZ3e6St6RK2.jpg",
+    "banner_url": "",
+    "schedule": "Musim: SUMMER 2011",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "SUMMER",
+    "year": 2011,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 87,
+    "status": "FINISHED",
+    "score": 68,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Sports"
+    ],
+    "updated_at": 1784576698
+  },
+  {
+    "id": 10723,
+    "id_mal": 10723,
+    "url": "https://anilist.co/anime/10723",
+    "title": {
+      "english": "",
+      "romaji": "So-jjoong-han Nam-eui Ggoom",
+      "native": "소중한 날의 꿈"
+    },
+    "description": "Not wanting to lose, Yi-rang orchestrates a collapse in the middle of a relay race even though she's on the verge of giving up her dream of becoming an athlete. At the same time, Soo-min transfers in from Seoul and Cheol-soo, who dreams of becoming a scientist, come into her life. They are all immature but they are in the midst of youthful aspiration.<br><br>\nWith this warm-hearted animation, Han Hye-jin-I and Ahn Jae-hoon encourage Yi-rang's dreams and portray the fantasy and flutter of adolescence through encounters with good people. Set in the '80s and '90s, an old umbrella and a railroad crossing the downtown in the film is the stuff that reminds us of our lost past, evoking a reminiscence in the audience of that which is vanished.<br><br>\nIt is a way of evoking the real \"dreams\" that we have lost in this modern society where a rapid capitalization is progressing.<br><br>\n(Source: Hancinema)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/10723.jpg",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/10723-65YEboTbK8T1.jpg",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 100,
+    "status": "FINISHED",
+    "score": 54,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "updated_at": 1784576698
+  },
+  {
+    "id": 10717,
+    "id_mal": 10717,
+    "url": "https://anilist.co/anime/10717",
+    "title": {
+      "english": "Towanoquon: Eternal Quon",
+      "romaji": "Towa no Quon 6: Towa no Quon",
+      "native": "トワノクオン 第６章 永久の久遠"
+    },
+    "description": "In a futuristic Tokyo, humans who have awakened distinct powers are being hunted by a secret organization named Kestos. Denominated as Attracters, these exceptional individuals are joining forces to defend themselves. They are led by an idealist named Quon who is determined to save all Attracters he can. (source: Anime News Network)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/10717.jpg",
+    "banner_url": "",
+    "schedule": "Musim: FALL 2011",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "FALL",
+    "year": 2011,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 48,
+    "status": "FINISHED",
+    "score": 72,
+    "genres": [
+      "Action",
+      "Sci-Fi",
+      "Supernatural"
+    ],
+    "updated_at": 1784576713
+  },
+  {
+    "id": 10716,
+    "id_mal": 10716,
+    "url": "https://anilist.co/anime/10716",
+    "title": {
+      "english": "Towanoquon: The Return of the Invincible",
+      "romaji": "Towa no Quon 5: Souzetsu no Raifuku",
+      "native": "トワノクオン 第５章 双絶の来復"
+    },
+    "description": "With their home in jeopardy, some feel it is time to abandon the gardens. A new character steps in, one that Quon knows very well. The end is near, the players are set, and the final battle is about to begin!",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/10716.jpg",
+    "banner_url": "",
+    "schedule": "Musim: FALL 2011",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "FALL",
+    "year": 2011,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 48,
+    "status": "FINISHED",
+    "score": 71,
+    "genres": [
+      "Action",
+      "Sci-Fi",
+      "Supernatural"
+    ],
+    "updated_at": 1784576717
+  },
+  {
+    "id": 10715,
+    "id_mal": 10715,
+    "url": "https://anilist.co/anime/10715",
+    "title": {
+      "english": "Towanoquon: The Roaring Anxiety",
+      "romaji": "Towa no Quon 4: Guren no Shoushin",
+      "native": "トワノクオン 第４章 紅蓮の焦心"
+    },
+    "description": "The secret is out, and the Attractor's sanctuary has been revealed to the enemy. With Quon badly hurt, it's up to the rest to defend their homes, their lives, and their freedom.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/10715.jpg",
+    "banner_url": "",
+    "schedule": "Musim: FALL 2011",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "FALL",
+    "year": 2011,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 48,
+    "status": "FINISHED",
+    "score": 71,
+    "genres": [
+      "Action",
+      "Sci-Fi",
+      "Supernatural"
+    ],
+    "updated_at": 1784576717
   },
   {
     "id": 10714,
@@ -38390,7 +38617,152 @@
       "Sci-Fi",
       "Supernatural"
     ],
-    "updated_at": 1784494957
+    "updated_at": 1784576720
+  },
+  {
+    "id": 10713,
+    "id_mal": 10713,
+    "url": "https://anilist.co/anime/10713",
+    "title": {
+      "english": "Towanoquon: Dancing Orchid in Chaos",
+      "romaji": "Towa no Quon 2: Konton no Ranbu",
+      "native": "トワノクオン 第２章 混沌の乱舞"
+    },
+    "description": "Flower drawings are being found near murder victims around the city, leading investigators to assume that the flowers depicted are used to drug the victims. Meanwhile, a new Attractor appears with the ability to talk to plants.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/10713.jpg",
+    "banner_url": "",
+    "schedule": "Musim: SUMMER 2011",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "SUMMER",
+    "year": 2011,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 48,
+    "status": "FINISHED",
+    "score": 69,
+    "genres": [
+      "Action",
+      "Mystery",
+      "Sci-Fi",
+      "Supernatural"
+    ],
+    "updated_at": 1784576721
+  },
+  {
+    "id": 10693,
+    "id_mal": 10693,
+    "url": "https://anilist.co/anime/10693",
+    "title": {
+      "english": "Appleseed XIII: Ouranos",
+      "romaji": "APPLESEED XIII Remix Movie: Yogen",
+      "native": "劇場リミックス版 APPLESEED XIII ～予言～"
+    },
+    "description": "In the wake of the destruction of a worldwide non-nuclear war, the city Olympus has become the control center of the world. Run by Bioroids (cloned humans made from only the best DNA), it is defended from terrorists by special military forces. Among these are former LAPD SWAT member Deunan Knotts and her multipurpose cyborg partner Brialeos. They face a challenge from the Human Liberation Front and its terrorist underbelly the Argonauts. The leader of this group, Al Ceides, supposedly died 20 years ago in an attack on Poseidon, but now his shadow emerges once again.<br><br>\n(Source: Aniworlds)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/10693.jpg",
+    "banner_url": "",
+    "schedule": "Musim: FALL 2011",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "FALL",
+    "year": 2011,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 85,
+    "status": "FINISHED",
+    "score": 53,
+    "genres": [
+      "Action",
+      "Mecha",
+      "Sci-Fi"
+    ],
+    "updated_at": 1784576726
+  },
+  {
+    "id": 10689,
+    "id_mal": 10689,
+    "url": "https://anilist.co/anime/10689",
+    "title": {
+      "english": "Appleseed XIII: Tartaros",
+      "romaji": "APPLESEED XIII Remix Movie: Yuigon",
+      "native": "劇場リミックス版 APPLESEED XIII ～遺言～"
+    },
+    "description": "This is a remix, theatrical release of the first half of the Appleseed XIII series.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/10689.jpg",
+    "banner_url": "",
+    "schedule": "Musim: SUMMER 2011",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "SUMMER",
+    "year": 2011,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 85,
+    "status": "FINISHED",
+    "score": 52,
+    "genres": [
+      "Action",
+      "Mecha",
+      "Sci-Fi"
+    ],
+    "updated_at": 1784576726
+  },
+  {
+    "id": 10688,
+    "id_mal": 10688,
+    "url": "https://anilist.co/anime/10688",
+    "title": {
+      "english": "Muybridge's Strings",
+      "romaji": "Muybridge no Ito",
+      "native": "マイブリッジの糸"
+    },
+    "description": "The destiny of photographer Eadweard Muybridge and that of a Japanese mother clash poetically in this exploration of the irrepressible human desire to make time stand still.<br><br>\n(Source: AniDB)\n\nCo-production from NHK and the National Film Board of Canada.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/10688.jpg",
+    "banner_url": "",
+    "schedule": "Musim: SPRING 2011",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "SPRING",
+    "year": 2011,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 13,
+    "status": "FINISHED",
+    "score": 57,
+    "genres": [
+      "Drama"
+    ],
+    "updated_at": 1784576727
+  },
+  {
+    "id": 10687,
+    "id_mal": 10687,
+    "url": "https://anilist.co/anime/10687",
+    "title": {
+      "english": "",
+      "romaji": "Saint Seiya: LEGEND of SANCTUARY",
+      "native": "聖闘士星矢 LEGEND of SANCTUARY"
+    },
+    "description": "A CG anime to commemorate the 25th anniversary of the series and the 40th anniversary of its mangaka.\n\nFrom the dawn of time, there have been warriors who protected the Goddess Athena. Once forces of evil appear, these warriors, called the Saints will present themselves. \n\nA young woman, Saori Kido, learns about this force known as \"Cosmos\" and that she is the reincarnation of Athena, protector of love and peace on Earth. However, the Pope of the Sanctuary, who is in the charge of all the Saints, does not take kindly to Saori, and targets her for usurping the identity of Athena. An assassin is sent out to kill her. Fortunately, one of the Bronze Saints, Seiya, manages to protect her. But will Seiya be able to protect Saori through to the end in the gripping saga of Saint Seiya: Legend of Sanctuary?",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx10687-iDNjbDXrZQ2U.png",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/10687-FTzLIQSolcQF.jpg",
+    "schedule": "Musim: SUMMER 2014",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "SUMMER",
+    "year": 2014,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 92,
+    "status": "FINISHED",
+    "score": 57,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy",
+      "Sci-Fi"
+    ],
+    "updated_at": 1784576729
   },
   {
     "id": 10686,
@@ -38418,7 +38790,7 @@
       "Action",
       "Adventure"
     ],
-    "updated_at": 1784570509
+    "updated_at": 1784576746
   },
   {
     "id": 10681,
@@ -38441,13 +38813,68 @@
     "episodes": 1,
     "duration": 110,
     "status": "FINISHED",
-    "score": 68,
+    "score": 69,
     "genres": [
       "Action",
       "Horror",
       "Supernatural"
     ],
-    "updated_at": 1784520159
+    "updated_at": 1784576759
+  },
+  {
+    "id": 10639,
+    "id_mal": 10639,
+    "url": "https://anilist.co/anime/10639",
+    "title": {
+      "english": "",
+      "romaji": "ZAN",
+      "native": "斬 -ZAN-"
+    },
+    "description": "During Japan’s Warring States period, the warrior ZAN was locked in a fierce battle at Azuchi Castle. Guided by the mysterious voice of a young girl, he steps beyond time and space into another world—a realm where he must face powerful rivals and monstrous beings known as Tropes. RIKKA, the ruler who commands the Tropes—the very symbols of life—maintains the world’s order. Questioning the justice behind his own battles, ZAN embarks on a journey to uncover the truth, joined by Panther, a mechanical lifeform, and Uzume, the enigmatic girl who called out to him.<br><br>\n\n(Source: Official Website)\n<br><br>\n<i>Notes:<br>\n- Announced in 2010 for a worldwide release in the spring of 2012. Despite a projected 2012 release date, Amano stated in an Oct 2012 interview that the project was still in its funding and development stages, and may instead be realised as a TV series down the road.<br> \n- In 2022, they announced that the theatrical had instead been rebooted as a series, then in 2026, it was again changed and instead listed as a theatrical to be released in 2026 or later.</i>",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/10639.jpg",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Action",
+      "Fantasy"
+    ],
+    "updated_at": 1784576762
+  },
+  {
+    "id": 10629,
+    "id_mal": 10629,
+    "url": "https://anilist.co/anime/10629",
+    "title": {
+      "english": "The Tibetan Dog",
+      "romaji": "Tibet Inu Monogatari: Kiniro no Douji",
+      "native": "チベット犬物語 〜金色のドージェ〜"
+    },
+    "description": "Life hasn't been easy for young Tianjing since his mother passed away. Forced to leave the city and move to the grasslands of Tibet where his father is the only doctor for a remote community, Tianjing finds himself becoming even more isolated as he works the lonely job of a shepherd.<br>\n<br>\nIt's a dangerous task as well. Wolves, packs of wild dogs and other animals prowl the countryside… something that Tianjing discovers all too soon. Fortunately, he also finds a protector and friend in a stray golden mastiff that comes to his aide. When a new menace comes to terrorize the community, both human and canine will have to protect each other. Standing against the savagery of nature and the cruelty of men, this is the story of a boy and his Tibetan Dog.<br>\n<br>\n(Source: Maiden Japan)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx10629-uOKcQVaD8PtZ.jpg",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/10629-Iz1opX9ahswx.jpg",
+    "schedule": "Musim: SUMMER 2011",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "SUMMER",
+    "year": 2011,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 87,
+    "status": "FINISHED",
+    "score": 65,
+    "genres": [
+      "Adventure"
+    ],
+    "updated_at": 1784576763
   },
   {
     "id": 10627,
@@ -38504,7 +38931,7 @@
       "Psychological",
       "Sci-Fi"
     ],
-    "updated_at": 1784498548
+    "updated_at": 1784576764
   },
   {
     "id": 10589,
@@ -38533,7 +38960,7 @@
       "Adventure",
       "Mystery"
     ],
-    "updated_at": 1784549456
+    "updated_at": 1784576800
   },
   {
     "id": 10563,
@@ -38562,7 +38989,7 @@
       "Drama",
       "Sports"
     ],
-    "updated_at": 1784530893
+    "updated_at": 1784576832
   },
   {
     "id": 10534,
@@ -38589,7 +39016,35 @@
     "genres": [
       "Comedy"
     ],
-    "updated_at": 1784570509
+    "updated_at": 1784576841
+  },
+  {
+    "id": 10502,
+    "id_mal": 10502,
+    "url": "https://anilist.co/anime/10502",
+    "title": {
+      "english": "Drawer Hobs",
+      "romaji": "Tansu Warashi.",
+      "native": "たんすわらし。"
+    },
+    "description": "The mother of a OL (office lady) sends her an old dresser. The thing is much too big for her small apartment and she doesn't know what to do with it.<br>\n<br>\nOne night she falls asleep after having a few drinks and wakes up after hearing strange sounds. She sees a child's figure by the table taking some rice crackers...<br>\n<br>\nThe OL's life with six spirit children begins.<br>\n<br>\nThe Agency of Cultural Affairs of Japan invested 214 million yen ($2.26 million) in \"Young Animator Training Project\" and entrusted the execution of the project to Japan Animation Creators Association (JaniCA). JaniCA produced four original anime (23 min long with OP and ED sequences) in cooperation with four production studios. Tansu Warashi. was one of these four projects.\n",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b10502-d8LcMpEBrdTJ.jpg",
+    "banner_url": "",
+    "schedule": "Musim: WINTER 2011",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "WINTER",
+    "year": 2011,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 24,
+    "status": "FINISHED",
+    "score": 63,
+    "genres": [
+      "Comedy",
+      "Supernatural"
+    ],
+    "updated_at": 1784576854
   },
   {
     "id": 10500,
@@ -38616,7 +39071,35 @@
     "genres": [
       "Drama"
     ],
-    "updated_at": 1784484185
+    "updated_at": 1784576854
+  },
+  {
+    "id": 10448,
+    "id_mal": 10448,
+    "url": "https://anilist.co/anime/10448",
+    "title": {
+      "english": "",
+      "romaji": "rain town",
+      "native": "rain town"
+    },
+    "description": "Hiroyasu Ishida's graduation project at Kyoto Seika University.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx10448-cmU7jXA5ArTy.jpg",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/10448-4VdP1QPncJ0w.jpg",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 10,
+    "status": "FINISHED",
+    "score": 67,
+    "genres": [
+      "Drama",
+      "Sci-Fi"
+    ],
+    "updated_at": 1784576878
   },
   {
     "id": 10408,
@@ -38646,7 +39129,7 @@
       "Romance",
       "Supernatural"
     ],
-    "updated_at": 1784549468
+    "updated_at": 1784576899
   },
   {
     "id": 10389,
@@ -38674,7 +39157,34 @@
       "Drama",
       "Supernatural"
     ],
-    "updated_at": 1784350916
+    "updated_at": 1784576910
+  },
+  {
+    "id": 10313,
+    "id_mal": 10313,
+    "url": "https://anilist.co/anime/10313",
+    "title": {
+      "english": "",
+      "romaji": "Dallos Special",
+      "native": "ダロス Special"
+    },
+    "description": "Summary film of the original series.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b10313-hSVoi1doYKFx.jpg",
+    "banner_url": "",
+    "schedule": "Musim: SPRING 1985",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "SPRING",
+    "year": 1985,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 85,
+    "status": "FINISHED",
+    "score": 46,
+    "genres": [
+      "Fantasy"
+    ],
+    "updated_at": 1784576947
   },
   {
     "id": 10294,
@@ -38703,7 +39213,7 @@
       "Sci-Fi",
       "Supernatural"
     ],
-    "updated_at": 1784530893
+    "updated_at": 1784576951
   },
   {
     "id": 10261,
@@ -38760,7 +39270,7 @@
       "Romance",
       "Supernatural"
     ],
-    "updated_at": 1784484185
+    "updated_at": 1784576958
   },
   {
     "id": 10218,
@@ -38792,7 +39302,7 @@
       "Horror",
       "Supernatural"
     ],
-    "updated_at": 1784448140
+    "updated_at": 1784576964
   },
   {
     "id": 10153,
@@ -38822,7 +39332,7 @@
       "Mahou Shoujo",
       "Sci-Fi"
     ],
-    "updated_at": 1784462595
+    "updated_at": 1784576995
   },
   {
     "id": 10116,
@@ -38878,7 +39388,7 @@
       "Fantasy",
       "Mecha"
     ],
-    "updated_at": 1784498548
+    "updated_at": 1784577007
   },
   {
     "id": 10074,
@@ -38907,7 +39417,7 @@
       "Adventure",
       "Comedy"
     ],
-    "updated_at": 1784275323
+    "updated_at": 1784577030
   },
   {
     "id": 10055,
@@ -38955,13 +39465,40 @@
     "episodes": 1,
     "duration": 95,
     "status": "FINISHED",
-    "score": 75,
+    "score": 76,
     "genres": [
       "Drama",
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784406299
+    "updated_at": 1784577074
+  },
+  {
+    "id": 10016,
+    "id_mal": 10016,
+    "url": "https://anilist.co/anime/10016",
+    "title": {
+      "english": "",
+      "romaji": "Kizuna Ichigeki",
+      "native": "キズナ 一撃"
+    },
+    "description": "Kizuna Todoroki is a young girl who fights using the teachings of the Wadachi Ju-ken school. After winning a big tournament, the day still isn't over for the Kizuna's family.<br>\n<br>\nKizuna's family are visited by a woman journalist for an interview but are interrupted by a new group of challengers.<br>\n<br>\nThe Agency of Cultural Affairs of Japan invested 214 million yen ($2.26 million) in \"Young Animator Training Project\" and entrusted the execution of the project to Japan Animation Creators Association (JaniCA). JaniCA will produce four original anime (23 min long with OP and ED sequences) in cooperation with four production studios. Kizuna Ichigeki is one of these four projects.\n",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/10016.jpg",
+    "banner_url": "",
+    "schedule": "Musim: WINTER 2011",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "WINTER",
+    "year": 2011,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 25,
+    "status": "FINISHED",
+    "score": 62,
+    "genres": [
+      "Comedy"
+    ],
+    "updated_at": 1784577106
   },
   {
     "id": 10013,
@@ -39048,7 +39585,93 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784570507
+    "updated_at": 1784577117
+  },
+  {
+    "id": 9990,
+    "id_mal": 9990,
+    "url": "https://anilist.co/anime/9990",
+    "title": {
+      "english": "Midori-ko",
+      "romaji": "Midori-ko",
+      "native": "緑子"
+    },
+    "description": "One of the must-see gems making its premiere at our festival, Midori-Ko is adored Japanese animator Kurosaka Keita's whimsically nightmarish vision of 21st-century Tokyo on the brink of apocalypse. Ten years in the making and entirely, single-handedly rendered in colored pencil, Kurosaka's fantastical labor of love is a marvel to behold. Emerging from the staggering detail and craft flooding every frame is the story of a young woman who sets out to engineer a dream-food that can put an end to the world's famine. Synthesizing Frederic Back's subtle, haptic textures with Bill Plympton's frenetic mutations and David Lynch's haunting wormholes, Kurosaka&rsquo;s work still retains its own singular, luminous potency.<br><br>\n(Source: Los Angeles Animation Festival summary)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/n9990-i41qIhv35OXY.jpg",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 55,
+    "status": "FINISHED",
+    "score": 56,
+    "genres": [
+      "Drama"
+    ],
+    "updated_at": 1784577121
+  },
+  {
+    "id": 9979,
+    "id_mal": 9979,
+    "url": "https://anilist.co/anime/9979",
+    "title": {
+      "english": "",
+      "romaji": "Precure All Stars DX3: Mirai ni Todoke! Sekai wo Tsunagu☆Niji-iro no Hana",
+      "native": "プリキュアオールスターズDX3 未来に届け!世界をつなぐ☆虹色の花"
+    },
+    "description": "Precure 10th Anniversary Movie and 3rd Precure All Stars DX. Enemies are from all the Precure works.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx9979-Rw7Q0Xl2p97M.jpg",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/9979-CefKUAWUopXx.jpg",
+    "schedule": "Musim: WINTER 2011",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "WINTER",
+    "year": 2011,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 71,
+    "status": "FINISHED",
+    "score": 73,
+    "genres": [
+      "Action",
+      "Drama",
+      "Fantasy",
+      "Mahou Shoujo"
+    ],
+    "updated_at": 1784577152
+  },
+  {
+    "id": 9972,
+    "id_mal": 9972,
+    "url": "https://anilist.co/anime/9972",
+    "title": {
+      "english": "",
+      "romaji": "Document Taiyou no Kiba Dougram",
+      "native": "ドキュメント 太陽の牙ダグラム"
+    },
+    "description": "In the planet Deloyer, a colony of the Earth federation, Colonel Von Stein stages a coup d'etat on behalf of the Federation chairman Donan Cashim.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b9972-WadmmVpHCPC3.jpg",
+    "banner_url": "",
+    "schedule": "Musim: SUMMER 1983",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "SUMMER",
+    "year": 1983,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 80,
+    "status": "FINISHED",
+    "score": 50,
+    "genres": [
+      "Drama",
+      "Mecha",
+      "Sci-Fi"
+    ],
+    "updated_at": 1784577153
   },
   {
     "id": 9963,
@@ -39077,7 +39700,89 @@
       "Comedy",
       "Mystery"
     ],
-    "updated_at": 1784412185
+    "updated_at": 1784577159
+  },
+  {
+    "id": 9958,
+    "id_mal": 9958,
+    "url": "https://anilist.co/anime/9958",
+    "title": {
+      "english": "Hayate the Combat Butler: Heaven is a Place on Earth",
+      "romaji": "Hayate no Gotoku!: HEAVEN IS A PLACE ON EARTH",
+      "native": "劇場版 ハヤテのごとく! HEAVEN IS A PLACE ON EARTH"
+    },
+    "description": "It's no understatement to say that the stormy relationship between Nagi and her butler Hayate is often the result of the fact that they see things from entirely different social perspectives. However, when Nagi decides to bring Hayate, her maid Maria, and their friends to a secluded vacation retreat, our star-crossed couple soon find themselves seeing things from completely conflicting realities! In a bizarre turn of fate, Hayate finds himself in a world where his mistress is Maria, and Nagi no longer seems to exist! Meanwhile, Nagi is having her own problems, trapped in an amusement park of doom! What's going on and how does this relate to a mysterious silver-haired woman who seems to hold the key to everything?<br>\n<br>\n(Source: Sentai Filmworks)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx9958-TwG4LhdUXYe3.jpg",
+    "banner_url": "",
+    "schedule": "Musim: SUMMER 2011",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "SUMMER",
+    "year": 2011,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 69,
+    "status": "FINISHED",
+    "score": 68,
+    "genres": [
+      "Comedy"
+    ],
+    "updated_at": 1784577160
+  },
+  {
+    "id": 9951,
+    "id_mal": 9951,
+    "url": "https://anilist.co/anime/9951",
+    "title": {
+      "english": "A Deer of Nine Colors",
+      "romaji": "Jiu Se Lu",
+      "native": "九色鹿"
+    },
+    "description": "In ancient times, a Persian merchant gets lost in a windstorm. Suddenly a spiritual deer of nine colors appears to guide the man. Later on, the deer rescues a man drowning in a river. In exchange, the man promises not to reveal the deer's whereabouts. The man reaches an imperial palace. The king insists on hunting down the spiritual deer down to make clothes out of the deer skin. The man gives in to his greed and leads an army of warriors to the spot. He falls into the river again, hoping the deer will show up to rescue him. This time, all the warriors' arrows turn into dust and the man is drowned.<br><br>\n(Source: Wikipedia)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9951.jpg",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/9951-b1SqryPA0tls.jpg",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 26,
+    "status": "FINISHED",
+    "score": 53,
+    "genres": [
+      "Supernatural"
+    ],
+    "updated_at": 1784577161
+  },
+  {
+    "id": 9931,
+    "id_mal": 9931,
+    "url": "https://anilist.co/anime/9931",
+    "title": {
+      "english": "",
+      "romaji": "Happy Birthday, Inochi Kagayaku Toki",
+      "native": "ハッピーバースデー 命かがやく瞬間"
+    },
+    "description": "After being abused by her mother physically and mentally Asuka gets taken in by her grandparents. Slowly she learns her own worth as a human being and overcomes many obstacles.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9931-CcPzIcwanz33.png",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/9931-XwCtOvWiflTE.jpg",
+    "schedule": "Musim: SUMMER 1999",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "SUMMER",
+    "year": 1999,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 79,
+    "status": "FINISHED",
+    "score": 63,
+    "genres": [
+      "Drama",
+      "Slice of Life"
+    ],
+    "updated_at": 1784577169
   },
   {
     "id": 9917,
@@ -39107,7 +39812,61 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784570508
+    "updated_at": 1784577205
+  },
+  {
+    "id": 9895,
+    "id_mal": 9895,
+    "url": "https://anilist.co/anime/9895",
+    "title": {
+      "english": "",
+      "romaji": "The Bathroom",
+      "native": "ザ・バスルーム"
+    },
+    "description": "A surrealistic short from minimalist cartoonist Kuri Yoji.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9895.jpg",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 10,
+    "status": "FINISHED",
+    "score": 37,
+    "genres": [
+      "Comedy"
+    ],
+    "updated_at": 1784577207
+  },
+  {
+    "id": 9880,
+    "id_mal": 9880,
+    "url": "https://anilist.co/anime/9880",
+    "title": {
+      "english": "",
+      "romaji": "Esper Mami: Hoshizora no Dancing Doll",
+      "native": "エスパー魔美 星空のダンシングドール"
+    },
+    "description": "Schoolgirl Mami Sakura discovers that she has superpowers. She can sense other people in trouble and teleport to help them, but she keeps her secret double-life hidden from her parents with the help of her schoolfriend, Kazuo Takahata. In this short film, Mami uses her powers to make a puppet show for deprived children. <br><br>\n(Source: Anime Encyclopedia)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9880.jpg",
+    "banner_url": "",
+    "schedule": "Musim: SPRING 1988",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "SPRING",
+    "year": 1988,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 41,
+    "status": "FINISHED",
+    "score": 50,
+    "genres": [
+      "Fantasy"
+    ],
+    "updated_at": 1784577219
   },
   {
     "id": 9858,
@@ -39193,6 +39952,60 @@
     "updated_at": 1784368905
   },
   {
+    "id": 9796,
+    "id_mal": 9796,
+    "url": "https://anilist.co/anime/9796",
+    "title": {
+      "english": "",
+      "romaji": "3D Atashin'chi: Jounetsu no Chou Chounouryoku♪Haha Dai Bousou!",
+      "native": "3D あたしンち 情熱のちょ～超能力♪母大暴走!"
+    },
+    "description": "A 3D theatrical anime adaptation.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b9796-ISS0uBh5ifgE.png",
+    "banner_url": "",
+    "schedule": "Musim: FALL 2010",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "FALL",
+    "year": 2010,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 40,
+    "status": "FINISHED",
+    "score": 57,
+    "genres": [
+      "Comedy"
+    ],
+    "updated_at": 1784577229
+  },
+  {
+    "id": 9795,
+    "id_mal": 9795,
+    "url": "https://anilist.co/anime/9795",
+    "title": {
+      "english": "",
+      "romaji": "Atashin'chi Movie",
+      "native": "映画 あたしンち"
+    },
+    "description": "In a stormy night, Mikan and Mom were stricken by lightning simultaneously and switched bodies. In the following days, while Mom enjoyed being a student again, Mikan had to fought with house chores. Meanwhile, Yuzuhiko and Dad were busy looking for a way to switch them back.\n<br><br>\n(Source: Anime News Network)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b9795-ZdFGV5ILCOox.png",
+    "banner_url": "",
+    "schedule": "Musim: FALL 2003",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "FALL",
+    "year": 2003,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 95,
+    "status": "FINISHED",
+    "score": 55,
+    "genres": [
+      "Comedy"
+    ],
+    "updated_at": 1784577230
+  },
+  {
     "id": 9790,
     "id_mal": 9790,
     "url": "https://anilist.co/anime/9790",
@@ -39221,7 +40034,7 @@
       "Romance",
       "Sci-Fi"
     ],
-    "updated_at": 1784563304
+    "updated_at": 1784577231
   },
   {
     "id": 9789,
@@ -39277,7 +40090,7 @@
       "Comedy",
       "Mystery"
     ],
-    "updated_at": 1784473455
+    "updated_at": 1784577232
   },
   {
     "id": 9785,
@@ -39309,6 +40122,33 @@
     "updated_at": 1784390608
   },
   {
+    "id": 9773,
+    "id_mal": 9773,
+    "url": "https://anilist.co/anime/9773",
+    "title": {
+      "english": "",
+      "romaji": "Lady Lady!! (1988)",
+      "native": "レディレディ!! (1988)"
+    },
+    "description": "When Rin's mother dies, she makes the promise that some day she will become a Lady, and travels to England to meet the rest of the family. She is not very welcomed (specially at the start by her stepsister Sara), but after some time they are all a happy family. Rin (Lynn) is also very interested in horses and racing, and she wins a nice share of contests.<br><br>\nThis series is divided into two parts, first with Rin being really a child, and the second with her being around 13. <br><br>\n(Source: Anidb)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9773.jpg",
+    "banner_url": "",
+    "schedule": "Musim: SPRING 1988",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "SPRING",
+    "year": 1988,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 25,
+    "status": "FINISHED",
+    "score": 57,
+    "genres": [
+      "Drama"
+    ],
+    "updated_at": 1784577236
+  },
+  {
     "id": 9760,
     "id_mal": 9760,
     "url": "https://anilist.co/anime/9760",
@@ -39336,7 +40176,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784530893
+    "updated_at": 1784577243
   },
   {
     "id": 9751,
@@ -39365,7 +40205,7 @@
       "Ecchi",
       "Sci-Fi"
     ],
-    "updated_at": 1784498548
+    "updated_at": 1784577268
   },
   {
     "id": 9745,
@@ -39392,7 +40232,7 @@
     "genres": [
       "Action"
     ],
-    "updated_at": 1784484185
+    "updated_at": 1784577270
   },
   {
     "id": 9724,
@@ -39421,7 +40261,7 @@
       "Fantasy",
       "Mecha"
     ],
-    "updated_at": 1784494935
+    "updated_at": 1784577275
   },
   {
     "id": 9617,
@@ -39450,7 +40290,7 @@
       "Music",
       "Slice of Life"
     ],
-    "updated_at": 1784498548
+    "updated_at": 1784577338
   },
   {
     "id": 9595,
@@ -39533,7 +40373,7 @@
       "Drama",
       "Slice of Life"
     ],
-    "updated_at": 1784462595
+    "updated_at": 1784577344
   },
   {
     "id": 9544,
@@ -39562,7 +40402,35 @@
       "Horror",
       "Sci-Fi"
     ],
-    "updated_at": 1784473455
+    "updated_at": 1784577347
+  },
+  {
+    "id": 9496,
+    "id_mal": 9496,
+    "url": "https://anilist.co/anime/9496",
+    "title": {
+      "english": "",
+      "romaji": "Itoshi no Betty Mamonogatari",
+      "native": "愛しのベティ 魔物語"
+    },
+    "description": "Based on the manga Mamonogatari Itoshi no Betty created by Koike Kazuo and Kanou Seisaku.\n<br><br>\nBetty, a devil-girl with the face of an angel and a heart of gold, falls in love with a human gangster, Danpei Kimogawa, when they meet during a rainstorm. They end up living together in Tokyo - though Danpei has trouble coping with his new in-laws, a witch and a demon, who like dropping by at inappropriate moments. \n<br><br>\nBetty has actually been sent to the human world on a mission to defeat the demon Lutan. While Betty continues her task, her skeletal grandmother sends nubile nymphs to tempt Danpei and see if he is suitable husband material.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9496.jpg",
+    "banner_url": "",
+    "schedule": "Musim: SUMMER 1986",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "SUMMER",
+    "year": 1986,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 54,
+    "status": "FINISHED",
+    "score": 42,
+    "genres": [
+      "Fantasy",
+      "Romance"
+    ],
+    "updated_at": 1784577379
   },
   {
     "id": 9495,
@@ -39617,7 +40485,63 @@
       "Action",
       "Sci-Fi"
     ],
-    "updated_at": 1784498548
+    "updated_at": 1784577381
+  },
+  {
+    "id": 9465,
+    "id_mal": 9465,
+    "url": "https://anilist.co/anime/9465",
+    "title": {
+      "english": "Broken Blade 4",
+      "romaji": "Break Blade 4: Sanka no Chi",
+      "native": "ブレイク ブレイド 第四章 惨禍ノ地"
+    },
+    "description": "Fourth Break Blade Movie.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b9465-emIVntmibiti.jpg",
+    "banner_url": "",
+    "schedule": "Musim: FALL 2010",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "FALL",
+    "year": 2010,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 49,
+    "status": "FINISHED",
+    "score": 75,
+    "genres": [
+      "Action",
+      "Fantasy",
+      "Mecha"
+    ],
+    "updated_at": 1784577418
+  },
+  {
+    "id": 9416,
+    "id_mal": 9416,
+    "url": "https://anilist.co/anime/9416",
+    "title": {
+      "english": "The Monkey King and the Fruit of Immortality",
+      "romaji": "Renshen Guo",
+      "native": "人参果"
+    },
+    "description": "The second part of the trilogy about adventures of the Monkey King.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9416.jpg",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 44,
+    "status": "FINISHED",
+    "score": 47,
+    "genres": [
+      "Adventure"
+    ],
+    "updated_at": 1784577422
   },
   {
     "id": 9351,
@@ -39649,6 +40573,63 @@
     "updated_at": 1784473455
   },
   {
+    "id": 9348,
+    "id_mal": 9348,
+    "url": "https://anilist.co/anime/9348",
+    "title": {
+      "english": "",
+      "romaji": "Chibi Maruko-chan: Watashi no Suki na Uta",
+      "native": "ちびまる子ちゃん わたしの好きな歌"
+    },
+    "description": "Sakura Momoko's teacher assigns the third grade to draw an image based on their favorite song to enter a contest. Momoko loves a song she recently learned during her music class and is anxious to make a good drawing based on it. On her way to meet her relatives in Shizuoka, she meets Shouko Kimura, a university student who occasionally draws portraits at the local train station and plans to also participate in an art contest. Fascinated by her illustrations, Sakura meets Kimura once again. Shouko is enchanted by Momoko's sympathy and honesty. They quickly become friends and end up inspiring each other in their own way.\n<br><br>\n(Source: Anime News Network)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx9348-cI6xYx6pkJGG.jpg",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/9348-tl73dOWHBrCp.jpg",
+    "schedule": "Musim: FALL 1992",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "FALL",
+    "year": 1992,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 93,
+    "status": "FINISHED",
+    "score": 74,
+    "genres": [
+      "Comedy",
+      "Slice of Life"
+    ],
+    "updated_at": 1784577440
+  },
+  {
+    "id": 9303,
+    "id_mal": 9303,
+    "url": "https://anilist.co/anime/9303",
+    "title": {
+      "english": "Noel's Fantastic Trip",
+      "romaji": "Noel no Fushigi na Bouken",
+      "native": "ノエルの不思議な冒険"
+    },
+    "description": "The film is centered around Noel, a young girl and her dog, Pup, who both live on the Planet Noel. While relaxing, Noel comes up with the idea to deliver ice cream to the sun. The two fly off and make their way toward the sun.<br><br>\nOn their way, the two of them make a stop at the Planet Gaudy. Upon their arrival, the President steps out to welcome the two. The President invites them to a special party, in which the Emcees show off the planet's most beautiful designs. This does not impress Noel, who states that it doesn't matter what clothes one is wearing, they will still be beautiful and loved. This coaxes the President and the citizens of the planet to take their clothes off, as does Noel. Pup gently reminds Noel of their trip to the sun, and the two take off to find him.<br><br>\nWhen they find him, the sun warns of foul smog emanating from some unknown planet. The two leave the sun to find the source of the smog, but it quickly surrounds them. They escape underwater on another nearby planet. They appreciate the fine scenery underwater, but as they traverse further they notice the fish are ill.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9303.jpg",
+    "banner_url": "",
+    "schedule": "Musim: SPRING 1983",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "SPRING",
+    "year": 1983,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 72,
+    "status": "FINISHED",
+    "score": 45,
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Fantasy"
+    ],
+    "updated_at": 1784577457
+  },
+  {
     "id": 9288,
     "id_mal": 9288,
     "url": "https://anilist.co/anime/9288",
@@ -39676,7 +40657,7 @@
       "Fantasy",
       "Mahou Shoujo"
     ],
-    "updated_at": 1784406275
+    "updated_at": 1784577463
   },
   {
     "id": 9279,
@@ -39703,7 +40684,7 @@
     "genres": [
       "Drama"
     ],
-    "updated_at": 1784570509
+    "updated_at": 1784577464
   },
   {
     "id": 9274,
@@ -39764,7 +40745,7 @@
       "Psychological",
       "Supernatural"
     ],
-    "updated_at": 1784520159
+    "updated_at": 1784577479
   },
   {
     "id": 9254,
@@ -48695,7 +49676,7 @@
       "Action",
       "Sci-Fi"
     ],
-    "updated_at": 1784498548
+    "updated_at": 1784574187
   },
   {
     "id": 3072,
@@ -48723,7 +49704,7 @@
       "Drama",
       "Sci-Fi"
     ],
-    "updated_at": 1784541708
+    "updated_at": 1784574187
   },
   {
     "id": 3067,
@@ -50565,7 +51546,7 @@
       "Drama",
       "Music"
     ],
-    "updated_at": 1784570507
+    "updated_at": 1784574187
   },
   {
     "id": 2593,
@@ -56213,7 +57194,7 @@
       "Drama",
       "Sci-Fi"
     ],
-    "updated_at": 1784494957
+    "updated_at": 1784574187
   },
   {
     "id": 1033,
@@ -56242,7 +57223,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784530893
+    "updated_at": 1784574187
   },
   {
     "id": 1032,
@@ -56329,7 +57310,7 @@
       "Drama",
       "Fantasy"
     ],
-    "updated_at": 1784498548
+    "updated_at": 1784574187
   },
   {
     "id": 1029,
