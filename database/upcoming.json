@@ -469,7 +469,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784530892
+    "updated_at": 1784541708
   },
   {
     "id": 213867,
@@ -555,7 +555,7 @@
       "Adventure",
       "Sci-Fi"
     ],
-    "updated_at": 1784502186
+    "updated_at": 1784541708
   },
   {
     "id": 213846,
@@ -755,7 +755,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784466165
+    "updated_at": 1784541708
   },
   {
     "id": 213752,
@@ -1504,6 +1504,33 @@
       "Slice of Life"
     ],
     "updated_at": 1784530893
+  },
+  {
+    "id": 213298,
+    "id_mal": null,
+    "url": "https://anilist.co/anime/213298",
+    "title": {
+      "english": "",
+      "romaji": "Yuruyuru Zukan",
+      "native": "ゆるゆる図鑑"
+    },
+    "description": "Gakken's hugely popular illustrated encyclopedia series, which everyone can enjoy with its laid-back four-panel comics, is finally being adapted into a TV anime!\n<br><br>\nDiscover surprising aspects and fun facts about living creatures—full of secrets that will make you say, \"Wow!\"\n<br><br>\nEnjoy this new kind of anime that makes even scary things fun and easy to watch, with its cute art style.\n<br><br>\n(Source: Official Site, translated)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx213298-ymB1Sw0yDZ0Y.jpg",
+    "banner_url": "",
+    "schedule": "Musim: FALL 2026",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "FALL",
+    "year": 2026,
+    "format": "TV_SHORT",
+    "episodes": null,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Sci-Fi"
+    ],
+    "updated_at": 1784542669
   },
   {
     "id": 213131,
@@ -2643,7 +2670,7 @@
       "Ecchi",
       "Fantasy"
     ],
-    "updated_at": 1784498548
+    "updated_at": 1784541708
   },
   {
     "id": 210482,
@@ -2820,7 +2847,7 @@
       "Mystery",
       "Supernatural"
     ],
-    "updated_at": 1784520159
+    "updated_at": 1784541708
   },
   {
     "id": 209980,
@@ -2850,7 +2877,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784498548
+    "updated_at": 1784541708
   },
   {
     "id": 209963,
@@ -4260,7 +4287,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784520159
+    "updated_at": 1784541708
   },
   {
     "id": 204747,
@@ -5958,7 +5985,7 @@
       "Mystery",
       "Supernatural"
     ],
-    "updated_at": 1784530893
+    "updated_at": 1784541708
   },
   {
     "id": 199006,
@@ -6389,7 +6416,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784506192
+    "updated_at": 1784541708
   },
   {
     "id": 195787,
@@ -7144,6 +7171,33 @@
       "Slice of Life"
     ],
     "updated_at": 1784506183
+  },
+  {
+    "id": 191025,
+    "id_mal": 55143,
+    "url": "https://anilist.co/anime/191025",
+    "title": {
+      "english": "",
+      "romaji": "HIDARI",
+      "native": "左"
+    },
+    "description": "A skilled carpenter/sculptor Jingoro, gets set up by his disciples and loses his right arm and his father in an \"accident\" during the reconstruction of the Edo Castle. A few decades later… Jingoro is continuing his journey of revenge with his partner “Sleeping Cat” and his weaponized prosthetic arm. People have come to call him Jingoro \"Hidari,\" which means \"left\" in Japanese.<br><br>\n\nJingoro defeats all the foes that has betrayed him, but he learns that Tokugawa Shogunate was behind the murderous event. He searches for clues on who was behind the whole set up, and fights with an army of mechanical soldiers along the way. Finally he confronts the mastermind behind all the killings, but first, he must save the city of Edo by stopping the Edo Castle, now turned into a gigantic weapon of mass destruction!<br><br>\n(Source: Official Website)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b191025-LHV8SkySYwlu.jpg",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 92,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Action"
+    ],
+    "updated_at": 1784541708
   },
   {
     "id": 190574,
@@ -8379,7 +8433,7 @@
       "Mahou Shoujo",
       "Slice of Life"
     ],
-    "updated_at": 1784520159
+    "updated_at": 1784541708
   },
   {
     "id": 181951,
@@ -8637,7 +8691,7 @@
       "Drama",
       "Sci-Fi"
     ],
-    "updated_at": 1784427204
+    "updated_at": 1784541708
   },
   {
     "id": 178467,
@@ -8893,7 +8947,7 @@
       "Drama",
       "Sports"
     ],
-    "updated_at": 1784502186
+    "updated_at": 1784541708
   },
   {
     "id": 174427,
@@ -9358,6 +9412,64 @@
     "updated_at": 1784498548
   },
   {
+    "id": 164194,
+    "id_mal": 55075,
+    "url": "https://anilist.co/anime/164194",
+    "title": {
+      "english": "",
+      "romaji": "Hina",
+      "native": "ひな"
+    },
+    "description": "<i>Hina is Beautiful</i> is a \"highly entertaining action drama\" film directed by Kenji Iwaisawa. Taking place in Izu, Japan, where the local men are fighting over a woman called Hina. What is it exactly that makes Hina mislead men? As the men try to confess their true feelings for Hina, strong, muscly men also get involved and the sound of the festival drum signals the start of a confrontation.\n<br><br>\n(Source: Variety, edited)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b164194-IAB9AduVgDa4.jpg",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Action",
+      "Drama"
+    ],
+    "updated_at": 1784541724
+  },
+  {
+    "id": 163991,
+    "id_mal": 55034,
+    "url": "https://anilist.co/anime/163991",
+    "title": {
+      "english": "",
+      "romaji": "Gosu",
+      "native": "고수"
+    },
+    "description": "A young man set forth to avenge his master, a once powerful martial artist who was betrayed by his own men and barely escaped with his life. Armed with his master's supreme martial art techniques, he is ready to bring terror and wreak havoc among the murim. But before he even got started, he learns that the ones who had betrayed his master are already dead... Erm, so what happens now?\n<br><br>\n(Source: WEBTOON)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b163991-l1SNf7Q5SfBG.jpg",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "",
+    "episodes": null,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Supernatural"
+    ],
+    "updated_at": 1784541740
+  },
+  {
     "id": 163794,
     "id_mal": null,
     "url": "https://anilist.co/anime/163794",
@@ -9383,7 +9495,7 @@
       "Action",
       "Sports"
     ],
-    "updated_at": 1784368933
+    "updated_at": 1784541755
   },
   {
     "id": 163790,
@@ -9413,7 +9525,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784246766
+    "updated_at": 1784541755
   },
   {
     "id": 163326,
@@ -9443,7 +9555,7 @@
       "Mahou Shoujo",
       "Slice of Life"
     ],
-    "updated_at": 1784506112
+    "updated_at": 1784541797
   },
   {
     "id": 163072,
@@ -9499,7 +9611,7 @@
       "Adventure",
       "Comedy"
     ],
-    "updated_at": 1784484185
+    "updated_at": 1784541894
   },
   {
     "id": 161410,
@@ -9524,7 +9636,7 @@
     "status": "NOT_YET_RELEASED",
     "score": null,
     "genres": [],
-    "updated_at": 1784455669
+    "updated_at": 1784541987
   },
   {
     "id": 160803,
@@ -9554,7 +9666,7 @@
       "Mahou Shoujo",
       "Thriller"
     ],
-    "updated_at": 1784502186
+    "updated_at": 1784542026
   },
   {
     "id": 160275,
@@ -9586,7 +9698,7 @@
       "Mystery",
       "Sci-Fi"
     ],
-    "updated_at": 1784492918
+    "updated_at": 1784542068
   },
   {
     "id": 159042,
@@ -9615,7 +9727,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784506107
+    "updated_at": 1784542167
   },
   {
     "id": 158987,
@@ -9645,7 +9757,7 @@
       "Psychological",
       "Romance"
     ],
-    "updated_at": 1784369409
+    "updated_at": 1784542170
   },
   {
     "id": 157330,
@@ -9674,7 +9786,7 @@
       "Mecha",
       "Sci-Fi"
     ],
-    "updated_at": 1784502186
+    "updated_at": 1784542296
   },
   {
     "id": 156631,
@@ -9703,7 +9815,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784506105
+    "updated_at": 1784542348
   },
   {
     "id": 154968,
@@ -9730,7 +9842,7 @@
     "genres": [
       "Fantasy"
     ],
-    "updated_at": 1784369814
+    "updated_at": 1784542499
   },
   {
     "id": 154765,
@@ -9758,7 +9870,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784502186
+    "updated_at": 1784542522
   },
   {
     "id": 153676,
@@ -9788,7 +9900,62 @@
       "Drama",
       "Sports"
     ],
-    "updated_at": 1784530893
+    "updated_at": 1784542618
+  },
+  {
+    "id": 153498,
+    "id_mal": null,
+    "url": "https://anilist.co/anime/153498",
+    "title": {
+      "english": "",
+      "romaji": "Kuiba: Shu Tu Part 2",
+      "native": "魁拔之殊途 下"
+    },
+    "description": "The second part of <i>Kuiba: Shu Tu</i>.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx153498-73JFDp383lUv.png",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "ONA",
+    "episodes": null,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Adventure",
+      "Fantasy"
+    ],
+    "updated_at": 1784542637
+  },
+  {
+    "id": 153484,
+    "id_mal": null,
+    "url": "https://anilist.co/anime/153484",
+    "title": {
+      "english": "",
+      "romaji": "Diqiu Jintou",
+      "native": "地球尽头"
+    },
+    "description": "Tidak ada deskripsi.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx153484-8aSfGU0faRpL.png",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "ONA",
+    "episodes": null,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Adventure"
+    ],
+    "updated_at": 1784542638
   },
   {
     "id": 153461,
@@ -9848,7 +10015,7 @@
       "Romance",
       "Supernatural"
     ],
-    "updated_at": 1784506082
+    "updated_at": 1784542712
   },
   {
     "id": 143103,
