@@ -75,7 +75,7 @@
     "status": "FINISHED",
     "score": null,
     "genres": [],
-    "updated_at": 1784484185
+    "updated_at": 1784556649
   },
   {
     "id": 214070,
@@ -131,7 +131,7 @@
       "Drama",
       "Fantasy"
     ],
-    "updated_at": 1784506220
+    "updated_at": 1784556649
   },
   {
     "id": 214067,
@@ -1077,7 +1077,7 @@
       "Mecha",
       "Sci-Fi"
     ],
-    "updated_at": 1784549496
+    "updated_at": 1784556649
   },
   {
     "id": 205444,
@@ -1254,7 +1254,7 @@
       "Drama",
       "Supernatural"
     ],
-    "updated_at": 1784492927
+    "updated_at": 1784556649
   },
   {
     "id": 203100,
@@ -2702,7 +2702,7 @@
     "genres": [
       "Fantasy"
     ],
-    "updated_at": 1784530893
+    "updated_at": 1784556649
   },
   {
     "id": 184334,
@@ -5952,7 +5952,7 @@
       "Mecha",
       "Sci-Fi"
     ],
-    "updated_at": 1784549495
+    "updated_at": 1784556649
   },
   {
     "id": 157176,
@@ -6692,7 +6692,7 @@
       "Psychological",
       "Supernatural"
     ],
-    "updated_at": 1784542851
+    "updated_at": 1784556649
   },
   {
     "id": 151089,
@@ -7846,7 +7846,7 @@
       "Fantasy",
       "Music"
     ],
-    "updated_at": 1784498548
+    "updated_at": 1784556649
   },
   {
     "id": 141056,
@@ -8346,7 +8346,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784473455
+    "updated_at": 1784556649
   },
   {
     "id": 139311,
@@ -12336,7 +12336,7 @@
     "genres": [
       "Music"
     ],
-    "updated_at": 1784502186
+    "updated_at": 1784556649
   },
   {
     "id": 117758,
@@ -13323,7 +13323,7 @@
       "Mecha",
       "Sci-Fi"
     ],
-    "updated_at": 1784466165
+    "updated_at": 1784556649
   },
   {
     "id": 113692,
@@ -25326,7 +25326,7 @@
       "Slice of Life",
       "Supernatural"
     ],
-    "updated_at": 1784530893
+    "updated_at": 1784556649
   },
   {
     "id": 100248,
@@ -25874,7 +25874,7 @@
       "Mecha",
       "Sci-Fi"
     ],
-    "updated_at": 1784520159
+    "updated_at": 1784556649
   },
   {
     "id": 99212,
@@ -25976,7 +25976,7 @@
     "genres": [
       "Action"
     ],
-    "updated_at": 1784470401
+    "updated_at": 1784556663
   },
   {
     "id": 99196,
@@ -26003,7 +26003,7 @@
     "genres": [
       "Action"
     ],
-    "updated_at": 1784470401
+    "updated_at": 1784556665
   },
   {
     "id": 99085,
@@ -26030,7 +26030,7 @@
     "genres": [
       "Comedy"
     ],
-    "updated_at": 1784470697
+    "updated_at": 1784557034
   },
   {
     "id": 99084,
@@ -26058,7 +26058,7 @@
       "Comedy",
       "Sci-Fi"
     ],
-    "updated_at": 1784470698
+    "updated_at": 1784557034
   },
   {
     "id": 98998,
@@ -26085,7 +26085,7 @@
     "genres": [
       "Comedy"
     ],
-    "updated_at": 1784384074
+    "updated_at": 1784557049
   },
   {
     "id": 98893,
@@ -26110,7 +26110,7 @@
     "status": "FINISHED",
     "score": null,
     "genres": [],
-    "updated_at": 1784502186
+    "updated_at": 1784557071
   },
   {
     "id": 98891,
@@ -26138,7 +26138,7 @@
       "Fantasy",
       "Mahou Shoujo"
     ],
-    "updated_at": 1784470751
+    "updated_at": 1784557071
   },
   {
     "id": 98885,
@@ -26167,7 +26167,7 @@
       "Drama",
       "Sports"
     ],
-    "updated_at": 1784520159
+    "updated_at": 1784557073
   },
   {
     "id": 98884,
@@ -26196,7 +26196,7 @@
       "Drama",
       "Sports"
     ],
-    "updated_at": 1784498548
+    "updated_at": 1784557075
   },
   {
     "id": 98876,
@@ -26225,7 +26225,7 @@
       "Music",
       "Slice of Life"
     ],
-    "updated_at": 1784470759
+    "updated_at": 1784557078
   },
   {
     "id": 98874,
@@ -26254,7 +26254,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784494938
+    "updated_at": 1784557079
   },
   {
     "id": 98873,
@@ -26283,7 +26283,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784498548
+    "updated_at": 1784557080
   },
   {
     "id": 98784,
@@ -26311,7 +26311,7 @@
       "Drama",
       "Romance"
     ],
-    "updated_at": 1784470817
+    "updated_at": 1784557105
   },
   {
     "id": 98779,
@@ -26339,7 +26339,7 @@
       "Comedy",
       "Slice of Life"
     ],
-    "updated_at": 1784470819
+    "updated_at": 1784557107
   },
   {
     "id": 98776,
@@ -26393,7 +26393,7 @@
     "genres": [
       "Slice of Life"
     ],
-    "updated_at": 1783948376
+    "updated_at": 1784557109
   },
   {
     "id": 98762,
@@ -26423,7 +26423,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784494957
+    "updated_at": 1784557113
   },
   {
     "id": 98746,
@@ -26453,7 +26453,7 @@
       "Fantasy",
       "Mahou Shoujo"
     ],
-    "updated_at": 1784470837
+    "updated_at": 1784557121
   },
   {
     "id": 98744,
@@ -26480,7 +26480,7 @@
     "genres": [
       "Comedy"
     ],
-    "updated_at": 1783948388
+    "updated_at": 1784557122
   },
   {
     "id": 98663,
@@ -26511,7 +26511,7 @@
       "Horror",
       "Supernatural"
     ],
-    "updated_at": 1784470863
+    "updated_at": 1784557139
   },
   {
     "id": 98662,
@@ -26542,7 +26542,7 @@
       "Horror",
       "Supernatural"
     ],
-    "updated_at": 1784470864
+    "updated_at": 1784557139
   },
   {
     "id": 98656,
@@ -26569,7 +26569,7 @@
     "genres": [
       "Sports"
     ],
-    "updated_at": 1784470904
+    "updated_at": 1784557155
   },
   {
     "id": 98576,
@@ -26599,7 +26599,7 @@
       "Sci-Fi",
       "Supernatural"
     ],
-    "updated_at": 1784549501
+    "updated_at": 1784557176
   },
   {
     "id": 98516,
@@ -26630,7 +26630,7 @@
       "Sci-Fi",
       "Supernatural"
     ],
-    "updated_at": 1784471001
+    "updated_at": 1784557199
   },
   {
     "id": 98497,
@@ -26659,7 +26659,7 @@
       "Slice of Life",
       "Sports"
     ],
-    "updated_at": 1784530893
+    "updated_at": 1784557213
   },
   {
     "id": 98496,
@@ -26687,7 +26687,7 @@
       "Slice of Life",
       "Sports"
     ],
-    "updated_at": 1784471038
+    "updated_at": 1784557213
   },
   {
     "id": 98495,
@@ -26716,7 +26716,7 @@
       "Slice of Life",
       "Sports"
     ],
-    "updated_at": 1784471039
+    "updated_at": 1784557214
   },
   {
     "id": 98471,
@@ -26747,7 +26747,7 @@
       "Mecha",
       "Sci-Fi"
     ],
-    "updated_at": 1784471073
+    "updated_at": 1784557224
   },
   {
     "id": 98470,
@@ -26777,7 +26777,7 @@
       "Mecha",
       "Sci-Fi"
     ],
-    "updated_at": 1784471073
+    "updated_at": 1784557224
   },
   {
     "id": 98469,
@@ -26807,7 +26807,7 @@
       "Mecha",
       "Sci-Fi"
     ],
-    "updated_at": 1784471074
+    "updated_at": 1784557224
   },
   {
     "id": 98452,
@@ -26834,7 +26834,7 @@
     "genres": [
       "Action"
     ],
-    "updated_at": 1784471100
+    "updated_at": 1784557237
   },
   {
     "id": 98402,
@@ -26865,7 +26865,7 @@
       "Fantasy",
       "Sci-Fi"
     ],
-    "updated_at": 1784530893
+    "updated_at": 1784557277
   },
   {
     "id": 98384,
@@ -26895,7 +26895,7 @@
       "Mystery",
       "Supernatural"
     ],
-    "updated_at": 1784471211
+    "updated_at": 1784557288
   },
   {
     "id": 98332,
@@ -26952,7 +26952,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784471293
+    "updated_at": 1784557327
   },
   {
     "id": 98249,
@@ -26982,7 +26982,7 @@
       "Music",
       "Supernatural"
     ],
-    "updated_at": 1784471321
+    "updated_at": 1784557349
   },
   {
     "id": 98240,
@@ -27010,7 +27010,7 @@
       "Comedy",
       "Slice of Life"
     ],
-    "updated_at": 1784473455
+    "updated_at": 1784557351
   },
   {
     "id": 98225,
@@ -27038,7 +27038,7 @@
       "Sports",
       "Supernatural"
     ],
-    "updated_at": 1784494950
+    "updated_at": 1784557355
   },
   {
     "id": 98222,
@@ -27067,7 +27067,35 @@
       "Comedy",
       "Mystery"
     ],
-    "updated_at": 1784471329
+    "updated_at": 1784557355
+  },
+  {
+    "id": 98208,
+    "id_mal": 31476,
+    "url": "https://anilist.co/anime/98208",
+    "title": {
+      "english": "Wake up!! TAMALA",
+      "romaji": "Wake up!! TAMALA",
+      "native": "Wake up!! TAMALA"
+    },
+    "description": "In 2050, the world climate has changed awfully. One rainy day,TAMALA saved a honeybee from drowning in the street gutter. His name was Kuronosuke, the last bee of the cat world and he invited TAMALA to the magical journey retrograding time and toward the near future. It's the huge panorama of biodiversity of the animals and plants in the earth history. However; the modern era coming, the civilization has been wasting and destroying the nature. Finally they were roving around the wild land where all the animals had become extinct. When TAMALA had little time to live without any foods finally, Kuronosuke made an offer to eat him for her to survive.<br><br>\n\n(Source: Youtube)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/98208-JqpxOWZGZLQL.jpg",
+    "banner_url": "",
+    "schedule": "Musim: FALL 2010",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "FALL",
+    "year": 2010,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 17,
+    "status": "FINISHED",
+    "score": 47,
+    "genres": [
+      "Fantasy",
+      "Psychological"
+    ],
+    "updated_at": 1784557359
   },
   {
     "id": 98206,
@@ -27095,7 +27123,7 @@
       "Romance",
       "Supernatural"
     ],
-    "updated_at": 1784384692
+    "updated_at": 1784557359
   },
   {
     "id": 98137,
@@ -27152,7 +27180,7 @@
       "Drama",
       "Romance"
     ],
-    "updated_at": 1784530893
+    "updated_at": 1784557378
   },
   {
     "id": 98056,
@@ -27209,7 +27237,32 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784520159
+    "updated_at": 1784557470
+  },
+  {
+    "id": 97978,
+    "id_mal": 28085,
+    "url": "https://anilist.co/anime/97978",
+    "title": {
+      "english": "Wonder",
+      "romaji": "WONDER",
+      "native": "WONDER"
+    },
+    "description": "The 365 days animation consists of sequence of 8760 pictures, all different shape and color, hand-drawn by the director every day in 365 days. This is the ultimate analog approach by the abstract animated film creator in digital era. <br><br>\n(Source: IMDb)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97978-4oodUm1Ty9BF.png",
+    "banner_url": "",
+    "schedule": "Musim: WINTER 2014",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "WINTER",
+    "year": 2014,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 8,
+    "status": "FINISHED",
+    "score": 58,
+    "genres": [],
+    "updated_at": 1784557477
   },
   {
     "id": 97920,
@@ -27236,7 +27289,7 @@
     "genres": [
       "Comedy"
     ],
-    "updated_at": 1784471833
+    "updated_at": 1784557539
   },
   {
     "id": 97918,
@@ -27267,7 +27320,7 @@
       "Horror",
       "Supernatural"
     ],
-    "updated_at": 1784541708
+    "updated_at": 1784557541
   },
   {
     "id": 97917,
@@ -27295,7 +27348,7 @@
       "Comedy",
       "Romance"
     ],
-    "updated_at": 1784471842
+    "updated_at": 1784557544
   },
   {
     "id": 97908,
@@ -27324,7 +27377,7 @@
       "Romance",
       "Supernatural"
     ],
-    "updated_at": 1784471850
+    "updated_at": 1784557549
   },
   {
     "id": 97880,
@@ -27354,7 +27407,7 @@
       "Mecha",
       "Sci-Fi"
     ],
-    "updated_at": 1784549501
+    "updated_at": 1784557586
   },
   {
     "id": 97860,
@@ -27385,7 +27438,7 @@
       "Mahou Shoujo",
       "Slice of Life"
     ],
-    "updated_at": 1784471948
+    "updated_at": 1784557603
   },
   {
     "id": 97859,
@@ -27416,7 +27469,7 @@
       "Mahou Shoujo",
       "Slice of Life"
     ],
-    "updated_at": 1784471949
+    "updated_at": 1784557604
   },
   {
     "id": 97858,
@@ -27447,7 +27500,7 @@
       "Mahou Shoujo",
       "Slice of Life"
     ],
-    "updated_at": 1784471949
+    "updated_at": 1784557604
   },
   {
     "id": 97856,
@@ -27475,7 +27528,7 @@
       "Comedy",
       "Mahou Shoujo"
     ],
-    "updated_at": 1784549501
+    "updated_at": 1784557607
   },
   {
     "id": 97757,
@@ -27505,7 +27558,7 @@
       "Fantasy",
       "Psychological"
     ],
-    "updated_at": 1784472029
+    "updated_at": 1784557664
   },
   {
     "id": 97735,
@@ -27533,7 +27586,7 @@
       "Drama",
       "Slice of Life"
     ],
-    "updated_at": 1784472033
+    "updated_at": 1784557666
   },
   {
     "id": 97734,
@@ -27564,7 +27617,7 @@
       "Fantasy",
       "Sci-Fi"
     ],
-    "updated_at": 1784530893
+    "updated_at": 1784557667
   },
   {
     "id": 97669,
@@ -27595,7 +27648,7 @@
       "Sci-Fi",
       "Supernatural"
     ],
-    "updated_at": 1784549498
+    "updated_at": 1784557697
   },
   {
     "id": 97661,
@@ -27621,6 +27674,34 @@
     "score": null,
     "genres": [],
     "updated_at": 1784297614
+  },
+  {
+    "id": 97631,
+    "id_mal": 34032,
+    "url": "https://anilist.co/anime/97631",
+    "title": {
+      "english": "",
+      "romaji": "KING OF PRISM: PRIDE the HERO",
+      "native": "KING OF PRISM -PRIDE the HERO-"
+    },
+    "description": "Shin Ichijou and seven new students join the Edel Rose training school to follow their dreams of idol singer stardom. They hope to become the next Prism Stars and appear in future Prism Shows. However, Edel Rose is threatened by an evil plot hatched by Jin Norizuki from rival school Schwarz Rose. Over The Rainbow goes on indefinite hiatus to save Edel Rose and the three performers go their separate ways. In order to return a huge debt, Kōji goes to Hollywood to produce film music. Kazuki goes on a quest to rediscover his own origins as a street-style performer. Hiro delves into special training to improve himself. In separate locations, the members come to face themselves as Prism Stars.<br><br>\n(Source: Anime News Network, edited)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b97631-r1ZHgsHvyABi.png",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/97631-S8NxmiAmeR65.jpg",
+    "schedule": "Musim: SPRING 2017",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "SPRING",
+    "year": 2017,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 70,
+    "status": "FINISHED",
+    "score": 68,
+    "genres": [
+      "Music",
+      "Sports"
+    ],
+    "updated_at": 1784557947
   },
   {
     "id": 97619,
@@ -27650,7 +27731,7 @@
       "Comedy",
       "Drama"
     ],
-    "updated_at": 1784549499
+    "updated_at": 1784558055
   },
   {
     "id": 97594,
@@ -29428,7 +29509,7 @@
       "Drama",
       "Fantasy"
     ],
-    "updated_at": 1784458910
+    "updated_at": 1784556649
   },
   {
     "id": 21314,
@@ -29655,7 +29736,7 @@
       "Adventure",
       "Sci-Fi"
     ],
-    "updated_at": 1784498548
+    "updated_at": 1784556649
   },
   {
     "id": 21248,
@@ -30320,7 +30401,7 @@
       "Psychological",
       "Sci-Fi"
     ],
-    "updated_at": 1784304993
+    "updated_at": 1784556649
   },
   {
     "id": 21042,
@@ -30382,7 +30463,7 @@
       "Slice of Life",
       "Supernatural"
     ],
-    "updated_at": 1784549491
+    "updated_at": 1784556649
   },
   {
     "id": 20990,
@@ -31722,7 +31803,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784502186
+    "updated_at": 1784556649
   },
   {
     "id": 20514,
@@ -32762,7 +32843,7 @@
       "Action",
       "Sports"
     ],
-    "updated_at": 1784412201
+    "updated_at": 1784556649
   },
   {
     "id": 18591,
@@ -33068,7 +33149,7 @@
       "Mecha",
       "Sci-Fi"
     ],
-    "updated_at": 1784390608
+    "updated_at": 1784556649
   },
   {
     "id": 17947,
@@ -35627,7 +35708,7 @@
       "Action",
       "Adventure"
     ],
-    "updated_at": 1784549470
+    "updated_at": 1784556649
   },
   {
     "id": 13513,
@@ -36268,7 +36349,7 @@
       "Comedy",
       "Drama"
     ],
-    "updated_at": 1784498548
+    "updated_at": 1784556649
   },
   {
     "id": 12857,
@@ -42997,6 +43078,36 @@
     "updated_at": 1784480696
   },
   {
+    "id": 6978,
+    "id_mal": 6978,
+    "url": "https://anilist.co/anime/6978",
+    "title": {
+      "english": "The Monster Of Frankenstein",
+      "romaji": "Monster of Frankenstein",
+      "native": "恐怖伝説　怪奇！フランケンシュタイン"
+    },
+    "description": "Monster of Frankenstein is a reasonably standard retelling of the classic book by Mary Shelley. In a foreboding castle scientist Dr Victor Frankenstein performs a hideous experiment which he hopes will bring the dead back to life. With the help of his assistant he is successful in reanimating a man recreated from parts gathered from corpses but the creature is unpredictable and horrifying. The doctor flees back to his home in Switzerland leaving his assistant in charge of destroying the monster. But Dr Frankenstein soon finds that he cannot hide from his shameful secret forever as mysterious murders are committed around him forcing him to question if his creation really is dead and gone...",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6978.jpg",
+    "banner_url": "",
+    "schedule": "Musim: SUMMER 1981",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "SUMMER",
+    "year": 1981,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 89,
+    "status": "FINISHED",
+    "score": 50,
+    "genres": [
+      "Drama",
+      "Fantasy",
+      "Horror",
+      "Supernatural"
+    ],
+    "updated_at": 1784556649
+  },
+  {
     "id": 6975,
     "id_mal": 6975,
     "url": "https://anilist.co/anime/6975",
@@ -43443,6 +43554,33 @@
     "score": 44,
     "genres": [],
     "updated_at": 1784312220
+  },
+  {
+    "id": 6728,
+    "id_mal": 6728,
+    "url": "https://anilist.co/anime/6728",
+    "title": {
+      "english": "",
+      "romaji": "Helen Keller Monogatari: Ai to Hikari no Tenshi",
+      "native": "ヘレン・ケラー物語　愛と光の天使"
+    },
+    "description": "Based on Hellen Keller's (1880-1968) autobiography.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6728.jpg",
+    "banner_url": "",
+    "schedule": "Musim: SPRING 1981",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "SPRING",
+    "year": 1981,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 65,
+    "status": "FINISHED",
+    "score": 49,
+    "genres": [
+      "Drama"
+    ],
+    "updated_at": 1784556649
   },
   {
     "id": 6688,
@@ -45751,7 +45889,7 @@
     "genres": [
       "Adventure"
     ],
-    "updated_at": 1784312723
+    "updated_at": 1784556649
   },
   {
     "id": 4907,
@@ -46972,6 +47110,35 @@
       "Fantasy"
     ],
     "updated_at": 1784494957
+  },
+  {
+    "id": 3946,
+    "id_mal": 3946,
+    "url": "https://anilist.co/anime/3946",
+    "title": {
+      "english": "",
+      "romaji": "Jarinko Chie",
+      "native": "じゃりン子チエ"
+    },
+    "description": "Jarinko Chie is a movie directed by Takahata in 1981. Based on the very popular manga by Etsumi Haruki, it is about ten year old Chie, \"the most unfortunate girl in Japan,\" who manages her family diner while her unemployed yakuza father and her mother are separated. This sounds really depressing, but it's actually a very funny comedy. <br><br>\nThe story is set in Osaka, which has a totally different culture from Tokyo.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx3946-VTArQe4ZAdrH.jpg",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/3946-VHheQMYCfl3i.jpg",
+    "schedule": "Musim: SPRING 1981",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "SPRING",
+    "year": 1981,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 110,
+    "status": "FINISHED",
+    "score": 66,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Slice of Life"
+    ],
+    "updated_at": 1784556649
   },
   {
     "id": 3930,
@@ -49220,6 +49387,35 @@
     "updated_at": 1784489167
   },
   {
+    "id": 2662,
+    "id_mal": 2662,
+    "url": "https://anilist.co/anime/2662",
+    "title": {
+      "english": "",
+      "romaji": "Doraemon: Nobita no Uchuu Kaitakushi",
+      "native": "のび太の宇宙開拓史"
+    },
+    "description": "Nobita has been having a weird dream about a boy named Roppel and his strange companion Chami traveling in space. By a twist of fate, he met them in person where it turns out that they are real and that they were being pursued in space, causing their space vehicle to malfunction, connecting the space vehicle itself with Nobita's room. They journeyed to Roppel's planet and amidst their enjoyment, Nobita and Doraemon pledged to help Roppel's planet free from their oppressors.\n<br><br>\n(Source: Anime News Network)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2662.jpg",
+    "banner_url": "",
+    "schedule": "Musim: WINTER 1981",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "WINTER",
+    "year": 1981,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 91,
+    "status": "FINISHED",
+    "score": 66,
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Fantasy"
+    ],
+    "updated_at": 1784556649
+  },
+  {
     "id": 2661,
     "id_mal": 2661,
     "url": "https://anilist.co/anime/2661",
@@ -49743,7 +49939,7 @@
       "Drama",
       "Romance"
     ],
-    "updated_at": 1784489173
+    "updated_at": 1784556649
   },
   {
     "id": 2611,
@@ -50237,7 +50433,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784489245
+    "updated_at": 1784556649
   },
   {
     "id": 2428,
@@ -50293,7 +50489,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784489245
+    "updated_at": 1784556649
   },
   {
     "id": 2423,
@@ -51553,7 +51749,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784498548
+    "updated_at": 1784556649
   },
   {
     "id": 2100,
@@ -52250,7 +52446,7 @@
       "Sci-Fi",
       "Thriller"
     ],
-    "updated_at": 1784489436
+    "updated_at": 1784556649
   },
   {
     "id": 1931,
@@ -52342,7 +52538,7 @@
       "Romance",
       "Sci-Fi"
     ],
-    "updated_at": 1784489438
+    "updated_at": 1784556649
   },
   {
     "id": 1924,
@@ -52461,7 +52657,7 @@
       "Romance",
       "Sci-Fi"
     ],
-    "updated_at": 1784489439
+    "updated_at": 1784556649
   },
   {
     "id": 1920,
@@ -52491,7 +52687,7 @@
       "Romance",
       "Sci-Fi"
     ],
-    "updated_at": 1784530893
+    "updated_at": 1784556649
   },
   {
     "id": 1911,
@@ -54239,7 +54435,7 @@
       "Drama",
       "Sci-Fi"
     ],
-    "updated_at": 1784530893
+    "updated_at": 1784556649
   },
   {
     "id": 1301,
@@ -54269,7 +54465,7 @@
       "Mecha",
       "Sci-Fi"
     ],
-    "updated_at": 1784490193
+    "updated_at": 1784556649
   },
   {
     "id": 1290,
@@ -55331,7 +55527,7 @@
       "Mecha",
       "Sci-Fi"
     ],
-    "updated_at": 1784541708
+    "updated_at": 1784556649
   },
   {
     "id": 1090,
@@ -55362,7 +55558,7 @@
       "Mecha",
       "Sci-Fi"
     ],
-    "updated_at": 1784490297
+    "updated_at": 1784556649
   },
   {
     "id": 1089,
@@ -56335,7 +56531,7 @@
       "Comedy",
       "Supernatural"
     ],
-    "updated_at": 1784315889
+    "updated_at": 1784556649
   },
   {
     "id": 882,

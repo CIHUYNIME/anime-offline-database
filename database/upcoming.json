@@ -82,7 +82,7 @@
       "Action",
       "Comedy"
     ],
-    "updated_at": 1784530893
+    "updated_at": 1784556649
   },
   {
     "id": 214075,
@@ -1065,7 +1065,7 @@
     "genres": [
       "Sci-Fi"
     ],
-    "updated_at": 1784408537
+    "updated_at": 1784556649
   },
   {
     "id": 213628,
@@ -1442,7 +1442,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784549501
+    "updated_at": 1784556649
   },
   {
     "id": 213360,
@@ -1469,7 +1469,7 @@
     "genres": [
       "Drama"
     ],
-    "updated_at": 1784549492
+    "updated_at": 1784556649
   },
   {
     "id": 213338,
@@ -1643,7 +1643,7 @@
       "Action",
       "Mecha"
     ],
-    "updated_at": 1784480696
+    "updated_at": 1784556649
   },
   {
     "id": 213067,
@@ -3245,7 +3245,7 @@
       "Action",
       "Sci-Fi"
     ],
-    "updated_at": 1784549450
+    "updated_at": 1784556649
   },
   {
     "id": 209463,
@@ -3944,6 +3944,34 @@
     "updated_at": 1784469809
   },
   {
+    "id": 206273,
+    "id_mal": 62789,
+    "url": "https://anilist.co/anime/206273",
+    "title": {
+      "english": "GuAn",
+      "romaji": "Yi Zhan Cangqiong",
+      "native": "一斩苍穹"
+    },
+    "description": "In the darkest moment of Celestial Realm, the crippled youth Gu An seized the power of an ancient god amid life-or-death peril. Wielding infinite spiritual energy and a mortal blade, he destroyed evildoers, avenged deep grudges, and struck down the heavens.<br><br>(Source: Youku, translated)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx206273-LbFCgsJhu9sk.jpg",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "ONA",
+    "episodes": null,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Action",
+      "Fantasy"
+    ],
+    "updated_at": 1784556649
+  },
+  {
     "id": 206244,
     "id_mal": null,
     "url": "https://anilist.co/anime/206244",
@@ -3999,7 +4027,7 @@
       "Mecha",
       "Sci-Fi"
     ],
-    "updated_at": 1784549496
+    "updated_at": 1784556649
   },
   {
     "id": 206160,
@@ -4082,6 +4110,37 @@
       "Romance"
     ],
     "updated_at": 1784549488
+  },
+  {
+    "id": 205907,
+    "id_mal": 59637,
+    "url": "https://anilist.co/anime/205907",
+    "title": {
+      "english": "",
+      "romaji": "Huo Wang",
+      "native": "火旺"
+    },
+    "description": "The bizarre laws of Heaven, the extraordinary immortals and Buddhas—are they real? Or are they fake? Lost in confusion, Li Huowang couldn't tell.\n<br><br>\n(Source: Tencent, translated)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx205907-QL1A46VAqJCY.png",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "ONA",
+    "episodes": null,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Horror",
+      "Psychological",
+      "Supernatural"
+    ],
+    "updated_at": 1784556649
   },
   {
     "id": 205896,
@@ -4606,7 +4665,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784492933
+    "updated_at": 1784556649
   },
   {
     "id": 204436,
@@ -5005,7 +5064,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784549496
+    "updated_at": 1784556649
   },
   {
     "id": 203141,
@@ -5664,7 +5723,7 @@
     "genres": [
       "Slice of Life"
     ],
-    "updated_at": 1784502186
+    "updated_at": 1784556649
   },
   {
     "id": 199590,
@@ -5774,7 +5833,7 @@
       "Action",
       "Drama"
     ],
-    "updated_at": 1784549496
+    "updated_at": 1784556649
   },
   {
     "id": 199404,
@@ -5979,7 +6038,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784484185
+    "updated_at": 1784556649
   },
   {
     "id": 199185,
@@ -6039,6 +6098,35 @@
       "Supernatural"
     ],
     "updated_at": 1784268108
+  },
+  {
+    "id": 199068,
+    "id_mal": 62534,
+    "url": "https://anilist.co/anime/199068",
+    "title": {
+      "english": "",
+      "romaji": "Shin Tennis no Ouji-sama: U-17 WORLD CUP Kesshou Member Ketteisen",
+      "native": "新テニスの王子様 U-17 WORLD CUP 決勝メンバー決定戦"
+    },
+    "description": "Sequel to <i>Shin Tennis no Ouji-sama: U-17 WORLD CUP SEMIFINAL</i>.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199068-dDadPRy9Nekb.png",
+    "banner_url": "",
+    "schedule": "Musim: FALL 2026",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "FALL",
+    "year": 2026,
+    "format": "TV",
+    "episodes": null,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Sports"
+    ],
+    "updated_at": 1784557424
   },
   {
     "id": 199007,
@@ -8313,7 +8401,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784329393
+    "updated_at": 1784556649
   },
   {
     "id": 184141,
@@ -9870,7 +9958,7 @@
       "Mecha",
       "Sci-Fi"
     ],
-    "updated_at": 1784549495
+    "updated_at": 1784556649
   },
   {
     "id": 156631,
@@ -9984,7 +10072,7 @@
       "Drama",
       "Sports"
     ],
-    "updated_at": 1784542618
+    "updated_at": 1784556649
   },
   {
     "id": 153498,
@@ -11215,7 +11303,7 @@
       "Drama",
       "Mystery"
     ],
-    "updated_at": 1784471068
+    "updated_at": 1784557223
   },
   {
     "id": 10089,
