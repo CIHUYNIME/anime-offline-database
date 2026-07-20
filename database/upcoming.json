@@ -1,5 +1,33 @@
 [
   {
+    "id": 214246,
+    "id_mal": 64643,
+    "url": "https://anilist.co/anime/214246",
+    "title": {
+      "english": "",
+      "romaji": "Yura Yura Q",
+      "native": "ゆらゆらＱ"
+    },
+    "description": "Kyuuko is born between a Shinto priest and a kitsune mom. Though her siblings are blessed with both beauty and intellect, Kyuuko doesn't mind that she is different. This is the story of Kyuuko going through life with her very own charm.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx214246-ZO85EkWWV7pI.jpg",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "TV",
+    "episodes": null,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Fantasy",
+      "Slice of Life"
+    ],
+    "updated_at": 1784549440
+  },
+  {
     "id": 214215,
     "id_mal": 64640,
     "url": "https://anilist.co/anime/214215",
@@ -526,7 +554,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784506220
+    "updated_at": 1784549466
   },
   {
     "id": 213847,
@@ -555,7 +583,7 @@
       "Adventure",
       "Sci-Fi"
     ],
-    "updated_at": 1784541708
+    "updated_at": 1784549446
   },
   {
     "id": 213846,
@@ -726,7 +754,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784530893
+    "updated_at": 1784549435
   },
   {
     "id": 213782,
@@ -841,7 +869,7 @@
     "genres": [
       "Hentai"
     ],
-    "updated_at": 1784246843
+    "updated_at": 1784549499
   },
   {
     "id": 213732,
@@ -951,7 +979,7 @@
     "genres": [
       "Sports"
     ],
-    "updated_at": 1784462595
+    "updated_at": 1784549496
   },
   {
     "id": 213657,
@@ -980,7 +1008,7 @@
       "Comedy",
       "Romance"
     ],
-    "updated_at": 1784494957
+    "updated_at": 1784549495
   },
   {
     "id": 213656,
@@ -1010,7 +1038,7 @@
       "Drama",
       "Fantasy"
     ],
-    "updated_at": 1784506218
+    "updated_at": 1784549453
   },
   {
     "id": 213655,
@@ -1065,7 +1093,7 @@
       "Action",
       "Comedy"
     ],
-    "updated_at": 1784492923
+    "updated_at": 1784549455
   },
   {
     "id": 213627,
@@ -1414,7 +1442,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784440942
+    "updated_at": 1784549501
   },
   {
     "id": 213360,
@@ -1441,7 +1469,7 @@
     "genres": [
       "Drama"
     ],
-    "updated_at": 1784494957
+    "updated_at": 1784549492
   },
   {
     "id": 213338,
@@ -1470,7 +1498,7 @@
       "Comedy",
       "Drama"
     ],
-    "updated_at": 1784530893
+    "updated_at": 1784549480
   },
   {
     "id": 213316,
@@ -1870,6 +1898,33 @@
     "updated_at": 1784322117
   },
   {
+    "id": 212652,
+    "id_mal": null,
+    "url": "https://anilist.co/anime/212652",
+    "title": {
+      "english": "",
+      "romaji": "Kidou Keisatsu Patlabor EZY File 2",
+      "native": "機動警察パトレイバー EZY File 2"
+    },
+    "description": "The second part of <i>Kidou Keisatsu Patlabor EZY</i>.<br><br>\n\n<i>Note: Initially releases on Aug 14, 2026 as a limited theatrical pre-screening.</i>",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx212652-ZDAdpsFuFiGB.png",
+    "banner_url": "",
+    "schedule": "Episode 1 tayang pada 20/8/2026, 22.00.00 WIB",
+    "next_episode": 1,
+    "next_airing_timestamp": 1787238000,
+    "season": "SUMMER",
+    "year": 2026,
+    "format": "OVA",
+    "episodes": 3,
+    "duration": 24,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Mecha"
+    ],
+    "updated_at": 1784549500
+  },
+  {
     "id": 212618,
     "id_mal": 64290,
     "url": "https://anilist.co/anime/212618",
@@ -2212,7 +2267,7 @@
       "Drama",
       "Slice of Life"
     ],
-    "updated_at": 1784408567
+    "updated_at": 1784549494
   },
   {
     "id": 211877,
@@ -2295,7 +2350,7 @@
     "status": "NOT_YET_RELEASED",
     "score": null,
     "genres": [],
-    "updated_at": 1784506215
+    "updated_at": 1784549498
   },
   {
     "id": 211710,
@@ -2500,7 +2555,7 @@
       "Fantasy",
       "Mahou Shoujo"
     ],
-    "updated_at": 1784506215
+    "updated_at": 1784549498
   },
   {
     "id": 211304,
@@ -2701,7 +2756,7 @@
       "Mystery",
       "Supernatural"
     ],
-    "updated_at": 1784506212
+    "updated_at": 1784549501
   },
   {
     "id": 210465,
@@ -2994,6 +3049,35 @@
     "updated_at": 1784506211
   },
   {
+    "id": 209872,
+    "id_mal": 63801,
+    "url": "https://anilist.co/anime/209872",
+    "title": {
+      "english": "Ranma1/2 (2024) Season 3",
+      "romaji": "Ranma 1/2 (2024) 3rd Season",
+      "native": "らんま1/2 (2024) 第3期"
+    },
+    "description": "The third season of <i>Ranma 1/2 (2024)</i>.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx209872-IXkyoz271bPv.jpg",
+    "banner_url": "",
+    "schedule": "Musim: FALL 2026",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "FALL",
+    "year": 2026,
+    "format": "TV",
+    "episodes": null,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Romance"
+    ],
+    "updated_at": 1784549490
+  },
+  {
     "id": 209827,
     "id_mal": 63794,
     "url": "https://anilist.co/anime/209827",
@@ -3105,7 +3189,7 @@
     "genres": [
       "Mecha"
     ],
-    "updated_at": 1784412201
+    "updated_at": 1784549497
   },
   {
     "id": 209502,
@@ -3161,7 +3245,7 @@
       "Action",
       "Sci-Fi"
     ],
-    "updated_at": 1784412201
+    "updated_at": 1784549450
   },
   {
     "id": 209463,
@@ -3599,7 +3683,7 @@
       "Mystery",
       "Romance"
     ],
-    "updated_at": 1784506209
+    "updated_at": 1784549461
   },
   {
     "id": 207251,
@@ -3714,7 +3798,7 @@
       "Supernatural",
       "Thriller"
     ],
-    "updated_at": 1784520159
+    "updated_at": 1784549493
   },
   {
     "id": 206814,
@@ -3915,7 +3999,7 @@
       "Mecha",
       "Sci-Fi"
     ],
-    "updated_at": 1784530893
+    "updated_at": 1784549496
   },
   {
     "id": 206160,
@@ -3997,7 +4081,7 @@
       "Drama",
       "Romance"
     ],
-    "updated_at": 1784506206
+    "updated_at": 1784549488
   },
   {
     "id": 205896,
@@ -4578,7 +4662,7 @@
     "genres": [
       "Slice of Life"
     ],
-    "updated_at": 1784506204
+    "updated_at": 1784549496
   },
   {
     "id": 204429,
@@ -4863,7 +4947,7 @@
       "Mystery",
       "Supernatural"
     ],
-    "updated_at": 1784246836
+    "updated_at": 1784549496
   },
   {
     "id": 203448,
@@ -4921,7 +5005,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784530893
+    "updated_at": 1784549496
   },
   {
     "id": 203141,
@@ -5201,7 +5285,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784484185
+    "updated_at": 1784549499
   },
   {
     "id": 202253,
@@ -5434,7 +5518,7 @@
       "Mystery",
       "Romance"
     ],
-    "updated_at": 1784379737
+    "updated_at": 1784549473
   },
   {
     "id": 200455,
@@ -5523,7 +5607,7 @@
       "Slice of Life",
       "Supernatural"
     ],
-    "updated_at": 1784462595
+    "updated_at": 1784549494
   },
   {
     "id": 199597,
@@ -5690,7 +5774,7 @@
       "Action",
       "Drama"
     ],
-    "updated_at": 1784412201
+    "updated_at": 1784549496
   },
   {
     "id": 199404,
@@ -6044,7 +6128,7 @@
       "Sci-Fi",
       "Supernatural"
     ],
-    "updated_at": 1784506196
+    "updated_at": 1784549439
   },
   {
     "id": 198728,
@@ -6533,7 +6617,7 @@
       "Drama",
       "Supernatural"
     ],
-    "updated_at": 1784322108
+    "updated_at": 1784549496
   },
   {
     "id": 195539,
@@ -7142,7 +7226,7 @@
     "genres": [
       "Sports"
     ],
-    "updated_at": 1784520150
+    "updated_at": 1784549494
   },
   {
     "id": 191656,
@@ -7375,7 +7459,7 @@
       "Slice of Life",
       "Sports"
     ],
-    "updated_at": 1784458910
+    "updated_at": 1784549452
   },
   {
     "id": 189121,
@@ -7684,7 +7768,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784297606
+    "updated_at": 1784549496
   },
   {
     "id": 187261,
@@ -7825,7 +7909,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784462595
+    "updated_at": 1784549467
   },
   {
     "id": 186712,
@@ -7854,7 +7938,7 @@
       "Music",
       "Slice of Life"
     ],
-    "updated_at": 1784506164
+    "updated_at": 1784549495
   },
   {
     "id": 186541,
@@ -8491,7 +8575,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784530893
+    "updated_at": 1784549500
   },
   {
     "id": 180894,
@@ -8691,7 +8775,7 @@
       "Drama",
       "Sci-Fi"
     ],
-    "updated_at": 1784541708
+    "updated_at": 1784549495
   },
   {
     "id": 178467,
@@ -8721,7 +8805,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784492957
+    "updated_at": 1784549501
   },
   {
     "id": 178083,
@@ -8751,7 +8835,7 @@
       "Romance",
       "Supernatural"
     ],
-    "updated_at": 1784520159
+    "updated_at": 1784549442
   },
   {
     "id": 178031,
@@ -8918,7 +9002,7 @@
       "Fantasy",
       "Mahou Shoujo"
     ],
-    "updated_at": 1784494956
+    "updated_at": 1784549485
   },
   {
     "id": 174871,
@@ -9006,7 +9090,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784506132
+    "updated_at": 1784549501
   },
   {
     "id": 171952,
@@ -9178,7 +9262,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784506121
+    "updated_at": 1784549495
   },
   {
     "id": 169579,
@@ -9698,7 +9782,7 @@
       "Mystery",
       "Sci-Fi"
     ],
-    "updated_at": 1784542068
+    "updated_at": 1784549464
   },
   {
     "id": 159042,
@@ -9727,7 +9811,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784542167
+    "updated_at": 1784549434
   },
   {
     "id": 158987,
@@ -9786,7 +9870,7 @@
       "Mecha",
       "Sci-Fi"
     ],
-    "updated_at": 1784542296
+    "updated_at": 1784549495
   },
   {
     "id": 156631,
@@ -10785,7 +10869,7 @@
       "Action",
       "Sci-Fi"
     ],
-    "updated_at": 1784290918
+    "updated_at": 1784550126
   },
   {
     "id": 110206,
@@ -10814,7 +10898,7 @@
       "Horror",
       "Supernatural"
     ],
-    "updated_at": 1783945042
+    "updated_at": 1784550146
   },
   {
     "id": 109343,
