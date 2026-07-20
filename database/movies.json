@@ -187,7 +187,7 @@
     "genres": [
       "Sci-Fi"
     ],
-    "updated_at": 1784574187
+    "updated_at": 1784584987
   },
   {
     "id": 213908,
@@ -382,6 +382,33 @@
     "updated_at": 1784376216
   },
   {
+    "id": 213105,
+    "id_mal": 61978,
+    "url": "https://anilist.co/anime/213105",
+    "title": {
+      "english": "",
+      "romaji": "NIN CITY",
+      "native": "NIN CITY"
+    },
+    "description": "Tidak ada deskripsi.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b213105-vXY9HfZNc6aS.png",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 2,
+    "status": "FINISHED",
+    "score": null,
+    "genres": [
+      "Action"
+    ],
+    "updated_at": 1784584987
+  },
+  {
     "id": 212568,
     "id_mal": null,
     "url": "https://anilist.co/anime/212568",
@@ -404,7 +431,7 @@
     "status": "FINISHED",
     "score": 65,
     "genres": [],
-    "updated_at": 1784549501
+    "updated_at": 1784584987
   },
   {
     "id": 212539,
@@ -652,7 +679,7 @@
     "genres": [
       "Fantasy"
     ],
-    "updated_at": 1784563304
+    "updated_at": 1784584987
   },
   {
     "id": 210309,
@@ -1215,7 +1242,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784506205
+    "updated_at": 1784584987
   },
   {
     "id": 204949,
@@ -1304,7 +1331,7 @@
       "Mystery",
       "Sci-Fi"
     ],
-    "updated_at": 1784570502
+    "updated_at": 1784584987
   },
   {
     "id": 204066,
@@ -1333,7 +1360,7 @@
       "Drama",
       "Supernatural"
     ],
-    "updated_at": 1784563304
+    "updated_at": 1784584987
   },
   {
     "id": 203100,
@@ -2696,7 +2723,7 @@
       "Drama",
       "Fantasy"
     ],
-    "updated_at": 1784484185
+    "updated_at": 1784584987
   },
   {
     "id": 185537,
@@ -2837,7 +2864,7 @@
     "genres": [
       "Fantasy"
     ],
-    "updated_at": 1784556649
+    "updated_at": 1784584987
   },
   {
     "id": 184334,
@@ -2950,6 +2977,35 @@
       "Slice of Life"
     ],
     "updated_at": 1784469809
+  },
+  {
+    "id": 182333,
+    "id_mal": 59980,
+    "url": "https://anilist.co/anime/182333",
+    "title": {
+      "english": "",
+      "romaji": "Doraemon: Nobita no E Sekai Monogatari",
+      "native": "映画ドラえもん のび太の絵世界物語"
+    },
+    "description": "Doraemon, Nobita, and friends enter a painting into a medieval European world. In the painting, they meet Claire and Milo, children from the country of Artoria. They also encounter a small demon with wings named Chai. Together, they face a powerful enemy for a legendary jewel.\n<br><br>\n(Source: Anime News Network)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx182333-t7cPjoPHHPBp.png",
+    "banner_url": "",
+    "schedule": "Musim: WINTER 2025",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "WINTER",
+    "year": 2025,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 105,
+    "status": "FINISHED",
+    "score": 70,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "updated_at": 1784584987
   },
   {
     "id": 182317,
@@ -3434,7 +3490,7 @@
       "Drama",
       "Sci-Fi"
     ],
-    "updated_at": 1784549495
+    "updated_at": 1784584987
   },
   {
     "id": 178788,
@@ -4397,7 +4453,7 @@
     "genres": [
       "Fantasy"
     ],
-    "updated_at": 1784563304
+    "updated_at": 1784584987
   },
   {
     "id": 171291,
@@ -4511,7 +4567,7 @@
       "Music",
       "Slice of Life"
     ],
-    "updated_at": 1784502186
+    "updated_at": 1784584987
   },
   {
     "id": 171026,
@@ -4541,7 +4597,7 @@
       "Music",
       "Supernatural"
     ],
-    "updated_at": 1784570509
+    "updated_at": 1784584987
   },
   {
     "id": 170060,
@@ -4653,7 +4709,7 @@
       "Adventure",
       "Mystery"
     ],
-    "updated_at": 1784484185
+    "updated_at": 1784584987
   },
   {
     "id": 169746,
@@ -5128,7 +5184,7 @@
       "Music",
       "Slice of Life"
     ],
-    "updated_at": 1784506113
+    "updated_at": 1784584987
   },
   {
     "id": 164293,
@@ -5353,7 +5409,7 @@
       "Drama",
       "Sports"
     ],
-    "updated_at": 1784541814
+    "updated_at": 1784584987
   },
   {
     "id": 163143,
@@ -7415,6 +7471,33 @@
     "updated_at": 1784376216
   },
   {
+    "id": 147462,
+    "id_mal": 25987,
+    "url": "https://anilist.co/anime/147462",
+    "title": {
+      "english": "",
+      "romaji": "Tensai Bakavon: Yomigaeru Flanders no Inu",
+      "native": "天才バカヴォン ～蘇るフランダースの犬～"
+    },
+    "description": "In this spoof, the orphan Nello and his dog Patrash decide to take revenge instead of going to heaven. Nello and Patrash now orchestrate a shadowy organization, and Bakabon's family decides to confront them to save the world.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b147462-qn29yJzrt6bW.jpg",
+    "banner_url": "",
+    "schedule": "Musim: SPRING 2015",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "SPRING",
+    "year": 2015,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 85,
+    "status": "FINISHED",
+    "score": null,
+    "genres": [
+      "Comedy"
+    ],
+    "updated_at": 1784584987
+  },
+  {
     "id": 147189,
     "id_mal": 51585,
     "url": "https://anilist.co/anime/147189",
@@ -7751,6 +7834,31 @@
     "score": null,
     "genres": [],
     "updated_at": 1784372516
+  },
+  {
+    "id": 143492,
+    "id_mal": 55714,
+    "url": "https://anilist.co/anime/143492",
+    "title": {
+      "english": "",
+      "romaji": "RETRO FUTURE",
+      "native": "RETRO FUTURE"
+    },
+    "description": "A \"remix version\" of Modern with a soundtrack by Matsuo Oono, which turns the satisfying orderliness of Modern into a cold, disturbing landscape.\n<br><br>\n\"The world of the future I imagined in childhood is different from the world of the future I can visit now.\"",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b143492-iTZyd3yeIGYE.png",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 7,
+    "status": "FINISHED",
+    "score": null,
+    "genres": [],
+    "updated_at": 1784584987
   },
   {
     "id": 143386,
@@ -8269,6 +8377,33 @@
     "updated_at": 1784390608
   },
   {
+    "id": 140632,
+    "id_mal": null,
+    "url": "https://anilist.co/anime/140632",
+    "title": {
+      "english": "OTONARI-POOL",
+      "romaji": "Otonari Pool",
+      "native": "おとなりプール"
+    },
+    "description": "Graduation work of Saki Morita at Tama Art University.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b140632-dW7aaCpcs9o2.png",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 6,
+    "status": "FINISHED",
+    "score": null,
+    "genres": [
+      "Slice of Life"
+    ],
+    "updated_at": 1784584987
+  },
+  {
     "id": 140624,
     "id_mal": null,
     "url": "https://anilist.co/anime/140624",
@@ -8346,6 +8481,31 @@
     "score": null,
     "genres": [],
     "updated_at": 1784502186
+  },
+  {
+    "id": 140591,
+    "id_mal": null,
+    "url": "https://anilist.co/anime/140591",
+    "title": {
+      "english": "TAN -The dream of a young actor-",
+      "romaji": "Dan",
+      "native": "旦"
+    },
+    "description": "2015 First year Graduation work of Jixin Zhou at Tama Art University.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx140591-la1YH5xc7iuw.png",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/140591-PlvN8UgDBGq5.jpg",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 2,
+    "status": "FINISHED",
+    "score": null,
+    "genres": [],
+    "updated_at": 1784584987
   },
   {
     "id": 140587,
@@ -9242,7 +9402,7 @@
       "Action",
       "Comedy"
     ],
-    "updated_at": 1784574187
+    "updated_at": 1784584987
   },
   {
     "id": 133898,
@@ -9588,6 +9748,33 @@
       "Fantasy"
     ],
     "updated_at": 1784549438
+  },
+  {
+    "id": 131642,
+    "id_mal": 28293,
+    "url": "https://anilist.co/anime/131642",
+    "title": {
+      "english": "",
+      "romaji": "Shimajirou to Ookinaki",
+      "native": "しまじろうと おおきなき"
+    },
+    "description": "Tidak ada deskripsi.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx131642-z3LvmloIXoKu.jpg",
+    "banner_url": "",
+    "schedule": "Musim: WINTER 2015",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "WINTER",
+    "year": 2015,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 54,
+    "status": "FINISHED",
+    "score": 44,
+    "genres": [
+      "Adventure"
+    ],
+    "updated_at": 1784584987
   },
   {
     "id": 131573,
@@ -10046,6 +10233,34 @@
     "updated_at": 1784459778
   },
   {
+    "id": 129561,
+    "id_mal": 44157,
+    "url": "https://anilist.co/anime/129561",
+    "title": {
+      "english": "",
+      "romaji": "Seer 5  Da Dianying: Leishen Jueqi",
+      "native": "赛尔号大电影5：雷神崛起"
+    },
+    "description": "Tidak ada deskripsi.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx129561-P9tqEeypCENO.png",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 90,
+    "status": "FINISHED",
+    "score": null,
+    "genres": [
+      "Adventure",
+      "Fantasy"
+    ],
+    "updated_at": 1784584987
+  },
+  {
     "id": 129556,
     "id_mal": 44156,
     "url": "https://anilist.co/anime/129556",
@@ -10355,6 +10570,33 @@
       "Music"
     ],
     "updated_at": 1784473455
+  },
+  {
+    "id": 127800,
+    "id_mal": 44587,
+    "url": "https://anilist.co/anime/127800",
+    "title": {
+      "english": "",
+      "romaji": "Nemurenai Yoru no Tsuki",
+      "native": "眠れない夜の月"
+    },
+    "description": "A squirrel and a boy set out on a journey together to restore daylight. They must find and release the moon stuck high up on a tree somewhere far, far away.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx127800-mbLTBwTVm2EZ.jpg",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 27,
+    "status": "FINISHED",
+    "score": null,
+    "genres": [
+      "Fantasy"
+    ],
+    "updated_at": 1784584987
   },
   {
     "id": 127331,
@@ -10691,7 +10933,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784412201
+    "updated_at": 1784584987
   },
   {
     "id": 126275,
@@ -11391,6 +11633,62 @@
       "Sci-Fi"
     ],
     "updated_at": 1784530893
+  },
+  {
+    "id": 121183,
+    "id_mal": 42466,
+    "url": "https://anilist.co/anime/121183",
+    "title": {
+      "english": "Mr. Black: Green Star",
+      "romaji": "Hei Mao Jingzhang: Feicui Zhi Xing",
+      "native": "黑猫警长之翡翠之星"
+    },
+    "description": "In this exciting Chinese action flick, Mr. Black is back! After notorious criminal rat, One-Ear escapes, Mr. Black organises a all-points bulletin to capture him. But more trouble is brewing: a mad ape scientist, Dr. Big Ape seeks revenge on those who have wronged him. Now joining forces with One-Ear, they have a diabolical plan up their sleeve: to kidnap the citizens and banish them to space using the \"Emerald Star\" on opening day. With the help of his fellow officers and a young pig partner, Mr. Black faces his foes in an epic showdown of the \"Emerald Star\"\n<br><br>\n(Source: IMDb)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx121183-Hza71pz5UkpJ.jpg",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 83,
+    "status": "FINISHED",
+    "score": null,
+    "genres": [
+      "Action",
+      "Sci-Fi"
+    ],
+    "updated_at": 1784584987
+  },
+  {
+    "id": 121119,
+    "id_mal": 42297,
+    "url": "https://anilist.co/anime/121119",
+    "title": {
+      "english": "",
+      "romaji": "Sollotalchulgwi",
+      "native": "솔로탈출귀"
+    },
+    "description": "After serving his military duty, Junghoon, who has never had a girlfriend, returns to college. He has a secret crush on Eunji, a member of the school’s paranormal activity research club called Mysteria, in which he also belongs. One day, Junghoon meets Jisun, a virgin ghost, by chance, and Jisun asks him for help with her Scare tests, the exams that she needs to pass in order to be reborn. In return, Junghoon makes an arrangement with Jisun to help him score points with Eunji. While trying to help each other’s problems, the two run into disagreements, but their feelings for each other grow deeper as time passes.<br><br>(Source: KMDb)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx121119-8L4xOn4xHp6z.jpg",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 84,
+    "status": "FINISHED",
+    "score": null,
+    "genres": [
+      "Romance",
+      "Supernatural"
+    ],
+    "updated_at": 1784584987
   },
   {
     "id": 121115,
@@ -12782,6 +13080,118 @@
     "updated_at": 1784502186
   },
   {
+    "id": 117563,
+    "id_mal": null,
+    "url": "https://anilist.co/anime/117563",
+    "title": {
+      "english": "The Yellow Ball",
+      "romaji": "The Yellow Ball",
+      "native": "The Yellow Ball"
+    },
+    "description": "A mysterious yellow ball falls down into the present city across time and space. It involves many people and unfolds various dramas.\n<br><br>\n1st year work 2015, Tokyo University of the Arts, Graduate School of Film and New Media, Department of Animation.\n<br><br>\n(Source:  Geidai Animation)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b117563-Ffh8cTyVumN7.jpg",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/117563-cN5K0F6d9dAB.jpg",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 4,
+    "status": "FINISHED",
+    "score": null,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Psychological"
+    ],
+    "updated_at": 1784584987
+  },
+  {
+    "id": 117562,
+    "id_mal": null,
+    "url": "https://anilist.co/anime/117562",
+    "title": {
+      "english": "Misfit Lil’ Sparrow",
+      "romaji": "Chunko no nande?",
+      "native": "チュン子のなんで？"
+    },
+    "description": "A little sparrow, Chunko, cannot make her head still like other sparrows.She wonders why.\n<br><br>\n1st year work 2015, Tokyo University of the Arts, Graduate School of Film and New Media.\n<br><br>\n(Source:  Geidai Animation)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b117562-SzZBBttHtQ84.jpg",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/117562-ADtBwFXvlWvv.jpg",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 5,
+    "status": "FINISHED",
+    "score": null,
+    "genres": [
+      "Music",
+      "Psychological"
+    ],
+    "updated_at": 1784584987
+  },
+  {
+    "id": 117561,
+    "id_mal": null,
+    "url": "https://anilist.co/anime/117561",
+    "title": {
+      "english": "Rain shower",
+      "romaji": "Tooriame",
+      "native": "通り雨"
+    },
+    "description": "It happens at a half-demolished shopping street. After a brief rain, there comes a moment of another landscape.\n<br><br>\n1st year work 2015, Tokyo University of the Arts, Graduate School of Film and New Media, Department of Animation.\n<br><br>\n(Source:  Geidai Animation)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b117561-QS8p8jFRuQ3H.jpg",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/117561-Y8Sfyoje93sP.jpg",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 5,
+    "status": "FINISHED",
+    "score": null,
+    "genres": [
+      "Psychological",
+      "Slice of Life"
+    ],
+    "updated_at": 1784584987
+  },
+  {
+    "id": 117560,
+    "id_mal": 53659,
+    "url": "https://anilist.co/anime/117560",
+    "title": {
+      "english": "Melting down",
+      "romaji": "Sukoyakana yugami",
+      "native": "すこやかな歪み"
+    },
+    "description": "The fear to be ruined calmly without any conscience. Everybody is getting distorted soundly and gently.\n<br><br>\n1st year work 2015, Tokyo University of the Arts, Graduate School of Film and New Media, Department of Animation.\n<br><br>\n(Source:  Geidai Animation)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b117560-DOhGvLIHGeVW.jpg",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/117560-76WQgwD6uXg3.jpg",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 3,
+    "status": "FINISHED",
+    "score": null,
+    "genres": [
+      "Psychological"
+    ],
+    "updated_at": 1784584987
+  },
+  {
     "id": 117556,
     "id_mal": 41674,
     "url": "https://anilist.co/anime/117556",
@@ -12978,7 +13388,7 @@
       "Fantasy",
       "Supernatural"
     ],
-    "updated_at": 1784520159
+    "updated_at": 1784584987
   },
   {
     "id": 116740,
@@ -14878,7 +15288,7 @@
       "Drama",
       "Slice of Life"
     ],
-    "updated_at": 1784549730
+    "updated_at": 1784584987
   },
   {
     "id": 112030,
@@ -14934,7 +15344,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784549744
+    "updated_at": 1784584987
   },
   {
     "id": 112018,
@@ -17941,6 +18351,58 @@
     "updated_at": 1784502186
   },
   {
+    "id": 106561,
+    "id_mal": 49182,
+    "url": "https://anilist.co/anime/106561",
+    "title": {
+      "english": "Zdravstvuite!",
+      "romaji": "Zdravstvuite!",
+      "native": "ズドラーストヴィチェ！"
+    },
+    "description": "On a summer day an strange man who teaches Russian at the beach took me to a town. The familiar town looked totally fresh from a different point of view. The man should be there at the beach tomorrow. <br><br>\nGraduate Work 2015 by Yoko Yuki, Tokyo University of the Arts, Graduate School of Film and New Media, Department of Animation. <br><br>\nPrizes:<br>\n- ASK? FILM FESTIVAL 2015 11th ANNIVERSARY, ASK? award<br>\n- Image forum Festival 2015, audience award<br>\n- Inter Collage Animation Festival 2015, audience award<br>\n- MPTE AWARDS 2015, Aoi thubasa award\n<br><br>\n(Source: Geidai Animation)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx106561-RefIJtPzP7pP.png",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/106561-UmATC2mIKCSj.jpg",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 6,
+    "status": "FINISHED",
+    "score": 46,
+    "genres": [
+      "Slice of Life"
+    ],
+    "updated_at": 1784584987
+  },
+  {
+    "id": 106560,
+    "id_mal": null,
+    "url": "https://anilist.co/anime/106560",
+    "title": {
+      "english": "",
+      "romaji": "Tepid Bath",
+      "native": "Tepid Bath"
+    },
+    "description": "The borderline of water, a body, or a bathtub gets more and more unclear. All are mixed together in the lukewarm water. <br> <br>\nGraduate Work 2015 by Tsumugi Harunari, Tokyo University of the Arts, Graduate School of Film and New Media, Department of Animation. <br><br>\n(Source: Geidai Animation)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx106560-6IoWDJtxXahn.jpg",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/106560-4efUC4UymWj6.jpg",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 3,
+    "status": "FINISHED",
+    "score": null,
+    "genres": [],
+    "updated_at": 1784584987
+  },
+  {
     "id": 106559,
     "id_mal": null,
     "url": "https://anilist.co/anime/106559",
@@ -18024,6 +18486,34 @@
     "updated_at": 1784502186
   },
   {
+    "id": 106556,
+    "id_mal": null,
+    "url": "https://anilist.co/anime/106556",
+    "title": {
+      "english": "Wild Boys Advance",
+      "romaji": "Chou Radio Taisou",
+      "native": "超ラジオ体操"
+    },
+    "description": "An ensemble play with men full of distorted energy. \n<br><br>\nGraduate Work 2015 by Koya, Tokyo University of the Arts, Graduate School of Film and New Media, Department of Animation. \n<br><br>\n(Source: Geidai Animation)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx106556-giNbiuGe1ePB.jpg",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/106556-VrY5pXwQkAM7.jpg",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 5,
+    "status": "FINISHED",
+    "score": null,
+    "genres": [
+      "Comedy",
+      "Psychological"
+    ],
+    "updated_at": 1784584987
+  },
+  {
     "id": 106555,
     "id_mal": null,
     "url": "https://anilist.co/anime/106555",
@@ -18077,6 +18567,58 @@
       "Slice of Life"
     ],
     "updated_at": 1784563304
+  },
+  {
+    "id": 106546,
+    "id_mal": 38700,
+    "url": "https://anilist.co/anime/106546",
+    "title": {
+      "english": "",
+      "romaji": "Tsukiyo to Opal",
+      "native": "月夜＆オパール"
+    },
+    "description": "Half asleep with my eyes closed, my conscience flies beyond time and space and I transform myself to all the life forms existing. I become the universe and the universe becomes me, until I fall asleep.... It is a song to pray for the existence of heart and soul at an awakening. <br>\n<br>\n Graduate Work 2015 by ShiShi Yamazaki, Tokyo University of the Arts, Graduate School of Film and New Media, Department of Animation. <br>\n<br>\n(Source: Geidai Animation)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx106546-COX1b6XdugBb.jpg",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/106546-DHcmPc1mQ8Hl.jpg",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 3,
+    "status": "FINISHED",
+    "score": 44,
+    "genres": [],
+    "updated_at": 1784584987
+  },
+  {
+    "id": 106545,
+    "id_mal": 39704,
+    "url": "https://anilist.co/anime/106545",
+    "title": {
+      "english": "Missing you",
+      "romaji": "Shiroi Unabara",
+      "native": "白いうなばら"
+    },
+    "description": "Mother secretly threw a letter of her daughter in the snow ocean. The daughter in suspicion, followed her mother and sneak into a boat. She waits for a thaw with unreached feelings. <br>\n<br>\n Graduate Work 2015 by Satomi Maiya, Tokyo University of the Arts, Graduate School of Film and New Media, Department of Animation. <br>\n<br>\n(Source: Geidai Animation)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx106545-bNI1IfewkjpG.jpg",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/106545-TejTWY4BPFcK.jpg",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 6,
+    "status": "FINISHED",
+    "score": 54,
+    "genres": [
+      "Drama"
+    ],
+    "updated_at": 1784584987
   },
   {
     "id": 106539,
@@ -18623,7 +19165,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784549484
+    "updated_at": 1784584987
   },
   {
     "id": 104990,
@@ -18960,6 +19502,34 @@
       "Fantasy"
     ],
     "updated_at": 1783947280
+  },
+  {
+    "id": 104544,
+    "id_mal": 32823,
+    "url": "https://anilist.co/anime/104544",
+    "title": {
+      "english": "Where's the Dragon?",
+      "romaji": "Long Zai Na Li",
+      "native": "龙在哪里?"
+    },
+    "description": "The Zodiac Dragon is missing, and the World plunges into chaos. Jen, a righteous ten year-old girl, must join forces with the legendary Zodiac Animals to find Dragon, restore order to the world, and save humanity.\n<br><br>\nWhen the Jade Emperor hears of Dragon’s five hundred year disappearance, impetuously he declares he is hosting a race, opened to creatures of all kinds, to replace the existing Zodiac. Harmony on Earth is severely threatened.\n<br><br>\nBut wait, behind the entire calamity is a demonic Roach King conspiring a coup d’état of the entire Zodiac. Cockroaches! Millions and millions of cockroaches, ready to rule the World!\n<br><br>\nOn the day Jen inadvertently finds a Dragon scale, she encounters three talking animals -- a Pig, a Sheep, and a Horse - three of the twelve Zodiacs. Apparently, the scale is the only clue to Dragon’s whereabouts. And to battle Roach King, Jen and the three have to find and unite the rest of the original Zodiac -- Rat, Cow, Tiger, Rabbit, Snake, Monkey, Rooster, and Dog.\n<br><br>\nTogether, they embark on a journey that though dangerous, turns out to be rewardingly heartwarming. \n<br><br>\n(Source: Animation World Network)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx104544-u1rVG6iADtI8.jpg",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 97,
+    "status": "FINISHED",
+    "score": null,
+    "genres": [
+      "Adventure",
+      "Comedy"
+    ],
+    "updated_at": 1784584987
   },
   {
     "id": 104460,
@@ -19985,6 +20555,33 @@
     "updated_at": 1784502186
   },
   {
+    "id": 103961,
+    "id_mal": 38137,
+    "url": "https://anilist.co/anime/103961",
+    "title": {
+      "english": "",
+      "romaji": "Zhuzhu Xia: Zhong Ji Jue Zhan",
+      "native": "猪猪侠 终极决战"
+    },
+    "description": "G.G. Bond and his team have eliminated all monster threats. So they have been using a virtual reality simulator to stay on top in case of a threat. In this simulator, G.G. Bond is reunited with his father. But unbeknownst to him, his father is the King of Darkness and merges virtual time and space with reality. Unable to tell apart illusions with realness, the King of Darkness attacks while the heroes are confused.\n",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/103961-geppCqOeW7gi.jpg",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 90,
+    "status": "FINISHED",
+    "score": null,
+    "genres": [
+      "Sci-Fi"
+    ],
+    "updated_at": 1784584987
+  },
+  {
     "id": 103951,
     "id_mal": 29657,
     "url": "https://anilist.co/anime/103951",
@@ -20288,6 +20885,34 @@
       "Romance"
     ],
     "updated_at": 1784467431
+  },
+  {
+    "id": 103703,
+    "id_mal": 33239,
+    "url": "https://anilist.co/anime/103703",
+    "title": {
+      "english": "",
+      "romaji": "Saenggakboda Markeun",
+      "native": "생각보다 맑은"
+    },
+    "description": "Our lives in the real world stand at the crossroads of countless decisions. The characters of this film—Maro and Crow, the department chief Ms. Kim, Sweet Potato and Titi, Ye-mi and Gang-bo—live in an imaginary animated world, but they face the real life concerns that confront all of us. This story takes a funny yet bittersweet look at the vast gulf between the reality and ideals of our lives at different moments—before we make a choice, during the process of choosing, and after a choice has been made.\n<br><br>\n(Source: Korean Film Biz Zone)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/103703-oFKDrQ5PoTD4.jpg",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 77,
+    "status": "FINISHED",
+    "score": null,
+    "genres": [
+      "Drama",
+      "Slice of Life"
+    ],
+    "updated_at": 1784584987
   },
   {
     "id": 103702,
@@ -20891,7 +21516,7 @@
     "status": "FINISHED",
     "score": 49,
     "genres": [],
-    "updated_at": 1783947541
+    "updated_at": 1784584987
   },
   {
     "id": 103439,
@@ -21558,6 +22183,35 @@
       "Slice of Life"
     ],
     "updated_at": 1784549472
+  },
+  {
+    "id": 102985,
+    "id_mal": 33706,
+    "url": "https://anilist.co/anime/102985",
+    "title": {
+      "english": "Kwai Boo",
+      "romaji": "Gui Bao: Baoxiao Chuang Yuzhou",
+      "native": "桂宝之爆笑闯宇宙"
+    },
+    "description": "Tidak ada deskripsi.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx102985-R5YPpKwdkeyP.jpg",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 95,
+    "status": "FINISHED",
+    "score": null,
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Sci-Fi"
+    ],
+    "updated_at": 1784584987
   },
   {
     "id": 102981,
@@ -23851,7 +24505,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784468094
+    "updated_at": 1784584987
   },
   {
     "id": 102157,
@@ -24065,7 +24719,7 @@
       "Music",
       "Slice of Life"
     ],
-    "updated_at": 1784502186
+    "updated_at": 1784584987
   },
   {
     "id": 101975,
@@ -26190,7 +26844,7 @@
       "Mecha",
       "Sci-Fi"
     ],
-    "updated_at": 1784470019
+    "updated_at": 1784584987
   },
   {
     "id": 99705,
@@ -26743,7 +27397,7 @@
       "Drama",
       "Sports"
     ],
-    "updated_at": 1784557075
+    "updated_at": 1784584987
   },
   {
     "id": 98876,
@@ -28764,7 +29418,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784520159
+    "updated_at": 1784584987
   },
   {
     "id": 21864,
@@ -30575,7 +31229,7 @@
       "Sci-Fi",
       "Supernatural"
     ],
-    "updated_at": 1784304401
+    "updated_at": 1784584987
   },
   {
     "id": 21140,
@@ -30858,7 +31512,7 @@
     "genres": [
       "Sci-Fi"
     ],
-    "updated_at": 1784440942
+    "updated_at": 1784584987
   },
   {
     "id": 21071,
@@ -30881,12 +31535,12 @@
     "episodes": 1,
     "duration": 25,
     "status": "FINISHED",
-    "score": 58,
+    "score": 59,
     "genres": [
       "Music",
       "Slice of Life"
     ],
-    "updated_at": 1783962843
+    "updated_at": 1784584987
   },
   {
     "id": 21070,
@@ -31003,7 +31657,35 @@
       "Mystery",
       "Sci-Fi"
     ],
-    "updated_at": 1784325887
+    "updated_at": 1784584987
+  },
+  {
+    "id": 21032,
+    "id_mal": 29756,
+    "url": "https://anilist.co/anime/21032",
+    "title": {
+      "english": "Sindbad: The Flying Princess and the Secret Island",
+      "romaji": "Sinbad: Sora Tobu Hime to Himitsu no Shima",
+      "native": "シンドバッド 空とぶ姫と秘密の島"
+    },
+    "description": "The story begins when Sinbad, the sailor made famous in the One Thousand and One Nights (Arabian Nights) stories, dreams of voyaging to an unknown world. He and his pet monkey Mimi encounter Sana, a girl riding a flying wooden horse. \"The wind shifted….\"\n<br><br>\n(Source: Anime News Network)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21032-IJZDw1QKrGei.png",
+    "banner_url": "",
+    "schedule": "Musim: SUMMER 2015",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "SUMMER",
+    "year": 2015,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 51,
+    "status": "FINISHED",
+    "score": 55,
+    "genres": [
+      "Adventure",
+      "Drama"
+    ],
+    "updated_at": 1784584987
   },
   {
     "id": 21008,
@@ -31584,7 +32266,7 @@
       "Comedy",
       "Slice of Life"
     ],
-    "updated_at": 1784481294
+    "updated_at": 1784584987
   },
   {
     "id": 20802,
@@ -31883,7 +32565,7 @@
       "Romance",
       "Sci-Fi"
     ],
-    "updated_at": 1784574187
+    "updated_at": 1784584987
   },
   {
     "id": 20737,
@@ -32235,7 +32917,7 @@
       "Mystery",
       "Psychological"
     ],
-    "updated_at": 1784466165
+    "updated_at": 1784584987
   },
   {
     "id": 20549,
@@ -32434,6 +33116,35 @@
     "updated_at": 1784502186
   },
   {
+    "id": 20511,
+    "id_mal": 29855,
+    "url": "https://anilist.co/anime/20511",
+    "title": {
+      "english": "",
+      "romaji": "Meiji Tokyo Renka: Yumihari no Serenade",
+      "native": "劇場版 明治東亰恋伽 ～弦月の小夜曲～"
+    },
+    "description": "On an evening lit by a crimson full moon, an ordinary high school girl named Mei Ayazuki meets a self-proclaimed magician named Charlie at a festival. Through Charlie's magic, she time-travels to the Meiji era in Tokyo, where she meets and falls in love with various great historical figures from that time period.\n<br><br>\n(Source: Anime News Network)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/20511-uNqlt45AGrSC.jpg",
+    "banner_url": "",
+    "schedule": "Musim: SUMMER 2015",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "SUMMER",
+    "year": 2015,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 60,
+    "status": "FINISHED",
+    "score": 56,
+    "genres": [
+      "Drama",
+      "Romance",
+      "Supernatural"
+    ],
+    "updated_at": 1784584987
+  },
+  {
     "id": 20505,
     "id_mal": 20889,
     "url": "https://anilist.co/anime/20505",
@@ -32486,7 +33197,7 @@
     "genres": [
       "Adventure"
     ],
-    "updated_at": 1784530893
+    "updated_at": 1784584987
   },
   {
     "id": 20502,
@@ -34662,7 +35373,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784466165
+    "updated_at": 1784584987
   },
   {
     "id": 16662,
@@ -35424,7 +36135,7 @@
       "Mecha",
       "Sci-Fi"
     ],
-    "updated_at": 1784574417
+    "updated_at": 1784584987
   },
   {
     "id": 15199,
@@ -35482,7 +36193,7 @@
       "Mecha",
       "Sci-Fi"
     ],
-    "updated_at": 1784574431
+    "updated_at": 1784584987
   },
   {
     "id": 15177,
@@ -36618,7 +37329,7 @@
       "Fantasy",
       "Slice of Life"
     ],
-    "updated_at": 1784574791
+    "updated_at": 1784584987
   },
   {
     "id": 13175,
@@ -37587,7 +38298,7 @@
       "Horror",
       "Supernatural"
     ],
-    "updated_at": 1784576106
+    "updated_at": 1784584987
   },
   {
     "id": 12113,
@@ -37619,7 +38330,7 @@
       "Horror",
       "Supernatural"
     ],
-    "updated_at": 1784576120
+    "updated_at": 1784584987
   },
   {
     "id": 12053,
@@ -39487,7 +40198,7 @@
       "Romance",
       "Supernatural"
     ],
-    "updated_at": 1784576958
+    "updated_at": 1784584987
   },
   {
     "id": 10218,
@@ -47077,7 +47788,7 @@
       "Supernatural",
       "Thriller"
     ],
-    "updated_at": 1784570503
+    "updated_at": 1784584987
   },
   {
     "id": 5204,
@@ -47108,7 +47819,7 @@
       "Supernatural",
       "Thriller"
     ],
-    "updated_at": 1784502186
+    "updated_at": 1784584987
   },
   {
     "id": 5178,
@@ -47478,7 +48189,7 @@
     "genres": [
       "Action"
     ],
-    "updated_at": 1784563304
+    "updated_at": 1784584987
   },
   {
     "id": 4943,
@@ -48585,7 +49296,7 @@
       "Drama",
       "Fantasy"
     ],
-    "updated_at": 1784469809
+    "updated_at": 1784584987
   },
   {
     "id": 4147,
@@ -48673,7 +49384,7 @@
       "Romance",
       "Sci-Fi"
     ],
-    "updated_at": 1784502186
+    "updated_at": 1784584987
   },
   {
     "id": 4106,
@@ -48702,7 +49413,7 @@
       "Comedy",
       "Sci-Fi"
     ],
-    "updated_at": 1784520159
+    "updated_at": 1784584987
   },
   {
     "id": 4097,
@@ -48983,7 +49694,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784480696
+    "updated_at": 1784584987
   },
   {
     "id": 3847,
@@ -49754,7 +50465,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784322117
+    "updated_at": 1784584987
   },
   {
     "id": 3178,
@@ -54689,7 +55400,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784563304
+    "updated_at": 1784584987
   },
   {
     "id": 1825,
@@ -54716,7 +55427,7 @@
     "genres": [
       "Drama"
     ],
-    "updated_at": 1784489473
+    "updated_at": 1784584987
   },
   {
     "id": 1824,
@@ -54743,7 +55454,7 @@
     "genres": [
       "Drama"
     ],
-    "updated_at": 1784530893
+    "updated_at": 1784584987
   },
   {
     "id": 1815,
@@ -55571,7 +56282,7 @@
       "Fantasy",
       "Mystery"
     ],
-    "updated_at": 1784490139
+    "updated_at": 1784584987
   },
   {
     "id": 1435,
@@ -56088,7 +56799,7 @@
       "Drama",
       "Sci-Fi"
     ],
-    "updated_at": 1784490176
+    "updated_at": 1784584987
   },
   {
     "id": 1358,
@@ -57442,7 +58153,7 @@
       "Drama",
       "Sci-Fi"
     ],
-    "updated_at": 1784574187
+    "updated_at": 1784584987
   },
   {
     "id": 1033,
@@ -57558,7 +58269,7 @@
       "Drama",
       "Fantasy"
     ],
-    "updated_at": 1784574187
+    "updated_at": 1784584987
   },
   {
     "id": 1029,
@@ -57615,7 +58326,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784570509
+    "updated_at": 1784584987
   },
   {
     "id": 1010,
@@ -57887,7 +58598,7 @@
       "Adventure",
       "Sci-Fi"
     ],
-    "updated_at": 1784498548
+    "updated_at": 1784584987
   },
   {
     "id": 902,
@@ -57974,7 +58685,7 @@
       "Adventure",
       "Sci-Fi"
     ],
-    "updated_at": 1784469809
+    "updated_at": 1784584987
   },
   {
     "id": 899,
@@ -58238,7 +58949,7 @@
       "Comedy",
       "Supernatural"
     ],
-    "updated_at": 1784520159
+    "updated_at": 1784584987
   },
   {
     "id": 884,
@@ -58324,7 +59035,7 @@
       "Adventure",
       "Comedy"
     ],
-    "updated_at": 1784315890
+    "updated_at": 1784584987
   },
   {
     "id": 875,
@@ -59325,7 +60036,7 @@
       "Romance",
       "Sci-Fi"
     ],
-    "updated_at": 1784570509
+    "updated_at": 1784584987
   },
   {
     "id": 536,
@@ -59354,7 +60065,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784322117
+    "updated_at": 1784584987
   },
   {
     "id": 531,
@@ -60787,7 +61498,7 @@
       "Fantasy",
       "Supernatural"
     ],
-    "updated_at": 1784419251
+    "updated_at": 1784585181
   },
   {
     "id": 187,
@@ -60817,7 +61528,7 @@
       "Romance",
       "Sports"
     ],
-    "updated_at": 1784427260
+    "updated_at": 1784585213
   },
   {
     "id": 164,
@@ -60847,7 +61558,7 @@
       "Drama",
       "Fantasy"
     ],
-    "updated_at": 1784549445
+    "updated_at": 1784585268
   },
   {
     "id": 155,
@@ -60879,7 +61590,7 @@
       "Sci-Fi",
       "Supernatural"
     ],
-    "updated_at": 1784427251
+    "updated_at": 1784585281
   },
   {
     "id": 88,
@@ -60908,7 +61619,7 @@
       "Mecha",
       "Sci-Fi"
     ],
-    "updated_at": 1784570502
+    "updated_at": 1784585421
   },
   {
     "id": 87,
@@ -60937,7 +61648,7 @@
       "Mecha",
       "Sci-Fi"
     ],
-    "updated_at": 1784419243
+    "updated_at": 1784585423
   },
   {
     "id": 83,
@@ -60966,7 +61677,7 @@
       "Mecha",
       "Sci-Fi"
     ],
-    "updated_at": 1784458910
+    "updated_at": 1784585428
   },
   {
     "id": 54,

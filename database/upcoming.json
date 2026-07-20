@@ -167,7 +167,7 @@
       "Comedy",
       "Romance"
     ],
-    "updated_at": 1784498548
+    "updated_at": 1784584987
   },
   {
     "id": 214044,
@@ -222,7 +222,7 @@
     "genres": [
       "Sci-Fi"
     ],
-    "updated_at": 1784574187
+    "updated_at": 1784584987
   },
   {
     "id": 213987,
@@ -1008,7 +1008,7 @@
       "Comedy",
       "Romance"
     ],
-    "updated_at": 1784549495
+    "updated_at": 1784584987
   },
   {
     "id": 213656,
@@ -1150,7 +1150,7 @@
       "Comedy",
       "Romance"
     ],
-    "updated_at": 1784494957
+    "updated_at": 1784584987
   },
   {
     "id": 213580,
@@ -2499,7 +2499,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784563304
+    "updated_at": 1784584987
   },
   {
     "id": 211338,
@@ -2903,6 +2903,35 @@
     "updated_at": 1784325876
   },
   {
+    "id": 210073,
+    "id_mal": 63850,
+    "url": "https://anilist.co/anime/210073",
+    "title": {
+      "english": "",
+      "romaji": "Golden Kamuy: Saishuushou - Bousou Ressha-hen",
+      "native": "ゴールデンカムイ 最終章 暴走列車編"
+    },
+    "description": "Sequel to the fifth and final season of <i>Golden Kamuy</i>.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx210073-ZyVP60Cn7pLJ.jpg",
+    "banner_url": "",
+    "schedule": "Musim: WINTER 2027",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "WINTER",
+    "year": 2027,
+    "format": "",
+    "episodes": null,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy"
+    ],
+    "updated_at": 1784584987
+  },
+  {
     "id": 209984,
     "id_mal": null,
     "url": "https://anilist.co/anime/209984",
@@ -2961,7 +2990,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784570509
+    "updated_at": 1784584987
   },
   {
     "id": 209963,
@@ -3162,7 +3191,7 @@
       "Comedy",
       "Romance"
     ],
-    "updated_at": 1784506211
+    "updated_at": 1784584987
   },
   {
     "id": 209670,
@@ -4138,7 +4167,7 @@
       "Drama",
       "Romance"
     ],
-    "updated_at": 1784549488
+    "updated_at": 1784584987
   },
   {
     "id": 205907,
@@ -4400,7 +4429,7 @@
       "Drama",
       "Psychological"
     ],
-    "updated_at": 1784498548
+    "updated_at": 1784584987
   },
   {
     "id": 205081,
@@ -4430,7 +4459,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784506205
+    "updated_at": 1784584987
   },
   {
     "id": 205068,
@@ -4665,7 +4694,7 @@
       "Mystery",
       "Sci-Fi"
     ],
-    "updated_at": 1784570502
+    "updated_at": 1784584987
   },
   {
     "id": 204579,
@@ -5290,7 +5319,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784570509
+    "updated_at": 1784584987
   },
   {
     "id": 202429,
@@ -5373,7 +5402,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784549499
+    "updated_at": 1784584987
   },
   {
     "id": 202253,
@@ -6129,6 +6158,35 @@
     "updated_at": 1784268108
   },
   {
+    "id": 199088,
+    "id_mal": null,
+    "url": "https://anilist.co/anime/199088",
+    "title": {
+      "english": "",
+      "romaji": "Shenguo Zhi Shang 2",
+      "native": "神国之上 第二季"
+    },
+    "description": "Tidak ada deskripsi.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199088-qHctPcrzqDRg.jpg",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "ONA",
+    "episodes": 24,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "updated_at": 1784584987
+  },
+  {
     "id": 199068,
     "id_mal": 62534,
     "url": "https://anilist.co/anime/199068",
@@ -6327,7 +6385,7 @@
     "genres": [
       "Action"
     ],
-    "updated_at": 1784397736
+    "updated_at": 1784584987
   },
   {
     "id": 198696,
@@ -7488,7 +7546,7 @@
       "Romance",
       "Sci-Fi"
     ],
-    "updated_at": 1784563304
+    "updated_at": 1784584987
   },
   {
     "id": 190054,
@@ -7743,7 +7801,7 @@
     "genres": [
       "Action"
     ],
-    "updated_at": 1784397736
+    "updated_at": 1784584987
   },
   {
     "id": 187924,
@@ -8024,7 +8082,7 @@
       "Action",
       "Sci-Fi"
     ],
-    "updated_at": 1784386898
+    "updated_at": 1784584987
   },
   {
     "id": 186741,
@@ -8055,7 +8113,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784549467
+    "updated_at": 1784584987
   },
   {
     "id": 186712,
@@ -8457,7 +8515,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784570504
+    "updated_at": 1784584987
   },
   {
     "id": 184321,
@@ -8486,7 +8544,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784570509
+    "updated_at": 1784584987
   },
   {
     "id": 184141,
@@ -8948,7 +9006,7 @@
       "Drama",
       "Sci-Fi"
     ],
-    "updated_at": 1784549495
+    "updated_at": 1784584987
   },
   {
     "id": 178868,
@@ -9953,7 +10011,7 @@
       "Mahou Shoujo",
       "Thriller"
     ],
-    "updated_at": 1784542026
+    "updated_at": 1784584987
   },
   {
     "id": 160275,
@@ -10393,18 +10451,18 @@
     "url": "https://anilist.co/anime/138511",
     "title": {
       "english": "",
-      "romaji": "Fate/kaleid liner Prisma☆Illya (Provisional Title)",
-      "native": "Fate/kaleid liner プリズマ☆イリヤ（仮）"
+      "romaji": "Fate/kaleid liner Prisma☆Illya: FINALE",
+      "native": "Fate/kaleid liner プリズマ☆イリヤ FINALE"
     },
     "description": "New sequel to the <i>Fate/kaleid liner Prisma☆Illya</i> series.",
-    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx138511-sMxqJBKwWLlk.jpg",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx138511-1GAznFkfdCRm.jpg",
     "banner_url": "",
     "schedule": "Jadwal belum diketahui",
     "next_episode": null,
     "next_airing_timestamp": null,
     "season": "",
     "year": null,
-    "format": "",
+    "format": "TV",
     "episodes": null,
     "duration": null,
     "status": "NOT_YET_RELEASED",
@@ -10414,7 +10472,7 @@
       "Fantasy",
       "Mahou Shoujo"
     ],
-    "updated_at": 1784502186
+    "updated_at": 1784584987
   },
   {
     "id": 137669,
@@ -10501,7 +10559,7 @@
       "Action",
       "Comedy"
     ],
-    "updated_at": 1784574187
+    "updated_at": 1784584987
   },
   {
     "id": 133007,
@@ -10930,7 +10988,7 @@
       "Drama",
       "Mystery"
     ],
-    "updated_at": 1784406275
+    "updated_at": 1784584987
   },
   {
     "id": 114441,
