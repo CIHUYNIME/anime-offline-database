@@ -960,7 +960,7 @@
     "genres": [
       "Romance"
     ],
-    "updated_at": 1784358101
+    "updated_at": 1784581421
   },
   {
     "id": 206611,
@@ -1081,6 +1081,56 @@
     "updated_at": 1784340997
   },
   {
+    "id": 206281,
+    "id_mal": 43533,
+    "url": "https://anilist.co/anime/206281",
+    "title": {
+      "english": "",
+      "romaji": "Xiao Bajie",
+      "native": "小八戒"
+    },
+    "description": "Tidak ada deskripsi.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b206281-KMb6xhdsDfda.jpg",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 19,
+    "status": "FINISHED",
+    "score": null,
+    "genres": [],
+    "updated_at": 1784581421
+  },
+  {
+    "id": 206279,
+    "id_mal": 43458,
+    "url": "https://anilist.co/anime/206279",
+    "title": {
+      "english": "",
+      "romaji": "Dingding Zhan Houwang",
+      "native": "丁丁战猴王"
+    },
+    "description": "Tidak ada deskripsi.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b206279-Y5wC7ipoe8mw.jpg",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 27,
+    "status": "FINISHED",
+    "score": null,
+    "genres": [],
+    "updated_at": 1784581421
+  },
+  {
     "id": 206163,
     "id_mal": 63323,
     "url": "https://anilist.co/anime/206163",
@@ -1106,7 +1156,7 @@
       "Mecha",
       "Sci-Fi"
     ],
-    "updated_at": 1784570509
+    "updated_at": 1784581421
   },
   {
     "id": 205444,
@@ -1224,7 +1274,7 @@
       "Mystery",
       "Sci-Fi"
     ],
-    "updated_at": 1784570502
+    "updated_at": 1784581421
   },
   {
     "id": 204584,
@@ -1365,7 +1415,7 @@
     "genres": [
       "Drama"
     ],
-    "updated_at": 1784427227
+    "updated_at": 1784581421
   },
   {
     "id": 202420,
@@ -2085,7 +2135,7 @@
       "Romance",
       "Sci-Fi"
     ],
-    "updated_at": 1784530893
+    "updated_at": 1784581421
   },
   {
     "id": 191025,
@@ -2169,7 +2219,7 @@
       "Mystery",
       "Supernatural"
     ],
-    "updated_at": 1784570509
+    "updated_at": 1784581421
   },
   {
     "id": 188941,
@@ -2337,7 +2387,7 @@
       "Mecha",
       "Sci-Fi"
     ],
-    "updated_at": 1784286117
+    "updated_at": 1784581421
   },
   {
     "id": 186861,
@@ -2481,7 +2531,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784570509
+    "updated_at": 1784581421
   },
   {
     "id": 185879,
@@ -3865,7 +3915,7 @@
       "Slice of Life",
       "Sports"
     ],
-    "updated_at": 1784361738
+    "updated_at": 1784581421
   },
   {
     "id": 176245,
@@ -4632,7 +4682,7 @@
       "Mecha",
       "Sci-Fi"
     ],
-    "updated_at": 1784502186
+    "updated_at": 1784581421
   },
   {
     "id": 169021,
@@ -4719,7 +4769,7 @@
       "Drama",
       "Sci-Fi"
     ],
-    "updated_at": 1784322117
+    "updated_at": 1784581421
   },
   {
     "id": 168833,
@@ -7423,6 +7473,64 @@
     "updated_at": 1784563297
   },
   {
+    "id": 146632,
+    "id_mal": 43206,
+    "url": "https://anilist.co/anime/146632",
+    "title": {
+      "english": "",
+      "romaji": "Gundam: G no Reconguista V - Shisen wo Koete",
+      "native": "Ｇのレコンギスタ Ⅴ 死線を越えて"
+    },
+    "description": "The fifth and final film compiling the <i>Gundam: G no Reconguista</i> TV series.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx146632-sPKVurrvpARa.jpg",
+    "banner_url": "",
+    "schedule": "Musim: SUMMER 2022",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "SUMMER",
+    "year": 2022,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 95,
+    "status": "FINISHED",
+    "score": 69,
+    "genres": [
+      "Action",
+      "Mecha",
+      "Sci-Fi"
+    ],
+    "updated_at": 1784581421
+  },
+  {
+    "id": 146631,
+    "id_mal": 43205,
+    "url": "https://anilist.co/anime/146631",
+    "title": {
+      "english": "",
+      "romaji": "Gundam: G no Reconguista IV - Gekitou Ni Sakebu Ai",
+      "native": "Ｇのレコンギスタ Ⅳ 激闘に叫ぶ愛"
+    },
+    "description": "The fourth film compiling the <i>Gundam: G no Reconguista</i> TV anime, which also prominently features new content for the series.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx146631-dAoArwmB8UCg.jpg",
+    "banner_url": "",
+    "schedule": "Musim: SUMMER 2022",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "SUMMER",
+    "year": 2022,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 101,
+    "status": "FINISHED",
+    "score": 70,
+    "genres": [
+      "Action",
+      "Mecha",
+      "Sci-Fi"
+    ],
+    "updated_at": 1784581421
+  },
+  {
     "id": 146609,
     "id_mal": 51358,
     "url": "https://anilist.co/anime/146609",
@@ -7534,7 +7642,7 @@
       "Fantasy",
       "Mystery"
     ],
-    "updated_at": 1784498548
+    "updated_at": 1784581421
   },
   {
     "id": 145445,
@@ -7752,7 +7860,7 @@
       "Mecha",
       "Sci-Fi"
     ],
-    "updated_at": 1784520159
+    "updated_at": 1784581421
   },
   {
     "id": 143156,
@@ -8570,7 +8678,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784563304
+    "updated_at": 1784581421
   },
   {
     "id": 139311,
@@ -8598,7 +8706,7 @@
       "Romance",
       "Sci-Fi"
     ],
-    "updated_at": 1784541708
+    "updated_at": 1784581421
   },
   {
     "id": 139310,
@@ -8992,7 +9100,7 @@
       "Drama",
       "Romance"
     ],
-    "updated_at": 1784480696
+    "updated_at": 1784581421
   },
   {
     "id": 136149,
@@ -10163,7 +10271,7 @@
     "genres": [
       "Sports"
     ],
-    "updated_at": 1784505994
+    "updated_at": 1784581421
   },
   {
     "id": 128021,
@@ -10923,6 +11031,34 @@
       "Sci-Fi"
     ],
     "updated_at": 1784390608
+  },
+  {
+    "id": 123148,
+    "id_mal": 34674,
+    "url": "https://anilist.co/anime/123148",
+    "title": {
+      "english": "",
+      "romaji": "Hwasan Golae",
+      "native": "화산고래"
+    },
+    "description": "In the year 2070, mankind faces a life threatening crisis due to huge earthquakes and volcanic eruptions. Korea is in a state of anarchy and Busan is swarming with refugees. Young street dealer Ha-jin has the ability to communicate with whales – a fact she keeps hidden from everyone. One day, a onearmed woman named Baek Sang-won asks Ha-jin to join her in the gules whale hunt. Painful memories lead Ha-jin to turn down the offer initially, but she eventually ends up joining Baek. As she makes friends on the ship, she grows curious about the gules whale and learns that every crew member has a sad gules story. The madness in the crews’ eyes as they try to kill the gules brings Ha-jin’s trauma to the forefront of her mind – and she experiences her own madness.\n<br><br>\n(Source: Korean Film Biz Zone)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx123148-SKQMtoLNV0JK.png",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 70,
+    "status": "FINISHED",
+    "score": null,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "updated_at": 1784581421
   },
   {
     "id": 122575,
@@ -11916,6 +12052,33 @@
     "updated_at": 1784288167
   },
   {
+    "id": 118528,
+    "id_mal": null,
+    "url": "https://anilist.co/anime/118528",
+    "title": {
+      "english": "I can't breath",
+      "romaji": "Ikigadekinai",
+      "native": "息ができない"
+    },
+    "description": "Sayaka Kihata's graduation work from 2015 at Tama Art University.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx118528-hJJnHXw7bx59.jpg",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/118528-Yvjlnw4oClzH.jpg",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 6,
+    "status": "FINISHED",
+    "score": 58,
+    "genres": [
+      "Psychological"
+    ],
+    "updated_at": 1784581421
+  },
+  {
     "id": 118390,
     "id_mal": 41877,
     "url": "https://anilist.co/anime/118390",
@@ -12673,7 +12836,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784563304
+    "updated_at": 1784581421
   },
   {
     "id": 117009,
@@ -13599,7 +13762,7 @@
       "Mecha",
       "Sci-Fi"
     ],
-    "updated_at": 1784563304
+    "updated_at": 1784581421
   },
   {
     "id": 113720,
@@ -14376,7 +14539,7 @@
     "genres": [
       "Romance"
     ],
-    "updated_at": 1784549513
+    "updated_at": 1784581421
   },
   {
     "id": 112792,
@@ -14516,7 +14679,7 @@
     "genres": [
       "Comedy"
     ],
-    "updated_at": 1784549659
+    "updated_at": 1784581421
   },
   {
     "id": 112452,
@@ -15101,7 +15264,7 @@
       "Music",
       "Romance"
     ],
-    "updated_at": 1784570502
+    "updated_at": 1784581421
   },
   {
     "id": 111312,
@@ -15242,7 +15405,7 @@
       "Slice of Life",
       "Sports"
     ],
-    "updated_at": 1784549863
+    "updated_at": 1784581421
   },
   {
     "id": 111128,
@@ -17831,7 +17994,7 @@
       "Psychological",
       "Sci-Fi"
     ],
-    "updated_at": 1783946636
+    "updated_at": 1784581421
   },
   {
     "id": 106557,
@@ -18088,7 +18251,7 @@
       "Romance",
       "Sci-Fi"
     ],
-    "updated_at": 1784563302
+    "updated_at": 1784581421
   },
   {
     "id": 106206,
@@ -19476,7 +19639,7 @@
       "Slice of Life",
       "Supernatural"
     ],
-    "updated_at": 1784467275
+    "updated_at": 1784581421
   },
   {
     "id": 104190,
@@ -19531,6 +19694,31 @@
       "Fantasy"
     ],
     "updated_at": 1784467286
+  },
+  {
+    "id": 104164,
+    "id_mal": null,
+    "url": "https://anilist.co/anime/104164",
+    "title": {
+      "english": "Holy Shit!",
+      "romaji": "Holy Shit!",
+      "native": "Holy Shit!"
+    },
+    "description": "One elephant lives in a mountain. He spends his life drawing pictures and fishing. Pigs with swollen crotches live in the city. The city is full of towers. One day a tower is built near the elephant's cabin, the elephant starts to climb it.\n<br><br>\nGraduate Work 2015 by Takashi Shibuya, Tokyo University of the Arts, Graduate School of Film and New Media, Department of Animation\n<br><br>\n(Source: Geidai Animation)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx104164-fYQRq0VbHzyk.jpg",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/104164-c8d48J8Ox66j.jpg",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 6,
+    "status": "FINISHED",
+    "score": 33,
+    "genres": [],
+    "updated_at": 1784581421
   },
   {
     "id": 104162,
@@ -21258,7 +21446,7 @@
       "Mystery",
       "Supernatural"
     ],
-    "updated_at": 1784570509
+    "updated_at": 1784581421
   },
   {
     "id": 103166,
@@ -21340,7 +21528,7 @@
       "Comedy",
       "Supernatural"
     ],
-    "updated_at": 1784467889
+    "updated_at": 1784581421
   },
   {
     "id": 103047,
@@ -21541,7 +21729,7 @@
     "genres": [
       "Sports"
     ],
-    "updated_at": 1784467976
+    "updated_at": 1784581421
   },
   {
     "id": 102771,
@@ -24012,7 +24200,7 @@
       "Comedy",
       "Slice of Life"
     ],
-    "updated_at": 1784380952
+    "updated_at": 1784581421
   },
   {
     "id": 101914,
@@ -25250,7 +25438,7 @@
       "Fantasy",
       "Slice of Life"
     ],
-    "updated_at": 1784570509
+    "updated_at": 1784581421
   },
   {
     "id": 100744,
@@ -25517,7 +25705,7 @@
       "Fantasy",
       "Mystery"
     ],
-    "updated_at": 1784570509
+    "updated_at": 1784581421
   },
   {
     "id": 100361,
@@ -26089,7 +26277,7 @@
       "Mahou Shoujo",
       "Sci-Fi"
     ],
-    "updated_at": 1784520159
+    "updated_at": 1784581421
   },
   {
     "id": 99547,
@@ -26175,7 +26363,7 @@
     "genres": [
       "Action"
     ],
-    "updated_at": 1784470157
+    "updated_at": 1784581421
   },
   {
     "id": 99457,
@@ -26613,7 +26801,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784563304
+    "updated_at": 1784581421
   },
   {
     "id": 98873,
@@ -26642,7 +26830,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784563304
+    "updated_at": 1784581421
   },
   {
     "id": 98784,
@@ -26958,7 +27146,7 @@
       "Sci-Fi",
       "Supernatural"
     ],
-    "updated_at": 1784557176
+    "updated_at": 1784581421
   },
   {
     "id": 98516,
@@ -27568,7 +27756,7 @@
       "Mecha",
       "Sci-Fi"
     ],
-    "updated_at": 1784471362
+    "updated_at": 1784581421
   },
   {
     "id": 97981,
@@ -28371,7 +28559,7 @@
       "Action",
       "Sci-Fi"
     ],
-    "updated_at": 1784473776
+    "updated_at": 1784581421
   },
   {
     "id": 87458,
@@ -28456,7 +28644,7 @@
       "Horror",
       "Mystery"
     ],
-    "updated_at": 1784302096
+    "updated_at": 1784581421
   },
   {
     "id": 21893,
@@ -28891,7 +29079,7 @@
       "Fantasy",
       "Sci-Fi"
     ],
-    "updated_at": 1784574187
+    "updated_at": 1784581421
   },
   {
     "id": 21770,
@@ -29154,7 +29342,7 @@
       "Sci-Fi",
       "Supernatural"
     ],
-    "updated_at": 1784478172
+    "updated_at": 1784581421
   },
   {
     "id": 21683,
@@ -30007,7 +30195,7 @@
       "Drama",
       "Sports"
     ],
-    "updated_at": 1784361747
+    "updated_at": 1784581421
   },
   {
     "id": 21274,
@@ -32158,7 +32346,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784549445
+    "updated_at": 1784581421
   },
   {
     "id": 20515,
@@ -33034,7 +33222,7 @@
       "Psychological",
       "Sci-Fi"
     ],
-    "updated_at": 1784361737
+    "updated_at": 1784581421
   },
   {
     "id": 19167,
@@ -33400,6 +33588,35 @@
     "updated_at": 1784462595
   },
   {
+    "id": 18307,
+    "id_mal": 18307,
+    "url": "https://anilist.co/anime/18307",
+    "title": {
+      "english": "",
+      "romaji": "Eunhajeonseol Tera",
+      "native": "은하전설 테라"
+    },
+    "description": "A 1983 Korean Space Opera.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/18307.jpg",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 75,
+    "status": "FINISHED",
+    "score": null,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "updated_at": 1784581421
+  },
+  {
     "id": 18063,
     "id_mal": 18063,
     "url": "https://anilist.co/anime/18063",
@@ -33564,7 +33781,7 @@
       "Mecha",
       "Sci-Fi"
     ],
-    "updated_at": 1784574187
+    "updated_at": 1784581421
   },
   {
     "id": 17721,
@@ -34185,7 +34402,7 @@
       "Action",
       "Supernatural"
     ],
-    "updated_at": 1784574187
+    "updated_at": 1784581421
   },
   {
     "id": 16870,
@@ -37108,7 +37325,7 @@
       "Romance",
       "Sci-Fi"
     ],
-    "updated_at": 1784576056
+    "updated_at": 1784581421
   },
   {
     "id": 12355,
@@ -37461,7 +37678,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784576124
+    "updated_at": 1784581421
   },
   {
     "id": 12035,
@@ -39332,7 +39549,7 @@
       "Mahou Shoujo",
       "Sci-Fi"
     ],
-    "updated_at": 1784576995
+    "updated_at": 1784581421
   },
   {
     "id": 10116,
@@ -41887,7 +42104,7 @@
       "Action",
       "Comedy"
     ],
-    "updated_at": 1784570509
+    "updated_at": 1784581421
   },
   {
     "id": 8245,
@@ -42242,7 +42459,7 @@
       "Fantasy",
       "Sci-Fi"
     ],
-    "updated_at": 1784311946
+    "updated_at": 1784581421
   },
   {
     "id": 8100,
@@ -45470,7 +45687,7 @@
       "Psychological",
       "Romance"
     ],
-    "updated_at": 1784541708
+    "updated_at": 1784581421
   },
   {
     "id": 6372,
@@ -45530,7 +45747,7 @@
       "Action",
       "Comedy"
     ],
-    "updated_at": 1784563304
+    "updated_at": 1784581421
   },
   {
     "id": 6305,
@@ -46321,7 +46538,7 @@
       "Romance",
       "Sci-Fi"
     ],
-    "updated_at": 1784541708
+    "updated_at": 1784581421
   },
   {
     "id": 5673,
@@ -47202,7 +47419,7 @@
       "Mahou Shoujo",
       "Sci-Fi"
     ],
-    "updated_at": 1784570509
+    "updated_at": 1784581421
   },
   {
     "id": 4983,
@@ -47262,6 +47479,37 @@
       "Action"
     ],
     "updated_at": 1784563304
+  },
+  {
+    "id": 4943,
+    "id_mal": 4943,
+    "url": "https://anilist.co/anime/4943",
+    "title": {
+      "english": "A Journey Through Fairyland",
+      "romaji": "Yousei Florence",
+      "native": "妖精フローレンス"
+    },
+    "description": "A gentle and talented boy named Michael played beautiful music on his oboe, and his greatest love was to play for and tend to the flowers in the greenhouse at the school of music where he attended. Unfortunately, his gardening made him constantly late for orchestra practice and resulted in his dismissal from the school. When Michael fell asleep that same night, he was awakened by a dainty Flower Fairy named Florence, who would take him on an enchanted journey to a land where flowers came alive, treble notes were mischievous, and adventure beckoned. There, he would soon come to realize that his love of flowers and desire to become a great musician could go hand-in-hand and help him to become focused in life and discover himself. <br><br>\n(Source: Wikipedia)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4943-VkdINm8ZCIOT.png",
+    "banner_url": "",
+    "schedule": "Musim: FALL 1985",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "FALL",
+    "year": 1985,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 91,
+    "status": "FINISHED",
+    "score": 59,
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Fantasy",
+      "Music",
+      "Romance"
+    ],
+    "updated_at": 1784581421
   },
   {
     "id": 4926,
@@ -51427,7 +51675,7 @@
       "Drama",
       "Slice of Life"
     ],
-    "updated_at": 1784489171
+    "updated_at": 1784581421
   },
   {
     "id": 2621,
@@ -51778,7 +52026,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784570509
+    "updated_at": 1784581421
   },
   {
     "id": 2470,
@@ -52005,7 +52253,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784556649
+    "updated_at": 1784581421
   },
   {
     "id": 2423,
@@ -53870,7 +54118,7 @@
       "Mecha",
       "Sci-Fi"
     ],
-    "updated_at": 1784489426
+    "updated_at": 1784581421
   },
   {
     "id": 1961,
@@ -53962,7 +54210,7 @@
       "Sci-Fi",
       "Thriller"
     ],
-    "updated_at": 1784556649
+    "updated_at": 1784581532
   },
   {
     "id": 1931,
@@ -53992,7 +54240,7 @@
       "Fantasy",
       "Mahou Shoujo"
     ],
-    "updated_at": 1784489437
+    "updated_at": 1784581550
   },
   {
     "id": 1930,
@@ -54022,7 +54270,7 @@
       "Fantasy",
       "Mahou Shoujo"
     ],
-    "updated_at": 1784489437
+    "updated_at": 1784581551
   },
   {
     "id": 1925,
@@ -54054,7 +54302,7 @@
       "Romance",
       "Sci-Fi"
     ],
-    "updated_at": 1784556649
+    "updated_at": 1784581557
   },
   {
     "id": 1924,
@@ -54083,7 +54331,7 @@
       "Romance",
       "Sci-Fi"
     ],
-    "updated_at": 1784489438
+    "updated_at": 1784581558
   },
   {
     "id": 1923,
@@ -54113,7 +54361,7 @@
       "Romance",
       "Sci-Fi"
     ],
-    "updated_at": 1784489439
+    "updated_at": 1784581559
   },
   {
     "id": 1922,
@@ -54143,7 +54391,7 @@
       "Romance",
       "Sci-Fi"
     ],
-    "updated_at": 1784489439
+    "updated_at": 1784581560
   },
   {
     "id": 1921,
@@ -54173,7 +54421,7 @@
       "Romance",
       "Sci-Fi"
     ],
-    "updated_at": 1784556649
+    "updated_at": 1784581562
   },
   {
     "id": 1920,
@@ -54203,7 +54451,7 @@
       "Romance",
       "Sci-Fi"
     ],
-    "updated_at": 1784556649
+    "updated_at": 1784581565
   },
   {
     "id": 1911,
@@ -54234,7 +54482,7 @@
       "Mecha",
       "Sci-Fi"
     ],
-    "updated_at": 1784489441
+    "updated_at": 1784581606
   },
   {
     "id": 1906,
@@ -54296,7 +54544,7 @@
       "Romance",
       "Sci-Fi"
     ],
-    "updated_at": 1784570509
+    "updated_at": 1784581615
   },
   {
     "id": 1894,
@@ -54324,7 +54572,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784498548
+    "updated_at": 1784581631
   },
   {
     "id": 1866,
@@ -54354,7 +54602,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784489456
+    "updated_at": 1784581719
   },
   {
     "id": 1861,
@@ -54384,7 +54632,7 @@
       "Slice of Life",
       "Sports"
     ],
-    "updated_at": 1784489457
+    "updated_at": 1784581729
   },
   {
     "id": 1833,
@@ -54883,7 +55131,7 @@
       "Sci-Fi",
       "Sports"
     ],
-    "updated_at": 1784403198
+    "updated_at": 1784581421
   },
   {
     "id": 1626,
@@ -56009,7 +56257,7 @@
       "Mecha",
       "Sci-Fi"
     ],
-    "updated_at": 1784502186
+    "updated_at": 1784581421
   },
   {
     "id": 1287,
@@ -56038,7 +56286,7 @@
       "Drama",
       "Sci-Fi"
     ],
-    "updated_at": 1784530893
+    "updated_at": 1784581421
   },
   {
     "id": 1268,
@@ -56559,7 +56807,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784530892
+    "updated_at": 1784581421
   },
   {
     "id": 1140,
@@ -56590,7 +56838,7 @@
       "Romance",
       "Sci-Fi"
     ],
-    "updated_at": 1784520159
+    "updated_at": 1784581421
   },
   {
     "id": 1130,
@@ -56867,7 +57115,7 @@
       "Horror",
       "Supernatural"
     ],
-    "updated_at": 1784490288
+    "updated_at": 1784581421
   },
   {
     "id": 1106,
@@ -57105,7 +57353,7 @@
       "Romance",
       "Sci-Fi"
     ],
-    "updated_at": 1784490297
+    "updated_at": 1784581421
   },
   {
     "id": 1049,
@@ -57339,7 +57587,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784541708
+    "updated_at": 1784581421
   },
   {
     "id": 1028,
@@ -57523,7 +57771,7 @@
       "Fantasy",
       "Supernatural"
     ],
-    "updated_at": 1784549501
+    "updated_at": 1784581421
   },
   {
     "id": 906,
@@ -58335,7 +58583,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784390608
+    "updated_at": 1784581421
   },
   {
     "id": 796,
@@ -58455,7 +58703,7 @@
       "Fantasy",
       "Supernatural"
     ],
-    "updated_at": 1784530893
+    "updated_at": 1784581421
   },
   {
     "id": 781,
@@ -58806,7 +59054,7 @@
       "Romance",
       "Sci-Fi"
     ],
-    "updated_at": 1784530893
+    "updated_at": 1784581421
   },
   {
     "id": 597,
@@ -58836,7 +59084,7 @@
       "Drama",
       "Fantasy"
     ],
-    "updated_at": 1784563304
+    "updated_at": 1784581421
   },
   {
     "id": 585,
@@ -58866,7 +59114,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784494934
+    "updated_at": 1784581421
   },
   {
     "id": 578,
@@ -59168,7 +59416,7 @@
       "Fantasy",
       "Sci-Fi"
     ],
-    "updated_at": 1784520159
+    "updated_at": 1784581421
   },
   {
     "id": 523,
@@ -59228,7 +59476,7 @@
       "Romance",
       "Sci-Fi"
     ],
-    "updated_at": 1784570509
+    "updated_at": 1784581421
   },
   {
     "id": 520,
@@ -59641,7 +59889,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784361747
+    "updated_at": 1784581421
   },
   {
     "id": 462,
@@ -60095,7 +60343,7 @@
       "Adventure",
       "Sci-Fi"
     ],
-    "updated_at": 1784408567
+    "updated_at": 1784581421
   },
   {
     "id": 418,
@@ -60271,7 +60519,7 @@
       "Comedy",
       "Sci-Fi"
     ],
-    "updated_at": 1784541708
+    "updated_at": 1784581421
   },
   {
     "id": 372,
@@ -60330,7 +60578,7 @@
       "Fantasy",
       "Mahou Shoujo"
     ],
-    "updated_at": 1784570509
+    "updated_at": 1784581421
   },
   {
     "id": 317,
