@@ -460,7 +460,7 @@
       "Psychological",
       "Sci-Fi"
     ],
-    "updated_at": 1784600433
+    "updated_at": 1784653321
   },
   {
     "id": 212391,
@@ -546,7 +546,7 @@
     "genres": [
       "Drama"
     ],
-    "updated_at": 1784588534
+    "updated_at": 1784653321
   },
   {
     "id": 211328,
@@ -573,7 +573,7 @@
     "genres": [
       "Drama"
     ],
-    "updated_at": 1784304124
+    "updated_at": 1784653321
   },
   {
     "id": 211308,
@@ -707,7 +707,7 @@
       "Comedy",
       "Romance"
     ],
-    "updated_at": 1784506211
+    "updated_at": 1784653321
   },
   {
     "id": 209961,
@@ -1324,7 +1324,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784642561
+    "updated_at": 1784653321
   },
   {
     "id": 204949,
@@ -1353,7 +1353,7 @@
       "Comedy",
       "Sci-Fi"
     ],
-    "updated_at": 1784394193
+    "updated_at": 1784653321
   },
   {
     "id": 204585,
@@ -2585,6 +2585,34 @@
     "updated_at": 1784588527
   },
   {
+    "id": 187217,
+    "id_mal": 61115,
+    "url": "https://anilist.co/anime/187217",
+    "title": {
+      "english": "",
+      "romaji": "Gochuumon wa Usagi desu ka? Movie: ～We Are Family!～",
+      "native": "劇場版 ご注文はうさぎですか？ ～We Are Family!～"
+    },
+    "description": "Announced at the Gochiusa TV anime 10th anniversary special \"Rabbit House Talk Party 2025\" event: a new anime project for <i>Gochuumon wa Usagi desu ka?</i> (a.k.a. <i>Is the Order a Rabbit?)</i>\n<br><br>\n<i>Note: Relations are provisional and subject to change.</i>",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx187217-91PAH0wcAoLe.jpg",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/187217-7rLtGa0LajJc.jpg",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Comedy",
+      "Slice of Life"
+    ],
+    "updated_at": 1784653320
+  },
+  {
     "id": 186861,
     "id_mal": 60544,
     "url": "https://anilist.co/anime/186861",
@@ -2891,7 +2919,7 @@
       "Mecha",
       "Sci-Fi"
     ],
-    "updated_at": 1784412201
+    "updated_at": 1784653321
   },
   {
     "id": 185613,
@@ -3582,7 +3610,7 @@
       "Psychological",
       "Supernatural"
     ],
-    "updated_at": 1784408565
+    "updated_at": 1784653321
   },
   {
     "id": 179852,
@@ -3613,7 +3641,7 @@
       "Psychological",
       "Supernatural"
     ],
-    "updated_at": 1784642561
+    "updated_at": 1784653321
   },
   {
     "id": 179727,
@@ -3894,7 +3922,7 @@
       "Action",
       "Sci-Fi"
     ],
-    "updated_at": 1784253710
+    "updated_at": 1784653321
   },
   {
     "id": 177687,
@@ -4142,7 +4170,7 @@
       "Slice of Life",
       "Supernatural"
     ],
-    "updated_at": 1784592411
+    "updated_at": 1784653321
   },
   {
     "id": 176373,
@@ -4198,7 +4226,7 @@
       "Slice of Life",
       "Sports"
     ],
-    "updated_at": 1784635298
+    "updated_at": 1784653321
   },
   {
     "id": 176245,
@@ -4396,7 +4424,7 @@
       "Drama",
       "Sports"
     ],
-    "updated_at": 1784588516
+    "updated_at": 1784653321
   },
   {
     "id": 174788,
@@ -5302,7 +5330,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784600440
+    "updated_at": 1784653321
   },
   {
     "id": 166457,
@@ -5409,7 +5437,7 @@
     "genres": [
       "Sci-Fi"
     ],
-    "updated_at": 1784628118
+    "updated_at": 1784653321
   },
   {
     "id": 165253,
@@ -5663,7 +5691,7 @@
       "Slice of Life",
       "Sports"
     ],
-    "updated_at": 1784541786
+    "updated_at": 1784653321
   },
   {
     "id": 163147,
@@ -6674,7 +6702,7 @@
       "Drama",
       "Mystery"
     ],
-    "updated_at": 1784628941
+    "updated_at": 1784653321
   },
   {
     "id": 156727,
@@ -7386,7 +7414,7 @@
       "Psychological",
       "Supernatural"
     ],
-    "updated_at": 1784629559
+    "updated_at": 1784653321
   },
   {
     "id": 151089,
@@ -8907,7 +8935,7 @@
       "Psychological",
       "Thriller"
     ],
-    "updated_at": 1784630675
+    "updated_at": 1784653321
   },
   {
     "id": 142770,
@@ -10454,7 +10482,7 @@
       "Fantasy",
       "Sci-Fi"
     ],
-    "updated_at": 1784642561
+    "updated_at": 1784653321
   },
   {
     "id": 133845,
@@ -10511,7 +10539,7 @@
       "Drama",
       "Sports"
     ],
-    "updated_at": 1784620910
+    "updated_at": 1784653321
   },
   {
     "id": 133007,
@@ -10565,7 +10593,7 @@
     "genres": [
       "Drama"
     ],
-    "updated_at": 1784459236
+    "updated_at": 1784653320
   },
   {
     "id": 132545,
@@ -12088,13 +12116,13 @@
     "episodes": 1,
     "duration": 102,
     "status": "FINISHED",
-    "score": 73,
+    "score": 74,
     "genres": [
       "Drama",
       "Slice of Life",
       "Sports"
     ],
-    "updated_at": 1784613727
+    "updated_at": 1784653321
   },
   {
     "id": 124140,
@@ -12210,7 +12238,7 @@
       "Music",
       "Sci-Fi"
     ],
-    "updated_at": 1784588532
+    "updated_at": 1784653314
   },
   {
     "id": 123645,
@@ -13566,7 +13594,7 @@
       "Fantasy",
       "Mystery"
     ],
-    "updated_at": 1784530893
+    "updated_at": 1784653321
   },
   {
     "id": 118936,
@@ -17505,7 +17533,7 @@
       "Drama",
       "Fantasy"
     ],
-    "updated_at": 1784600370
+    "updated_at": 1784653321
   },
   {
     "id": 110413,
@@ -18225,6 +18253,31 @@
     "updated_at": 1783945396
   },
   {
+    "id": 109356,
+    "id_mal": null,
+    "url": "https://anilist.co/anime/109356",
+    "title": {
+      "english": "The Hunter",
+      "romaji": "THE HUNTER",
+      "native": "THE HUNTER"
+    },
+    "description": "A short film by Vaara Jari.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx109356-asLBBvo8TFKd.jpg",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 5,
+    "status": "FINISHED",
+    "score": null,
+    "genres": [],
+    "updated_at": 1784653321
+  },
+  {
     "id": 109355,
     "id_mal": null,
     "url": "https://anilist.co/anime/109355",
@@ -18585,7 +18638,7 @@
       "Drama",
       "Romance"
     ],
-    "updated_at": 1784588534
+    "updated_at": 1784653315
   },
   {
     "id": 109100,
@@ -19594,7 +19647,7 @@
       "Slice of Life",
       "Sports"
     ],
-    "updated_at": 1784600424
+    "updated_at": 1784653321
   },
   {
     "id": 107202,
@@ -22348,7 +22401,7 @@
       "Comedy",
       "Music"
     ],
-    "updated_at": 1784467425
+    "updated_at": 1784653321
   },
   {
     "id": 103726,
@@ -24203,7 +24256,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784643351
+    "updated_at": 1784653316
   },
   {
     "id": 102715,
@@ -25283,7 +25336,7 @@
     "genres": [
       "Fantasy"
     ],
-    "updated_at": 1784643407
+    "updated_at": 1784653321
   },
   {
     "id": 102509,
@@ -27537,7 +27590,7 @@
       "Sci-Fi",
       "Slice of Life"
     ],
-    "updated_at": 1784620910
+    "updated_at": 1784653316
   },
   {
     "id": 101231,
@@ -27566,7 +27619,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784549501
+    "updated_at": 1784653321
   },
   {
     "id": 101166,
@@ -28662,7 +28715,7 @@
       "Comedy",
       "Drama"
     ],
-    "updated_at": 1784469942
+    "updated_at": 1784653315
   },
   {
     "id": 99750,
@@ -28808,7 +28861,7 @@
       "Mahou Shoujo",
       "Sci-Fi"
     ],
-    "updated_at": 1784588512
+    "updated_at": 1784653321
   },
   {
     "id": 99547,
@@ -28952,7 +29005,7 @@
       "Mecha",
       "Sci-Fi"
     ],
-    "updated_at": 1784646481
+    "updated_at": 1784653321
   },
   {
     "id": 99212,
@@ -29245,7 +29298,7 @@
       "Drama",
       "Sports"
     ],
-    "updated_at": 1784647071
+    "updated_at": 1784653321
   },
   {
     "id": 98884,
@@ -29274,7 +29327,7 @@
       "Drama",
       "Sports"
     ],
-    "updated_at": 1784647081
+    "updated_at": 1784653321
   },
   {
     "id": 98876,
@@ -29501,7 +29554,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784647160
+    "updated_at": 1784653321
   },
   {
     "id": 98746,
@@ -29647,7 +29700,7 @@
     "genres": [
       "Sports"
     ],
-    "updated_at": 1784647286
+    "updated_at": 1784653321
   },
   {
     "id": 98576,
@@ -32871,7 +32924,7 @@
       "Sci-Fi",
       "Supernatural"
     ],
-    "updated_at": 1784620910
+    "updated_at": 1784653321
   },
   {
     "id": 21244,
@@ -33075,7 +33128,7 @@
       "Slice of Life",
       "Sports"
     ],
-    "updated_at": 1784333012
+    "updated_at": 1784653321
   },
   {
     "id": 21154,
@@ -34058,7 +34111,7 @@
       "Drama",
       "Sports"
     ],
-    "updated_at": 1784642561
+    "updated_at": 1784653321
   },
   {
     "id": 20810,
@@ -34442,7 +34495,7 @@
       "Romance",
       "Sci-Fi"
     ],
-    "updated_at": 1784600430
+    "updated_at": 1784653321
   },
   {
     "id": 20737,
@@ -34474,7 +34527,7 @@
       "Sci-Fi",
       "Supernatural"
     ],
-    "updated_at": 1784642561
+    "updated_at": 1784653321
   },
   {
     "id": 20736,
@@ -34506,7 +34559,7 @@
       "Sci-Fi",
       "Supernatural"
     ],
-    "updated_at": 1784642561
+    "updated_at": 1784653321
   },
   {
     "id": 20709,
@@ -35247,7 +35300,7 @@
       "Drama",
       "Romance"
     ],
-    "updated_at": 1784520159
+    "updated_at": 1784653321
   },
   {
     "id": 20007,
@@ -35921,7 +35974,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784642561
+    "updated_at": 1784653321
   },
   {
     "id": 18943,
@@ -36369,7 +36422,7 @@
       "Mecha",
       "Sci-Fi"
     ],
-    "updated_at": 1784588512
+    "updated_at": 1784653321
   },
   {
     "id": 17721,
@@ -36850,7 +36903,7 @@
       "Sci-Fi",
       "Thriller"
     ],
-    "updated_at": 1784635298
+    "updated_at": 1784653321
   },
   {
     "id": 17165,
@@ -38356,7 +38409,7 @@
       "Mystery",
       "Supernatural"
     ],
-    "updated_at": 1784574506
+    "updated_at": 1784653321
   },
   {
     "id": 14735,
@@ -40507,7 +40560,7 @@
       "Psychological",
       "Thriller"
     ],
-    "updated_at": 1784576132
+    "updated_at": 1784653321
   },
   {
     "id": 11791,
@@ -41792,7 +41845,7 @@
       "Adventure",
       "Mystery"
     ],
-    "updated_at": 1784620910
+    "updated_at": 1784653321
   },
   {
     "id": 10563,
@@ -42303,7 +42356,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784577074
+    "updated_at": 1784653321
   },
   {
     "id": 10016,
@@ -43122,7 +43175,7 @@
       "Music",
       "Slice of Life"
     ],
-    "updated_at": 1784577338
+    "updated_at": 1784653321
   },
   {
     "id": 9595,
@@ -48007,7 +48060,7 @@
       "Sci-Fi",
       "Sports"
     ],
-    "updated_at": 1784620910
+    "updated_at": 1784653321
   },
   {
     "id": 6671,
@@ -48359,6 +48412,34 @@
     "updated_at": 1784312313
   },
   {
+    "id": 6431,
+    "id_mal": 6431,
+    "url": "https://anilist.co/anime/6431",
+    "title": {
+      "english": "Chameko’s Day",
+      "romaji": "Chameko no Ichinichi",
+      "native": "茶目子の一日"
+    },
+    "description": "A pre-second world war anime from 1931 about the daily life of a Japanese girl named Chameko.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b6431-593RzIYvNvPa.png",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 6,
+    "status": "FINISHED",
+    "score": 43,
+    "genres": [
+      "Comedy",
+      "Slice of Life"
+    ],
+    "updated_at": 1784653321
+  },
+  {
     "id": 6408,
     "id_mal": 6408,
     "url": "https://anilist.co/anime/6408",
@@ -48676,7 +48757,7 @@
       "Mystery",
       "Sci-Fi"
     ],
-    "updated_at": 1784642561
+    "updated_at": 1784653321
   },
   {
     "id": 6169,
@@ -48705,7 +48786,7 @@
       "Fantasy",
       "Supernatural"
     ],
-    "updated_at": 1784480696
+    "updated_at": 1784653321
   },
   {
     "id": 6162,
@@ -49237,7 +49318,7 @@
       "Romance",
       "Sci-Fi"
     ],
-    "updated_at": 1784635298
+    "updated_at": 1784653321
   },
   {
     "id": 5673,
@@ -49807,7 +49888,7 @@
       "Supernatural",
       "Thriller"
     ],
-    "updated_at": 1784613738
+    "updated_at": 1784653321
   },
   {
     "id": 5178,
@@ -51140,7 +51221,7 @@
       "Supernatural",
       "Thriller"
     ],
-    "updated_at": 1784520157
+    "updated_at": 1784653321
   },
   {
     "id": 4250,
@@ -52312,7 +52393,7 @@
     "genres": [
       "Comedy"
     ],
-    "updated_at": 1784620910
+    "updated_at": 1784653316
   },
   {
     "id": 3446,
@@ -53054,7 +53135,7 @@
       "Fantasy",
       "Sci-Fi"
     ],
-    "updated_at": 1784242996
+    "updated_at": 1784653321
   },
   {
     "id": 2950,
@@ -53571,7 +53652,7 @@
       "Adventure",
       "Sci-Fi"
     ],
-    "updated_at": 1784462595
+    "updated_at": 1784653321
   },
   {
     "id": 2678,
@@ -54324,7 +54405,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784390608
+    "updated_at": 1784653321
   },
   {
     "id": 2648,
@@ -54664,7 +54745,7 @@
       "Supernatural",
       "Thriller"
     ],
-    "updated_at": 1784620910
+    "updated_at": 1784653321
   },
   {
     "id": 2591,
@@ -54952,7 +55033,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784489242
+    "updated_at": 1784653321
   },
   {
     "id": 2452,
@@ -58411,7 +58492,7 @@
       "Fantasy",
       "Mystery"
     ],
-    "updated_at": 1784584987
+    "updated_at": 1784653321
   },
   {
     "id": 1435,
@@ -60311,7 +60392,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784574187
+    "updated_at": 1784653321
   },
   {
     "id": 1032,
@@ -60398,7 +60479,7 @@
       "Drama",
       "Fantasy"
     ],
-    "updated_at": 1784584987
+    "updated_at": 1784653321
   },
   {
     "id": 1029,
@@ -60785,7 +60866,7 @@
       "Adventure",
       "Sci-Fi"
     ],
-    "updated_at": 1784620910
+    "updated_at": 1784653314
   },
   {
     "id": 900,
@@ -61863,7 +61944,7 @@
       "Horror",
       "Romance"
     ],
-    "updated_at": 1784462595
+    "updated_at": 1784653313
   },
   {
     "id": 608,
@@ -64016,6 +64097,6 @@
       "Mystery",
       "Sci-Fi"
     ],
-    "updated_at": 1784563304
+    "updated_at": 1784653321
   }
 ]
