@@ -58,121 +58,6 @@
     "updated_at": 1784386899
   },
   {
-    "id": 187260,
-    "id_mal": 61126,
-    "url": "https://anilist.co/anime/187260",
-    "title": {
-      "english": "I Want to Love You Till Your Dying Day",
-      "romaji": "Kimi ga Shinu made Koi wo Shitai",
-      "native": "きみが死ぬまで恋をしたい"
-    },
-    "description": "At the mysterious orphanage where Sheena lives, death is nothing new to its residents—girls who no longer have families of their own, who are raised as weapons of war, taught to kill and take the lives of others without batting an eye. Everyone, that is, except Sheena, who wishes for nothing more than the growing conflict around her to end. On the night of her roommate's death, Sheena meets a strange girl covered in blood, who smiles despite the turmoil surrounding them. The next day, the girl appears as a new student in Sheena's class and introduces herself as Mimi. Initially thought to be a school myth, there are now whispers in the orphanage's halls that Mimi is their secret weapon—an immortal who cannot die. When Mimi is later assigned as Sheena's new roommate, Sheena's world grows even more complicated when she begins living with someone who loves and welcomes death, when all Sheena wants to do is stop it…\n<br><br>\n(Source: Kodansha USA)",
-    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx187260-WW5RBa5NINRP.jpg",
-    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/187260-HMkLPy3ZvzW1.jpg",
-    "schedule": "Episode 3 tayang pada 21/7/2026, 19.30.00 WIB",
-    "next_episode": 3,
-    "next_airing_timestamp": 1784637000,
-    "season": "SUMMER",
-    "year": 2026,
-    "format": "TV",
-    "episodes": 13,
-    "duration": 24,
-    "status": "RELEASING",
-    "score": 75,
-    "genres": [
-      "Drama",
-      "Fantasy",
-      "Romance"
-    ],
-    "updated_at": 1784635216
-  },
-  {
-    "id": 213665,
-    "id_mal": 63878,
-    "url": "https://anilist.co/anime/213665",
-    "title": {
-      "english": "Saved By the Ice Cold Prince's Embrace",
-      "romaji": "Migawari Reijou wo Sukutta no wa Reikoku Mujihi na Koori no Ouji no Ai deshita",
-      "native": "身代わり令嬢を救ったのは冷酷無慈悲な氷の王子の愛でした"
-    },
-    "description": "As the illegitimate daughter of a count and his maid, Katrina was born into miserable circumstances. And now that she's lost her mother, the treatment from her stepsister and stepmother the countess has only grown worse. One day, her stepsister receives a royal order to move to the northern outskirts due to her unseemly behavior at a recent party. There, she is to learn proper conduct under the tutelage of the resident prince, rumored to be a cruel man. Not wanting to subject her daughter to such punishment, the countess decides to send Katrina instead. Katrina arrives in the north shaking in fear. But contrary to the stories, the \"merciless and cold-hearted\" prince is kinder than she believed. Might the pure-hearted Katrina find love in the wintry countryside?\n<br><br>\n(Source: MangaPlaza)",
-    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx213665-E6byznDKrKY0.png",
-    "banner_url": "",
-    "schedule": "Episode 3 tayang pada 21/7/2026, 19.55.00 WIB",
-    "next_episode": 3,
-    "next_airing_timestamp": 1784638500,
-    "season": "SUMMER",
-    "year": 2026,
-    "format": "TV_SHORT",
-    "episodes": null,
-    "duration": null,
-    "status": "RELEASING",
-    "score": 47,
-    "genres": [
-      "Fantasy",
-      "Romance"
-    ],
-    "updated_at": 1784635275
-  },
-  {
-    "id": 196219,
-    "id_mal": 62080,
-    "url": "https://anilist.co/anime/196219",
-    "title": {
-      "english": "The Oblivious Saint Can't Contain Her Power",
-      "romaji": "Mujikaku Seijo wa Kyou mo Muishiki ni Chikara wo Tare Nagasu",
-      "native": "無自覚聖女は今日も無意識に力を垂れ流す"
-    },
-    "description": "Lady Carolina, the overlooked daughter of a powerful duke, has always believed herself to be the black sheep amid her illustrious kin. Her father is the distinguished prime minister; her elder sister, a prodigious mage destined to become their nation’s next Saint. In comparison, Carolina resigns herself to a quiet existence in their shadows until a sudden and unexpected royal decree alters her destiny, thrusting her into a political marriage with the formidable “Bloodthirsty Prince” of the neighboring Empire of Malcosias. Determined to prove her worth, Carolina takes a bold step into a world fraught with both political and mortal peril. As royal obligations intertwine with hints of true love and the stirrings of her own latent power, Carolina moves ever closer to understanding what it truly means to be exceptional.\n<br><br>\n(Source: J-Novel Club)",
-    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx196219-imvC0rbk4VzH.jpg",
-    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/196219-2F64WTRfqRU9.jpg",
-    "schedule": "Episode 4 tayang pada 21/7/2026, 20.00.00 WIB",
-    "next_episode": 4,
-    "next_airing_timestamp": 1784638800,
-    "season": "SUMMER",
-    "year": 2026,
-    "format": "TV",
-    "episodes": null,
-    "duration": 24,
-    "status": "RELEASING",
-    "score": 63,
-    "genres": [
-      "Drama",
-      "Fantasy",
-      "Romance"
-    ],
-    "updated_at": 1784635234
-  },
-  {
-    "id": 177699,
-    "id_mal": 58929,
-    "url": "https://anilist.co/anime/177699",
-    "title": {
-      "english": "THE GHOST IN THE SHELL",
-      "romaji": "Koukaku Kidoutai: THE GHOST IN THE SHELL",
-      "native": "攻殻機動隊 THE GHOST IN THE SHELL"
-    },
-    "description": "The year is 2029. In near-future Japan, where the world has become highly information-intensive, with a vast corporate network covering the planet, electrons and light pulsing through it. But the nation-state and ethnic groups still survive.  <br><br> Motoko Kusanagi, a full-body cyborg, leads an elite combat unit, including Batou. While commanding her team, Kusanagi envisions the creation of a specialized task force to preemptively strike against emerging threats. Meanwhile, Daisuke Aramaki of the Ministry of Internal Affairs, who had been planning to establish a similar unit, recruited Kusanagi and her team. Together, they begin operations as Public Security Section 9—an offensive tactical unit known as “Shell Squad.” As they confront complex cybercrimes and international conspiracies, the existence of a mysterious, unidentified hacker known as The “Puppet Master” emerges on the horizon of their investigation. <br><br> What fate awaits Kusanagi? And what is the Puppet Master’s true objective? A new era of cyberpunk action begins.  <br><br>\n(Source:攻殻機動隊 THE GHOST IN THE SHELL Site)",
-    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177699-hnzc1CS5ZSM2.png",
-    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/177699-5kDbvDBhtSE3.jpg",
-    "schedule": "Episode 3 tayang pada 21/7/2026, 21.00.00 WIB",
-    "next_episode": 3,
-    "next_airing_timestamp": 1784642400,
-    "season": "SUMMER",
-    "year": 2026,
-    "format": "TV",
-    "episodes": null,
-    "duration": 24,
-    "status": "RELEASING",
-    "score": 77,
-    "genres": [
-      "Action",
-      "Psychological",
-      "Sci-Fi"
-    ],
-    "updated_at": 1784635222
-  },
-  {
     "id": 209800,
     "id_mal": 63047,
     "url": "https://anilist.co/anime/209800",
@@ -199,7 +84,7 @@
       "Adventure",
       "Sci-Fi"
     ],
-    "updated_at": 1784631692
+    "updated_at": 1784642532
   },
   {
     "id": 198709,
@@ -229,7 +114,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784635212
+    "updated_at": 1784642443
   },
   {
     "id": 207809,
@@ -260,7 +145,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784635235
+    "updated_at": 1784642461
   },
   {
     "id": 193883,
@@ -372,7 +257,7 @@
       "Fantasy",
       "Sci-Fi"
     ],
-    "updated_at": 1784635281
+    "updated_at": 1784638921
   },
   {
     "id": 163793,
@@ -455,7 +340,7 @@
       "Drama",
       "Fantasy"
     ],
-    "updated_at": 1784635213
+    "updated_at": 1784642452
   },
   {
     "id": 135865,
@@ -483,7 +368,7 @@
       "Action",
       "Fantasy"
     ],
-    "updated_at": 1784635219
+    "updated_at": 1784642445
   },
   {
     "id": 213666,
@@ -511,7 +396,7 @@
       "Drama",
       "Romance"
     ],
-    "updated_at": 1784635298
+    "updated_at": 1784642561
   },
   {
     "id": 192800,
@@ -539,7 +424,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784635235
+    "updated_at": 1784642446
   },
   {
     "id": 196356,
@@ -567,7 +452,7 @@
       "Comedy",
       "Slice of Life"
     ],
-    "updated_at": 1784631643
+    "updated_at": 1784642509
   },
   {
     "id": 159309,
@@ -597,7 +482,7 @@
       "Mecha",
       "Romance"
     ],
-    "updated_at": 1784635209
+    "updated_at": 1784642453
   },
   {
     "id": 194829,
@@ -627,7 +512,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784631632
+    "updated_at": 1784642455
   },
   {
     "id": 205772,
@@ -654,7 +539,7 @@
     "genres": [
       "Comedy"
     ],
-    "updated_at": 1784620873
+    "updated_at": 1784628105
   },
   {
     "id": 213961,
@@ -712,7 +597,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784635215
+    "updated_at": 1784642483
   },
   {
     "id": 207254,
@@ -771,7 +656,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784628072
+    "updated_at": 1784642505
   },
   {
     "id": 184356,
@@ -800,7 +685,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784635214
+    "updated_at": 1784642451
   },
   {
     "id": 209541,
@@ -884,7 +769,7 @@
       "Horror",
       "Supernatural"
     ],
-    "updated_at": 1784635207
+    "updated_at": 1784642503
   },
   {
     "id": 201667,
@@ -913,7 +798,7 @@
       "Slice of Life",
       "Supernatural"
     ],
-    "updated_at": 1784631633
+    "updated_at": 1784642561
   },
   {
     "id": 187166,
@@ -971,7 +856,7 @@
       "Music",
       "Slice of Life"
     ],
-    "updated_at": 1784635220
+    "updated_at": 1784642516
   },
   {
     "id": 108992,
@@ -994,12 +879,12 @@
     "episodes": null,
     "duration": null,
     "status": "RELEASING",
-    "score": 52,
+    "score": 51,
     "genres": [
       "Action",
       "Supernatural"
     ],
-    "updated_at": 1784635259
+    "updated_at": 1784642439
   },
   {
     "id": 196187,
@@ -1028,7 +913,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784635207
+    "updated_at": 1784642442
   },
   {
     "id": 208044,
@@ -1057,7 +942,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784635230
+    "updated_at": 1784638832
   },
   {
     "id": 180136,
@@ -1085,7 +970,7 @@
       "Action",
       "Fantasy"
     ],
-    "updated_at": 1784635222
+    "updated_at": 1784642446
   },
   {
     "id": 207141,
@@ -1113,7 +998,7 @@
       "Comedy",
       "Slice of Life"
     ],
-    "updated_at": 1784635214
+    "updated_at": 1784642457
   },
   {
     "id": 204466,
@@ -1142,7 +1027,7 @@
       "Romance",
       "Supernatural"
     ],
-    "updated_at": 1784635208
+    "updated_at": 1784642445
   },
   {
     "id": 8336,
@@ -1197,7 +1082,7 @@
       "Comedy",
       "Slice of Life"
     ],
-    "updated_at": 1784631662
+    "updated_at": 1784642451
   },
   {
     "id": 213484,
@@ -1226,7 +1111,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784635212
+    "updated_at": 1784642436
   },
   {
     "id": 199748,
@@ -1255,7 +1140,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784635218
+    "updated_at": 1784642435
   },
   {
     "id": 196218,
@@ -1287,7 +1172,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784635229
+    "updated_at": 1784642452
   },
   {
     "id": 182205,
@@ -1317,7 +1202,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784635206
+    "updated_at": 1784642449
   },
   {
     "id": 188525,
@@ -1345,7 +1230,7 @@
       "Comedy",
       "Slice of Life"
     ],
-    "updated_at": 1784635216
+    "updated_at": 1784642462
   },
   {
     "id": 202508,
@@ -1374,7 +1259,7 @@
       "Mystery",
       "Slice of Life"
     ],
-    "updated_at": 1784635235
+    "updated_at": 1784642551
   },
   {
     "id": 182616,
@@ -1402,7 +1287,7 @@
       "Action",
       "Adventure"
     ],
-    "updated_at": 1784635208
+    "updated_at": 1784642477
   },
   {
     "id": 203490,
@@ -1431,7 +1316,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784628051
+    "updated_at": 1784642473
   },
   {
     "id": 209983,
@@ -1460,7 +1345,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784635212
+    "updated_at": 1784642437
   },
   {
     "id": 207674,
@@ -1489,7 +1374,7 @@
       "Ecchi",
       "Supernatural"
     ],
-    "updated_at": 1784635224
+    "updated_at": 1784642442
   },
   {
     "id": 213831,
@@ -1602,7 +1487,7 @@
       "Fantasy",
       "Slice of Life"
     ],
-    "updated_at": 1784635276
+    "updated_at": 1784638921
   },
   {
     "id": 214260,
@@ -1719,7 +1604,7 @@
       "Comedy",
       "Sci-Fi"
     ],
-    "updated_at": 1784631629
+    "updated_at": 1784638921
   },
   {
     "id": 171110,
@@ -1748,7 +1633,7 @@
       "Fantasy",
       "Slice of Life"
     ],
-    "updated_at": 1784635208
+    "updated_at": 1784642442
   },
   {
     "id": 235,
@@ -1778,7 +1663,7 @@
       "Mystery",
       "Psychological"
     ],
-    "updated_at": 1784635215
+    "updated_at": 1784642445
   },
   {
     "id": 184492,
@@ -1807,7 +1692,7 @@
       "Fantasy",
       "Supernatural"
     ],
-    "updated_at": 1784635229
+    "updated_at": 1784642437
   },
   {
     "id": 213356,
@@ -1836,7 +1721,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784624471
+    "updated_at": 1784642561
   },
   {
     "id": 186863,
@@ -1864,7 +1749,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784635220
+    "updated_at": 1784642451
   },
   {
     "id": 187538,
@@ -1895,7 +1780,7 @@
       "Sci-Fi",
       "Supernatural"
     ],
-    "updated_at": 1784635218
+    "updated_at": 1784642445
   },
   {
     "id": 206249,
@@ -1923,7 +1808,7 @@
       "Action",
       "Supernatural"
     ],
-    "updated_at": 1784631634
+    "updated_at": 1784642476
   },
   {
     "id": 195600,
@@ -1954,7 +1839,7 @@
       "Fantasy",
       "Supernatural"
     ],
-    "updated_at": 1784635209
+    "updated_at": 1784642458
   },
   {
     "id": 190569,
@@ -1981,7 +1866,7 @@
     "genres": [
       "Drama"
     ],
-    "updated_at": 1784635207
+    "updated_at": 1784642440
   },
   {
     "id": 196012,
@@ -2011,7 +1896,7 @@
       "Romance",
       "Supernatural"
     ],
-    "updated_at": 1784635221
+    "updated_at": 1784642460
   },
   {
     "id": 211181,
@@ -2065,7 +1950,7 @@
     "status": "RELEASING",
     "score": 68,
     "genres": [],
-    "updated_at": 1784635267
+    "updated_at": 1784642485
   },
   {
     "id": 194219,
@@ -2094,7 +1979,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784635223
+    "updated_at": 1784642440
   },
   {
     "id": 185692,
@@ -2124,7 +2009,7 @@
       "Fantasy",
       "Mahou Shoujo"
     ],
-    "updated_at": 1784635247
+    "updated_at": 1784642470
   },
   {
     "id": 185875,
@@ -2155,7 +2040,7 @@
       "Fantasy",
       "Mahou Shoujo"
     ],
-    "updated_at": 1784631626
+    "updated_at": 1784638844
   },
   {
     "id": 208225,
@@ -2183,7 +2068,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784635230
+    "updated_at": 1784642441
   },
   {
     "id": 199066,
@@ -2212,7 +2097,7 @@
       "Romance",
       "Supernatural"
     ],
-    "updated_at": 1784631608
+    "updated_at": 1784642452
   },
   {
     "id": 201514,
@@ -2240,7 +2125,7 @@
       "Comedy",
       "Romance"
     ],
-    "updated_at": 1784635205
+    "updated_at": 1784642443
   },
   {
     "id": 206950,
@@ -2321,7 +2206,7 @@
     "status": "RELEASING",
     "score": null,
     "genres": [],
-    "updated_at": 1784624756
+    "updated_at": 1784642560
   },
   {
     "id": 204269,
@@ -2403,7 +2288,7 @@
       "Mahou Shoujo",
       "Mystery"
     ],
-    "updated_at": 1784635255
+    "updated_at": 1784642483
   },
   {
     "id": 188388,
@@ -2433,7 +2318,7 @@
       "Fantasy",
       "Sci-Fi"
     ],
-    "updated_at": 1784635225
+    "updated_at": 1784642441
   },
   {
     "id": 206523,
@@ -2460,7 +2345,7 @@
     "genres": [
       "Music"
     ],
-    "updated_at": 1784635298
+    "updated_at": 1784642518
   },
   {
     "id": 155723,
@@ -2488,7 +2373,7 @@
       "Action",
       "Fantasy"
     ],
-    "updated_at": 1784635298
+    "updated_at": 1784638868
   },
   {
     "id": 200230,
@@ -2517,7 +2402,7 @@
       "Horror",
       "Supernatural"
     ],
-    "updated_at": 1784635230
+    "updated_at": 1784642513
   },
   {
     "id": 210031,
@@ -2547,7 +2432,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784635206
+    "updated_at": 1784642443
   },
   {
     "id": 204060,
@@ -2575,7 +2460,7 @@
       "Action",
       "Comedy"
     ],
-    "updated_at": 1784635211
+    "updated_at": 1784642455
   },
   {
     "id": 118123,
@@ -2604,7 +2489,7 @@
       "Adventure",
       "Comedy"
     ],
-    "updated_at": 1784635291
+    "updated_at": 1784642561
   },
   {
     "id": 2406,
@@ -2661,7 +2546,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784635230
+    "updated_at": 1784642438
   },
   {
     "id": 200637,
@@ -2690,7 +2575,7 @@
       "Ecchi",
       "Romance"
     ],
-    "updated_at": 1784631612
+    "updated_at": 1784642442
   },
   {
     "id": 103303,
@@ -2718,7 +2603,7 @@
       "Adventure",
       "Romance"
     ],
-    "updated_at": 1784635205
+    "updated_at": 1784642842
   },
   {
     "id": 21,
@@ -2749,7 +2634,7 @@
       "Drama",
       "Fantasy"
     ],
-    "updated_at": 1784635205
+    "updated_at": 1784642438
   },
   {
     "id": 196974,
@@ -2776,7 +2661,7 @@
     "genres": [
       "Fantasy"
     ],
-    "updated_at": 1784635223
+    "updated_at": 1784642465
   },
   {
     "id": 188139,
@@ -2804,7 +2689,7 @@
       "Drama",
       "Romance"
     ],
-    "updated_at": 1784635209
+    "updated_at": 1784642451
   },
   {
     "id": 178789,
@@ -2834,7 +2719,7 @@
       "Ecchi",
       "Fantasy"
     ],
-    "updated_at": 1784635208
+    "updated_at": 1784642435
   },
   {
     "id": 177637,
@@ -2862,7 +2747,7 @@
       "Romance",
       "Supernatural"
     ],
-    "updated_at": 1784635205
+    "updated_at": 1784642442
   },
   {
     "id": 205116,
@@ -2917,7 +2802,7 @@
       "Ecchi",
       "Slice of Life"
     ],
-    "updated_at": 1784631674
+    "updated_at": 1784642468
   },
   {
     "id": 213359,
@@ -2945,7 +2830,7 @@
       "Horror",
       "Supernatural"
     ],
-    "updated_at": 1784635298
+    "updated_at": 1784642556
   },
   {
     "id": 137653,
@@ -2975,7 +2860,7 @@
       "Drama",
       "Fantasy"
     ],
-    "updated_at": 1784635264
+    "updated_at": 1784642445
   },
   {
     "id": 169582,
@@ -3006,7 +2891,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784635213
+    "updated_at": 1784642448
   },
   {
     "id": 202269,
@@ -3034,7 +2919,7 @@
       "Drama",
       "Romance"
     ],
-    "updated_at": 1784635207
+    "updated_at": 1784642437
   },
   {
     "id": 206521,
@@ -3091,7 +2976,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784635207
+    "updated_at": 1784642443
   },
   {
     "id": 199408,
@@ -3119,7 +3004,7 @@
       "Drama",
       "Fantasy"
     ],
-    "updated_at": 1784635211
+    "updated_at": 1784642441
   },
   {
     "id": 209504,
@@ -3149,7 +3034,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784635208
+    "updated_at": 1784642441
   },
   {
     "id": 195833,
@@ -3177,7 +3062,7 @@
       "Comedy",
       "Sports"
     ],
-    "updated_at": 1784635212
+    "updated_at": 1784642471
   },
   {
     "id": 169583,
@@ -3205,7 +3090,7 @@
       "Comedy",
       "Romance"
     ],
-    "updated_at": 1784635206
+    "updated_at": 1784642441
   },
   {
     "id": 199111,
@@ -3234,7 +3119,7 @@
       "Slice of Life",
       "Sports"
     ],
-    "updated_at": 1784635204
+    "updated_at": 1784642440
   },
   {
     "id": 197754,
@@ -3262,7 +3147,7 @@
       "Drama",
       "Psychological"
     ],
-    "updated_at": 1784635208
+    "updated_at": 1784642443
   },
   {
     "id": 213188,
@@ -3291,7 +3176,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784635298
+    "updated_at": 1784642561
   },
   {
     "id": 128757,
@@ -3318,7 +3203,122 @@
     "genres": [
       "Drama"
     ],
-    "updated_at": 1784635223
+    "updated_at": 1784642444
+  },
+  {
+    "id": 187260,
+    "id_mal": 61126,
+    "url": "https://anilist.co/anime/187260",
+    "title": {
+      "english": "I Want to Love You Till Your Dying Day",
+      "romaji": "Kimi ga Shinu made Koi wo Shitai",
+      "native": "きみが死ぬまで恋をしたい"
+    },
+    "description": "At the mysterious orphanage where Sheena lives, death is nothing new to its residents—girls who no longer have families of their own, who are raised as weapons of war, taught to kill and take the lives of others without batting an eye. Everyone, that is, except Sheena, who wishes for nothing more than the growing conflict around her to end. On the night of her roommate's death, Sheena meets a strange girl covered in blood, who smiles despite the turmoil surrounding them. The next day, the girl appears as a new student in Sheena's class and introduces herself as Mimi. Initially thought to be a school myth, there are now whispers in the orphanage's halls that Mimi is their secret weapon—an immortal who cannot die. When Mimi is later assigned as Sheena's new roommate, Sheena's world grows even more complicated when she begins living with someone who loves and welcomes death, when all Sheena wants to do is stop it…\n<br><br>\n(Source: Kodansha USA)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx187260-WW5RBa5NINRP.jpg",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/187260-HMkLPy3ZvzW1.jpg",
+    "schedule": "Episode 4 tayang pada 28/7/2026, 19.30.00 WIB",
+    "next_episode": 4,
+    "next_airing_timestamp": 1785241800,
+    "season": "SUMMER",
+    "year": 2026,
+    "format": "TV",
+    "episodes": 13,
+    "duration": 24,
+    "status": "RELEASING",
+    "score": 75,
+    "genres": [
+      "Drama",
+      "Fantasy",
+      "Romance"
+    ],
+    "updated_at": 1784642439
+  },
+  {
+    "id": 213665,
+    "id_mal": 63878,
+    "url": "https://anilist.co/anime/213665",
+    "title": {
+      "english": "Saved By the Ice Cold Prince's Embrace",
+      "romaji": "Migawari Reijou wo Sukutta no wa Reikoku Mujihi na Koori no Ouji no Ai deshita",
+      "native": "身代わり令嬢を救ったのは冷酷無慈悲な氷の王子の愛でした"
+    },
+    "description": "As the illegitimate daughter of a count and his maid, Katrina was born into miserable circumstances. And now that she's lost her mother, the treatment from her stepsister and stepmother the countess has only grown worse. One day, her stepsister receives a royal order to move to the northern outskirts due to her unseemly behavior at a recent party. There, she is to learn proper conduct under the tutelage of the resident prince, rumored to be a cruel man. Not wanting to subject her daughter to such punishment, the countess decides to send Katrina instead. Katrina arrives in the north shaking in fear. But contrary to the stories, the \"merciless and cold-hearted\" prince is kinder than she believed. Might the pure-hearted Katrina find love in the wintry countryside?\n<br><br>\n(Source: MangaPlaza)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx213665-E6byznDKrKY0.png",
+    "banner_url": "",
+    "schedule": "Episode 4 tayang pada 28/7/2026, 19.55.00 WIB",
+    "next_episode": 4,
+    "next_airing_timestamp": 1785243300,
+    "season": "SUMMER",
+    "year": 2026,
+    "format": "TV_SHORT",
+    "episodes": null,
+    "duration": null,
+    "status": "RELEASING",
+    "score": 47,
+    "genres": [
+      "Fantasy",
+      "Romance"
+    ],
+    "updated_at": 1784642440
+  },
+  {
+    "id": 196219,
+    "id_mal": 62080,
+    "url": "https://anilist.co/anime/196219",
+    "title": {
+      "english": "The Oblivious Saint Can't Contain Her Power",
+      "romaji": "Mujikaku Seijo wa Kyou mo Muishiki ni Chikara wo Tare Nagasu",
+      "native": "無自覚聖女は今日も無意識に力を垂れ流す"
+    },
+    "description": "Lady Carolina, the overlooked daughter of a powerful duke, has always believed herself to be the black sheep amid her illustrious kin. Her father is the distinguished prime minister; her elder sister, a prodigious mage destined to become their nation’s next Saint. In comparison, Carolina resigns herself to a quiet existence in their shadows until a sudden and unexpected royal decree alters her destiny, thrusting her into a political marriage with the formidable “Bloodthirsty Prince” of the neighboring Empire of Malcosias. Determined to prove her worth, Carolina takes a bold step into a world fraught with both political and mortal peril. As royal obligations intertwine with hints of true love and the stirrings of her own latent power, Carolina moves ever closer to understanding what it truly means to be exceptional.\n<br><br>\n(Source: J-Novel Club)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx196219-imvC0rbk4VzH.jpg",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/196219-2F64WTRfqRU9.jpg",
+    "schedule": "Episode 5 tayang pada 28/7/2026, 20.00.00 WIB",
+    "next_episode": 5,
+    "next_airing_timestamp": 1785243600,
+    "season": "SUMMER",
+    "year": 2026,
+    "format": "TV",
+    "episodes": null,
+    "duration": 24,
+    "status": "RELEASING",
+    "score": 63,
+    "genres": [
+      "Drama",
+      "Fantasy",
+      "Romance"
+    ],
+    "updated_at": 1784642439
+  },
+  {
+    "id": 177699,
+    "id_mal": 58929,
+    "url": "https://anilist.co/anime/177699",
+    "title": {
+      "english": "THE GHOST IN THE SHELL",
+      "romaji": "Koukaku Kidoutai: THE GHOST IN THE SHELL",
+      "native": "攻殻機動隊 THE GHOST IN THE SHELL"
+    },
+    "description": "The year is 2029. In near-future Japan, where the world has become highly information-intensive, with a vast corporate network covering the planet, electrons and light pulsing through it. But the nation-state and ethnic groups still survive.  <br><br> Motoko Kusanagi, a full-body cyborg, leads an elite combat unit, including Batou. While commanding her team, Kusanagi envisions the creation of a specialized task force to preemptively strike against emerging threats. Meanwhile, Daisuke Aramaki of the Ministry of Internal Affairs, who had been planning to establish a similar unit, recruited Kusanagi and her team. Together, they begin operations as Public Security Section 9—an offensive tactical unit known as “Shell Squad.” As they confront complex cybercrimes and international conspiracies, the existence of a mysterious, unidentified hacker known as The “Puppet Master” emerges on the horizon of their investigation. <br><br> What fate awaits Kusanagi? And what is the Puppet Master’s true objective? A new era of cyberpunk action begins.  <br><br>\n(Source:攻殻機動隊 THE GHOST IN THE SHELL Site)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177699-hnzc1CS5ZSM2.png",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/177699-5kDbvDBhtSE3.jpg",
+    "schedule": "Episode 4 tayang pada 28/7/2026, 21.00.00 WIB",
+    "next_episode": 4,
+    "next_airing_timestamp": 1785247200,
+    "season": "SUMMER",
+    "year": 2026,
+    "format": "TV",
+    "episodes": null,
+    "duration": 24,
+    "status": "RELEASING",
+    "score": 77,
+    "genres": [
+      "Action",
+      "Psychological",
+      "Sci-Fi"
+    ],
+    "updated_at": 1784642438
   },
   {
     "id": 204560,
@@ -3430,7 +3430,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784635215
+    "updated_at": 1784642461
   },
   {
     "id": 208685,
@@ -3457,7 +3457,7 @@
     "genres": [
       "Hentai"
     ],
-    "updated_at": 1784631655
+    "updated_at": 1784642561
   },
   {
     "id": 165159,
@@ -3486,7 +3486,7 @@
       "Adventure",
       "Sports"
     ],
-    "updated_at": 1784628159
+    "updated_at": 1784642489
   },
   {
     "id": 189046,
@@ -3519,7 +3519,7 @@
       "Romance",
       "Thriller"
     ],
-    "updated_at": 1784635212
+    "updated_at": 1784642446
   },
   {
     "id": 210687,
@@ -3629,7 +3629,7 @@
     "genres": [
       "Hentai"
     ],
-    "updated_at": 1784599346
+    "updated_at": 1784642514
   },
   {
     "id": 196613,
@@ -3739,6 +3739,6 @@
     "genres": [
       "Hentai"
     ],
-    "updated_at": 1784631700
+    "updated_at": 1784638498
   }
 ]
