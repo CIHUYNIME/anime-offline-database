@@ -75,7 +75,7 @@
     "status": "FINISHED",
     "score": null,
     "genres": [],
-    "updated_at": 1784570509
+    "updated_at": 1784628105
   },
   {
     "id": 214070,
@@ -2217,7 +2217,7 @@
       "Romance",
       "Sci-Fi"
     ],
-    "updated_at": 1784613738
+    "updated_at": 1784628105
   },
   {
     "id": 191370,
@@ -5297,7 +5297,7 @@
     "genres": [
       "Sci-Fi"
     ],
-    "updated_at": 1784620910
+    "updated_at": 1784628118
   },
   {
     "id": 165253,
@@ -5326,7 +5326,7 @@
       "Music",
       "Slice of Life"
     ],
-    "updated_at": 1784592395
+    "updated_at": 1784628152
   },
   {
     "id": 164293,
@@ -5382,7 +5382,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784588534
+    "updated_at": 1784628227
   },
   {
     "id": 164194,
@@ -5410,7 +5410,7 @@
       "Action",
       "Drama"
     ],
-    "updated_at": 1784541724
+    "updated_at": 1784628231
   },
   {
     "id": 163788,
@@ -5468,7 +5468,7 @@
       "Adventure",
       "Supernatural"
     ],
-    "updated_at": 1784368934
+    "updated_at": 1784628265
   },
   {
     "id": 163694,
@@ -5494,6 +5494,35 @@
     "score": null,
     "genres": [],
     "updated_at": 1784455449
+  },
+  {
+    "id": 163544,
+    "id_mal": 58198,
+    "url": "https://anilist.co/anime/163544",
+    "title": {
+      "english": "",
+      "romaji": "Re:STARS: Mirai e Tsunagu 2-tsu no Kiraboshi",
+      "native": "Re:STARS 〜未来へ繋ぐ2つのきらぼし〜"
+    },
+    "description": "Eita Hoshizora is an 18-year-old college student who has just entered university. From an early age he exceled in singing, but a certain incident makes him unable to sing in front of others.<br><br>One day, his twin sister Karina Hoshizora, a top idol,asks him to stand on stage in her place. Unable to turn down her selfish sister's request, Eita acts by pretending to be her... but ends up upsetting her sponsors and in a situation where she could be kicked out of the entertainment world! Eita struggles to regain her position as a top idol in the special world of show business, but...<br><br>In this coming-of-age idol comedy, a sister and brother switch places and live as idols!<br><br>(Source: Nautiljon & Official Site, Edited)<br><Br><i>Note: This entry is for the theatrical Japanese release of the Chinese donghua Jintian Kaishi Zuo Mingxing, known as Re:STARS in Japan.</i>",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx163544-au5w48a9hpqs.png",
+    "banner_url": "",
+    "schedule": "Musim: SUMMER 2023",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "SUMMER",
+    "year": 2023,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 115,
+    "status": "FINISHED",
+    "score": null,
+    "genres": [
+      "Comedy",
+      "Music",
+      "Slice of Life"
+    ],
+    "updated_at": 1784628285
   },
   {
     "id": 163363,
@@ -5551,7 +5580,7 @@
       "Drama",
       "Sports"
     ],
-    "updated_at": 1784600425
+    "updated_at": 1784628343
   },
   {
     "id": 163143,
@@ -5581,7 +5610,7 @@
       "Psychological",
       "Sci-Fi"
     ],
-    "updated_at": 1784541818
+    "updated_at": 1784628356
   },
   {
     "id": 162993,
@@ -5609,7 +5638,7 @@
       "Music",
       "Slice of Life"
     ],
-    "updated_at": 1784541839
+    "updated_at": 1784628383
   },
   {
     "id": 162987,
@@ -5632,13 +5661,13 @@
     "episodes": 1,
     "duration": 70,
     "status": "FINISHED",
-    "score": 79,
+    "score": 80,
     "genres": [
       "Drama",
       "Music",
       "Romance"
     ],
-    "updated_at": 1784613734
+    "updated_at": 1784628385
   },
   {
     "id": 162904,
@@ -5665,7 +5694,7 @@
     "genres": [
       "Slice of Life"
     ],
-    "updated_at": 1784592393
+    "updated_at": 1784628393
   },
   {
     "id": 162682,
@@ -5717,7 +5746,7 @@
     "status": "FINISHED",
     "score": 55,
     "genres": [],
-    "updated_at": 1784541942
+    "updated_at": 1784628490
   },
   {
     "id": 161474,
@@ -5747,7 +5776,7 @@
       "Romance",
       "Supernatural"
     ],
-    "updated_at": 1784592391
+    "updated_at": 1784628532
   },
   {
     "id": 161441,
@@ -5775,7 +5804,7 @@
       "Action",
       "Horror"
     ],
-    "updated_at": 1784592391
+    "updated_at": 1784628534
   },
   {
     "id": 161440,
@@ -5802,7 +5831,7 @@
     "genres": [
       "Music"
     ],
-    "updated_at": 1784541982
+    "updated_at": 1784628534
   },
   {
     "id": 160982,
@@ -5890,7 +5919,35 @@
       "Mahou Shoujo",
       "Romance"
     ],
-    "updated_at": 1784542023
+    "updated_at": 1784628576
+  },
+  {
+    "id": 160436,
+    "id_mal": 54308,
+    "url": "https://anilist.co/anime/160436",
+    "title": {
+      "english": "",
+      "romaji": "Itadakinosaki",
+      "native": "イタダキノサキ"
+    },
+    "description": "Keiichirou Saitou's Kyoto Seika University graduation film.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx160436-my2ubuifpMIT.png",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 12,
+    "status": "FINISHED",
+    "score": 47,
+    "genres": [
+      "Fantasy",
+      "Mystery"
+    ],
+    "updated_at": 1784628606
   },
   {
     "id": 160275,
@@ -5922,7 +5979,7 @@
       "Mystery",
       "Sci-Fi"
     ],
-    "updated_at": 1784592390
+    "updated_at": 1784628621
   },
   {
     "id": 159981,
@@ -5979,7 +6036,7 @@
       "Fantasy",
       "Sci-Fi"
     ],
-    "updated_at": 1784542096
+    "updated_at": 1784628658
   },
   {
     "id": 159429,
@@ -6065,7 +6122,7 @@
     "genres": [
       "Mystery"
     ],
-    "updated_at": 1784386898
+    "updated_at": 1784628749
   },
   {
     "id": 158991,
@@ -6094,7 +6151,7 @@
       "Mecha",
       "Sci-Fi"
     ],
-    "updated_at": 1784542170
+    "updated_at": 1784628749
   },
   {
     "id": 158990,
@@ -6123,7 +6180,7 @@
       "Mecha",
       "Sci-Fi"
     ],
-    "updated_at": 1784542170
+    "updated_at": 1784628750
   },
   {
     "id": 158928,
@@ -6154,7 +6211,7 @@
       "Slice of Life",
       "Supernatural"
     ],
-    "updated_at": 1784592389
+    "updated_at": 1784628757
   },
   {
     "id": 158896,
@@ -6238,7 +6295,7 @@
       "Slice of Life",
       "Supernatural"
     ],
-    "updated_at": 1784542200
+    "updated_at": 1784628791
   },
   {
     "id": 158623,
@@ -6395,7 +6452,35 @@
     "genres": [
       "Music"
     ],
-    "updated_at": 1784542235
+    "updated_at": 1784628833
+  },
+  {
+    "id": 157638,
+    "id_mal": 53634,
+    "url": "https://anilist.co/anime/157638",
+    "title": {
+      "english": "",
+      "romaji": "Youkai Watch ♪: Jibanyan VS Komasan Monge Daikessen da Nyan",
+      "native": "妖怪ウォッチ♪ ジバニャンVSコマさん もんげー大決戦だニャン"
+    },
+    "description": "The story begins when Jibanyan's favorite sweets store Chocobo and Komasan's favorite soft serve ice cream parlor suddenly vanish from the town due to the actions of a mysterious yo-kai creature. The yo-kai says that Jibanyan and Komasan must face off to determine which of the two shops will return. <br><br>\n(Source: Anime News Network, edited)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx157638-OlfGwHCckEdU.jpg",
+    "banner_url": "",
+    "schedule": "Musim: WINTER 2023",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "WINTER",
+    "year": 2023,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 40,
+    "status": "FINISHED",
+    "score": null,
+    "genres": [
+      "Comedy",
+      "Supernatural"
+    ],
+    "updated_at": 1784628873
   },
   {
     "id": 157330,
@@ -6477,7 +6562,7 @@
       "Drama",
       "Mystery"
     ],
-    "updated_at": 1784570509
+    "updated_at": 1784628941
   },
   {
     "id": 156727,
@@ -6505,7 +6590,7 @@
       "Fantasy",
       "Music"
     ],
-    "updated_at": 1784542340
+    "updated_at": 1784628952
   },
   {
     "id": 156631,
@@ -6534,7 +6619,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784600421
+    "updated_at": 1784628962
   },
   {
     "id": 156153,
@@ -6644,7 +6729,7 @@
       "Music",
       "Slice of Life"
     ],
-    "updated_at": 1784613731
+    "updated_at": 1784629083
   },
   {
     "id": 154979,
@@ -6753,7 +6838,7 @@
     "genres": [
       "Fantasy"
     ],
-    "updated_at": 1784542499
+    "updated_at": 1784629141
   },
   {
     "id": 154967,
@@ -6782,7 +6867,7 @@
       "Psychological",
       "Supernatural"
     ],
-    "updated_at": 1784600356
+    "updated_at": 1784629143
   },
   {
     "id": 154392,
@@ -6811,7 +6896,7 @@
       "Drama",
       "Romance"
     ],
-    "updated_at": 1784613738
+    "updated_at": 1784629229
   },
   {
     "id": 154064,
@@ -6839,7 +6924,7 @@
       "Romance",
       "Sci-Fi"
     ],
-    "updated_at": 1784542583
+    "updated_at": 1784629258
   },
   {
     "id": 154038,
@@ -6865,6 +6950,31 @@
     "score": null,
     "genres": [],
     "updated_at": 1784542585
+  },
+  {
+    "id": 153970,
+    "id_mal": 43428,
+    "url": "https://anilist.co/anime/153970",
+    "title": {
+      "english": "",
+      "romaji": "Youkina Fuukei-tachi",
+      "native": "陽気な風景たち"
+    },
+    "description": "An experimental film created from 3 years worth of abstract pencil drawings with the goal of being a catalyst for unveiling a new mental landscape in viewers.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b153970-Ot6aeYmHWcna.jpg",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 25,
+    "status": "FINISHED",
+    "score": null,
+    "genres": [],
+    "updated_at": 1784629265
   },
   {
     "id": 153734,
@@ -6919,7 +7029,7 @@
       "Sci-Fi",
       "Thriller"
     ],
-    "updated_at": 1784620910
+    "updated_at": 1784629302
   },
   {
     "id": 153658,
@@ -6948,7 +7058,7 @@
       "Drama",
       "Sports"
     ],
-    "updated_at": 1784592382
+    "updated_at": 1784629308
   },
   {
     "id": 152134,
@@ -7002,7 +7112,7 @@
       "Comedy",
       "Sci-Fi"
     ],
-    "updated_at": 1784542771
+    "updated_at": 1784629465
   },
   {
     "id": 151743,
@@ -7029,7 +7139,7 @@
     "genres": [
       "Fantasy"
     ],
-    "updated_at": 1784542792
+    "updated_at": 1784629492
   },
   {
     "id": 151647,
@@ -7133,7 +7243,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784542834
+    "updated_at": 1784629543
   },
   {
     "id": 151117,
@@ -7164,7 +7274,7 @@
       "Psychological",
       "Supernatural"
     ],
-    "updated_at": 1784592378
+    "updated_at": 1784629559
   },
   {
     "id": 151089,
@@ -7316,7 +7426,60 @@
     "genres": [
       "Music"
     ],
-    "updated_at": 1784600431
+    "updated_at": 1784629571
+  },
+  {
+    "id": 150584,
+    "id_mal": 43503,
+    "url": "https://anilist.co/anime/150584",
+    "title": {
+      "english": "",
+      "romaji": "Houzi Lao Yue",
+      "native": "猴子捞月"
+    },
+    "description": "Tidak ada deskripsi.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx150584-NnLXuueT5kWM.jpg",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 11,
+    "status": "FINISHED",
+    "score": null,
+    "genres": [],
+    "updated_at": 1784629610
+  },
+  {
+    "id": 150466,
+    "id_mal": 50244,
+    "url": "https://anilist.co/anime/150466",
+    "title": {
+      "english": "The Starry Night",
+      "romaji": "Byeori Binnaneun Bame",
+      "native": "별이 빛나는 밤에"
+    },
+    "description": "<i>The Starry Night</i> tells about the love that becomes clearer as time goes by, through the process of organizing his own life, loving an old lover. <br><br> (Source: vcrworks.kr)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx150466-e6y6W4UQnP3w.jpg",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/150466-2aIJeWXAzq1T.jpg",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 9,
+    "status": "FINISHED",
+    "score": 59,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "updated_at": 1784629618
   },
   {
     "id": 150084,
@@ -7450,7 +7613,7 @@
       "Fantasy",
       "Slice of Life"
     ],
-    "updated_at": 1784325887
+    "updated_at": 1784629748
   },
   {
     "id": 148813,
@@ -7478,6 +7641,31 @@
     "updated_at": 1784329393
   },
   {
+    "id": 148590,
+    "id_mal": null,
+    "url": "https://anilist.co/anime/148590",
+    "title": {
+      "english": "Flow",
+      "romaji": "Flow",
+      "native": "浮楼"
+    },
+    "description": "A composition in which a fixed observing point from high above looks down on seasons in a town where people are repeating daily activities peacefully. As a viewer watches, before long, he or she will take notice that a drama of growth and development of a woman is slipped into the screen. A piece of work which shows the time of one's life quietly.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx148590-u96YdZVL5CMv.png",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 5,
+    "status": "FINISHED",
+    "score": null,
+    "genres": [],
+    "updated_at": 1784629772
+  },
+  {
     "id": 148517,
     "id_mal": 49195,
     "url": "https://anilist.co/anime/148517",
@@ -7500,7 +7688,7 @@
     "status": "FINISHED",
     "score": null,
     "genres": [],
-    "updated_at": 1784376216
+    "updated_at": 1784629777
   },
   {
     "id": 148403,
@@ -7526,6 +7714,56 @@
     "score": null,
     "genres": [],
     "updated_at": 1784386898
+  },
+  {
+    "id": 148375,
+    "id_mal": 49196,
+    "url": "https://anilist.co/anime/148375",
+    "title": {
+      "english": "Fairy Flower",
+      "romaji": "Housenka",
+      "native": "逢仙花"
+    },
+    "description": "Photographs of the artist’s grandmother are superimposed with animation that traces her life, and the work ends with the memorial photograph displayed at her funeral. A sense of tranquility pervades this documentary animation work. <br><br> (Source: Collaborative Cataloging Japan)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx148375-efMFR4eX4Rwk.png",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/148375-ggXwWayTUupu.jpg",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 13,
+    "status": "FINISHED",
+    "score": null,
+    "genres": [],
+    "updated_at": 1784629789
+  },
+  {
+    "id": 148374,
+    "id_mal": 49029,
+    "url": "https://anilist.co/anime/148374",
+    "title": {
+      "english": "Under the Sun",
+      "romaji": "Under the Sun",
+      "native": "アンダー・ザ・サン"
+    },
+    "description": "Regarded as a creative extension of Stone, animation unfolds on a drawing paper placed on a field and farm. <br><br> (Source: Collaborative Cataloging Japan)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx148374-xDBodMtdvwn2.png",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 11,
+    "status": "FINISHED",
+    "score": null,
+    "genres": [],
+    "updated_at": 1784629789
   },
   {
     "id": 148179,
@@ -7555,7 +7793,39 @@
       "Psychological",
       "Supernatural"
     ],
-    "updated_at": 1784268121
+    "updated_at": 1784629807
+  },
+  {
+    "id": 148149,
+    "id_mal": 51716,
+    "url": "https://anilist.co/anime/148149",
+    "title": {
+      "english": "Pretty Guardian Sailor Moon Cosmos The Movie: Part 1",
+      "romaji": "Bishoujo Senshi Sailor Moon: Cosmos - Zenpen",
+      "native": "美少女戦士セーラームーンCosmos 前編"
+    },
+    "description": "Usagi Tsukino and her friends are living peaceful lives as ordinary high school students. Mamoru Chiba, Usagi's boyfriend, is headed to America to study abroad. At the airport, after Mamoru proposes to Usagi, he is then mysteriously extinguished by someone's hand. Unable to accept Mamoru's disppearance, Usagi hides her memory of that event. Meanwhile, Shadow Galactica, led by Sailor Galaxia, as well as Sailor Starlights appear in front of Usagi. Without knowing whether Sailor Starlights are allies or enemies, the Sailor Guardians are robbed of their Sailor Crystals, the source of their power, by almighty Sailor Galaxia, and are killed by one after another. In a hopeless situation, Usagi, as Eternal Sailor Moon, challenges Sailor Galaxia for the final battle.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx148149-BevkRzKDtNIx.png",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/148149-dVUcKlezzLG0.jpg",
+    "schedule": "Musim: SPRING 2023",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "SPRING",
+    "year": 2023,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 80,
+    "status": "FINISHED",
+    "score": 77,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Fantasy",
+      "Mahou Shoujo",
+      "Romance"
+    ],
+    "updated_at": 1784629810
   },
   {
     "id": 148080,
@@ -7583,7 +7853,61 @@
       "Adventure",
       "Supernatural"
     ],
-    "updated_at": 1784480696
+    "updated_at": 1784629821
+  },
+  {
+    "id": 148077,
+    "id_mal": 49198,
+    "url": "https://anilist.co/anime/148077",
+    "title": {
+      "english": "",
+      "romaji": "MY SHELTER",
+      "native": "マイ・シェルター"
+    },
+    "description": "Following on from SHELTER, the setting is again an air-raid shelter. Close-up images of trees are dissected and reformed abstractly. The film culminates with images of elderly survivors of the war in another example of Aihara’s unique blending of documentary storytelling with abstract illustration. <br><br> (Source: Collaborative Cataloging Japan)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx148077-zILpQnIELp0o.png",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 9,
+    "status": "FINISHED",
+    "score": null,
+    "genres": [
+      "Psychological"
+    ],
+    "updated_at": 1784629821
+  },
+  {
+    "id": 148076,
+    "id_mal": 49197,
+    "url": "https://anilist.co/anime/148076",
+    "title": {
+      "english": "",
+      "romaji": "SHELTER",
+      "native": "SHELTER"
+    },
+    "description": "Set in a cave imagined as an air-raid shelter, images of the surrounding trees are painted over directly on the film. Vivid colors intermixed with the sound of wartime radio communications and bombing create a harmonious composition of documentary and animation. <br><br> (Source: Collaborative Cataloging Japan)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx148076-p8JqUNXMOrQt.png",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/148076-uNXVVY5jM2K6.jpg",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 7,
+    "status": "FINISHED",
+    "score": 55,
+    "genres": [
+      "Psychological"
+    ],
+    "updated_at": 1784629822
   },
   {
     "id": 148075,
@@ -7610,7 +7934,7 @@
     "genres": [
       "Psychological"
     ],
-    "updated_at": 1784376216
+    "updated_at": 1784629822
   },
   {
     "id": 147462,
@@ -7637,7 +7961,35 @@
     "genres": [
       "Comedy"
     ],
-    "updated_at": 1784584987
+    "updated_at": 1784629911
+  },
+  {
+    "id": 147335,
+    "id_mal": 53682,
+    "url": "https://anilist.co/anime/147335",
+    "title": {
+      "english": "The House of Loss",
+      "romaji": "Sangsil-ui Jib",
+      "native": "상실의 집"
+    },
+    "description": "The elderly at the nursing home have their heads shaved. The protagonist who works there sees them but can't read their expressions. However, from one instance, he finds himself looking closely at their faces.\n<br><br>\n(Source: Geidai Animation)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b147335-qm3W8EolsV55.jpg",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 10,
+    "status": "FINISHED",
+    "score": 58,
+    "genres": [
+      "Drama",
+      "Psychological"
+    ],
+    "updated_at": 1784629929
   },
   {
     "id": 147189,
@@ -7666,7 +8018,7 @@
       "Comedy",
       "Drama"
     ],
-    "updated_at": 1783945906
+    "updated_at": 1784629941
   },
   {
     "id": 146743,
@@ -7695,7 +8047,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784592372
+    "updated_at": 1784629999
   },
   {
     "id": 146632,
@@ -7724,7 +8076,7 @@
       "Mecha",
       "Sci-Fi"
     ],
-    "updated_at": 1784581421
+    "updated_at": 1784630024
   },
   {
     "id": 146631,
@@ -7753,7 +8105,7 @@
       "Mecha",
       "Sci-Fi"
     ],
-    "updated_at": 1784581421
+    "updated_at": 1784630024
   },
   {
     "id": 146609,
@@ -7783,7 +8135,7 @@
       "Sci-Fi",
       "Slice of Life"
     ],
-    "updated_at": 1784358109
+    "updated_at": 1784630031
   },
   {
     "id": 146489,
@@ -7811,7 +8163,35 @@
       "Drama",
       "Sci-Fi"
     ],
-    "updated_at": 1784473455
+    "updated_at": 1784630048
+  },
+  {
+    "id": 145958,
+    "id_mal": 50191,
+    "url": "https://anilist.co/anime/145958",
+    "title": {
+      "english": "",
+      "romaji": "Youkai Watch ♪: Keita to Orecchi no Deai Hen da Nyan ♪ Wa, Watakushi mo ♪♪",
+      "native": "妖怪ウォッチ♪ ケータとオレっちの出会い編だニャン♪ワ、ワタクシも〜♪♪"
+    },
+    "description": "A feature film summarizing major events from <i>Youkai Watch</i> including footage from episodes 1 and 25 of the original series, as well as 4-Koma-san segments from <i>Youkai Watch♪</i> and some original content.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b145958-LV5TiIiXFGAS.png",
+    "banner_url": "",
+    "schedule": "Musim: FALL 2021",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "FALL",
+    "year": 2021,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 55,
+    "status": "FINISHED",
+    "score": null,
+    "genres": [
+      "Comedy",
+      "Supernatural"
+    ],
+    "updated_at": 1784630130
   },
   {
     "id": 145747,
@@ -7867,7 +8247,7 @@
       "Fantasy",
       "Mystery"
     ],
-    "updated_at": 1784581421
+    "updated_at": 1784630152
   },
   {
     "id": 145445,
@@ -7951,6 +8331,35 @@
     "updated_at": 1784592370
   },
   {
+    "id": 144770,
+    "id_mal": 54793,
+    "url": "https://anilist.co/anime/144770",
+    "title": {
+      "english": "Bloody Escape: Bats out of Hell",
+      "romaji": "BLOODY ESCAPE: Jigoku no Tousou Geki",
+      "native": "BLOODY ESCAPE -地獄の逃走劇-"
+    },
+    "description": "After human experimentation turns Kisaragi into a cyborg, he finds himself pursued by multiple organizations: An undying coven of vampires bent on the conquest of Tokyo, and an immortal order of Knights, and a group of Yakuza, sworn to avenge the killing of their leader.<br><br>\n<i>\"I might not have any reason to live, but that's no reason to let them kill me.\"</i><br><br>\nKisaragi will have to use his cyborg-body and his unique \"blood\", as well as anything else he can to make his big escape!!!<br><br>\n(Source: Polygon Pictures)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx144770-t4BpclqKxnzM.jpg",
+    "banner_url": "",
+    "schedule": "Musim: WINTER 2024",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "WINTER",
+    "year": 2024,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 97,
+    "status": "FINISHED",
+    "score": 54,
+    "genres": [
+      "Action",
+      "Drama",
+      "Supernatural"
+    ],
+    "updated_at": 1784630437
+  },
+  {
     "id": 144687,
     "id_mal": 50963,
     "url": "https://anilist.co/anime/144687",
@@ -7977,7 +8386,7 @@
       "Fantasy",
       "Mahou Shoujo"
     ],
-    "updated_at": 1784242996
+    "updated_at": 1784630444
   },
   {
     "id": 143750,
@@ -8054,7 +8463,7 @@
     "status": "FINISHED",
     "score": null,
     "genres": [],
-    "updated_at": 1784584987
+    "updated_at": 1784630602
   },
   {
     "id": 143386,
@@ -8138,6 +8547,33 @@
     "updated_at": 1784502186
   },
   {
+    "id": 143317,
+    "id_mal": 49956,
+    "url": "https://anilist.co/anime/143317",
+    "title": {
+      "english": "On The White Planet",
+      "romaji": "Changbaekan Eolguldeul",
+      "native": "창백한 얼굴들"
+    },
+    "description": "In an unknown time when everything is colorless, the world pale and desolate, everybody is born with pale white skin. There is absolutely no sign of color in this world at all. However, one boy is born with yellowish skin. Everybody treats him like some sort of monster, and the boy lives in isolation, in the woods with his mother. The year he turns 16, the boy’s depressed mother, unable to bear the seclusion, commits suicide. The boy blames himself for her death and dreams of becoming a normal pale-skinned person.<br>\n<br>\n<i>Won the Grand Prize at the 18th Holland Animation Film Festival</i>",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx143317-Sze7XGpiHalH.jpg",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/143317-TLeHpTIbbmtN.jpg",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 73,
+    "status": "FINISHED",
+    "score": null,
+    "genres": [
+      "Drama"
+    ],
+    "updated_at": 1784630625
+  },
+  {
     "id": 143302,
     "id_mal": null,
     "url": "https://anilist.co/anime/143302",
@@ -8164,7 +8600,7 @@
       "Comedy",
       "Psychological"
     ],
-    "updated_at": 1784613738
+    "updated_at": 1784630626
   },
   {
     "id": 143201,
@@ -8193,7 +8629,7 @@
       "Mecha",
       "Sci-Fi"
     ],
-    "updated_at": 1784581421
+    "updated_at": 1784630653
   },
   {
     "id": 143156,
@@ -8223,6 +8659,34 @@
     "updated_at": 1784376216
   },
   {
+    "id": 143154,
+    "id_mal": 49351,
+    "url": "https://anilist.co/anime/143154",
+    "title": {
+      "english": "",
+      "romaji": "THE FULLMOON TRADITION: INDRA",
+      "native": "THE FULLMOON TRADITION: INDRA"
+    },
+    "description": "Pilot film for Mamoru Oshii's cancelled TV series of the same name. Mamoru Oshii wrote, storyboarded, and directed the pilot film. Akemi Takada designed the characters, and Hisayuki Toriumi later wrote a 2 volume novelization of the idea.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx143154-fwIqRTdvWDLk.jpg",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 4,
+    "status": "FINISHED",
+    "score": 41,
+    "genres": [
+      "Fantasy",
+      "Sci-Fi"
+    ],
+    "updated_at": 1784630657
+  },
+  {
     "id": 143103,
     "id_mal": 50668,
     "url": "https://anilist.co/anime/143103",
@@ -8249,7 +8713,37 @@
       "Drama",
       "Fantasy"
     ],
-    "updated_at": 1784592367
+    "updated_at": 1784630667
+  },
+  {
+    "id": 143080,
+    "id_mal": 50653,
+    "url": "https://anilist.co/anime/143080",
+    "title": {
+      "english": "ODDTAXI In The Woods",
+      "romaji": "Odd Taxi: In the Woods",
+      "native": "映画 オッドタクシー イン・ザ・ウッズ"
+    },
+    "description": "<i>Note: This is a reconstruction of the television anime that will also depict what happens after its finale with a new story written by Kazuya Konomoto.</i>",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx143080-T5jgumGJBbNa.jpg",
+    "banner_url": "",
+    "schedule": "Musim: SPRING 2022",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "SPRING",
+    "year": 2022,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 127,
+    "status": "FINISHED",
+    "score": 65,
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Psychological",
+      "Thriller"
+    ],
+    "updated_at": 1784630675
   },
   {
     "id": 142770,
@@ -8279,7 +8773,7 @@
       "Mystery",
       "Supernatural"
     ],
-    "updated_at": 1784620910
+    "updated_at": 1784630778
   },
   {
     "id": 142769,
@@ -8308,7 +8802,7 @@
       "Romance",
       "Supernatural"
     ],
-    "updated_at": 1784600384
+    "updated_at": 1784630781
   },
   {
     "id": 142684,
@@ -8338,7 +8832,7 @@
       "Romance",
       "Sci-Fi"
     ],
-    "updated_at": 1784620910
+    "updated_at": 1784630790
   },
   {
     "id": 142629,
@@ -8368,6 +8862,33 @@
     "updated_at": 1784242996
   },
   {
+    "id": 142549,
+    "id_mal": 50562,
+    "url": "https://anilist.co/anime/142549",
+    "title": {
+      "english": "Crayon Shinchan the Movie: The Tornado Legend of Ninja Mononoke",
+      "romaji": "Crayon Shin-chan: Mononoke Ninja Chinpuuden",
+      "native": "映画クレヨンしんちゃん もののけニンジャ珍風伝"
+    },
+    "description": "Tidak ada deskripsi.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx142549-SNJu3dSJrM9l.jpg",
+    "banner_url": "",
+    "schedule": "Musim: SPRING 2022",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "SPRING",
+    "year": 2022,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 100,
+    "status": "FINISHED",
+    "score": 69,
+    "genres": [
+      "Comedy"
+    ],
+    "updated_at": 1784630805
+  },
+  {
     "id": 142494,
     "id_mal": 50553,
     "url": "https://anilist.co/anime/142494",
@@ -8392,7 +8913,7 @@
     "genres": [
       "Fantasy"
     ],
-    "updated_at": 1784592366
+    "updated_at": 1784630810
   },
   {
     "id": 142219,
@@ -8421,7 +8942,7 @@
       "Drama",
       "Mystery"
     ],
-    "updated_at": 1784350916
+    "updated_at": 1784630870
   },
   {
     "id": 142013,
@@ -8479,7 +9000,7 @@
       "Music",
       "Slice of Life"
     ],
-    "updated_at": 1784502186
+    "updated_at": 1784630914
   },
   {
     "id": 141902,
@@ -8511,7 +9032,7 @@
       "Fantasy",
       "Music"
     ],
-    "updated_at": 1784613738
+    "updated_at": 1784630916
   },
   {
     "id": 141056,
@@ -9685,7 +10206,7 @@
       "Fantasy",
       "Sci-Fi"
     ],
-    "updated_at": 1784600440
+    "updated_at": 1784628105
   },
   {
     "id": 133845,
@@ -13220,7 +13741,7 @@
     "genres": [
       "Music"
     ],
-    "updated_at": 1784563298
+    "updated_at": 1784628105
   },
   {
     "id": 117764,
@@ -13641,7 +14162,7 @@
       "Fantasy",
       "Supernatural"
     ],
-    "updated_at": 1784584987
+    "updated_at": 1784628105
   },
   {
     "id": 116740,
@@ -14481,7 +15002,7 @@
       "Comedy",
       "Slice of Life"
     ],
-    "updated_at": 1784502186
+    "updated_at": 1784628105
   },
   {
     "id": 113669,
@@ -14510,7 +15031,7 @@
       "Comedy",
       "Sci-Fi"
     ],
-    "updated_at": 1784620909
+    "updated_at": 1784628105
   },
   {
     "id": 113596,
@@ -32723,7 +33244,7 @@
       "Slice of Life",
       "Supernatural"
     ],
-    "updated_at": 1784588534
+    "updated_at": 1784628105
   },
   {
     "id": 20766,
@@ -33334,7 +33855,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784600365
+    "updated_at": 1784628105
   },
   {
     "id": 20515,
@@ -39647,6 +40168,33 @@
       "Sci-Fi"
     ],
     "updated_at": 1784576659
+  },
+  {
+    "id": 10760,
+    "id_mal": 10760,
+    "url": "https://anilist.co/anime/10760",
+    "title": {
+      "english": "",
+      "romaji": "Issunboushi",
+      "native": "一寸法師"
+    },
+    "description": "The story of a couple who prays to God for a child, even if he would only be the size of a thumb.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/10760.jpg",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 1,
+    "status": "FINISHED",
+    "score": 45,
+    "genres": [
+      "Drama"
+    ],
+    "updated_at": 1784628105
   },
   {
     "id": 10740,
@@ -55869,7 +56417,7 @@
     "genres": [
       "Drama"
     ],
-    "updated_at": 1784584987
+    "updated_at": 1784628105
   },
   {
     "id": 1815,
