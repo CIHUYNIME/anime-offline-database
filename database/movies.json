@@ -103,7 +103,7 @@
       "Action",
       "Sci-Fi"
     ],
-    "updated_at": 1784656913
+    "updated_at": 1784664204
   },
   {
     "id": 214068,
@@ -4568,7 +4568,7 @@
       "Comedy",
       "Slice of Life"
     ],
-    "updated_at": 1784613738
+    "updated_at": 1784664204
   },
   {
     "id": 173935,
@@ -5336,7 +5336,7 @@
       "Comedy",
       "Slice of Life"
     ],
-    "updated_at": 1784613738
+    "updated_at": 1784664204
   },
   {
     "id": 166976,
@@ -5868,7 +5868,7 @@
       "Psychological",
       "Sci-Fi"
     ],
-    "updated_at": 1784642561
+    "updated_at": 1784664204
   },
   {
     "id": 162993,
@@ -8607,11 +8607,11 @@
     "episodes": 1,
     "duration": 22,
     "status": "FINISHED",
-    "score": 59,
+    "score": 60,
     "genres": [
       "Fantasy"
     ],
-    "updated_at": 1784520159
+    "updated_at": 1784664204
   },
   {
     "id": 145434,
@@ -9589,6 +9589,31 @@
     "updated_at": 1784584987
   },
   {
+    "id": 140589,
+    "id_mal": null,
+    "url": "https://anilist.co/anime/140589",
+    "title": {
+      "english": "The wife of the Goliath fish",
+      "romaji": "Taigyo no Yome",
+      "native": "大魚の嫁"
+    },
+    "description": "Eri Sasaki's 2016 Tama Art University graduation project",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx140589-gG9z4GANXBFy.png",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 5,
+    "status": "FINISHED",
+    "score": null,
+    "genres": [],
+    "updated_at": 1784664204
+  },
+  {
     "id": 140587,
     "id_mal": null,
     "url": "https://anilist.co/anime/140587",
@@ -9747,7 +9772,7 @@
     "genres": [
       "Fantasy"
     ],
-    "updated_at": 1784469809
+    "updated_at": 1784664204
   },
   {
     "id": 140337,
@@ -10397,7 +10422,7 @@
       "Drama",
       "Romance"
     ],
-    "updated_at": 1784642561
+    "updated_at": 1784664204
   },
   {
     "id": 136149,
@@ -11848,7 +11873,7 @@
     "genres": [
       "Psychological"
     ],
-    "updated_at": 1784502186
+    "updated_at": 1784664204
   },
   {
     "id": 127227,
@@ -13826,7 +13851,7 @@
     "genres": [
       "Psychological"
     ],
-    "updated_at": 1784581421
+    "updated_at": 1784664204
   },
   {
     "id": 118390,
@@ -15088,6 +15113,34 @@
     "updated_at": 1784646370
   },
   {
+    "id": 116055,
+    "id_mal": 30278,
+    "url": "https://anilist.co/anime/116055",
+    "title": {
+      "english": "Ghost Messenger",
+      "romaji": "Ghost Messenger Movie",
+      "native": "고스트 메신저 극장판"
+    },
+    "description": "The dangerous underworld is policed by ghost messengers who use their shape-shifting cell phones to maintain order and go after bad guys. While hunting a dangerous spirit, Master Kang Rim accidentally gets trapped inside his cell phone. That cell phone falls into the hands of Little Kang Rim, a 12-year-old boy who lives with his grandfather, who owns an antique store. Little Kang Rim has the unique ability to see spirits, and he finds himself pulled into service to help Master Kang Rim.\n<br><br>\nWith the help of Bari, Master Kang Rim’s commander, can LIttle Kang Rim set things right with the underworld?\n<br><br>\n(Source: VIKI, edited)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx116055-qraqMaiLxTjt.jpg",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 78,
+    "status": "FINISHED",
+    "score": 48,
+    "genres": [
+      "Fantasy",
+      "Sci-Fi"
+    ],
+    "updated_at": 1784664204
+  },
+  {
     "id": 116045,
     "id_mal": 21295,
     "url": "https://anilist.co/anime/116045",
@@ -15790,7 +15843,7 @@
       "Comedy",
       "Slice of Life"
     ],
-    "updated_at": 1784628105
+    "updated_at": 1784664204
   },
   {
     "id": 113669,
@@ -16536,7 +16589,7 @@
     "genres": [
       "Romance"
     ],
-    "updated_at": 1784646370
+    "updated_at": 1784664204
   },
   {
     "id": 112792,
@@ -18132,7 +18185,7 @@
       "Music",
       "Psychological"
     ],
-    "updated_at": 1784550260
+    "updated_at": 1784664204
   },
   {
     "id": 109391,
@@ -18997,7 +19050,7 @@
       "Adventure",
       "Sci-Fi"
     ],
-    "updated_at": 1784291186
+    "updated_at": 1784664204
   },
   {
     "id": 108735,
@@ -19958,7 +20011,7 @@
     "status": "FINISHED",
     "score": 30,
     "genres": [],
-    "updated_at": 1784292141
+    "updated_at": 1784664204
   },
   {
     "id": 106565,
@@ -19986,6 +20039,31 @@
       "Psychological"
     ],
     "updated_at": 1784502186
+  },
+  {
+    "id": 106564,
+    "id_mal": null,
+    "url": "https://anilist.co/anime/106564",
+    "title": {
+      "english": "Return to Dust",
+      "romaji": "Return to Dust",
+      "native": "Return to Dust"
+    },
+    "description": "A skeleton is tied with red threads and stuck by clay. How much control do we have in our own actions? And what does hinder these actions? <br><br>\n1st year work 2014 by Ataru Sakagami, Tokyo University of the Arts, Graduate School of Film and New Media, Department of Animation. <br><br>\n(Source: Geidai Animation)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx106564-lkU2Bu9YdfKI.jpg",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/106564-mrllkGsQVqCN.jpg",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 2,
+    "status": "FINISHED",
+    "score": 44,
+    "genres": [],
+    "updated_at": 1784664204
   },
   {
     "id": 106562,
@@ -20037,7 +20115,7 @@
     "genres": [
       "Slice of Life"
     ],
-    "updated_at": 1784584987
+    "updated_at": 1784664204
   },
   {
     "id": 106560,
@@ -20253,7 +20331,7 @@
     "status": "FINISHED",
     "score": 44,
     "genres": [],
-    "updated_at": 1784584987
+    "updated_at": 1784664204
   },
   {
     "id": 106545,
@@ -20280,7 +20358,7 @@
     "genres": [
       "Drama"
     ],
-    "updated_at": 1784584987
+    "updated_at": 1784664204
   },
   {
     "id": 106539,
@@ -20307,7 +20385,7 @@
     "genres": [
       "Psychological"
     ],
-    "updated_at": 1784502186
+    "updated_at": 1784664204
   },
   {
     "id": 106538,
@@ -21219,7 +21297,7 @@
       "Comedy",
       "Slice of Life"
     ],
-    "updated_at": 1784656913
+    "updated_at": 1784664204
   },
   {
     "id": 104457,
@@ -23313,7 +23391,7 @@
     "status": "FINISHED",
     "score": 49,
     "genres": [],
-    "updated_at": 1784642819
+    "updated_at": 1784664204
   },
   {
     "id": 103439,
@@ -23368,7 +23446,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784502186
+    "updated_at": 1784664204
   },
   {
     "id": 103434,
@@ -23927,7 +24005,7 @@
       "Mystery",
       "Supernatural"
     ],
-    "updated_at": 1784642939
+    "updated_at": 1784664204
   },
   {
     "id": 103166,
@@ -26874,7 +26952,7 @@
       "Comedy",
       "Slice of Life"
     ],
-    "updated_at": 1784643673
+    "updated_at": 1784664204
   },
   {
     "id": 101914,
@@ -27160,7 +27238,7 @@
       "Romance",
       "Sci-Fi"
     ],
-    "updated_at": 1784613738
+    "updated_at": 1784664204
   },
   {
     "id": 101610,
@@ -28000,7 +28078,7 @@
       "Psychological",
       "Thriller"
     ],
-    "updated_at": 1784381938
+    "updated_at": 1784664204
   },
   {
     "id": 100893,
@@ -29532,7 +29610,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784647093
+    "updated_at": 1784664204
   },
   {
     "id": 98784,
@@ -32786,6 +32864,34 @@
     "updated_at": 1784556649
   },
   {
+    "id": 21324,
+    "id_mal": 29830,
+    "url": "https://anilist.co/anime/21324",
+    "title": {
+      "english": "",
+      "romaji": "Tamayura: Sotsugyou Shashin Part 3 - Akogare",
+      "native": "たまゆら～卒業写真～　第3部 憧-あこがれ-"
+    },
+    "description": "The third movie in a series of Tamayura movies.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21324-aJ2iuzAKmsWU.png",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/21324-VvmFeOXLtRmg.jpg",
+    "schedule": "Musim: FALL 2015",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "FALL",
+    "year": 2015,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 51,
+    "status": "FINISHED",
+    "score": 78,
+    "genres": [
+      "Comedy",
+      "Slice of Life"
+    ],
+    "updated_at": 1784664204
+  },
+  {
     "id": 21314,
     "id_mal": 31486,
     "url": "https://anilist.co/anime/21314",
@@ -32952,7 +33058,7 @@
       "Comedy",
       "Slice of Life"
     ],
-    "updated_at": 1784502186
+    "updated_at": 1784664204
   },
   {
     "id": 21266,
@@ -33616,7 +33722,7 @@
       "Music",
       "Slice of Life"
     ],
-    "updated_at": 1784657234
+    "updated_at": 1784664204
   },
   {
     "id": 21070,
@@ -33703,7 +33809,7 @@
       "Psychological",
       "Sci-Fi"
     ],
-    "updated_at": 1784657253
+    "updated_at": 1784664204
   },
   {
     "id": 21042,
@@ -33761,7 +33867,7 @@
       "Adventure",
       "Drama"
     ],
-    "updated_at": 1784657290
+    "updated_at": 1784664204
   },
   {
     "id": 21008,
@@ -34578,7 +34684,7 @@
       "Drama",
       "Sci-Fi"
     ],
-    "updated_at": 1784658541
+    "updated_at": 1784664204
   },
   {
     "id": 20763,
@@ -34606,7 +34712,7 @@
       "Action",
       "Sci-Fi"
     ],
-    "updated_at": 1784658541
+    "updated_at": 1784664204
   },
   {
     "id": 20760,
@@ -34701,7 +34807,7 @@
       "Sci-Fi",
       "Supernatural"
     ],
-    "updated_at": 1784658704
+    "updated_at": 1784664204
   },
   {
     "id": 20736,
@@ -34733,7 +34839,7 @@
       "Sci-Fi",
       "Supernatural"
     ],
-    "updated_at": 1784658705
+    "updated_at": 1784664204
   },
   {
     "id": 20709,
@@ -35048,7 +35154,7 @@
     "genres": [
       "Mahou Shoujo"
     ],
-    "updated_at": 1784502186
+    "updated_at": 1784664204
   },
   {
     "id": 20546,
@@ -35077,7 +35183,7 @@
       "Comedy",
       "Mystery"
     ],
-    "updated_at": 1784613738
+    "updated_at": 1784664204
   },
   {
     "id": 20535,
@@ -35104,7 +35210,7 @@
     "genres": [
       "Comedy"
     ],
-    "updated_at": 1784570509
+    "updated_at": 1784664204
   },
   {
     "id": 20519,
@@ -35161,7 +35267,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784574187
+    "updated_at": 1784664204
   },
   {
     "id": 20514,
@@ -35189,7 +35295,7 @@
       "Action",
       "Sci-Fi"
     ],
-    "updated_at": 1784530893
+    "updated_at": 1784664204
   },
   {
     "id": 20512,
@@ -35217,7 +35323,7 @@
       "Music",
       "Slice of Life"
     ],
-    "updated_at": 1784502186
+    "updated_at": 1784664204
   },
   {
     "id": 20511,
@@ -35246,7 +35352,7 @@
       "Romance",
       "Supernatural"
     ],
-    "updated_at": 1784584987
+    "updated_at": 1784664204
   },
   {
     "id": 20505,
@@ -35274,7 +35380,7 @@
       "Psychological",
       "Supernatural"
     ],
-    "updated_at": 1784635298
+    "updated_at": 1784664204
   },
   {
     "id": 20504,
@@ -35301,7 +35407,7 @@
     "genres": [
       "Adventure"
     ],
-    "updated_at": 1784584987
+    "updated_at": 1784664204
   },
   {
     "id": 20502,
@@ -35330,7 +35436,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784530893
+    "updated_at": 1784664204
   },
   {
     "id": 20501,
@@ -35360,7 +35466,7 @@
       "Psychological",
       "Supernatural"
     ],
-    "updated_at": 1784563304
+    "updated_at": 1784664204
   },
   {
     "id": 20500,
@@ -35388,7 +35494,7 @@
       "Drama",
       "Supernatural"
     ],
-    "updated_at": 1784502186
+    "updated_at": 1784664204
   },
   {
     "id": 20471,
@@ -35811,7 +35917,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784600440
+    "updated_at": 1784664204
   },
   {
     "id": 19271,
@@ -36652,7 +36758,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784574187
+    "updated_at": 1784664204
   },
   {
     "id": 17677,
@@ -36683,7 +36789,7 @@
       "Romance",
       "Sci-Fi"
     ],
-    "updated_at": 1784620910
+    "updated_at": 1784664204
   },
   {
     "id": 17673,
@@ -37077,7 +37183,7 @@
       "Sci-Fi",
       "Thriller"
     ],
-    "updated_at": 1784653321
+    "updated_at": 1784664204
   },
   {
     "id": 17165,
@@ -37217,7 +37323,7 @@
       "Action",
       "Supernatural"
     ],
-    "updated_at": 1784581421
+    "updated_at": 1784664204
   },
   {
     "id": 16870,
@@ -37927,7 +38033,7 @@
       "Romance",
       "Sports"
     ],
-    "updated_at": 1784588534
+    "updated_at": 1784664204
   },
   {
     "id": 15925,
@@ -37954,7 +38060,7 @@
     "genres": [
       "Comedy"
     ],
-    "updated_at": 1784574354
+    "updated_at": 1784664204
   },
   {
     "id": 15813,
@@ -38814,7 +38920,7 @@
       "Action",
       "Drama"
     ],
-    "updated_at": 1784574603
+    "updated_at": 1784664204
   },
   {
     "id": 14293,
@@ -39042,7 +39148,7 @@
       "Sci-Fi",
       "Thriller"
     ],
-    "updated_at": 1784656913
+    "updated_at": 1784664204
   },
   {
     "id": 13821,
@@ -40402,7 +40508,7 @@
       "Horror",
       "Supernatural"
     ],
-    "updated_at": 1784600374
+    "updated_at": 1784664204
   },
   {
     "id": 12113,
@@ -43887,7 +43993,36 @@
       "Fantasy",
       "Mecha"
     ],
-    "updated_at": 1784656913
+    "updated_at": 1784664272
+  },
+  {
+    "id": 9228,
+    "id_mal": 9228,
+    "url": "https://anilist.co/anime/9228",
+    "title": {
+      "english": "",
+      "romaji": "Wan Wan Chuushingura",
+      "native": "わんわん忠臣蔵"
+    },
+    "description": "The homeless dog Rock swears to take to revenge on a tiger named Killer in the zoo, who had killed his mother. The dogs in town, troubled by the atrocities of Killer, join forces to support Rock. Changing the target of revenge to the murderer of the main character's mother made it easier for kids to empathize with the character.<br><br>\n(Source: AnimeNfo)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx9228-UvXR069uBSJy.png",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/9228-7swWgpUzvyJj.jpg",
+    "schedule": "Musim: FALL 1963",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "FALL",
+    "year": 1963,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 81,
+    "status": "FINISHED",
+    "score": 56,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama"
+    ],
+    "updated_at": 1784664274
   },
   {
     "id": 9204,
@@ -43916,7 +44051,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784635298
+    "updated_at": 1784664283
   },
   {
     "id": 9172,
@@ -43944,7 +44079,34 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784620910
+    "updated_at": 1784664297
+  },
+  {
+    "id": 9154,
+    "id_mal": 9154,
+    "url": "https://anilist.co/anime/9154",
+    "title": {
+      "english": "Young Kindaichi's Casebook: Deep Blue Massacre",
+      "romaji": "Kindaichi Shounen no Jikenbo: Satsuriku no Deep Blue",
+      "native": "金田一少年の事件簿 殺戮のディープブルー"
+    },
+    "description": "The movie is an alternative version to the \"Satsuriku no Deep Blue\" arc of the 1997 Kindaichi TV series.<br><br>\n\nKindaichi, Miyuki and Fumi are invited to the resort of the Deep Blue Island by their senpai Akane, the daughter of the president of the Aizawa Group. A group of criminals infiltrate the hotel diguised as waiters to kill the members of the Aizawa Group. The criminals don't know their boss in person, and they don't know either that he's in the hotel with the members of the Aizawa Group.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9154-itbm8XaBkMFc.jpg",
+    "banner_url": "",
+    "schedule": "Musim: SUMMER 1999",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "SUMMER",
+    "year": 1999,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 90,
+    "status": "FINISHED",
+    "score": 61,
+    "genres": [
+      "Mystery"
+    ],
+    "updated_at": 1784664298
   },
   {
     "id": 9135,
@@ -43975,7 +44137,37 @@
       "Drama",
       "Fantasy"
     ],
-    "updated_at": 1784600419
+    "updated_at": 1784664317
+  },
+  {
+    "id": 9098,
+    "id_mal": 9098,
+    "url": "https://anilist.co/anime/9098",
+    "title": {
+      "english": "",
+      "romaji": "Kidou Senshi SD Gundam Matsuri",
+      "native": "機動戦士SDガンダムまつり"
+    },
+    "description": "The movie is divided into 3 different parts:<br>\n1) The Tale of the SD Warring States: World Peace Chapter<br>\n2) SD Gundam Sidestory: The Legend of the Holy Machine Soldiers<br>\n3) SD Commando War Chronicles: Gundam Force, Super G-Arms, Final Formula VS Noum Gyaza",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9098.jpg",
+    "banner_url": "",
+    "schedule": "Musim: WINTER 1993",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "WINTER",
+    "year": 1993,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 81,
+    "status": "FINISHED",
+    "score": 49,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Fantasy",
+      "Mecha"
+    ],
+    "updated_at": 1784664338
   },
   {
     "id": 9078,
@@ -44005,7 +44197,35 @@
       "Drama",
       "Sports"
     ],
-    "updated_at": 1784322117
+    "updated_at": 1784664339
+  },
+  {
+    "id": 9077,
+    "id_mal": 9077,
+    "url": "https://anilist.co/anime/9077",
+    "title": {
+      "english": "",
+      "romaji": "Rokudenashi BLUES",
+      "native": "ろくでなしBLUES"
+    },
+    "description": "Maeda is a new student in the Teiken High School. He stutters when he's nervous and he's rather clumsy. He gets noted immediately because he hits a teacher during the entrance ceremony. Some clubs search to enlist him as they see in him a force they can use to get even with other clubs. But Maeda is a loner and has only one dream: becoming boxing champion.\n",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx9077-01xMm9Epjj6w.jpg",
+    "banner_url": "",
+    "schedule": "Musim: SUMMER 1992",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "SUMMER",
+    "year": 1992,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 30,
+    "status": "FINISHED",
+    "score": 54,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "updated_at": 1784664339
   },
   {
     "id": 9032,
@@ -44034,7 +44254,35 @@
       "Sports",
       "Supernatural"
     ],
-    "updated_at": 1784397736
+    "updated_at": 1784664369
+  },
+  {
+    "id": 9007,
+    "id_mal": 9007,
+    "url": "https://anilist.co/anime/9007",
+    "title": {
+      "english": "Anpanman: Blacknose and the Magical Song",
+      "romaji": "Sore Ike! Anpanman: Black Nose to Mahou no Uta",
+      "native": "それいけ! アンパンマン ブラックノーズと魔法の歌"
+    },
+    "description": "Anpanman helps a young girl with a magical flute overcome the influence of a dark being, while also encouraging her to use her talent to spread joy.<br><br>(Source: Netflix)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx9007-4bkoLC2gxpdi.png",
+    "banner_url": "",
+    "schedule": "Musim: SUMMER 2010",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "SUMMER",
+    "year": 2010,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 51,
+    "status": "FINISHED",
+    "score": 49,
+    "genres": [
+      "Comedy",
+      "Fantasy"
+    ],
+    "updated_at": 1784664372
   },
   {
     "id": 9000,
@@ -48234,7 +48482,7 @@
       "Sci-Fi",
       "Sports"
     ],
-    "updated_at": 1784653321
+    "updated_at": 1784664204
   },
   {
     "id": 6671,
@@ -50800,7 +51048,7 @@
       "Psychological",
       "Sci-Fi"
     ],
-    "updated_at": 1784635298
+    "updated_at": 1784664204
   },
   {
     "id": 4640,
@@ -56608,7 +56856,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784646370
+    "updated_at": 1784664204
   },
   {
     "id": 2100,
@@ -59352,7 +59600,7 @@
       "Mecha",
       "Sci-Fi"
     ],
-    "updated_at": 1784656913
+    "updated_at": 1784664204
   },
   {
     "id": 1287,
@@ -62690,7 +62938,7 @@
       "Fantasy",
       "Slice of Life"
     ],
-    "updated_at": 1784419264
+    "updated_at": 1784664204
   },
   {
     "id": 504,

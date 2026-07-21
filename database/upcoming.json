@@ -139,7 +139,7 @@
       "Adventure",
       "Sci-Fi"
     ],
-    "updated_at": 1784620910
+    "updated_at": 1784664204
   },
   {
     "id": 214049,
@@ -1180,7 +1180,7 @@
       "Fantasy",
       "Supernatural"
     ],
-    "updated_at": 1784646370
+    "updated_at": 1784664204
   },
   {
     "id": 213579,
@@ -3047,7 +3047,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784642561
+    "updated_at": 1784664204
   },
   {
     "id": 209963,
@@ -3249,6 +3249,31 @@
       "Romance"
     ],
     "updated_at": 1784656913
+  },
+  {
+    "id": 209709,
+    "id_mal": 63901,
+    "url": "https://anilist.co/anime/209709",
+    "title": {
+      "english": "",
+      "romaji": "Sirotan",
+      "native": "しろたん"
+    },
+    "description": "Tidak ada deskripsi.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx209709-Wz8BKL1fm5MC.png",
+    "banner_url": "",
+    "schedule": "Musim: FALL 2026",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "FALL",
+    "year": 2026,
+    "format": "TV",
+    "episodes": null,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [],
+    "updated_at": 1784664204
   },
   {
     "id": 209670,
@@ -3477,7 +3502,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784653321
+    "updated_at": 1784664204
   },
   {
     "id": 209219,
@@ -4661,7 +4686,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784656913
+    "updated_at": 1784664204
   },
   {
     "id": 204747,
@@ -5099,7 +5124,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784642561
+    "updated_at": 1784664204
   },
   {
     "id": 204286,
@@ -5492,7 +5517,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784588529
+    "updated_at": 1784664204
   },
   {
     "id": 202429,
@@ -6036,7 +6061,7 @@
     "status": "NOT_YET_RELEASED",
     "score": null,
     "genres": [],
-    "updated_at": 1784613731
+    "updated_at": 1784664204
   },
   {
     "id": 199426,
@@ -8885,7 +8910,7 @@
       "Comedy",
       "Slice of Life"
     ],
-    "updated_at": 1784656913
+    "updated_at": 1784664204
   },
   {
     "id": 183960,
@@ -10867,7 +10892,7 @@
       "Fantasy",
       "Mahou Shoujo"
     ],
-    "updated_at": 1784620904
+    "updated_at": 1784664204
   },
   {
     "id": 137697,
@@ -11871,7 +11896,7 @@
       "Romance",
       "Sci-Fi"
     ],
-    "updated_at": 1784613738
+    "updated_at": 1784664204
   },
   {
     "id": 100130,
