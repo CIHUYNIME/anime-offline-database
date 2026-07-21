@@ -239,7 +239,7 @@
     "status": "NOT_YET_RELEASED",
     "score": null,
     "genres": [],
-    "updated_at": 1784506220
+    "updated_at": 1784592453
   },
   {
     "id": 213814,
@@ -431,7 +431,7 @@
     "status": "FINISHED",
     "score": 65,
     "genres": [],
-    "updated_at": 1784584987
+    "updated_at": 1784592450
   },
   {
     "id": 212539,
@@ -602,7 +602,7 @@
       "Fantasy",
       "Mahou Shoujo"
     ],
-    "updated_at": 1784588534
+    "updated_at": 1784592450
   },
   {
     "id": 211262,
@@ -627,7 +627,7 @@
     "status": "FINISHED",
     "score": null,
     "genres": [],
-    "updated_at": 1784386898
+    "updated_at": 1784592450
   },
   {
     "id": 211260,
@@ -737,7 +737,7 @@
       "Mystery",
       "Thriller"
     ],
-    "updated_at": 1784506211
+    "updated_at": 1784592449
   },
   {
     "id": 208754,
@@ -906,6 +906,34 @@
       "Sci-Fi"
     ],
     "updated_at": 1784322114
+  },
+  {
+    "id": 206876,
+    "id_mal": null,
+    "url": "https://anilist.co/anime/206876",
+    "title": {
+      "english": "",
+      "romaji": "Douluo Dalu: Shenjie Chuanshuo",
+      "native": "斗罗大陆之神界传说"
+    },
+    "description": "Years after Tang San became a god, his wife Xiao Wu is pregnant when a coup erupts due to conflicting enforcement ideologies with the God of Destruction. <br><br>\n\nAs the Divine Realm expands aggressively, unaware of an approaching temporal catastrophe, Tang San, stripped of his divine powers, must find a way to protect his family and beloved ones while turning the tide of destiny.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx206876-1InFg5PpRhyW.jpg",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Action",
+      "Fantasy"
+    ],
+    "updated_at": 1784592448
   },
   {
     "id": 206856,
@@ -1242,7 +1270,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784584987
+    "updated_at": 1784592445
   },
   {
     "id": 204949,
@@ -1360,7 +1388,7 @@
       "Drama",
       "Supernatural"
     ],
-    "updated_at": 1784584987
+    "updated_at": 1784592444
   },
   {
     "id": 203100,
@@ -1498,7 +1526,7 @@
       "Action",
       "Sports"
     ],
-    "updated_at": 1784530893
+    "updated_at": 1784592442
   },
   {
     "id": 200929,
@@ -1526,7 +1554,7 @@
       "Drama",
       "Mystery"
     ],
-    "updated_at": 1784506200
+    "updated_at": 1784592442
   },
   {
     "id": 199433,
@@ -1586,7 +1614,7 @@
       "Romance",
       "Supernatural"
     ],
-    "updated_at": 1784506197
+    "updated_at": 1784592441
   },
   {
     "id": 199150,
@@ -1616,7 +1644,7 @@
       "Sci-Fi",
       "Supernatural"
     ],
-    "updated_at": 1784268108
+    "updated_at": 1784592441
   },
   {
     "id": 198654,
@@ -1676,6 +1704,33 @@
     "updated_at": 1784570501
   },
   {
+    "id": 198369,
+    "id_mal": 62387,
+    "url": "https://anilist.co/anime/198369",
+    "title": {
+      "english": "Detective Conan: Fallen Angel of the Highway",
+      "romaji": "Meitantei Conan: Highway no Datenshi",
+      "native": "名探偵コナン ハイウェイの堕天使"
+    },
+    "description": "The 29th <i>Detective Conan</i> movie.\n<br><br>\nConan, Ran, Sonoko, and Kogoro were heading to Yokohama's Minato Mirai district with motorcycle enthusiast Masumi Sera for the Kanagawa Motorcycle Festival. Then, a mysterious black motorcycle appeared, leaping over the car carrying Conan and the others. And chasing it was Chihaya Hagiwara of the Kanagawa Prefectural Police Traffic Mobile Unit—the “Goddess of the Wind” Ran had once seen. However, after a fierce car chase, Chihaya's motorcycle was wrecked, and she let the target slip away at the last moment. After arriving at the Yokohama festival venue, Conan and the others witnessed the unveiling of a new police motorcycle equipped with cutting-edge technology, named \"Angel.\" Amidst this, reports surfaced that a runaway \"black motorcycle\" had now appeared in central Tokyo, evading pursuit by the Metropolitan Police Department. The purpose of the rampage remains unknown, but the vehicle's body bears a striking resemblance to \"Angel.\" Police have dubbed the black Angel bike \"Lucifer\" and continue their pursuit.\n<br><br>\n(Source: Official website, translated)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx198369-80jGPuTziEa7.png",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/198369-MmvnBvHzuB3D.jpg",
+    "schedule": "Musim: SPRING 2026",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "SPRING",
+    "year": 2026,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 109,
+    "status": "FINISHED",
+    "score": 58,
+    "genres": [
+      "Mystery"
+    ],
+    "updated_at": 1784592439
+  },
+  {
     "id": 198188,
     "id_mal": 62405,
     "url": "https://anilist.co/anime/198188",
@@ -1706,7 +1761,7 @@
       "Slice of Life",
       "Supernatural"
     ],
-    "updated_at": 1784549460
+    "updated_at": 1784592439
   },
   {
     "id": 197543,
@@ -1908,7 +1963,7 @@
       "Drama",
       "Supernatural"
     ],
-    "updated_at": 1784570509
+    "updated_at": 1784592436
   },
   {
     "id": 195200,
@@ -1938,7 +1993,7 @@
       "Drama",
       "Supernatural"
     ],
-    "updated_at": 1784506188
+    "updated_at": 1784592436
   },
   {
     "id": 194213,
@@ -2162,7 +2217,7 @@
       "Romance",
       "Sci-Fi"
     ],
-    "updated_at": 1784581421
+    "updated_at": 1784592435
   },
   {
     "id": 191370,
@@ -2359,7 +2414,7 @@
     "genres": [
       "Comedy"
     ],
-    "updated_at": 1784563304
+    "updated_at": 1784592432
   },
   {
     "id": 187892,
@@ -2812,6 +2867,36 @@
     "updated_at": 1784570509
   },
   {
+    "id": 185084,
+    "id_mal": 60408,
+    "url": "https://anilist.co/anime/185084",
+    "title": {
+      "english": "LUPIN THE IIIRD: The Movie - The Immortal Bloodline",
+      "romaji": "LUPIN THE IIIRD THE MOVIE: Fujimi no Ketsuzoku",
+      "native": "LUPIN THE IIIRD THE MOVIE 不死身の血族"
+    },
+    "description": "A special invitation has been sent to Lupin and his crew to an uncharted island. The invitee is believed to be the mastermind who controls the world's top mercenaries and is connected to crimes throughout the world! Who could this mysterious person be? The answer lies on the uncharted island hidden away from existence. To find out the identity of the mastermind and steal his vast wealth, Lupin and his crew as well as Inspector Zenigata, in his attempt to capture them, are led to this mysterious island. The island is shrouded full of mysteries including old discarded tanks and firearms along with strange and mysterious inhabitants. Supposedly the dead assassins from his past are there waiting for Lupin and his friends.<br><br>\n\n(Source: POM Anime)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185084-aY9Drgo6tDRA.jpg",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/185084-RnvsvYCubA2V.jpg",
+    "schedule": "Musim: SPRING 2025",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "SPRING",
+    "year": 2025,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 93,
+    "status": "FINISHED",
+    "score": 66,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Mystery",
+      "Supernatural"
+    ],
+    "updated_at": 1784592428
+  },
+  {
     "id": 184694,
     "id_mal": 59841,
     "url": "https://anilist.co/anime/184694",
@@ -2838,7 +2923,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784588534
+    "updated_at": 1784592428
   },
   {
     "id": 184369,
@@ -3064,7 +3149,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784506154
+    "updated_at": 1784592425
   },
   {
     "id": 182206,
@@ -3212,7 +3297,7 @@
       "Fantasy",
       "Slice of Life"
     ],
-    "updated_at": 1784506153
+    "updated_at": 1784592424
   },
   {
     "id": 181449,
@@ -3242,7 +3327,7 @@
       "Fantasy",
       "Sci-Fi"
     ],
-    "updated_at": 1784563304
+    "updated_at": 1784592424
   },
   {
     "id": 180806,
@@ -3298,7 +3383,7 @@
       "Action",
       "Sports"
     ],
-    "updated_at": 1784448140
+    "updated_at": 1784592423
   },
   {
     "id": 179998,
@@ -3326,7 +3411,7 @@
       "Action",
       "Sci-Fi"
     ],
-    "updated_at": 1784588531
+    "updated_at": 1784592422
   },
   {
     "id": 179878,
@@ -3354,7 +3439,7 @@
       "Drama",
       "Music"
     ],
-    "updated_at": 1784520149
+    "updated_at": 1784592422
   },
   {
     "id": 179874,
@@ -3416,7 +3501,7 @@
       "Psychological",
       "Supernatural"
     ],
-    "updated_at": 1784588534
+    "updated_at": 1784592422
   },
   {
     "id": 179727,
@@ -3551,7 +3636,7 @@
       "Fantasy",
       "Supernatural"
     ],
-    "updated_at": 1784506146
+    "updated_at": 1784592419
   },
   {
     "id": 178782,
@@ -3610,7 +3695,7 @@
       "Mystery",
       "Supernatural"
     ],
-    "updated_at": 1784563300
+    "updated_at": 1784592419
   },
   {
     "id": 178707,
@@ -3725,7 +3810,7 @@
       "Drama",
       "Sports"
     ],
-    "updated_at": 1784506142
+    "updated_at": 1784592414
   },
   {
     "id": 177686,
@@ -3945,7 +4030,7 @@
       "Slice of Life",
       "Supernatural"
     ],
-    "updated_at": 1784563299
+    "updated_at": 1784592411
   },
   {
     "id": 176373,
@@ -4143,7 +4228,7 @@
       "Music",
       "Romance"
     ],
-    "updated_at": 1784506137
+    "updated_at": 1784592408
   },
   {
     "id": 175138,
@@ -4227,7 +4312,7 @@
       "Drama",
       "Slice of Life"
     ],
-    "updated_at": 1784506137
+    "updated_at": 1784592408
   },
   {
     "id": 174383,
@@ -4369,7 +4454,7 @@
       "Slice of Life",
       "Sports"
     ],
-    "updated_at": 1784570502
+    "updated_at": 1784592406
   },
   {
     "id": 172393,
@@ -4425,7 +4510,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784492930
+    "updated_at": 1784592406
   },
   {
     "id": 171627,
@@ -4456,7 +4541,7 @@
       "Romance",
       "Supernatural"
     ],
-    "updated_at": 1784506132
+    "updated_at": 1784592406
   },
   {
     "id": 171608,
@@ -4825,7 +4910,7 @@
       "Horror",
       "Psychological"
     ],
-    "updated_at": 1784300508
+    "updated_at": 1784592400
   },
   {
     "id": 169000,
@@ -4938,7 +5023,7 @@
       "Adventure",
       "Sci-Fi"
     ],
-    "updated_at": 1784502186
+    "updated_at": 1784592398
   },
   {
     "id": 167984,
@@ -5214,7 +5299,7 @@
       "Music",
       "Slice of Life"
     ],
-    "updated_at": 1784584987
+    "updated_at": 1784592395
   },
   {
     "id": 164293,
@@ -5439,7 +5524,7 @@
       "Drama",
       "Sports"
     ],
-    "updated_at": 1784584987
+    "updated_at": 1784592394
   },
   {
     "id": 163143,
@@ -5526,7 +5611,7 @@
       "Music",
       "Romance"
     ],
-    "updated_at": 1784588534
+    "updated_at": 1784592393
   },
   {
     "id": 162904,
@@ -5553,7 +5638,7 @@
     "genres": [
       "Slice of Life"
     ],
-    "updated_at": 1784541848
+    "updated_at": 1784592393
   },
   {
     "id": 162682,
@@ -5635,7 +5720,7 @@
       "Romance",
       "Supernatural"
     ],
-    "updated_at": 1784570505
+    "updated_at": 1784592391
   },
   {
     "id": 161441,
@@ -5663,7 +5748,7 @@
       "Action",
       "Horror"
     ],
-    "updated_at": 1784541982
+    "updated_at": 1784592391
   },
   {
     "id": 161440,
@@ -5810,7 +5895,7 @@
       "Mystery",
       "Sci-Fi"
     ],
-    "updated_at": 1784549464
+    "updated_at": 1784592390
   },
   {
     "id": 159981,
@@ -6042,7 +6127,7 @@
       "Slice of Life",
       "Supernatural"
     ],
-    "updated_at": 1784588531
+    "updated_at": 1784592389
   },
   {
     "id": 158896,
@@ -6072,7 +6157,7 @@
       "Fantasy",
       "Supernatural"
     ],
-    "updated_at": 1784542182
+    "updated_at": 1784592389
   },
   {
     "id": 158700,
@@ -6670,7 +6755,7 @@
       "Psychological",
       "Supernatural"
     ],
-    "updated_at": 1784542500
+    "updated_at": 1784592384
   },
   {
     "id": 154392,
@@ -6699,7 +6784,7 @@
       "Drama",
       "Romance"
     ],
-    "updated_at": 1784588534
+    "updated_at": 1784592383
   },
   {
     "id": 154064,
@@ -6807,7 +6892,7 @@
       "Sci-Fi",
       "Thriller"
     ],
-    "updated_at": 1784542616
+    "updated_at": 1784592382
   },
   {
     "id": 153658,
@@ -6836,7 +6921,7 @@
       "Drama",
       "Sports"
     ],
-    "updated_at": 1784588513
+    "updated_at": 1784592382
   },
   {
     "id": 152134,
@@ -7052,7 +7137,7 @@
       "Psychological",
       "Supernatural"
     ],
-    "updated_at": 1784588534
+    "updated_at": 1784592378
   },
   {
     "id": 151089,
@@ -7583,7 +7668,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784588534
+    "updated_at": 1784592372
   },
   {
     "id": 146632,
@@ -7812,6 +7897,33 @@
     "updated_at": 1784520159
   },
   {
+    "id": 145434,
+    "id_mal": null,
+    "url": "https://anilist.co/anime/145434",
+    "title": {
+      "english": "Estrange",
+      "romaji": "Chuushajou de Ame wo Tabete ne",
+      "native": "駐車場でアメを食べたね"
+    },
+    "description": "On the eve of her wedding, Miyo's best friend, whom she had invited to the party, cuts her off. <br>\nRealizing that friendships have a shelf life, Miyo thinks back to the days when they were young and joyful.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx145434-GQMUDs2f6Kl1.png",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 6,
+    "status": "FINISHED",
+    "score": null,
+    "genres": [
+      "Drama"
+    ],
+    "updated_at": 1784592370
+  },
+  {
     "id": 144687,
     "id_mal": 50963,
     "url": "https://anilist.co/anime/144687",
@@ -7864,6 +7976,33 @@
     "score": null,
     "genres": [],
     "updated_at": 1784372516
+  },
+  {
+    "id": 143543,
+    "id_mal": 49476,
+    "url": "https://anilist.co/anime/143543",
+    "title": {
+      "english": "Taro Wanted to be Water",
+      "romaji": "Tarou wa Mizu ni Naritakatta",
+      "native": "太郎は水になりたかった"
+    },
+    "description": "An adaptation of the first chapter of the manga Tarou to Atsushi.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx143543-nikPEC2H1mlC.png",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 5,
+    "status": "FINISHED",
+    "score": null,
+    "genres": [
+      "Comedy"
+    ],
+    "updated_at": 1784592368
   },
   {
     "id": 143492,
@@ -8054,7 +8193,7 @@
       "Drama",
       "Fantasy"
     ],
-    "updated_at": 1784492919
+    "updated_at": 1784592367
   },
   {
     "id": 142770,
@@ -8084,7 +8223,7 @@
       "Mystery",
       "Supernatural"
     ],
-    "updated_at": 1784506057
+    "updated_at": 1784592366
   },
   {
     "id": 142769,
@@ -8113,7 +8252,7 @@
       "Romance",
       "Supernatural"
     ],
-    "updated_at": 1784506057
+    "updated_at": 1784592366
   },
   {
     "id": 142684,
@@ -8197,7 +8336,7 @@
     "genres": [
       "Fantasy"
     ],
-    "updated_at": 1784340959
+    "updated_at": 1784592366
   },
   {
     "id": 142219,
@@ -8316,7 +8455,7 @@
       "Fantasy",
       "Music"
     ],
-    "updated_at": 1784556649
+    "updated_at": 1784592365
   },
   {
     "id": 141056,
@@ -8375,7 +8514,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784506051
+    "updated_at": 1784592363
   },
   {
     "id": 140879,
@@ -8616,6 +8755,34 @@
     "updated_at": 1784484185
   },
   {
+    "id": 140499,
+    "id_mal": 50183,
+    "url": "https://anilist.co/anime/140499",
+    "title": {
+      "english": "Blue Giant",
+      "romaji": "BLUE GIANT",
+      "native": "BLUE GIANT"
+    },
+    "description": "Dai Miyamoto's life is turned upside down the day he discovers jazz. A former high school basketball player, Dai picks up a saxophone and begins practicing day and night, determined to become one of the greatest of all time. He leaves his hometown Sendai for the bustling nightclubs of Tokyo, but soon finds the life of a professional musician is not for the faint of heart. His passion eventually wins over the cocky but talented pianist Yukinori, and after Dai convinces his friend Shunji to learn the drums, they launch a new jazz trio whose rough sound contains a raw energy that quickly wins attention from local audiences. But what does it take to truly be great?<br>\n<br>\n(Source: GKIDS)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx140499-Yr7YLk6suS0K.jpg",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/140499-QbMmQ1krg6TV.jpg",
+    "schedule": "Musim: WINTER 2023",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "WINTER",
+    "year": 2023,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 120,
+    "status": "FINISHED",
+    "score": 83,
+    "genres": [
+      "Drama",
+      "Music"
+    ],
+    "updated_at": 1784592362
+  },
+  {
     "id": 140355,
     "id_mal": 53138,
     "url": "https://anilist.co/anime/140355",
@@ -8669,7 +8836,7 @@
       "Music",
       "Supernatural"
     ],
-    "updated_at": 1784541708
+    "updated_at": 1784592361
   },
   {
     "id": 140315,
@@ -8754,7 +8921,7 @@
       "Sci-Fi",
       "Thriller"
     ],
-    "updated_at": 1784502186
+    "updated_at": 1784592361
   },
   {
     "id": 140038,
@@ -8838,7 +9005,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784506036
+    "updated_at": 1784592359
   },
   {
     "id": 139359,
@@ -8896,7 +9063,7 @@
       "Romance",
       "Sci-Fi"
     ],
-    "updated_at": 1784581421
+    "updated_at": 1784592359
   },
   {
     "id": 139310,
@@ -8924,7 +9091,7 @@
       "Romance",
       "Sci-Fi"
     ],
-    "updated_at": 1784588534
+    "updated_at": 1784592359
   },
   {
     "id": 139273,
@@ -8981,7 +9148,7 @@
       "Mystery",
       "Sci-Fi"
     ],
-    "updated_at": 1784408567
+    "updated_at": 1784592357
   },
   {
     "id": 138891,
@@ -9064,7 +9231,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784408542
+    "updated_at": 1784592357
   },
   {
     "id": 138379,
@@ -9290,7 +9457,7 @@
       "Drama",
       "Romance"
     ],
-    "updated_at": 1784581421
+    "updated_at": 1784592353
   },
   {
     "id": 136149,
@@ -9320,7 +9487,7 @@
       "Romance",
       "Supernatural"
     ],
-    "updated_at": 1784506017
+    "updated_at": 1784592353
   },
   {
     "id": 136064,
@@ -9349,7 +9516,7 @@
       "Drama",
       "Sports"
     ],
-    "updated_at": 1784386898
+    "updated_at": 1784592352
   },
   {
     "id": 135178,
@@ -9519,7 +9686,7 @@
       "Drama",
       "Sports"
     ],
-    "updated_at": 1784570509
+    "updated_at": 1784592351
   },
   {
     "id": 133007,
@@ -9602,7 +9769,7 @@
       "Drama",
       "Romance"
     ],
-    "updated_at": 1784506010
+    "updated_at": 1784592350
   },
   {
     "id": 132420,
@@ -9777,7 +9944,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784549438
+    "updated_at": 1784592348
   },
   {
     "id": 131642,
@@ -9832,7 +9999,7 @@
       "Action",
       "Supernatural"
     ],
-    "updated_at": 1784506003
+    "updated_at": 1784592347
   },
   {
     "id": 131563,
@@ -9890,7 +10057,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784506002
+    "updated_at": 1784592347
   },
   {
     "id": 131486,
