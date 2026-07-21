@@ -1180,7 +1180,7 @@
       "Fantasy",
       "Supernatural"
     ],
-    "updated_at": 1784570503
+    "updated_at": 1784646370
   },
   {
     "id": 213579,
@@ -1209,7 +1209,7 @@
       "Mecha",
       "Sci-Fi"
     ],
-    "updated_at": 1784635298
+    "updated_at": 1784646370
   },
   {
     "id": 213498,
@@ -1586,7 +1586,7 @@
       "Comedy",
       "Romance"
     ],
-    "updated_at": 1784506216
+    "updated_at": 1784646370
   },
   {
     "id": 213106,
@@ -2122,7 +2122,7 @@
       "Drama",
       "Romance"
     ],
-    "updated_at": 1784620910
+    "updated_at": 1784646370
   },
   {
     "id": 212503,
@@ -2267,7 +2267,7 @@
       "Drama",
       "Slice of Life"
     ],
-    "updated_at": 1784549494
+    "updated_at": 1784646370
   },
   {
     "id": 211877,
@@ -3711,7 +3711,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784600371
+    "updated_at": 1784646370
   },
   {
     "id": 207329,
@@ -4399,7 +4399,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784563304
+    "updated_at": 1784646370
   },
   {
     "id": 205430,
@@ -5577,7 +5577,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784628105
+    "updated_at": 1784646370
   },
   {
     "id": 202079,
@@ -5721,7 +5721,7 @@
       "Mystery",
       "Romance"
     ],
-    "updated_at": 1784600403
+    "updated_at": 1784646370
   },
   {
     "id": 200455,
@@ -6299,7 +6299,7 @@
       "Comedy",
       "Sports"
     ],
-    "updated_at": 1784557424
+    "updated_at": 1784646370
   },
   {
     "id": 199007,
@@ -7574,6 +7574,35 @@
     "updated_at": 1784541708
   },
   {
+    "id": 191013,
+    "id_mal": 61535,
+    "url": "https://anilist.co/anime/191013",
+    "title": {
+      "english": "",
+      "romaji": "Sunny",
+      "native": "Sunny"
+    },
+    "description": "The story of an orphanage, the children who live in it, and the beat-up old Nissan Sunny 1200 which provides them with a means of escape from their boring everyday lives.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx191013-8hTNC9uShTEi.jpg",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/191013-usSsLkLQAzbd.jpg",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Drama",
+      "Psychological",
+      "Slice of Life"
+    ],
+    "updated_at": 1784646370
+  },
+  {
     "id": 190574,
     "id_mal": null,
     "url": "https://anilist.co/anime/190574",
@@ -7632,7 +7661,7 @@
       "Romance",
       "Sci-Fi"
     ],
-    "updated_at": 1784635298
+    "updated_at": 1784646370
   },
   {
     "id": 190054,
@@ -7890,7 +7919,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784386897
+    "updated_at": 1784646370
   },
   {
     "id": 187990,
@@ -8685,7 +8714,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784600440
+    "updated_at": 1784646370
   },
   {
     "id": 184141,
@@ -8741,7 +8770,7 @@
       "Comedy",
       "Slice of Life"
     ],
-    "updated_at": 1784620910
+    "updated_at": 1784646370
   },
   {
     "id": 183960,
@@ -9266,7 +9295,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784462595
+    "updated_at": 1784646370
   },
   {
     "id": 177704,
@@ -11813,7 +11842,7 @@
       "Drama",
       "Mystery"
     ],
-    "updated_at": 1784557223
+    "updated_at": 1784647416
   },
   {
     "id": 10639,

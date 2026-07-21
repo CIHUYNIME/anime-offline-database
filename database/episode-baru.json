@@ -58,65 +58,6 @@
     "updated_at": 1784386899
   },
   {
-    "id": 209800,
-    "id_mal": 63047,
-    "url": "https://anilist.co/anime/209800",
-    "title": {
-      "english": "Yoroi-Shinden Samurai Troopers Cour 2",
-      "romaji": "Yoroi Shinden Samurai Troopers Part 2",
-      "native": "鎧真伝サムライトルーパー 第2クール"
-    },
-    "description": "The second part of <i>Yoroi Shinden Samurai Troopers</i>.",
-    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx209800-v3TIdNz1AV0X.jpg",
-    "banner_url": "",
-    "schedule": "Episode 3 tayang pada 21/7/2026, 21.30.00 WIB",
-    "next_episode": 3,
-    "next_airing_timestamp": 1784644200,
-    "season": "SUMMER",
-    "year": 2026,
-    "format": "TV",
-    "episodes": 12,
-    "duration": 24,
-    "status": "RELEASING",
-    "score": null,
-    "genres": [
-      "Action",
-      "Adventure",
-      "Sci-Fi"
-    ],
-    "updated_at": 1784642532
-  },
-  {
-    "id": 198709,
-    "id_mal": 62476,
-    "url": "https://anilist.co/anime/198709",
-    "title": {
-      "english": "Victoria of Many Faces",
-      "romaji": "Tefuda ga Oome no Victoria",
-      "native": "手札が多めのビクトリア"
-    },
-    "description": "In an age when spies act behind the scenes in every land, Chloe spends her days successfully carrying out even the most difficult missions due to her unparalleled disguise skills and martial arts abilities. After the betrayal of her boss, she suddenly disappears—as Chloe plans to redo her life as the ordinary citizen Victoria in the neighboring kingdom of Ashberry, striving for a “normal” life. However, Victoria's peaceful life is abruptly cut short as she begins to get involved with many people. In this new land, her experiences and abilities from her days as a spy come in far more useful than she ever expected! On the other hand, the second prince--and others--take an interest in Victoria's strength, and the shadows close in on the woman with many faces…\n<br><br>\n(Source: Yen Press)",
-    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx198709-3PFLvU6eqPvf.jpg",
-    "banner_url": "",
-    "schedule": "Episode 3 tayang pada 21/7/2026, 22.00.00 WIB",
-    "next_episode": 3,
-    "next_airing_timestamp": 1784646000,
-    "season": "SUMMER",
-    "year": 2026,
-    "format": "TV",
-    "episodes": 9,
-    "duration": 24,
-    "status": "RELEASING",
-    "score": 69,
-    "genres": [
-      "Action",
-      "Drama",
-      "Fantasy",
-      "Romance"
-    ],
-    "updated_at": 1784642443
-  },
-  {
     "id": 207809,
     "id_mal": 63489,
     "url": "https://anilist.co/anime/207809",
@@ -145,7 +86,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784642461
+    "updated_at": 1784646311
   },
   {
     "id": 193883,
@@ -340,7 +281,7 @@
       "Drama",
       "Fantasy"
     ],
-    "updated_at": 1784642452
+    "updated_at": 1784646212
   },
   {
     "id": 135865,
@@ -368,7 +309,7 @@
       "Action",
       "Fantasy"
     ],
-    "updated_at": 1784642445
+    "updated_at": 1784646191
   },
   {
     "id": 213666,
@@ -396,7 +337,7 @@
       "Drama",
       "Romance"
     ],
-    "updated_at": 1784642561
+    "updated_at": 1784646296
   },
   {
     "id": 192800,
@@ -424,7 +365,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784642446
+    "updated_at": 1784646283
   },
   {
     "id": 196356,
@@ -482,7 +423,7 @@
       "Mecha",
       "Romance"
     ],
-    "updated_at": 1784642453
+    "updated_at": 1784646193
   },
   {
     "id": 194829,
@@ -512,7 +453,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784642455
+    "updated_at": 1784646113
   },
   {
     "id": 205772,
@@ -597,7 +538,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784642483
+    "updated_at": 1784646186
   },
   {
     "id": 207254,
@@ -626,7 +567,7 @@
       "Drama",
       "Sci-Fi"
     ],
-    "updated_at": 1784628105
+    "updated_at": 1784646336
   },
   {
     "id": 209669,
@@ -656,7 +597,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784642505
+    "updated_at": 1784646292
   },
   {
     "id": 184356,
@@ -685,7 +626,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784642451
+    "updated_at": 1784646194
   },
   {
     "id": 209541,
@@ -713,7 +654,7 @@
       "Fantasy",
       "Slice of Life"
     ],
-    "updated_at": 1784624713
+    "updated_at": 1784646342
   },
   {
     "id": 194389,
@@ -769,7 +710,7 @@
       "Horror",
       "Supernatural"
     ],
-    "updated_at": 1784642503
+    "updated_at": 1784646213
   },
   {
     "id": 201667,
@@ -798,7 +739,7 @@
       "Slice of Life",
       "Supernatural"
     ],
-    "updated_at": 1784642561
+    "updated_at": 1784646240
   },
   {
     "id": 187166,
@@ -826,7 +767,7 @@
       "Comedy",
       "Music"
     ],
-    "updated_at": 1784631700
+    "updated_at": 1784646354
   },
   {
     "id": 198376,
@@ -856,7 +797,7 @@
       "Music",
       "Slice of Life"
     ],
-    "updated_at": 1784642516
+    "updated_at": 1784646270
   },
   {
     "id": 108992,
@@ -913,7 +854,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784642442
+    "updated_at": 1784646108
   },
   {
     "id": 208044,
@@ -942,7 +883,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784638832
+    "updated_at": 1784646168
   },
   {
     "id": 180136,
@@ -970,7 +911,7 @@
       "Action",
       "Fantasy"
     ],
-    "updated_at": 1784642446
+    "updated_at": 1784646185
   },
   {
     "id": 207141,
@@ -998,7 +939,7 @@
       "Comedy",
       "Slice of Life"
     ],
-    "updated_at": 1784642457
+    "updated_at": 1784646125
   },
   {
     "id": 204466,
@@ -1027,7 +968,7 @@
       "Romance",
       "Supernatural"
     ],
-    "updated_at": 1784642445
+    "updated_at": 1784646103
   },
   {
     "id": 8336,
@@ -1082,7 +1023,7 @@
       "Comedy",
       "Slice of Life"
     ],
-    "updated_at": 1784642451
+    "updated_at": 1784646275
   },
   {
     "id": 213484,
@@ -1111,7 +1052,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784642436
+    "updated_at": 1784646268
   },
   {
     "id": 199748,
@@ -1140,7 +1081,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784642435
+    "updated_at": 1784646192
   },
   {
     "id": 196218,
@@ -1172,7 +1113,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784642452
+    "updated_at": 1784646187
   },
   {
     "id": 182205,
@@ -1202,7 +1143,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784642449
+    "updated_at": 1784646168
   },
   {
     "id": 188525,
@@ -1230,7 +1171,7 @@
       "Comedy",
       "Slice of Life"
     ],
-    "updated_at": 1784642462
+    "updated_at": 1784646164
   },
   {
     "id": 202508,
@@ -1259,7 +1200,7 @@
       "Mystery",
       "Slice of Life"
     ],
-    "updated_at": 1784642551
+    "updated_at": 1784646294
   },
   {
     "id": 182616,
@@ -1287,7 +1228,7 @@
       "Action",
       "Adventure"
     ],
-    "updated_at": 1784642477
+    "updated_at": 1784646185
   },
   {
     "id": 203490,
@@ -1316,7 +1257,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784642473
+    "updated_at": 1784646043
   },
   {
     "id": 209983,
@@ -1345,7 +1286,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784642437
+    "updated_at": 1784646194
   },
   {
     "id": 207674,
@@ -1374,7 +1315,7 @@
       "Ecchi",
       "Supernatural"
     ],
-    "updated_at": 1784642442
+    "updated_at": 1784646212
   },
   {
     "id": 213831,
@@ -1403,7 +1344,7 @@
       "Ecchi",
       "Supernatural"
     ],
-    "updated_at": 1784631663
+    "updated_at": 1784646370
   },
   {
     "id": 142274,
@@ -1487,7 +1428,7 @@
       "Fantasy",
       "Slice of Life"
     ],
-    "updated_at": 1784638921
+    "updated_at": 1784646332
   },
   {
     "id": 214260,
@@ -1516,7 +1457,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784635298
+    "updated_at": 1784646319
   },
   {
     "id": 137683,
@@ -1575,7 +1516,7 @@
       "Ecchi",
       "Slice of Life"
     ],
-    "updated_at": 1784620910
+    "updated_at": 1784646369
   },
   {
     "id": 8687,
@@ -1633,7 +1574,7 @@
       "Fantasy",
       "Slice of Life"
     ],
-    "updated_at": 1784642442
+    "updated_at": 1784646164
   },
   {
     "id": 235,
@@ -1663,7 +1604,7 @@
       "Mystery",
       "Psychological"
     ],
-    "updated_at": 1784642445
+    "updated_at": 1784646204
   },
   {
     "id": 184492,
@@ -1692,7 +1633,7 @@
       "Fantasy",
       "Supernatural"
     ],
-    "updated_at": 1784642437
+    "updated_at": 1784646196
   },
   {
     "id": 213356,
@@ -1721,7 +1662,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784642561
+    "updated_at": 1784646213
   },
   {
     "id": 186863,
@@ -1749,7 +1690,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784642451
+    "updated_at": 1784646185
   },
   {
     "id": 187538,
@@ -1780,7 +1721,7 @@
       "Sci-Fi",
       "Supernatural"
     ],
-    "updated_at": 1784642445
+    "updated_at": 1784646181
   },
   {
     "id": 206249,
@@ -1808,7 +1749,7 @@
       "Action",
       "Supernatural"
     ],
-    "updated_at": 1784642476
+    "updated_at": 1784646225
   },
   {
     "id": 195600,
@@ -1839,7 +1780,7 @@
       "Fantasy",
       "Supernatural"
     ],
-    "updated_at": 1784642458
+    "updated_at": 1784646164
   },
   {
     "id": 190569,
@@ -1866,7 +1807,7 @@
     "genres": [
       "Drama"
     ],
-    "updated_at": 1784642440
+    "updated_at": 1784646143
   },
   {
     "id": 196012,
@@ -1896,7 +1837,7 @@
       "Romance",
       "Supernatural"
     ],
-    "updated_at": 1784642460
+    "updated_at": 1784646296
   },
   {
     "id": 211181,
@@ -1950,7 +1891,7 @@
     "status": "RELEASING",
     "score": 68,
     "genres": [],
-    "updated_at": 1784642485
+    "updated_at": 1784646234
   },
   {
     "id": 194219,
@@ -1979,7 +1920,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784642440
+    "updated_at": 1784646191
   },
   {
     "id": 185692,
@@ -2009,7 +1950,7 @@
       "Fantasy",
       "Mahou Shoujo"
     ],
-    "updated_at": 1784642470
+    "updated_at": 1784646319
   },
   {
     "id": 185875,
@@ -2068,7 +2009,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784642441
+    "updated_at": 1784646194
   },
   {
     "id": 199066,
@@ -2097,7 +2038,7 @@
       "Romance",
       "Supernatural"
     ],
-    "updated_at": 1784642452
+    "updated_at": 1784646193
   },
   {
     "id": 201514,
@@ -2125,7 +2066,7 @@
       "Comedy",
       "Romance"
     ],
-    "updated_at": 1784642443
+    "updated_at": 1784646234
   },
   {
     "id": 206950,
@@ -2206,7 +2147,7 @@
     "status": "RELEASING",
     "score": null,
     "genres": [],
-    "updated_at": 1784642560
+    "updated_at": 1784646370
   },
   {
     "id": 204269,
@@ -2233,7 +2174,7 @@
     "genres": [
       "Slice of Life"
     ],
-    "updated_at": 1784625060
+    "updated_at": 1784646355
   },
   {
     "id": 185646,
@@ -2288,7 +2229,7 @@
       "Mahou Shoujo",
       "Mystery"
     ],
-    "updated_at": 1784642483
+    "updated_at": 1784646253
   },
   {
     "id": 188388,
@@ -2345,7 +2286,7 @@
     "genres": [
       "Music"
     ],
-    "updated_at": 1784642518
+    "updated_at": 1784646370
   },
   {
     "id": 155723,
@@ -2373,7 +2314,7 @@
       "Action",
       "Fantasy"
     ],
-    "updated_at": 1784638868
+    "updated_at": 1784646370
   },
   {
     "id": 200230,
@@ -2402,7 +2343,7 @@
       "Horror",
       "Supernatural"
     ],
-    "updated_at": 1784642513
+    "updated_at": 1784646247
   },
   {
     "id": 210031,
@@ -2432,7 +2373,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784642443
+    "updated_at": 1784646104
   },
   {
     "id": 204060,
@@ -2460,7 +2401,7 @@
       "Action",
       "Comedy"
     ],
-    "updated_at": 1784642455
+    "updated_at": 1784646194
   },
   {
     "id": 118123,
@@ -2489,7 +2430,7 @@
       "Adventure",
       "Comedy"
     ],
-    "updated_at": 1784642561
+    "updated_at": 1784646273
   },
   {
     "id": 2406,
@@ -2546,7 +2487,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784642438
+    "updated_at": 1784646163
   },
   {
     "id": 200637,
@@ -2575,7 +2516,7 @@
       "Ecchi",
       "Romance"
     ],
-    "updated_at": 1784642442
+    "updated_at": 1784646039
   },
   {
     "id": 103303,
@@ -2603,7 +2544,7 @@
       "Adventure",
       "Romance"
     ],
-    "updated_at": 1784642842
+    "updated_at": 1784646113
   },
   {
     "id": 21,
@@ -2634,7 +2575,7 @@
       "Drama",
       "Fantasy"
     ],
-    "updated_at": 1784642438
+    "updated_at": 1784646125
   },
   {
     "id": 196974,
@@ -2661,7 +2602,7 @@
     "genres": [
       "Fantasy"
     ],
-    "updated_at": 1784642465
+    "updated_at": 1784646226
   },
   {
     "id": 188139,
@@ -2689,7 +2630,7 @@
       "Drama",
       "Romance"
     ],
-    "updated_at": 1784642451
+    "updated_at": 1784646163
   },
   {
     "id": 178789,
@@ -2719,7 +2660,7 @@
       "Ecchi",
       "Fantasy"
     ],
-    "updated_at": 1784642435
+    "updated_at": 1784646070
   },
   {
     "id": 177637,
@@ -2747,7 +2688,7 @@
       "Romance",
       "Supernatural"
     ],
-    "updated_at": 1784642442
+    "updated_at": 1784646198
   },
   {
     "id": 205116,
@@ -2802,7 +2743,7 @@
       "Ecchi",
       "Slice of Life"
     ],
-    "updated_at": 1784642468
+    "updated_at": 1784646232
   },
   {
     "id": 213359,
@@ -2830,7 +2771,7 @@
       "Horror",
       "Supernatural"
     ],
-    "updated_at": 1784642556
+    "updated_at": 1784646370
   },
   {
     "id": 137653,
@@ -2860,7 +2801,7 @@
       "Drama",
       "Fantasy"
     ],
-    "updated_at": 1784642445
+    "updated_at": 1784646298
   },
   {
     "id": 169582,
@@ -2891,7 +2832,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784642448
+    "updated_at": 1784646184
   },
   {
     "id": 202269,
@@ -2919,7 +2860,7 @@
       "Drama",
       "Romance"
     ],
-    "updated_at": 1784642437
+    "updated_at": 1784646191
   },
   {
     "id": 206521,
@@ -2946,7 +2887,7 @@
     "genres": [
       "Drama"
     ],
-    "updated_at": 1784635205
+    "updated_at": 1784646141
   },
   {
     "id": 185542,
@@ -2976,7 +2917,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784642443
+    "updated_at": 1784646067
   },
   {
     "id": 199408,
@@ -3004,7 +2945,7 @@
       "Drama",
       "Fantasy"
     ],
-    "updated_at": 1784642441
+    "updated_at": 1784646193
   },
   {
     "id": 209504,
@@ -3034,7 +2975,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784642441
+    "updated_at": 1784646186
   },
   {
     "id": 195833,
@@ -3062,7 +3003,7 @@
       "Comedy",
       "Sports"
     ],
-    "updated_at": 1784642471
+    "updated_at": 1784646198
   },
   {
     "id": 169583,
@@ -3090,7 +3031,7 @@
       "Comedy",
       "Romance"
     ],
-    "updated_at": 1784642441
+    "updated_at": 1784646136
   },
   {
     "id": 199111,
@@ -3119,7 +3060,7 @@
       "Slice of Life",
       "Sports"
     ],
-    "updated_at": 1784642440
+    "updated_at": 1784646040
   },
   {
     "id": 197754,
@@ -3147,7 +3088,7 @@
       "Drama",
       "Psychological"
     ],
-    "updated_at": 1784642443
+    "updated_at": 1784646162
   },
   {
     "id": 213188,
@@ -3203,7 +3144,7 @@
     "genres": [
       "Drama"
     ],
-    "updated_at": 1784642444
+    "updated_at": 1784646107
   },
   {
     "id": 187260,
@@ -3232,7 +3173,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784642439
+    "updated_at": 1784646156
   },
   {
     "id": 213665,
@@ -3260,7 +3201,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784642440
+    "updated_at": 1784646196
   },
   {
     "id": 196219,
@@ -3289,7 +3230,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784642439
+    "updated_at": 1784646120
   },
   {
     "id": 177699,
@@ -3318,7 +3259,66 @@
       "Psychological",
       "Sci-Fi"
     ],
-    "updated_at": 1784642438
+    "updated_at": 1784646184
+  },
+  {
+    "id": 209800,
+    "id_mal": 63047,
+    "url": "https://anilist.co/anime/209800",
+    "title": {
+      "english": "Yoroi-Shinden Samurai Troopers Cour 2",
+      "romaji": "Yoroi Shinden Samurai Troopers Part 2",
+      "native": "鎧真伝サムライトルーパー 第2クール"
+    },
+    "description": "The second part of <i>Yoroi Shinden Samurai Troopers</i>.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx209800-v3TIdNz1AV0X.jpg",
+    "banner_url": "",
+    "schedule": "Episode 4 tayang pada 28/7/2026, 21.30.00 WIB",
+    "next_episode": 4,
+    "next_airing_timestamp": 1785249000,
+    "season": "SUMMER",
+    "year": 2026,
+    "format": "TV",
+    "episodes": 12,
+    "duration": 24,
+    "status": "RELEASING",
+    "score": null,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "updated_at": 1784642532
+  },
+  {
+    "id": 198709,
+    "id_mal": 62476,
+    "url": "https://anilist.co/anime/198709",
+    "title": {
+      "english": "Victoria of Many Faces",
+      "romaji": "Tefuda ga Oome no Victoria",
+      "native": "手札が多めのビクトリア"
+    },
+    "description": "In an age when spies act behind the scenes in every land, Chloe spends her days successfully carrying out even the most difficult missions due to her unparalleled disguise skills and martial arts abilities. After the betrayal of her boss, she suddenly disappears—as Chloe plans to redo her life as the ordinary citizen Victoria in the neighboring kingdom of Ashberry, striving for a “normal” life. However, Victoria's peaceful life is abruptly cut short as she begins to get involved with many people. In this new land, her experiences and abilities from her days as a spy come in far more useful than she ever expected! On the other hand, the second prince--and others--take an interest in Victoria's strength, and the shadows close in on the woman with many faces…\n<br><br>\n(Source: Yen Press)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx198709-3PFLvU6eqPvf.jpg",
+    "banner_url": "",
+    "schedule": "Episode 4 tayang pada 28/7/2026, 22.00.00 WIB",
+    "next_episode": 4,
+    "next_airing_timestamp": 1785250800,
+    "season": "SUMMER",
+    "year": 2026,
+    "format": "TV",
+    "episodes": 9,
+    "duration": 24,
+    "status": "RELEASING",
+    "score": 69,
+    "genres": [
+      "Action",
+      "Drama",
+      "Fantasy",
+      "Romance"
+    ],
+    "updated_at": 1784646208
   },
   {
     "id": 204560,
@@ -3430,7 +3430,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784642461
+    "updated_at": 1784646152
   },
   {
     "id": 208685,
@@ -3519,7 +3519,7 @@
       "Romance",
       "Thriller"
     ],
-    "updated_at": 1784642446
+    "updated_at": 1784646199
   },
   {
     "id": 210687,
@@ -3548,7 +3548,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784624637
+    "updated_at": 1784646246
   },
   {
     "id": 208264,
@@ -3629,7 +3629,7 @@
     "genres": [
       "Hentai"
     ],
-    "updated_at": 1784642514
+    "updated_at": 1784646370
   },
   {
     "id": 196613,
