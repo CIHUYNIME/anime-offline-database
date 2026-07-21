@@ -696,7 +696,7 @@
     "genres": [
       "Music"
     ],
-    "updated_at": 1784469809
+    "updated_at": 1784656913
   },
   {
     "id": 213805,
@@ -1840,6 +1840,35 @@
       "Fantasy"
     ],
     "updated_at": 1784613738
+  },
+  {
+    "id": 212812,
+    "id_mal": null,
+    "url": "https://anilist.co/anime/212812",
+    "title": {
+      "english": "",
+      "romaji": "Paradox Live THE ANIMATION Movie",
+      "native": "映画 Paradox Live THE ANIMATION"
+    },
+    "description": "Theatrical follow-up to <i>Paradox Live THE ANIMATION</i>.\n<br><br>\n<i>Note: Title is provisional and subject to change.</i>",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx212812-ClgAw2ammA8s.jpg",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Drama",
+      "Music",
+      "Sci-Fi"
+    ],
+    "updated_at": 1784656913
   },
   {
     "id": 212799,
@@ -3219,7 +3248,7 @@
       "Comedy",
       "Romance"
     ],
-    "updated_at": 1784592449
+    "updated_at": 1784656913
   },
   {
     "id": 209670,
@@ -3389,7 +3418,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784592449
+    "updated_at": 1784656913
   },
   {
     "id": 209224,
@@ -4632,7 +4661,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784653317
+    "updated_at": 1784656913
   },
   {
     "id": 204747,
@@ -5434,7 +5463,7 @@
       "Ecchi",
       "Romance"
     ],
-    "updated_at": 1784570509
+    "updated_at": 1784656913
   },
   {
     "id": 202503,
@@ -5546,7 +5575,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784584987
+    "updated_at": 1784656913
   },
   {
     "id": 202253,
@@ -5779,7 +5808,7 @@
       "Mystery",
       "Romance"
     ],
-    "updated_at": 1784646370
+    "updated_at": 1784656913
   },
   {
     "id": 200455,
@@ -6587,7 +6616,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784620910
+    "updated_at": 1784656913
   },
   {
     "id": 198663,
@@ -7170,7 +7199,7 @@
       "Comedy",
       "Supernatural"
     ],
-    "updated_at": 1784642561
+    "updated_at": 1784656913
   },
   {
     "id": 195210,
@@ -7748,7 +7777,7 @@
       "Romance",
       "Supernatural"
     ],
-    "updated_at": 1784653317
+    "updated_at": 1784656913
   },
   {
     "id": 189796,
@@ -8090,7 +8119,7 @@
       "Mecha",
       "Sci-Fi"
     ],
-    "updated_at": 1784588527
+    "updated_at": 1784656913
   },
   {
     "id": 187402,
@@ -8232,7 +8261,7 @@
       "Comedy",
       "Slice of Life"
     ],
-    "updated_at": 1784653320
+    "updated_at": 1784656913
   },
   {
     "id": 186822,
@@ -8373,7 +8402,7 @@
       "Music",
       "Slice of Life"
     ],
-    "updated_at": 1784549495
+    "updated_at": 1784656913
   },
   {
     "id": 186541,
@@ -8856,7 +8885,7 @@
       "Comedy",
       "Slice of Life"
     ],
-    "updated_at": 1784646370
+    "updated_at": 1784656913
   },
   {
     "id": 183960,
@@ -9811,7 +9840,7 @@
       "Mystery",
       "Romance"
     ],
-    "updated_at": 1784588534
+    "updated_at": 1784656913
   },
   {
     "id": 169102,
