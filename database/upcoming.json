@@ -1007,7 +1007,7 @@
     "genres": [
       "Sports"
     ],
-    "updated_at": 1784687262
+    "updated_at": 1784739740
   },
   {
     "id": 213657,
@@ -1178,7 +1178,7 @@
       "Comedy",
       "Romance"
     ],
-    "updated_at": 1784728932
+    "updated_at": 1784739747
   },
   {
     "id": 213580,
@@ -1501,6 +1501,35 @@
     "updated_at": 1784732535
   },
   {
+    "id": 213362,
+    "id_mal": 62727,
+    "url": "https://anilist.co/anime/213362",
+    "title": {
+      "english": "",
+      "romaji": "Zhan Shen: Fanchen Shen Yu Movie - Cangnan Zhi Shang",
+      "native": "斩神之凡尘神域剧场版 沧南之殇"
+    },
+    "description": "After the release of the divine artifact Shiva's Wrath, Cangnan City faces an unprecedented crisis. With the Western evil gods lurking in their wake, are the Chinese gods about to awaken? Infused with the power of the twin gods, Lin Qiye joins the Night Watchmen of Cangnan City in fighting against the Western evil gods and defending Cangnan! The Second War of the Gods is about to begin!\n<br><br>\n(Source: Tencent, translated)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx213362-DHuRrDaWakf8.png",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "ONA",
+    "episodes": null,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Action",
+      "Fantasy",
+      "Supernatural"
+    ],
+    "updated_at": 1784739747
+  },
+  {
     "id": 213360,
     "id_mal": null,
     "url": "https://anilist.co/anime/213360",
@@ -1642,7 +1671,7 @@
       "Comedy",
       "Romance"
     ],
-    "updated_at": 1784732528
+    "updated_at": 1784739747
   },
   {
     "id": 213106,
@@ -2207,7 +2236,7 @@
       "Drama",
       "Romance"
     ],
-    "updated_at": 1784728932
+    "updated_at": 1784739747
   },
   {
     "id": 212503,
@@ -2323,7 +2352,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784498548
+    "updated_at": 1784739741
   },
   {
     "id": 212105,
@@ -2352,7 +2381,7 @@
       "Drama",
       "Slice of Life"
     ],
-    "updated_at": 1784732535
+    "updated_at": 1784739747
   },
   {
     "id": 211877,
@@ -2584,7 +2613,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784732533
+    "updated_at": 1784739747
   },
   {
     "id": 211338,
@@ -2669,7 +2698,7 @@
       "Drama",
       "Romance"
     ],
-    "updated_at": 1784390608
+    "updated_at": 1784739747
   },
   {
     "id": 211258,
@@ -3441,7 +3470,7 @@
       "Action",
       "Sci-Fi"
     ],
-    "updated_at": 1784671428
+    "updated_at": 1784739741
   },
   {
     "id": 209463,
@@ -3993,7 +4022,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784687245
+    "updated_at": 1784739739
   },
   {
     "id": 206949,
@@ -4080,7 +4109,7 @@
       "Supernatural",
       "Thriller"
     ],
-    "updated_at": 1784728932
+    "updated_at": 1784739747
   },
   {
     "id": 206814,
@@ -4421,7 +4450,7 @@
       "Drama",
       "Romance"
     ],
-    "updated_at": 1784671392
+    "updated_at": 1784739739
   },
   {
     "id": 205907,
@@ -4713,7 +4742,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784687279
+    "updated_at": 1784739747
   },
   {
     "id": 205068,
@@ -5090,7 +5119,7 @@
       "Horror",
       "Supernatural"
     ],
-    "updated_at": 1784671452
+    "updated_at": 1784739743
   },
   {
     "id": 204389,
@@ -5119,7 +5148,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784494937
+    "updated_at": 1784739746
   },
   {
     "id": 204363,
@@ -5571,7 +5600,7 @@
       "Ecchi",
       "Romance"
     ],
-    "updated_at": 1784732528
+    "updated_at": 1784739747
   },
   {
     "id": 202503,
@@ -5857,7 +5886,7 @@
       "Drama",
       "Mystery"
     ],
-    "updated_at": 1784722337
+    "updated_at": 1784739747
   },
   {
     "id": 200927,
@@ -6005,7 +6034,7 @@
       "Slice of Life",
       "Supernatural"
     ],
-    "updated_at": 1784671461
+    "updated_at": 1784739747
   },
   {
     "id": 199597,
@@ -6695,7 +6724,7 @@
     "genres": [
       "Action"
     ],
-    "updated_at": 1784722397
+    "updated_at": 1784739747
   },
   {
     "id": 198696,
@@ -7307,7 +7336,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784687271
+    "updated_at": 1784739747
   },
   {
     "id": 195350,
@@ -8029,7 +8058,7 @@
     "genres": [
       "Music"
     ],
-    "updated_at": 1784674976
+    "updated_at": 1784739747
   },
   {
     "id": 188892,
@@ -8370,7 +8399,7 @@
       "Drama",
       "Sports"
     ],
-    "updated_at": 1784687279
+    "updated_at": 1784739747
   },
   {
     "id": 187217,
@@ -9742,7 +9771,7 @@
       "Drama",
       "Sports"
     ],
-    "updated_at": 1784728932
+    "updated_at": 1784739747
   },
   {
     "id": 174427,
@@ -9772,7 +9801,7 @@
       "Supernatural",
       "Thriller"
     ],
-    "updated_at": 1784707332
+    "updated_at": 1784739741
   },
   {
     "id": 172192,
@@ -11005,7 +11034,7 @@
       "Mystery",
       "Psychological"
     ],
-    "updated_at": 1784717020
+    "updated_at": 1784739747
   },
   {
     "id": 141922,
@@ -11753,7 +11782,7 @@
       "Slice of Life",
       "Supernatural"
     ],
-    "updated_at": 1784722496
+    "updated_at": 1784739741
   },
   {
     "id": 112295,
