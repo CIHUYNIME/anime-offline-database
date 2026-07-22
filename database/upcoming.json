@@ -1,5 +1,33 @@
 [
   {
+    "id": 214332,
+    "id_mal": null,
+    "url": "https://anilist.co/anime/214332",
+    "title": {
+      "english": "",
+      "romaji": "Studio Cabana",
+      "native": "スタジオカバナ"
+    },
+    "description": "Yukari Maki is a high school girl who prides herself on honesty—and she’s starting to get the feeling that she and her delinquent classmate, Yusuke Kusaka, don’t have a single thing in common! But her straitlaced unwillingness to let him skate by in school earns her an almost chaperone-like reputation, and his apparent disdain. Yet, despite Yusuke’s disapproval of her hovering, Yukari refuses to let a new rumor about him spread. After following Yusuke home to discuss it, she watches him stop at a music studio. And there, Yukari sees—and hears—a side of Yusuke she had never imagined…<br><br>\n\n(Source: Yen Press)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx214332-p4Pa59EOJFI5.jpg",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "TV",
+    "episodes": null,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Music",
+      "Romance"
+    ],
+    "updated_at": 1784691124
+  },
+  {
     "id": 214246,
     "id_mal": 64643,
     "url": "https://anilist.co/anime/214246",
@@ -82,7 +110,7 @@
       "Action",
       "Comedy"
     ],
-    "updated_at": 1784621889
+    "updated_at": 1784687279
   },
   {
     "id": 214075,
@@ -363,7 +391,7 @@
       "Mystery",
       "Supernatural"
     ],
-    "updated_at": 1784635298
+    "updated_at": 1784687257
   },
   {
     "id": 213879,
@@ -497,7 +525,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784653321
+    "updated_at": 1784687279
   },
   {
     "id": 213867,
@@ -583,7 +611,7 @@
       "Adventure",
       "Sci-Fi"
     ],
-    "updated_at": 1784653320
+    "updated_at": 1784687273
   },
   {
     "id": 213846,
@@ -979,7 +1007,7 @@
     "genres": [
       "Sports"
     ],
-    "updated_at": 1784588516
+    "updated_at": 1784687262
   },
   {
     "id": 213657,
@@ -1065,7 +1093,7 @@
     "genres": [
       "Sci-Fi"
     ],
-    "updated_at": 1784674976
+    "updated_at": 1784687279
   },
   {
     "id": 213628,
@@ -1093,7 +1121,7 @@
       "Action",
       "Comedy"
     ],
-    "updated_at": 1784549455
+    "updated_at": 1784687262
   },
   {
     "id": 213627,
@@ -1409,7 +1437,7 @@
       "Comedy",
       "Romance"
     ],
-    "updated_at": 1784600429
+    "updated_at": 1784687260
   },
   {
     "id": 213396,
@@ -1614,7 +1642,7 @@
       "Comedy",
       "Romance"
     ],
-    "updated_at": 1784646370
+    "updated_at": 1784687240
   },
   {
     "id": 213106,
@@ -1809,7 +1837,7 @@
       "Sci-Fi",
       "Supernatural"
     ],
-    "updated_at": 1784613732
+    "updated_at": 1784687267
   },
   {
     "id": 212888,
@@ -1839,7 +1867,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784671478
+    "updated_at": 1784687279
   },
   {
     "id": 212812,
@@ -2324,7 +2352,7 @@
       "Drama",
       "Slice of Life"
     ],
-    "updated_at": 1784674976
+    "updated_at": 1784687273
   },
   {
     "id": 211877,
@@ -2382,7 +2410,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784674976
+    "updated_at": 1784687251
   },
   {
     "id": 211711,
@@ -2612,7 +2640,7 @@
       "Fantasy",
       "Mahou Shoujo"
     ],
-    "updated_at": 1784674976
+    "updated_at": 1784687231
   },
   {
     "id": 211304,
@@ -3357,7 +3385,7 @@
       "Comedy",
       "Romance"
     ],
-    "updated_at": 1784671425
+    "updated_at": 1784687273
   },
   {
     "id": 209499,
@@ -3704,7 +3732,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784671427
+    "updated_at": 1784687228
   },
   {
     "id": 207782,
@@ -3732,7 +3760,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784563297
+    "updated_at": 1784687277
   },
   {
     "id": 207692,
@@ -3937,7 +3965,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784671426
+    "updated_at": 1784687245
   },
   {
     "id": 206949,
@@ -4052,7 +4080,7 @@
       "Action",
       "Adventure"
     ],
-    "updated_at": 1784408546
+    "updated_at": 1784687220
   },
   {
     "id": 206812,
@@ -4657,7 +4685,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784674976
+    "updated_at": 1784687279
   },
   {
     "id": 205068,
@@ -4924,6 +4952,33 @@
     "updated_at": 1784653321
   },
   {
+    "id": 204561,
+    "id_mal": 63167,
+    "url": "https://anilist.co/anime/204561",
+    "title": {
+      "english": "",
+      "romaji": "Mahou no Princess Minky Momo - Akogare no Yume he, Magokoro no Duo",
+      "native": "魔法のプリンセス　ミンキーモモ 憧れの夢へ　まごころの二重奏（デュオ）"
+    },
+    "description": "A new original video anime for <i>Mahou no Princess Minky Momo</i>.\n<br><br>\n<i>Note: Title and Relations are provisional and will be updated when more info is announced.</i>",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx204561-imS3wIfV2xoa.jpg",
+    "banner_url": "",
+    "schedule": "Episode 1 tayang pada 12/11/2026, 22.00.00 WIB",
+    "next_episode": 1,
+    "next_airing_timestamp": 1794495600,
+    "season": "FALL",
+    "year": 2026,
+    "format": "OVA",
+    "episodes": 1,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Mahou Shoujo"
+    ],
+    "updated_at": 1784687240
+  },
+  {
     "id": 204436,
     "id_mal": 63147,
     "url": "https://anilist.co/anime/204436",
@@ -5180,7 +5235,7 @@
       "Adventure",
       "Sci-Fi"
     ],
-    "updated_at": 1784427259
+    "updated_at": 1784687226
   },
   {
     "id": 203855,
@@ -5600,7 +5655,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784656913
+    "updated_at": 1784687279
   },
   {
     "id": 202253,
@@ -5660,7 +5715,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784671478
+    "updated_at": 1784687279
   },
   {
     "id": 202250,
@@ -5689,7 +5744,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784674976
+    "updated_at": 1784687263
   },
   {
     "id": 202079,
@@ -5862,7 +5917,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784674976
+    "updated_at": 1784687256
   },
   {
     "id": 200294,
@@ -6148,7 +6203,7 @@
       "Mystery",
       "Supernatural"
     ],
-    "updated_at": 1784455295
+    "updated_at": 1784687279
   },
   {
     "id": 199353,
@@ -6324,6 +6379,35 @@
       "Fantasy"
     ],
     "updated_at": 1784671478
+  },
+  {
+    "id": 199152,
+    "id_mal": 62550,
+    "url": "https://anilist.co/anime/199152",
+    "title": {
+      "english": "",
+      "romaji": "GIRLS BAND CRY (Shinsaku Eiga)",
+      "native": "ガールズバンドクライ (新作映画)"
+    },
+    "description": "A completely new movie for <i>GIRLS BAND CRY</i>.\n<br><br>\n<i>Note: Title and relations are provisional and subject to change when more info is announced.</i>",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199152-ZCGBsqRQ5qbC.jpg",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Drama",
+      "Music",
+      "Slice of Life"
+    ],
+    "updated_at": 1784687241
   },
   {
     "id": 199150,
@@ -6755,7 +6839,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784635298
+    "updated_at": 1784687238
   },
   {
     "id": 197543,
@@ -7195,7 +7279,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784674976
+    "updated_at": 1784687271
   },
   {
     "id": 195350,
@@ -7515,7 +7599,7 @@
       "Drama",
       "Fantasy"
     ],
-    "updated_at": 1784653321
+    "updated_at": 1784687254
   },
   {
     "id": 193676,
@@ -7712,7 +7796,7 @@
       "Psychological",
       "Slice of Life"
     ],
-    "updated_at": 1784646370
+    "updated_at": 1784687279
   },
   {
     "id": 190574,
@@ -7773,7 +7857,7 @@
       "Romance",
       "Sci-Fi"
     ],
-    "updated_at": 1784671452
+    "updated_at": 1784687279
   },
   {
     "id": 190054,
@@ -7830,7 +7914,7 @@
       "Comedy",
       "Romance"
     ],
-    "updated_at": 1784613738
+    "updated_at": 1784687237
   },
   {
     "id": 189323,
@@ -8258,7 +8342,7 @@
       "Drama",
       "Sports"
     ],
-    "updated_at": 1784520151
+    "updated_at": 1784687279
   },
   {
     "id": 187217,
@@ -8430,6 +8514,34 @@
     "updated_at": 1784671478
   },
   {
+    "id": 186603,
+    "id_mal": 60160,
+    "url": "https://anilist.co/anime/186603",
+    "title": {
+      "english": "",
+      "romaji": "Love Live! Nijigasaki Gakuen School Idol Doukoukai: Kanketsu-hen Saishuushou",
+      "native": "ラブライブ！虹ヶ咲学園スクールアイドル同好会 完結編 最終章"
+    },
+    "description": "The final in the trilogy of <i>Love Live! Nijigasaki Gakuen School Idol Doukoukai</i> films that continues the story beyond season two and the OVA.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186603-k8UXYXV2a5CU.jpg",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Music",
+      "Slice of Life"
+    ],
+    "updated_at": 1784687279
+  },
+  {
     "id": 186541,
     "id_mal": 60948,
     "url": "https://anilist.co/anime/186541",
@@ -8459,7 +8571,7 @@
       "Romance",
       "Sci-Fi"
     ],
-    "updated_at": 1784653321
+    "updated_at": 1784687279
   },
   {
     "id": 186336,
@@ -8541,7 +8653,7 @@
       "Action",
       "Adventure"
     ],
-    "updated_at": 1784406297
+    "updated_at": 1784687271
   },
   {
     "id": 185995,
@@ -8626,7 +8738,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784671471
+    "updated_at": 1784687279
   },
   {
     "id": 185699,
@@ -8825,7 +8937,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784674976
+    "updated_at": 1784687270
   },
   {
     "id": 184321,
@@ -9287,7 +9399,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784671438
+    "updated_at": 1784687270
   },
   {
     "id": 178972,
@@ -9346,7 +9458,7 @@
       "Mahou Shoujo",
       "Mecha"
     ],
-    "updated_at": 1784653317
+    "updated_at": 1784687215
   },
   {
     "id": 178467,
@@ -9435,7 +9547,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784678814
+    "updated_at": 1784687214
   },
   {
     "id": 177704,
@@ -10695,7 +10807,7 @@
       "Romance",
       "Supernatural"
     ],
-    "updated_at": 1784678778
+    "updated_at": 1784687279
   },
   {
     "id": 148316,
@@ -10752,7 +10864,7 @@
       "Drama",
       "Fantasy"
     ],
-    "updated_at": 1784630667
+    "updated_at": 1784687223
   },
   {
     "id": 142278,
@@ -10806,7 +10918,7 @@
       "Mystery",
       "Psychological"
     ],
-    "updated_at": 1784630904
+    "updated_at": 1784687279
   },
   {
     "id": 141922,
@@ -10892,7 +11004,7 @@
       "Fantasy",
       "Mahou Shoujo"
     ],
-    "updated_at": 1784674976
+    "updated_at": 1784687279
   },
   {
     "id": 137697,

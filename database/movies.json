@@ -548,7 +548,7 @@
       "Drama",
       "Slice of Life"
     ],
-    "updated_at": 1784674976
+    "updated_at": 1784687273
   },
   {
     "id": 211331,
@@ -631,7 +631,7 @@
       "Fantasy",
       "Mahou Shoujo"
     ],
-    "updated_at": 1784674976
+    "updated_at": 1784687231
   },
   {
     "id": 211262,
@@ -1381,7 +1381,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784674976
+    "updated_at": 1784687279
   },
   {
     "id": 204949,
@@ -1726,6 +1726,35 @@
       "Supernatural"
     ],
     "updated_at": 1784592441
+  },
+  {
+    "id": 199152,
+    "id_mal": 62550,
+    "url": "https://anilist.co/anime/199152",
+    "title": {
+      "english": "",
+      "romaji": "GIRLS BAND CRY (Shinsaku Eiga)",
+      "native": "ガールズバンドクライ (新作映画)"
+    },
+    "description": "A completely new movie for <i>GIRLS BAND CRY</i>.\n<br><br>\n<i>Note: Title and relations are provisional and subject to change when more info is announced.</i>",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199152-ZCGBsqRQ5qbC.jpg",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Drama",
+      "Music",
+      "Slice of Life"
+    ],
+    "updated_at": 1784687241
   },
   {
     "id": 199150,
@@ -2357,7 +2386,7 @@
       "Drama",
       "Supernatural"
     ],
-    "updated_at": 1784541708
+    "updated_at": 1784687242
   },
   {
     "id": 192002,
@@ -2473,7 +2502,7 @@
       "Psychological",
       "Slice of Life"
     ],
-    "updated_at": 1784646370
+    "updated_at": 1784687279
   },
   {
     "id": 190574,
@@ -2840,7 +2869,7 @@
     "genres": [
       "Fantasy"
     ],
-    "updated_at": 1784440942
+    "updated_at": 1784687279
   },
   {
     "id": 186754,
@@ -2929,6 +2958,34 @@
       "Slice of Life"
     ],
     "updated_at": 1784635298
+  },
+  {
+    "id": 186603,
+    "id_mal": 60160,
+    "url": "https://anilist.co/anime/186603",
+    "title": {
+      "english": "",
+      "romaji": "Love Live! Nijigasaki Gakuen School Idol Doukoukai: Kanketsu-hen Saishuushou",
+      "native": "ラブライブ！虹ヶ咲学園スクールアイドル同好会 完結編 最終章"
+    },
+    "description": "The final in the trilogy of <i>Love Live! Nijigasaki Gakuen School Idol Doukoukai</i> films that continues the story beyond season two and the OVA.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186603-k8UXYXV2a5CU.jpg",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Music",
+      "Slice of Life"
+    ],
+    "updated_at": 1784687279
   },
   {
     "id": 186169,
@@ -3236,7 +3293,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784674976
+    "updated_at": 1784687225
   },
   {
     "id": 184369,
@@ -3404,7 +3461,7 @@
       "Music",
       "Slice of Life"
     ],
-    "updated_at": 1784656913
+    "updated_at": 1784687279
   },
   {
     "id": 182333,
@@ -3610,7 +3667,7 @@
       "Fantasy",
       "Slice of Life"
     ],
-    "updated_at": 1784642561
+    "updated_at": 1784687229
   },
   {
     "id": 181449,
@@ -3695,7 +3752,7 @@
       "Action",
       "Sports"
     ],
-    "updated_at": 1784412197
+    "updated_at": 1784687279
   },
   {
     "id": 180804,
@@ -3751,7 +3808,7 @@
       "Action",
       "Sci-Fi"
     ],
-    "updated_at": 1784613738
+    "updated_at": 1784687279
   },
   {
     "id": 179878,
@@ -3810,7 +3867,7 @@
       "Psychological",
       "Supernatural"
     ],
-    "updated_at": 1784653321
+    "updated_at": 1784687257
   },
   {
     "id": 179852,
@@ -3841,7 +3898,7 @@
       "Psychological",
       "Supernatural"
     ],
-    "updated_at": 1784653321
+    "updated_at": 1784687256
   },
   {
     "id": 179727,
@@ -4065,7 +4122,7 @@
       "Sci-Fi",
       "Supernatural"
     ],
-    "updated_at": 1784646370
+    "updated_at": 1784687267
   },
   {
     "id": 178436,
@@ -4235,6 +4292,34 @@
     "updated_at": 1784455295
   },
   {
+    "id": 177440,
+    "id_mal": null,
+    "url": "https://anilist.co/anime/177440",
+    "title": {
+      "english": "",
+      "romaji": "Space delivery",
+      "native": "Space delivery"
+    },
+    "description": "Third year graduation work of Fukuho Tamanoi at Tama Art University, 2022.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177440-hunNhgI8z45C.png",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/177440-sG3EbctRTGtH.jpg",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 1,
+    "status": "FINISHED",
+    "score": null,
+    "genres": [
+      "Comedy",
+      "Sci-Fi"
+    ],
+    "updated_at": 1784687253
+  },
+  {
     "id": 177132,
     "id_mal": 58735,
     "url": "https://anilist.co/anime/177132",
@@ -4259,7 +4344,7 @@
     "genres": [
       "Drama"
     ],
-    "updated_at": 1784406300
+    "updated_at": 1784687253
   },
   {
     "id": 177065,
@@ -4794,7 +4879,7 @@
       "Slice of Life",
       "Sports"
     ],
-    "updated_at": 1784678807
+    "updated_at": 1784687226
   },
   {
     "id": 172393,
@@ -5560,7 +5645,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784678798
+    "updated_at": 1784687279
   },
   {
     "id": 166457,
@@ -6146,7 +6231,7 @@
       "Romance",
       "Supernatural"
     ],
-    "updated_at": 1784678792
+    "updated_at": 1784687276
   },
   {
     "id": 161441,
@@ -7644,7 +7729,7 @@
       "Psychological",
       "Supernatural"
     ],
-    "updated_at": 1784678776
+    "updated_at": 1784687256
   },
   {
     "id": 151089,
@@ -8223,7 +8308,7 @@
       "Adventure",
       "Supernatural"
     ],
-    "updated_at": 1784642561
+    "updated_at": 1784687277
   },
   {
     "id": 148077,
@@ -8417,7 +8502,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784629999
+    "updated_at": 1784687279
   },
   {
     "id": 146632,
@@ -8505,7 +8590,7 @@
       "Sci-Fi",
       "Slice of Life"
     ],
-    "updated_at": 1784630031
+    "updated_at": 1784687279
   },
   {
     "id": 146489,
@@ -9135,7 +9220,7 @@
       "Drama",
       "Fantasy"
     ],
-    "updated_at": 1784630667
+    "updated_at": 1784687223
   },
   {
     "id": 143080,
@@ -10411,7 +10496,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784671466
+    "updated_at": 1784687249
   },
   {
     "id": 138379,
@@ -10439,7 +10524,7 @@
       "Drama",
       "Sports"
     ],
-    "updated_at": 1784361747
+    "updated_at": 1784687279
   },
   {
     "id": 137612,
@@ -11581,7 +11666,7 @@
       "Drama",
       "Supernatural"
     ],
-    "updated_at": 1784678732
+    "updated_at": 1784687235
   },
   {
     "id": 129817,
@@ -11894,7 +11979,7 @@
     "genres": [
       "Sports"
     ],
-    "updated_at": 1784588534
+    "updated_at": 1784687279
   },
   {
     "id": 128021,
@@ -13947,7 +14032,7 @@
     "genres": [
       "Fantasy"
     ],
-    "updated_at": 1784570509
+    "updated_at": 1784687252
   },
   {
     "id": 119258,
@@ -15436,7 +15521,7 @@
     "genres": [
       "Fantasy"
     ],
-    "updated_at": 1784678699
+    "updated_at": 1784687277
   },
   {
     "id": 116069,
@@ -16388,7 +16473,7 @@
       "Comedy",
       "Slice of Life"
     ],
-    "updated_at": 1784664204
+    "updated_at": 1784687279
   },
   {
     "id": 113669,
@@ -17078,7 +17163,7 @@
       "Music",
       "Psychological"
     ],
-    "updated_at": 1784549495
+    "updated_at": 1784687279
   },
   {
     "id": 113023,
@@ -17473,7 +17558,7 @@
       "Drama",
       "Slice of Life"
     ],
-    "updated_at": 1784678690
+    "updated_at": 1784687275
   },
   {
     "id": 112030,
@@ -17529,7 +17614,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784678689
+    "updated_at": 1784687279
   },
   {
     "id": 112018,
@@ -18304,7 +18389,7 @@
       "Drama",
       "Fantasy"
     ],
-    "updated_at": 1784653321
+    "updated_at": 1784687279
   },
   {
     "id": 110413,
@@ -19184,6 +19269,34 @@
       "Drama"
     ],
     "updated_at": 1784379737
+  },
+  {
+    "id": 109346,
+    "id_mal": 28051,
+    "url": "https://anilist.co/anime/109346",
+    "title": {
+      "english": "The Three Fearless Frogs",
+      "romaji": "Kaeru San Yuushi",
+      "native": "蛙三勇士"
+    },
+    "description": "Short film by Oofuji Noburou.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx109346-oLR0U0sxcHTd.png",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 6,
+    "status": "FINISHED",
+    "score": 37,
+    "genres": [
+      "Adventure",
+      "Comedy"
+    ],
+    "updated_at": 1784687279
   },
   {
     "id": 109345,
@@ -20383,7 +20496,7 @@
       "Romance",
       "Supernatural"
     ],
-    "updated_at": 1784678679
+    "updated_at": 1784687279
   },
   {
     "id": 107313,
@@ -23658,7 +23771,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784642786
+    "updated_at": 1784687279
   },
   {
     "id": 103534,
@@ -28525,7 +28638,7 @@
       "Sci-Fi",
       "Slice of Life"
     ],
-    "updated_at": 1784656913
+    "updated_at": 1784687279
   },
   {
     "id": 101231,
@@ -29392,7 +29505,7 @@
       "Slice of Life",
       "Supernatural"
     ],
-    "updated_at": 1784600377
+    "updated_at": 1784687261
   },
   {
     "id": 100248,
@@ -29481,7 +29594,7 @@
       "Music",
       "Slice of Life"
     ],
-    "updated_at": 1784600433
+    "updated_at": 1784687279
   },
   {
     "id": 100130,
@@ -29855,7 +29968,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784671449
+    "updated_at": 1784687235
   },
   {
     "id": 99470,
@@ -30262,7 +30375,7 @@
       "Drama",
       "Sports"
     ],
-    "updated_at": 1784653321
+    "updated_at": 1784687278
   },
   {
     "id": 98876,
@@ -31386,7 +31499,7 @@
       "Horror",
       "Supernatural"
     ],
-    "updated_at": 1784648752
+    "updated_at": 1784687279
   },
   {
     "id": 97917,
@@ -31443,7 +31556,7 @@
       "Romance",
       "Supernatural"
     ],
-    "updated_at": 1784648767
+    "updated_at": 1784687279
   },
   {
     "id": 97880,
@@ -32252,7 +32365,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784492917
+    "updated_at": 1784687215
   },
   {
     "id": 21874,
@@ -32861,7 +32974,7 @@
       "Sci-Fi",
       "Supernatural"
     ],
-    "updated_at": 1784620907
+    "updated_at": 1784687242
   },
   {
     "id": 21683,
@@ -34548,7 +34661,7 @@
       "Psychological",
       "Sci-Fi"
     ],
-    "updated_at": 1784664204
+    "updated_at": 1784687239
   },
   {
     "id": 21042,
@@ -35336,7 +35449,7 @@
       "Comedy",
       "Sci-Fi"
     ],
-    "updated_at": 1784658510
+    "updated_at": 1784687261
   },
   {
     "id": 20768,
@@ -35866,7 +35979,7 @@
       "Mystery",
       "Psychological"
     ],
-    "updated_at": 1784656913
+    "updated_at": 1784687253
   },
   {
     "id": 20549,
@@ -37528,7 +37641,7 @@
       "Romance",
       "Sci-Fi"
     ],
-    "updated_at": 1784664204
+    "updated_at": 1784687279
   },
   {
     "id": 17673,
@@ -38858,7 +38971,7 @@
       "Sports",
       "Supernatural"
     ],
-    "updated_at": 1784674976
+    "updated_at": 1784687279
   },
   {
     "id": 15771,
@@ -39055,7 +39168,7 @@
       "Drama",
       "Slice of Life"
     ],
-    "updated_at": 1784671478
+    "updated_at": 1784687253
   },
   {
     "id": 15201,
@@ -39345,7 +39458,7 @@
       "Comedy",
       "Sci-Fi"
     ],
-    "updated_at": 1784635291
+    "updated_at": 1784687260
   },
   {
     "id": 14821,
@@ -40639,7 +40752,7 @@
       "Comedy",
       "Drama"
     ],
-    "updated_at": 1784674972
+    "updated_at": 1784687221
   },
   {
     "id": 12857,
@@ -42174,7 +42287,7 @@
       "Sports",
       "Supernatural"
     ],
-    "updated_at": 1784576608
+    "updated_at": 1784687279
   },
   {
     "id": 10918,
@@ -44222,7 +44335,7 @@
       "Music",
       "Slice of Life"
     ],
-    "updated_at": 1784653321
+    "updated_at": 1784687257
   },
   {
     "id": 9595,
@@ -45183,12 +45296,12 @@
     "episodes": 1,
     "duration": 65,
     "status": "FINISHED",
-    "score": 56,
+    "score": 55,
     "genres": [
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784462595
+    "updated_at": 1784687279
   },
   {
     "id": 8707,
@@ -46341,7 +46454,7 @@
       "Slice of Life",
       "Supernatural"
     ],
-    "updated_at": 1784635293
+    "updated_at": 1784687279
   },
   {
     "id": 8133,
@@ -48270,7 +48383,7 @@
     "genres": [
       "Supernatural"
     ],
-    "updated_at": 1784620910
+    "updated_at": 1784687279
   },
   {
     "id": 7169,
@@ -48972,7 +49085,7 @@
       "Fantasy",
       "Supernatural"
     ],
-    "updated_at": 1784667776
+    "updated_at": 1784687261
   },
   {
     "id": 6872,
@@ -49003,6 +49116,33 @@
       "Sci-Fi"
     ],
     "updated_at": 1784312200
+  },
+  {
+    "id": 6855,
+    "id_mal": 6855,
+    "url": "https://anilist.co/anime/6855",
+    "title": {
+      "english": "Uproar in Heaven",
+      "romaji": "Danao Tiangong",
+      "native": "大闹天宫"
+    },
+    "description": "Uproar in Heaven, also known as Havoc in Heaven, is a Chinese animated feature film directed by Wan Laiming and produced by all four of the Wan brothers. The film was created at the height of the Chinese animation industry in the 1960s, and received numerous awards. It earned the brothers domestic and international recognition.<br><br>\nThe story is based on the earliest chapters of the classic story Journey to the West. The main character is Sun Wukong, aka the Monkey King, who rebels against the Jade Emperor of heaven.<br><br>\nIt became one of the most influential films in all of Asia, animation or not. Countless cartoon adaptations that followed have reused the same classic story Journey to the West, yet many consider this 1964 iteration to be the most original, fitting and memorable.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx6855-1kBuuGUefbnD.jpg",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 114,
+    "status": "FINISHED",
+    "score": 58,
+    "genres": [
+      "Adventure"
+    ],
+    "updated_at": 1784687279
   },
   {
     "id": 6837,
@@ -49425,7 +49565,7 @@
       "Sci-Fi",
       "Thriller"
     ],
-    "updated_at": 1784408567
+    "updated_at": 1784687278
   },
   {
     "id": 6585,
@@ -51420,7 +51560,7 @@
       "Fantasy",
       "Horror"
     ],
-    "updated_at": 1784635298
+    "updated_at": 1784687253
   },
   {
     "id": 4970,
@@ -52320,7 +52460,7 @@
       "Mecha",
       "Sci-Fi"
     ],
-    "updated_at": 1784541708
+    "updated_at": 1784687240
   },
   {
     "id": 4306,
@@ -52669,7 +52809,7 @@
       "Romance",
       "Sci-Fi"
     ],
-    "updated_at": 1784671478
+    "updated_at": 1784687279
   },
   {
     "id": 4106,
@@ -52698,7 +52838,7 @@
       "Comedy",
       "Sci-Fi"
     ],
-    "updated_at": 1784656913
+    "updated_at": 1784687279
   },
   {
     "id": 4097,
@@ -53440,7 +53580,7 @@
       "Adventure",
       "Horror"
     ],
-    "updated_at": 1784656913
+    "updated_at": 1784687279
   },
   {
     "id": 3602,
@@ -53558,7 +53698,7 @@
       "Drama",
       "Romance"
     ],
-    "updated_at": 1783945915
+    "updated_at": 1784687279
   },
   {
     "id": 3473,
@@ -53891,7 +54031,7 @@
     "genres": [
       "Drama"
     ],
-    "updated_at": 1784329393
+    "updated_at": 1784687279
   },
   {
     "id": 3120,
@@ -54180,7 +54320,7 @@
       "Drama",
       "Sci-Fi"
     ],
-    "updated_at": 1784406300
+    "updated_at": 1784687244
   },
   {
     "id": 3015,
@@ -54237,7 +54377,7 @@
       "Action",
       "Sci-Fi"
     ],
-    "updated_at": 1784358109
+    "updated_at": 1784687245
   },
   {
     "id": 2981,
@@ -54323,7 +54463,7 @@
       "Fantasy",
       "Sci-Fi"
     ],
-    "updated_at": 1784520159
+    "updated_at": 1784687274
   },
   {
     "id": 2952,
@@ -56220,7 +56360,7 @@
       "Comedy",
       "Romance"
     ],
-    "updated_at": 1784674976
+    "updated_at": 1784687279
   },
   {
     "id": 2454,
@@ -56448,7 +56588,7 @@
       "Action",
       "Adventure"
     ],
-    "updated_at": 1784600432
+    "updated_at": 1784687279
   },
   {
     "id": 2408,
@@ -57114,7 +57254,7 @@
       "Drama",
       "Fantasy"
     ],
-    "updated_at": 1784489314
+    "updated_at": 1784687248
   },
   {
     "id": 2178,
@@ -57651,7 +57791,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784664204
+    "updated_at": 1784687222
   },
   {
     "id": 2100,
@@ -58317,7 +58457,7 @@
       "Sci-Fi",
       "Supernatural"
     ],
-    "updated_at": 1784635298
+    "updated_at": 1784687279
   },
   {
     "id": 1943,
@@ -59149,7 +59289,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784671461
+    "updated_at": 1784687279
   },
   {
     "id": 1689,
@@ -59208,7 +59348,7 @@
       "Drama",
       "Supernatural"
     ],
-    "updated_at": 1784613738
+    "updated_at": 1784687246
   },
   {
     "id": 1681,
@@ -59651,7 +59791,7 @@
       "Psychological",
       "Sci-Fi"
     ],
-    "updated_at": 1784671478
+    "updated_at": 1784687279
   },
   {
     "id": 1451,
@@ -60226,7 +60366,7 @@
       "Drama",
       "Sci-Fi"
     ],
-    "updated_at": 1784668333
+    "updated_at": 1784687277
   },
   {
     "id": 1358,
@@ -60976,7 +61116,7 @@
       "Romance",
       "Sci-Fi"
     ],
-    "updated_at": 1784668431
+    "updated_at": 1784687279
   },
   {
     "id": 1130,
@@ -61609,7 +61749,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784674976
+    "updated_at": 1784687261
   },
   {
     "id": 1032,
@@ -62054,7 +62194,7 @@
       "Adventure",
       "Sci-Fi"
     ],
-    "updated_at": 1784668563
+    "updated_at": 1784687279
   },
   {
     "id": 901,
@@ -63045,7 +63185,7 @@
       "Music",
       "Sci-Fi"
     ],
-    "updated_at": 1784668781
+    "updated_at": 1784687275
   },
   {
     "id": 723,
@@ -63222,7 +63362,7 @@
       "Drama",
       "Fantasy"
     ],
-    "updated_at": 1784668836
+    "updated_at": 1784687252
   },
   {
     "id": 585,
@@ -63310,7 +63450,7 @@
       "Fantasy",
       "Sci-Fi"
     ],
-    "updated_at": 1784671473
+    "updated_at": 1784687215
   },
   {
     "id": 570,
@@ -63614,7 +63754,7 @@
       "Romance",
       "Sci-Fi"
     ],
-    "updated_at": 1784656913
+    "updated_at": 1784687279
   },
   {
     "id": 520,
@@ -63939,7 +64079,7 @@
       "Psychological",
       "Sci-Fi"
     ],
-    "updated_at": 1784563304
+    "updated_at": 1784687229
   },
   {
     "id": 465,
@@ -64363,7 +64503,7 @@
       "Psychological",
       "Thriller"
     ],
-    "updated_at": 1784671383
+    "updated_at": 1784687241
   },
   {
     "id": 433,
@@ -64481,7 +64621,7 @@
       "Adventure",
       "Sci-Fi"
     ],
-    "updated_at": 1784581421
+    "updated_at": 1784687254
   },
   {
     "id": 418,
@@ -64628,7 +64768,7 @@
       "Romance",
       "Sci-Fi"
     ],
-    "updated_at": 1784520159
+    "updated_at": 1784687250
   },
   {
     "id": 378,
@@ -65166,7 +65306,7 @@
       "Sci-Fi",
       "Supernatural"
     ],
-    "updated_at": 1784549442
+    "updated_at": 1784687241
   },
   {
     "id": 46,
@@ -65314,6 +65454,6 @@
       "Mystery",
       "Sci-Fi"
     ],
-    "updated_at": 1784671473
+    "updated_at": 1784687279
   }
 ]
