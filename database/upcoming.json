@@ -223,7 +223,7 @@
       "Comedy",
       "Romance"
     ],
-    "updated_at": 1784761401
+    "updated_at": 1784779303
   },
   {
     "id": 214018,
@@ -1178,7 +1178,7 @@
       "Comedy",
       "Romance"
     ],
-    "updated_at": 1784739747
+    "updated_at": 1784779303
   },
   {
     "id": 213580,
@@ -2265,7 +2265,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784768483
+    "updated_at": 1784779303
   },
   {
     "id": 212391,
@@ -3074,7 +3074,7 @@
       "Mystery",
       "Supernatural"
     ],
-    "updated_at": 1784700176
+    "updated_at": 1784779303
   },
   {
     "id": 209980,
@@ -3470,7 +3470,7 @@
       "Action",
       "Sci-Fi"
     ],
-    "updated_at": 1784761401
+    "updated_at": 1784779303
   },
   {
     "id": 209463,
@@ -3499,7 +3499,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784754196
+    "updated_at": 1784779303
   },
   {
     "id": 209247,
@@ -3620,6 +3620,35 @@
       "Romance"
     ],
     "updated_at": 1784761401
+  },
+  {
+    "id": 209218,
+    "id_mal": 63559,
+    "url": "https://anilist.co/anime/209218",
+    "title": {
+      "english": "",
+      "romaji": "Bad End Mokuzen no Heroine ni Tensei Shita Watashi, Konse de wa Renai Suru Tsumori ga Cheat na Ani ga Hanashitekuremasen!?",
+      "native": "バッドエンド目前のヒロインに転生した私、今世では恋愛するつもりがチートな兄が離してくれません！？"
+    },
+    "description": "A dating sim enthusiast wakes up in the body of Reine Waynewright: an adorable otome heroine in a fantasy game! Reine discovers that in this world, she's a lowly F-rank student at the magical Heartfelt Academy, bullied by her classmates and snubbed by her love interests for her lack of talent. Determined to avoid a Bad Ending, Reine resolves to study hard, practice her magic, and pass the exams to increase her rank!\n<br><br>\nIf she grinds hard enough, she may be able to change her fate: make new friends, improve herself, and maybe even fall in love along the way!\n<br><br>\n(Source: TOKYOPOP)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx209218-aaq2X1YRjZ6T.jpg",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "",
+    "episodes": null,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Drama",
+      "Fantasy",
+      "Romance"
+    ],
+    "updated_at": 1784779303
   },
   {
     "id": 209132,
@@ -5006,7 +5035,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784768483
+    "updated_at": 1784779303
   },
   {
     "id": 204561,
@@ -5432,7 +5461,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784768483
+    "updated_at": 1784779303
   },
   {
     "id": 203141,
@@ -5629,7 +5658,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784761401
+    "updated_at": 1784779303
   },
   {
     "id": 202429,
@@ -5743,7 +5772,7 @@
       "Sci-Fi",
       "Supernatural"
     ],
-    "updated_at": 1784714503
+    "updated_at": 1784779303
   },
   {
     "id": 202251,
@@ -7769,7 +7798,7 @@
     "genres": [
       "Sports"
     ],
-    "updated_at": 1784754196
+    "updated_at": 1784779303
   },
   {
     "id": 191656,
@@ -7914,7 +7943,7 @@
       "Romance",
       "Sci-Fi"
     ],
-    "updated_at": 1784761401
+    "updated_at": 1784779303
   },
   {
     "id": 190054,
@@ -9023,7 +9052,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784768480
+    "updated_at": 1784779303
   },
   {
     "id": 184141,
@@ -10490,7 +10519,7 @@
       "Adventure",
       "Comedy"
     ],
-    "updated_at": 1784761401
+    "updated_at": 1784779303
   },
   {
     "id": 161410,
@@ -10577,7 +10606,7 @@
       "Mystery",
       "Sci-Fi"
     ],
-    "updated_at": 1784722338
+    "updated_at": 1784779303
   },
   {
     "id": 159042,

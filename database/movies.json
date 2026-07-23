@@ -4207,7 +4207,7 @@
       "Sci-Fi",
       "Supernatural"
     ],
-    "updated_at": 1784761401
+    "updated_at": 1784779303
   },
   {
     "id": 178436,
@@ -4850,7 +4850,7 @@
       "Comedy",
       "Slice of Life"
     ],
-    "updated_at": 1784664204
+    "updated_at": 1784779303
   },
   {
     "id": 173935,
@@ -5507,7 +5507,7 @@
       "Drama",
       "Sci-Fi"
     ],
-    "updated_at": 1784581421
+    "updated_at": 1784779303
   },
   {
     "id": 168833,
@@ -5646,7 +5646,7 @@
       "Comedy",
       "Slice of Life"
     ],
-    "updated_at": 1784664204
+    "updated_at": 1784779303
   },
   {
     "id": 166976,
@@ -6577,7 +6577,7 @@
       "Mystery",
       "Sci-Fi"
     ],
-    "updated_at": 1784722338
+    "updated_at": 1784779303
   },
   {
     "id": 159981,
@@ -7521,7 +7521,7 @@
       "Drama",
       "Romance"
     ],
-    "updated_at": 1784768483
+    "updated_at": 1784779303
   },
   {
     "id": 154064,
@@ -7924,7 +7924,7 @@
       "Psychological",
       "Supernatural"
     ],
-    "updated_at": 1784768483
+    "updated_at": 1784779303
   },
   {
     "id": 151089,
@@ -12029,7 +12029,7 @@
       "Drama",
       "Sports"
     ],
-    "updated_at": 1784757804
+    "updated_at": 1784779303
   },
   {
     "id": 133007,
@@ -12484,7 +12484,7 @@
       "Horror",
       "Supernatural"
     ],
-    "updated_at": 1784743431
+    "updated_at": 1784779303
   },
   {
     "id": 130561,
@@ -12569,7 +12569,7 @@
     "genres": [
       "Psychological"
     ],
-    "updated_at": 1784459574
+    "updated_at": 1784779303
   },
   {
     "id": 130369,
@@ -14970,7 +14970,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784386898
+    "updated_at": 1784779303
   },
   {
     "id": 119777,
@@ -16378,7 +16378,7 @@
       "Fantasy",
       "Supernatural"
     ],
-    "updated_at": 1784768483
+    "updated_at": 1784779303
   },
   {
     "id": 116740,
@@ -21443,7 +21443,7 @@
       "Action",
       "Sci-Fi"
     ],
-    "updated_at": 1784700176
+    "updated_at": 1784779303
   },
   {
     "id": 108487,
@@ -23034,7 +23034,7 @@
     "genres": [
       "Fantasy"
     ],
-    "updated_at": 1784466770
+    "updated_at": 1784779303
   },
   {
     "id": 105230,
@@ -25674,7 +25674,7 @@
     "genres": [
       "Psychological"
     ],
-    "updated_at": 1784467666
+    "updated_at": 1784779303
   },
   {
     "id": 103452,
@@ -25831,7 +25831,7 @@
     "status": "FINISHED",
     "score": 38,
     "genres": [],
-    "updated_at": 1784467668
+    "updated_at": 1784779303
   },
   {
     "id": 103433,
@@ -25859,6 +25859,33 @@
     "updated_at": 1784467668
   },
   {
+    "id": 103432,
+    "id_mal": 29906,
+    "url": "https://anilist.co/anime/103432",
+    "title": {
+      "english": "A Clerk in Charge",
+      "romaji": "Kakari",
+      "native": "係"
+    },
+    "description": "A clerk has his own duty. A clerk does his own work. This is what a clerk should do.\n<br><br>\n(Source: Official website)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/103432-9fECKcxtrEAR.jpg",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 6,
+    "status": "FINISHED",
+    "score": 39,
+    "genres": [
+      "Psychological"
+    ],
+    "updated_at": 1784779303
+  },
+  {
     "id": 103431,
     "id_mal": 29907,
     "url": "https://anilist.co/anime/103431",
@@ -25881,7 +25908,7 @@
     "status": "FINISHED",
     "score": 35,
     "genres": [],
-    "updated_at": 1783947543
+    "updated_at": 1784779303
   },
   {
     "id": 103430,
@@ -26973,7 +27000,7 @@
     "status": "FINISHED",
     "score": 32,
     "genres": [],
-    "updated_at": 1784467991
+    "updated_at": 1784779303
   },
   {
     "id": 102694,
@@ -27128,7 +27155,7 @@
     "status": "FINISHED",
     "score": 29,
     "genres": [],
-    "updated_at": 1784643362
+    "updated_at": 1784779303
   },
   {
     "id": 102684,
@@ -28051,7 +28078,7 @@
     "status": "FINISHED",
     "score": 35,
     "genres": [],
-    "updated_at": 1784468023
+    "updated_at": 1784779303
   },
   {
     "id": 102473,
@@ -30670,7 +30697,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784768483
+    "updated_at": 1784779303
   },
   {
     "id": 100653,
@@ -32928,7 +32955,7 @@
       "Mecha",
       "Sci-Fi"
     ],
-    "updated_at": 1784656913
+    "updated_at": 1784779303
   },
   {
     "id": 97981,
@@ -33451,6 +33478,33 @@
       "Drama"
     ],
     "updated_at": 1784649102
+  },
+  {
+    "id": 97595,
+    "id_mal": 23053,
+    "url": "https://anilist.co/anime/97595",
+    "title": {
+      "english": "Nisou no Kuzu",
+      "romaji": "Nisou no Kuzu",
+      "native": "二層の葛"
+    },
+    "description": "The dialogue in question takes place between a woman, who appears to be submerged in water, and a man who sits by a tree on sandy soil. The messages the couple sends back and forth to one another take the form of metaphor: a seed, a fish, a thorn, and so on.<br><br>\n(Source: Midnight Eye)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/97595-yagrJMsK7Orx.jpg",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 8,
+    "status": "FINISHED",
+    "score": 43,
+    "genres": [
+      "Psychological"
+    ],
+    "updated_at": 1784779303
   },
   {
     "id": 97594,
@@ -34306,7 +34360,7 @@
     "genres": [
       "Horror"
     ],
-    "updated_at": 1784477989
+    "updated_at": 1784779303
   },
   {
     "id": 21757,
@@ -35312,6 +35366,34 @@
     "updated_at": 1784664204
   },
   {
+    "id": 21323,
+    "id_mal": 29868,
+    "url": "https://anilist.co/anime/21323",
+    "title": {
+      "english": "",
+      "romaji": "Go! Princess Precure: Go! Go!! Gouka 3-bon Date!!!",
+      "native": "Go!プリンセスプリキュア　Go!Go!!豪華3本立て!!!"
+    },
+    "description": "Part 1, Pumpkin Oukoku no Takaramono, will feature the four Precure girls from Go! Princess Precure trying to rescue a princess who is held captive.<br>\n<br>\nPart 2, Precure to Refi no Wonder Night!, is set in the Night Kingdom lost its daytime, the Precure team fight to take the daytime back alongside the princess Refi.<br>\n<br>\nPart 3, Cure Flora to Itazura Kagami, will be a dialogue-less story featuring Cure Flora and a mischievous ghost in a mirror.<br>\n<br>\n(Source: Crunchyroll)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21323-CrUKk4Cg7d1V.jpg",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/21323-yISRgeoKOXEw.jpg",
+    "schedule": "Musim: FALL 2015",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "FALL",
+    "year": 2015,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 75,
+    "status": "FINISHED",
+    "score": 64,
+    "genres": [
+      "Fantasy",
+      "Mahou Shoujo"
+    ],
+    "updated_at": 1784779303
+  },
+  {
     "id": 21314,
     "id_mal": 31486,
     "url": "https://anilist.co/anime/21314",
@@ -35366,7 +35448,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784754196
+    "updated_at": 1784779303
   },
   {
     "id": 21295,
@@ -35536,7 +35618,7 @@
       "Adventure",
       "Sci-Fi"
     ],
-    "updated_at": 1784768483
+    "updated_at": 1784779303
   },
   {
     "id": 21248,
@@ -36927,7 +37009,7 @@
       "Fantasy",
       "Sci-Fi"
     ],
-    "updated_at": 1784757804
+    "updated_at": 1784779303
   },
   {
     "id": 20791,
@@ -37658,7 +37740,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784722386
+    "updated_at": 1784779303
   },
   {
     "id": 20515,
@@ -39089,6 +39171,34 @@
     "updated_at": 1784329393
   },
   {
+    "id": 17963,
+    "id_mal": 17963,
+    "url": "https://anilist.co/anime/17963",
+    "title": {
+      "english": "",
+      "romaji": "Tetsuwan Atom Tokubetsu-hen: Kagayakeru Hoshi - Anata wa Aoku, Utsukushii...",
+      "native": "Tetsuwan Atom 鉄腕アトム 特別編: 輝ける地球 ~あなたは青く、美しい...~"
+    },
+    "description": "Another Tetsuwan Atom Movie that was shown in the Tezuka Osamu World Cinema in Tokyo until it was closed in 2011.<br><br>\n(Source: AniDB)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/17963.jpg",
+    "banner_url": "",
+    "schedule": "Musim: WINTER 2004",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "WINTER",
+    "year": 2004,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 20,
+    "status": "FINISHED",
+    "score": 53,
+    "genres": [
+      "Mecha",
+      "Sci-Fi"
+    ],
+    "updated_at": 1784779303
+  },
+  {
     "id": 17961,
     "id_mal": 17961,
     "url": "https://anilist.co/anime/17961",
@@ -39143,7 +39253,7 @@
       "Mecha",
       "Sci-Fi"
     ],
-    "updated_at": 1784556649
+    "updated_at": 1784779303
   },
   {
     "id": 17947,
@@ -40894,7 +41004,7 @@
     "genres": [
       "Action"
     ],
-    "updated_at": 1784397948
+    "updated_at": 1784779303
   },
   {
     "id": 15393,
@@ -43586,7 +43696,7 @@
     "genres": [
       "Comedy"
     ],
-    "updated_at": 1784399005
+    "updated_at": 1784779303
   },
   {
     "id": 11755,
@@ -44325,6 +44435,33 @@
       "Drama"
     ],
     "updated_at": 1784628105
+  },
+  {
+    "id": 10756,
+    "id_mal": 10756,
+    "url": "https://anilist.co/anime/10756",
+    "title": {
+      "english": "",
+      "romaji": "Shitakiri Suzume",
+      "native": "舌切雀"
+    },
+    "description": "Tidak ada deskripsi.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b10756-UVNkjEfP42xp.png",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": null,
+    "status": "FINISHED",
+    "score": null,
+    "genres": [
+      "Drama"
+    ],
+    "updated_at": 1784779303
   },
   {
     "id": 10740,
@@ -45525,7 +45662,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784667776
+    "updated_at": 1784779303
   },
   {
     "id": 9990,
@@ -46397,7 +46534,7 @@
     "genres": [
       "Drama"
     ],
-    "updated_at": 1784386898
+    "updated_at": 1784779303
   },
   {
     "id": 9488,
@@ -46712,7 +46849,7 @@
       "Psychological",
       "Supernatural"
     ],
-    "updated_at": 1784757804
+    "updated_at": 1784779303
   },
   {
     "id": 9254,
@@ -47648,7 +47785,7 @@
       "Sci-Fi",
       "Sports"
     ],
-    "updated_at": 1784397736
+    "updated_at": 1784779303
   },
   {
     "id": 8487,
@@ -48611,7 +48748,7 @@
     "genres": [
       "Fantasy"
     ],
-    "updated_at": 1784502186
+    "updated_at": 1784779303
   },
   {
     "id": 7967,
@@ -49109,7 +49246,7 @@
     "genres": [
       "Slice of Life"
     ],
-    "updated_at": 1784390608
+    "updated_at": 1784779303
   },
   {
     "id": 7698,
@@ -49246,7 +49383,7 @@
     "genres": [
       "Drama"
     ],
-    "updated_at": 1784383565
+    "updated_at": 1784779303
   },
   {
     "id": 7667,
@@ -50815,7 +50952,7 @@
     "genres": [
       "Adventure"
     ],
-    "updated_at": 1784312171
+    "updated_at": 1784779303
   },
   {
     "id": 6965,
@@ -51291,6 +51428,35 @@
       "Drama"
     ],
     "updated_at": 1784556649
+  },
+  {
+    "id": 6695,
+    "id_mal": 6695,
+    "url": "https://anilist.co/anime/6695",
+    "title": {
+      "english": "Hammerboy",
+      "romaji": "Mangchi",
+      "native": "망치"
+    },
+    "description": "The story is about a boy named Mangchi. He is small, but he possesses a magical hammer that helps him get around all his problems.Mangchi lives on a small distant island called Candlestick because everywhere else has turned into a wasteland because of some big catastrophe. When Princess Poplar from the kingdom of Jemius is being pursued by henchmen of the conspirator Moonk, Hammerboy sides with her, ready to unleash all his latent powers in order to save humankind. <br><br>\nThe movie premiered at the Big Apple Anime Fest on August 30 2003, and went into wide release in South Korea on August 6, 2004. <br><br>\n(Source: Wikipedia)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6695.jpg",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 80,
+    "status": "FINISHED",
+    "score": 52,
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Fantasy"
+    ],
+    "updated_at": 1784779303
   },
   {
     "id": 6688,
@@ -52386,6 +52552,34 @@
     "updated_at": 1784748368
   },
   {
+    "id": 5943,
+    "id_mal": 5943,
+    "url": "https://anilist.co/anime/5943",
+    "title": {
+      "english": "The Aurora",
+      "romaji": "Umi no Aurora",
+      "native": "海のオーロラ"
+    },
+    "description": "Deep-sea archeologist Hiroshi Ibuki is the member of the digging team working at the bottom of the sea hoping to uncover the origins of Earth's existence but instead uncovers a mysterious colony of bacteria which gives off light similar to the Aurora Borealis. The ancient bacteria, once revived, attempt to make the world habitable for themselves &mdash;a process that would bring Earth back to its early primal form, killing all current life in the process. <br><br>\n(Source: AnimeNFO)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5943.jpg",
+    "banner_url": "",
+    "schedule": "Musim: SUMMER 2000",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "SUMMER",
+    "year": 2000,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 91,
+    "status": "FINISHED",
+    "score": 39,
+    "genres": [
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "updated_at": 1784779303
+  },
+  {
     "id": 5929,
     "id_mal": 5929,
     "url": "https://anilist.co/anime/5929",
@@ -53052,7 +53246,7 @@
       "Action",
       "Drama"
     ],
-    "updated_at": 1784397736
+    "updated_at": 1784779303
   },
   {
     "id": 5460,
@@ -53112,7 +53306,7 @@
       "Sci-Fi",
       "Supernatural"
     ],
-    "updated_at": 1784390608
+    "updated_at": 1784779303
   },
   {
     "id": 5415,
@@ -53595,6 +53789,35 @@
       "Supernatural"
     ],
     "updated_at": 1784748560
+  },
+  {
+    "id": 5157,
+    "id_mal": 5157,
+    "url": "https://anilist.co/anime/5157",
+    "title": {
+      "english": "Reign: The Conqueror Movie",
+      "romaji": "Alexander Senki Movie",
+      "native": "アレクサンダー戦記 劇場版"
+    },
+    "description": "Alexander Senki (&#12450;&#12524;&#12463;&#12469;&#12531;&#12480;&#12540;&#25126;&#35352; Arekusand&#257; Senki?), known in English as Reign: The Conqueror, is a Japanese anime first released in 1999. A re-imagination of the life of Alexander the Great based on the novel by Hiroshi Aramata, Alexander was intended to be a ground-breaking international production that drew on all the resources of the worldwide adult animation community. The design of characters and settings was given to Peter Chung, the Korean-American animator behind Aeon Flux; most of the production work was also handled by Korean animators.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5157.jpg",
+    "banner_url": "",
+    "schedule": "Musim: FALL 2000",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "FALL",
+    "year": 2000,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 100,
+    "status": "FINISHED",
+    "score": 57,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Mystery"
+    ],
+    "updated_at": 1784779303
   },
   {
     "id": 5136,
@@ -54135,7 +54358,7 @@
       "Adventure",
       "Drama"
     ],
-    "updated_at": 1784748987
+    "updated_at": 1784779303
   },
   {
     "id": 4835,
@@ -57100,7 +57323,7 @@
       "Drama",
       "Psychological"
     ],
-    "updated_at": 1784757804
+    "updated_at": 1784779303
   },
   {
     "id": 3087,
@@ -58749,7 +58972,7 @@
     "genres": [
       "Fantasy"
     ],
-    "updated_at": 1784390608
+    "updated_at": 1784779303
   },
   {
     "id": 2651,
@@ -58914,7 +59137,7 @@
     "genres": [
       "Fantasy"
     ],
-    "updated_at": 1784489170
+    "updated_at": 1784779303
   },
   {
     "id": 2626,
@@ -60580,7 +60803,7 @@
       "Adventure",
       "Drama"
     ],
-    "updated_at": 1784402777
+    "updated_at": 1784779303
   },
   {
     "id": 2133,
@@ -61893,7 +62116,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784642561
+    "updated_at": 1784779303
   },
   {
     "id": 1866,
@@ -62127,7 +62350,7 @@
       "Ecchi",
       "Sci-Fi"
     ],
-    "updated_at": 1784757804
+    "updated_at": 1784779303
   },
   {
     "id": 1793,
@@ -62160,7 +62383,7 @@
       "Psychological",
       "Sci-Fi"
     ],
-    "updated_at": 1784768483
+    "updated_at": 1784779303
   },
   {
     "id": 1777,
@@ -63127,7 +63350,7 @@
       "Mecha",
       "Sci-Fi"
     ],
-    "updated_at": 1784490169
+    "updated_at": 1784779303
   },
   {
     "id": 1379,
@@ -63297,7 +63520,7 @@
       "Adventure",
       "Mystery"
     ],
-    "updated_at": 1784768483
+    "updated_at": 1784779303
   },
   {
     "id": 1364,
@@ -63324,7 +63547,7 @@
     "genres": [
       "Mystery"
     ],
-    "updated_at": 1784751187
+    "updated_at": 1784779303
   },
   {
     "id": 1363,
@@ -63520,7 +63743,7 @@
       "Drama",
       "Sci-Fi"
     ],
-    "updated_at": 1784751214
+    "updated_at": 1784779303
   },
   {
     "id": 1301,
@@ -63578,7 +63801,7 @@
       "Mecha",
       "Sci-Fi"
     ],
-    "updated_at": 1784761401
+    "updated_at": 1784779303
   },
   {
     "id": 1287,
@@ -64792,7 +65015,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784761401
+    "updated_at": 1784779303
   },
   {
     "id": 1032,
@@ -64936,7 +65159,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784751318
+    "updated_at": 1784779303
   },
   {
     "id": 1010,
@@ -66674,7 +66897,7 @@
       "Romance",
       "Sci-Fi"
     ],
-    "updated_at": 1784751998
+    "updated_at": 1784779303
   },
   {
     "id": 544,
@@ -66765,7 +66988,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784752032
+    "updated_at": 1784779303
   },
   {
     "id": 531,
@@ -66827,7 +67050,7 @@
       "Fantasy",
       "Sci-Fi"
     ],
-    "updated_at": 1784768483
+    "updated_at": 1784779303
   },
   {
     "id": 523,
@@ -66887,7 +67110,7 @@
       "Romance",
       "Sci-Fi"
     ],
-    "updated_at": 1784761401
+    "updated_at": 1784779303
   },
   {
     "id": 520,
@@ -68134,7 +68357,7 @@
       "Romance",
       "Supernatural"
     ],
-    "updated_at": 1784752548
+    "updated_at": 1784779303
   },
   {
     "id": 219,
@@ -68435,7 +68658,7 @@
       "Mecha",
       "Sci-Fi"
     ],
-    "updated_at": 1784754196
+    "updated_at": 1784779303
   },
   {
     "id": 47,
