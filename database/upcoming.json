@@ -1,5 +1,33 @@
 [
   {
+    "id": 214368,
+    "id_mal": 64664,
+    "url": "https://anilist.co/anime/214368",
+    "title": {
+      "english": "",
+      "romaji": "Kusunoki-san wa Koukou Debut ni Shippaishiteiru",
+      "native": "楠木さんは高校デビューに失敗している"
+    },
+    "description": "Keisuke Shizuki and Shizuka Kusunoki are taking high school by storm with their good looks, but they share a dark secret: they were both total outcasts in middle school! While Shizuki has succeeded in making himself over inside and out, clearing the slate of his past life, Kusunoki is still struggling to develop social skills to match her new appearance. She’s eager for Shizuki’s help, if only he could get over his phobia of pretty girls…\n<br><br>\n(Source: Kodansha USA)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx214368-ZrbtKFz8hWXe.jpg",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "TV",
+    "episodes": null,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "updated_at": 1784817050
+  },
+  {
     "id": 214332,
     "id_mal": 64658,
     "url": "https://anilist.co/anime/214332",
@@ -195,7 +223,7 @@
       "Comedy",
       "Romance"
     ],
-    "updated_at": 1784808271
+    "updated_at": 1784815319
   },
   {
     "id": 214044,
@@ -362,7 +390,7 @@
     "genres": [
       "Slice of Life"
     ],
-    "updated_at": 1784268121
+    "updated_at": 1784815319
   },
   {
     "id": 213891,
@@ -1583,7 +1611,7 @@
       "Comedy",
       "Drama"
     ],
-    "updated_at": 1784790078
+    "updated_at": 1784815319
   },
   {
     "id": 213316,
@@ -1616,7 +1644,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784674976
+    "updated_at": 1784815319
   },
   {
     "id": 213298,
@@ -1811,7 +1839,7 @@
       "Drama",
       "Romance"
     ],
-    "updated_at": 1784768476
+    "updated_at": 1784815319
   },
   {
     "id": 213020,
@@ -2868,7 +2896,7 @@
       "Ecchi",
       "Fantasy"
     ],
-    "updated_at": 1784790078
+    "updated_at": 1784815319
   },
   {
     "id": 210482,
@@ -4078,7 +4106,7 @@
     "genres": [
       "Fantasy"
     ],
-    "updated_at": 1784707332
+    "updated_at": 1784815319
   },
   {
     "id": 206876,
@@ -5630,7 +5658,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784808276
+    "updated_at": 1784815319
   },
   {
     "id": 203141,
@@ -7650,7 +7678,7 @@
       "Comedy",
       "Supernatural"
     ],
-    "updated_at": 1784798318
+    "updated_at": 1784815319
   },
   {
     "id": 195210,
@@ -8258,7 +8286,7 @@
       "Romance",
       "Supernatural"
     ],
-    "updated_at": 1784798629
+    "updated_at": 1784815319
   },
   {
     "id": 189796,
@@ -11439,7 +11467,7 @@
       "Mystery",
       "Psychological"
     ],
-    "updated_at": 1784739747
+    "updated_at": 1784815319
   },
   {
     "id": 141922,
@@ -11554,7 +11582,7 @@
       "Fantasy",
       "Mahou Shoujo"
     ],
-    "updated_at": 1784687279
+    "updated_at": 1784815319
   },
   {
     "id": 137697,
