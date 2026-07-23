@@ -195,7 +195,7 @@
       "Adventure",
       "Sci-Fi"
     ],
-    "updated_at": 1784833309
+    "updated_at": 1784836946
   },
   {
     "id": 214049,
@@ -334,7 +334,7 @@
       "Drama",
       "Romance"
     ],
-    "updated_at": 1784808271
+    "updated_at": 1784836946
   },
   {
     "id": 213929,
@@ -839,7 +839,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784754196
+    "updated_at": 1784836946
   },
   {
     "id": 213752,
@@ -1496,7 +1496,7 @@
       "Supernatural",
       "Thriller"
     ],
-    "updated_at": 1784642561
+    "updated_at": 1784836946
   },
   {
     "id": 213363,
@@ -1839,7 +1839,7 @@
       "Drama",
       "Romance"
     ],
-    "updated_at": 1784833309
+    "updated_at": 1784836946
   },
   {
     "id": 213020,
@@ -1925,6 +1925,34 @@
       "Fantasy"
     ],
     "updated_at": 1784687279
+  },
+  {
+    "id": 212876,
+    "id_mal": 64341,
+    "url": "https://anilist.co/anime/212876",
+    "title": {
+      "english": "",
+      "romaji": "E, Shanai System Subete One Ope Shiteiru Watashi wo Kaiko desu ka?",
+      "native": "え、社内システム全てワンオペしている私を解雇ですか？"
+    },
+    "description": "Once the sole engineer maintaining the systems at her company, Ai Sato is laid off without warning one day. (Apparently, the new CEO doesn't approve of cosplaying at work... Rude!) Moping won't pay the bills, so Ai sets out to find a new job—only to bump into an old friend, Kenta Suzuki, who just so happens to need a business partner. Together, they'll run a coding school for people truly in need.<br><br>\n\nTheir first student is of course...a salaryman hoping to improve his relationship with his family? Each new recruit that follows seems to be struggling under modern expectations: from a harried woman determined to prove her worth at work, to a jobless hopeful who wants to fulfill his mother's dream, and more. If Ai wants to bring out their best, she'll need to teach them a lesson in not just coding skills but also how to build up their confidence!<br><br>\n\n(Source: J-Novel Club)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx212876-AVJJvQ5FR5GU.jpg",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "TV",
+    "episodes": null,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "updated_at": 1784836946
   },
   {
     "id": 212812,
@@ -2438,7 +2466,7 @@
       "Ecchi",
       "Romance"
     ],
-    "updated_at": 1784768483
+    "updated_at": 1784836946
   },
   {
     "id": 211778,
@@ -3132,7 +3160,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784829633
+    "updated_at": 1784836946
   },
   {
     "id": 209963,
@@ -3647,7 +3675,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784761401
+    "updated_at": 1784836946
   },
   {
     "id": 209218,
@@ -4166,7 +4194,7 @@
       "Supernatural",
       "Thriller"
     ],
-    "updated_at": 1784790078
+    "updated_at": 1784836946
   },
   {
     "id": 206814,
@@ -4194,7 +4222,7 @@
       "Action",
       "Adventure"
     ],
-    "updated_at": 1784687220
+    "updated_at": 1784836946
   },
   {
     "id": 206812,
@@ -4309,7 +4337,7 @@
       "Drama",
       "Slice of Life"
     ],
-    "updated_at": 1784833313
+    "updated_at": 1784836946
   },
   {
     "id": 206298,
@@ -5374,7 +5402,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784797779
+    "updated_at": 1784836946
   },
   {
     "id": 204363,
@@ -5600,7 +5628,7 @@
       "Mystery",
       "Supernatural"
     ],
-    "updated_at": 1784808264
+    "updated_at": 1784836938
   },
   {
     "id": 203448,
@@ -5714,7 +5742,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784797852
+    "updated_at": 1784836946
   },
   {
     "id": 203116,
@@ -5995,7 +6023,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784797899
+    "updated_at": 1784836946
   },
   {
     "id": 202253,
@@ -6377,7 +6405,7 @@
       "Drama",
       "Romance"
     ],
-    "updated_at": 1784808282
+    "updated_at": 1784836946
   },
   {
     "id": 199594,
@@ -6632,7 +6660,7 @@
       "Supernatural",
       "Thriller"
     ],
-    "updated_at": 1784833321
+    "updated_at": 1784836938
   },
   {
     "id": 199340,
@@ -6719,7 +6747,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784798076
+    "updated_at": 1784836946
   },
   {
     "id": 199185,
@@ -7095,7 +7123,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784798111
+    "updated_at": 1784836946
   },
   {
     "id": 198663,
@@ -7327,7 +7355,7 @@
       "Drama",
       "Slice of Life"
     ],
-    "updated_at": 1784798249
+    "updated_at": 1784836946
   },
   {
     "id": 196222,
@@ -7620,7 +7648,7 @@
       "Mystery",
       "Supernatural"
     ],
-    "updated_at": 1784798312
+    "updated_at": 1784836946
   },
   {
     "id": 195436,
@@ -8573,7 +8601,36 @@
       "Ecchi",
       "Fantasy"
     ],
-    "updated_at": 1784804496
+    "updated_at": 1784836946
+  },
+  {
+    "id": 187918,
+    "id_mal": 61199,
+    "url": "https://anilist.co/anime/187918",
+    "title": {
+      "english": "",
+      "romaji": "Houkago Kitaku Biyori",
+      "native": "放課後帰宅びより"
+    },
+    "description": "During his time in middle school, Shun was a well-known soccer player, but an injury sidelined him, making it impossible not only to play soccer but also to engage in any physical activity. Upon entering high school, he grew weary of continually turning down invitations to various clubs. Frustrated, he absentmindedly expressed his desire to just go home one day. <br><br> Hearing this, a girl named Naoki invited him to join the \"Hyper Go-Home Club\". They ended up gradually walking home together, and the romantic comedy unfolds. <br><br>\n(Source: Natalie, translated)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx187918-jRC3hM05RjUk.jpg",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "",
+    "episodes": null,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Comedy",
+      "Romance",
+      "Slice of Life"
+    ],
+    "updated_at": 1784836946
   },
   {
     "id": 187594,
@@ -9338,7 +9395,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784829630
+    "updated_at": 1784836946
   },
   {
     "id": 185515,
@@ -9628,7 +9685,7 @@
       "Drama",
       "Fantasy"
     ],
-    "updated_at": 1784799085
+    "updated_at": 1784836938
   },
   {
     "id": 182615,
@@ -9746,7 +9803,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784799199
+    "updated_at": 1784836936
   },
   {
     "id": 180894,
@@ -10006,7 +10063,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784833308
+    "updated_at": 1784836946
   },
   {
     "id": 178083,
@@ -10036,7 +10093,7 @@
       "Romance",
       "Supernatural"
     ],
-    "updated_at": 1784722394
+    "updated_at": 1784836946
   },
   {
     "id": 178031,
@@ -10606,7 +10663,7 @@
       "Action",
       "Sci-Fi"
     ],
-    "updated_at": 1784563296
+    "updated_at": 1784836946
   },
   {
     "id": 166457,
@@ -10634,7 +10691,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784833315
+    "updated_at": 1784836946
   },
   {
     "id": 165831,
@@ -11067,7 +11124,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784829642
+    "updated_at": 1784836946
   },
   {
     "id": 158987,
@@ -11126,7 +11183,7 @@
       "Mecha",
       "Sci-Fi"
     ],
-    "updated_at": 1784833316
+    "updated_at": 1784836946
   },
   {
     "id": 156631,
@@ -11755,7 +11812,7 @@
       "Action",
       "Comedy"
     ],
-    "updated_at": 1784584987
+    "updated_at": 1784836946
   },
   {
     "id": 133007,

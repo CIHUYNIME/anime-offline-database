@@ -75,7 +75,7 @@
     "status": "FINISHED",
     "score": null,
     "genres": [],
-    "updated_at": 1784833309
+    "updated_at": 1784836946
   },
   {
     "id": 214070,
@@ -160,7 +160,7 @@
       "Comedy",
       "Sci-Fi"
     ],
-    "updated_at": 1784833309
+    "updated_at": 1784836946
   },
   {
     "id": 214018,
@@ -1608,7 +1608,7 @@
       "Drama",
       "Supernatural"
     ],
-    "updated_at": 1784797801
+    "updated_at": 1784836946
   },
   {
     "id": 203100,
@@ -2552,7 +2552,7 @@
       "Music",
       "Slice of Life"
     ],
-    "updated_at": 1784798392
+    "updated_at": 1784836944
   },
   {
     "id": 194116,
@@ -2802,7 +2802,7 @@
       "Drama",
       "Supernatural"
     ],
-    "updated_at": 1784798471
+    "updated_at": 1784836946
   },
   {
     "id": 192002,
@@ -3085,7 +3085,7 @@
       "Music",
       "Slice of Life"
     ],
-    "updated_at": 1784798753
+    "updated_at": 1784836946
   },
   {
     "id": 188034,
@@ -4812,7 +4812,7 @@
       "Action",
       "Sci-Fi"
     ],
-    "updated_at": 1784799310
+    "updated_at": 1784836946
   },
   {
     "id": 179878,
@@ -5394,7 +5394,7 @@
       "Action",
       "Sci-Fi"
     ],
-    "updated_at": 1784757803
+    "updated_at": 1784836946
   },
   {
     "id": 177687,
@@ -5784,7 +5784,7 @@
       "Slice of Life",
       "Sports"
     ],
-    "updated_at": 1784728929
+    "updated_at": 1784836946
   },
   {
     "id": 176245,
@@ -6038,7 +6038,7 @@
       "Comedy",
       "Slice of Life"
     ],
-    "updated_at": 1784779303
+    "updated_at": 1784836938
   },
   {
     "id": 173935,
@@ -6974,7 +6974,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784833315
+    "updated_at": 1784836946
   },
   {
     "id": 166056,
@@ -7138,7 +7138,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784790078
+    "updated_at": 1784836946
   },
   {
     "id": 164194,
@@ -8295,7 +8295,7 @@
       "Mecha",
       "Sci-Fi"
     ],
-    "updated_at": 1784833316
+    "updated_at": 1784836946
   },
   {
     "id": 157176,
@@ -9112,7 +9112,7 @@
       "Psychological",
       "Supernatural"
     ],
-    "updated_at": 1784790069
+    "updated_at": 1784836946
   },
   {
     "id": 151089,
@@ -9768,7 +9768,7 @@
       "Adventure",
       "Supernatural"
     ],
-    "updated_at": 1784833315
+    "updated_at": 1784836946
   },
   {
     "id": 148077,
@@ -11276,7 +11276,7 @@
       "Fantasy",
       "Music"
     ],
-    "updated_at": 1784757804
+    "updated_at": 1784836946
   },
   {
     "id": 141167,
@@ -13130,7 +13130,7 @@
       "Action",
       "Comedy"
     ],
-    "updated_at": 1784584987
+    "updated_at": 1784836946
   },
   {
     "id": 133898,
@@ -13475,7 +13475,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784808244
+    "updated_at": 1784836946
   },
   {
     "id": 131642,
@@ -14942,7 +14942,7 @@
       "Action",
       "Sports"
     ],
-    "updated_at": 1784448130
+    "updated_at": 1784836946
   },
   {
     "id": 123899,
@@ -17362,13 +17362,13 @@
     "episodes": 1,
     "duration": 60,
     "status": "FINISHED",
-    "score": 78,
+    "score": 79,
     "genres": [
       "Fantasy",
       "Sci-Fi",
       "Slice of Life"
     ],
-    "updated_at": 1784588534
+    "updated_at": 1784836946
   },
   {
     "id": 117403,
@@ -17424,7 +17424,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784808285
+    "updated_at": 1784836946
   },
   {
     "id": 117009,
@@ -19511,7 +19511,7 @@
       "Mecha",
       "Sci-Fi"
     ],
-    "updated_at": 1784804821
+    "updated_at": 1784836946
   },
   {
     "id": 113945,
@@ -20578,7 +20578,7 @@
     "genres": [
       "Romance"
     ],
-    "updated_at": 1784815319
+    "updated_at": 1784836946
   },
   {
     "id": 112792,
@@ -20944,7 +20944,7 @@
       "Drama",
       "Slice of Life"
     ],
-    "updated_at": 1784815319
+    "updated_at": 1784836946
   },
   {
     "id": 112030,
@@ -23669,7 +23669,7 @@
       "Slice of Life",
       "Supernatural"
     ],
-    "updated_at": 1784805842
+    "updated_at": 1784836946
   },
   {
     "id": 108553,
@@ -24148,7 +24148,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784806057
+    "updated_at": 1784836946
   },
   {
     "id": 107623,
@@ -28704,7 +28704,7 @@
       "Action",
       "Fantasy"
     ],
-    "updated_at": 1784768483
+    "updated_at": 1784836946
   },
   {
     "id": 103221,
@@ -28844,7 +28844,7 @@
       "Fantasy",
       "Slice of Life"
     ],
-    "updated_at": 1784722327
+    "updated_at": 1784836946
   },
   {
     "id": 102986,
@@ -32777,7 +32777,7 @@
       "Music",
       "Slice of Life"
     ],
-    "updated_at": 1784707332
+    "updated_at": 1784836946
   },
   {
     "id": 100931,
@@ -34222,7 +34222,7 @@
       "Drama",
       "Sports"
     ],
-    "updated_at": 1784790078
+    "updated_at": 1784836946
   },
   {
     "id": 98884,
@@ -35292,7 +35292,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784808679
+    "updated_at": 1784836936
   },
   {
     "id": 97978,
@@ -36877,7 +36877,7 @@
       "Sci-Fi",
       "Supernatural"
     ],
-    "updated_at": 1784829616
+    "updated_at": 1784836946
   },
   {
     "id": 21683,
@@ -37107,7 +37107,7 @@
       "Fantasy",
       "Sci-Fi"
     ],
-    "updated_at": 1784761401
+    "updated_at": 1784836946
   },
   {
     "id": 21554,
@@ -38250,7 +38250,7 @@
       "Sci-Fi",
       "Supernatural"
     ],
-    "updated_at": 1784815542
+    "updated_at": 1784836937
   },
   {
     "id": 21137,
@@ -38477,7 +38477,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784815609
+    "updated_at": 1784836946
   },
   {
     "id": 21095,
@@ -38949,7 +38949,7 @@
       "Slice of Life",
       "Supernatural"
     ],
-    "updated_at": 1784816206
+    "updated_at": 1784836938
   },
   {
     "id": 20954,
@@ -39375,7 +39375,7 @@
       "Psychological",
       "Supernatural"
     ],
-    "updated_at": 1784829629
+    "updated_at": 1784836946
   },
   {
     "id": 20786,
@@ -39465,7 +39465,7 @@
       "Slice of Life",
       "Supernatural"
     ],
-    "updated_at": 1784817294
+    "updated_at": 1784836946
   },
   {
     "id": 20766,
@@ -39493,7 +39493,7 @@
       "Music",
       "Slice of Life"
     ],
-    "updated_at": 1784817301
+    "updated_at": 1784836946
   },
   {
     "id": 20764,
@@ -42295,7 +42295,7 @@
       "Action",
       "Supernatural"
     ],
-    "updated_at": 1784757804
+    "updated_at": 1784836946
   },
   {
     "id": 16870,
@@ -43508,7 +43508,7 @@
       "Drama",
       "Slice of Life"
     ],
-    "updated_at": 1784808291
+    "updated_at": 1784836946
   },
   {
     "id": 15201,
@@ -43881,7 +43881,7 @@
       "Mystery",
       "Supernatural"
     ],
-    "updated_at": 1784744234
+    "updated_at": 1784836946
   },
   {
     "id": 14735,
@@ -44140,7 +44140,7 @@
       "Romance",
       "Sci-Fi"
     ],
-    "updated_at": 1784808287
+    "updated_at": 1784836944
   },
   {
     "id": 14267,
@@ -44588,7 +44588,7 @@
       "Mecha",
       "Sci-Fi"
     ],
-    "updated_at": 1784808291
+    "updated_at": 1784836946
   },
   {
     "id": 13365,
@@ -45695,7 +45695,7 @@
       "Comedy",
       "Mystery"
     ],
-    "updated_at": 1784728932
+    "updated_at": 1784836946
   },
   {
     "id": 12115,
@@ -45759,7 +45759,7 @@
       "Horror",
       "Supernatural"
     ],
-    "updated_at": 1784761401
+    "updated_at": 1784836946
   },
   {
     "id": 12053,
@@ -47680,7 +47680,7 @@
       "Sci-Fi",
       "Supernatural"
     ],
-    "updated_at": 1784739747
+    "updated_at": 1784836946
   },
   {
     "id": 10261,
@@ -48757,7 +48757,7 @@
       "Music",
       "Slice of Life"
     ],
-    "updated_at": 1784732535
+    "updated_at": 1784836946
   },
   {
     "id": 9595,
@@ -50580,7 +50580,7 @@
       "Mecha",
       "Sci-Fi"
     ],
-    "updated_at": 1784700176
+    "updated_at": 1784836946
   },
   {
     "id": 8247,
@@ -54725,7 +54725,7 @@
       "Mecha",
       "Sci-Fi"
     ],
-    "updated_at": 1784824110
+    "updated_at": 1784836946
   },
   {
     "id": 6281,
@@ -55686,7 +55686,7 @@
       "Romance",
       "Sci-Fi"
     ],
-    "updated_at": 1784824334
+    "updated_at": 1784836946
   },
   {
     "id": 5673,
@@ -56418,7 +56418,7 @@
       "Supernatural",
       "Thriller"
     ],
-    "updated_at": 1784824473
+    "updated_at": 1784836946
   },
   {
     "id": 5204,
@@ -56449,7 +56449,7 @@
       "Supernatural",
       "Thriller"
     ],
-    "updated_at": 1784824474
+    "updated_at": 1784836946
   },
   {
     "id": 5178,
@@ -58852,7 +58852,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784824757
+    "updated_at": 1784836946
   },
   {
     "id": 3847,
@@ -59085,7 +59085,7 @@
       "Supernatural",
       "Thriller"
     ],
-    "updated_at": 1784824793
+    "updated_at": 1784836946
   },
   {
     "id": 3782,
@@ -59504,7 +59504,7 @@
       "Adventure",
       "Horror"
     ],
-    "updated_at": 1784824822
+    "updated_at": 1784836935
   },
   {
     "id": 3602,
@@ -59733,7 +59733,7 @@
       "Adventure",
       "Mecha"
     ],
-    "updated_at": 1784749536
+    "updated_at": 1784836946
   },
   {
     "id": 3475,
@@ -64696,7 +64696,7 @@
       "Fantasy",
       "Mahou Shoujo"
     ],
-    "updated_at": 1784833315
+    "updated_at": 1784836946
   },
   {
     "id": 1925,
@@ -64877,7 +64877,7 @@
       "Romance",
       "Sci-Fi"
     ],
-    "updated_at": 1784757804
+    "updated_at": 1784836946
   },
   {
     "id": 1911,
@@ -65939,7 +65939,7 @@
       "Psychological",
       "Sci-Fi"
     ],
-    "updated_at": 1784751160
+    "updated_at": 1784836946
   },
   {
     "id": 1451,
@@ -68013,7 +68013,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784815319
+    "updated_at": 1784836946
   },
   {
     "id": 1028,
@@ -68342,7 +68342,7 @@
       "Adventure",
       "Sci-Fi"
     ],
-    "updated_at": 1784790078
+    "updated_at": 1784836946
   },
   {
     "id": 902,
@@ -68663,7 +68663,7 @@
       "Comedy",
       "Sci-Fi"
     ],
-    "updated_at": 1784761401
+    "updated_at": 1784836946
   },
   {
     "id": 891,
@@ -69992,7 +69992,7 @@
       "Romance",
       "Sci-Fi"
     ],
-    "updated_at": 1784790078
+    "updated_at": 1784836946
   },
   {
     "id": 520,
@@ -70523,7 +70523,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784752341
+    "updated_at": 1784836946
   },
   {
     "id": 459,
@@ -71717,7 +71717,7 @@
       "Psychological",
       "Sci-Fi"
     ],
-    "updated_at": 1784833321
+    "updated_at": 1784836944
   },
   {
     "id": 5,
