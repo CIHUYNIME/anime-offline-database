@@ -25,7 +25,7 @@
       "Comedy",
       "Romance"
     ],
-    "updated_at": 1784817050
+    "updated_at": 1784829615
   },
   {
     "id": 214332,
@@ -664,7 +664,7 @@
     "status": "NOT_YET_RELEASED",
     "score": null,
     "genres": [],
-    "updated_at": 1784790068
+    "updated_at": 1784829657
   },
   {
     "id": 213845,
@@ -810,7 +810,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784808281
+    "updated_at": 1784829657
   },
   {
     "id": 213782,
@@ -1064,7 +1064,7 @@
       "Comedy",
       "Romance"
     ],
-    "updated_at": 1784674967
+    "updated_at": 1784829615
   },
   {
     "id": 213656,
@@ -1094,7 +1094,7 @@
       "Drama",
       "Fantasy"
     ],
-    "updated_at": 1784722375
+    "updated_at": 1784829606
   },
   {
     "id": 213655,
@@ -1526,7 +1526,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784768483
+    "updated_at": 1784829647
   },
   {
     "id": 213362,
@@ -3132,7 +3132,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784732535
+    "updated_at": 1784829633
   },
   {
     "id": 209963,
@@ -3219,7 +3219,7 @@
       "Drama",
       "Supernatural"
     ],
-    "updated_at": 1784592449
+    "updated_at": 1784829618
   },
   {
     "id": 209876,
@@ -3305,7 +3305,7 @@
       "Psychological",
       "Supernatural"
     ],
-    "updated_at": 1784722365
+    "updated_at": 1784829616
   },
   {
     "id": 209762,
@@ -7010,7 +7010,7 @@
       "Comedy",
       "Romance"
     ],
-    "updated_at": 1784798109
+    "updated_at": 1784829642
   },
   {
     "id": 198705,
@@ -7267,7 +7267,7 @@
       "Drama",
       "Fantasy"
     ],
-    "updated_at": 1784808276
+    "updated_at": 1784829659
   },
   {
     "id": 197022,
@@ -7444,7 +7444,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784798298
+    "updated_at": 1784829618
   },
   {
     "id": 195571,
@@ -7502,7 +7502,7 @@
       "Drama",
       "Sci-Fi"
     ],
-    "updated_at": 1784798304
+    "updated_at": 1784829643
   },
   {
     "id": 195516,
@@ -7530,7 +7530,7 @@
       "Drama",
       "Mystery"
     ],
-    "updated_at": 1784798307
+    "updated_at": 1784829645
   },
   {
     "id": 195496,
@@ -9170,7 +9170,7 @@
       "Adventure",
       "Supernatural"
     ],
-    "updated_at": 1784798903
+    "updated_at": 1784829644
   },
   {
     "id": 185756,
@@ -9198,7 +9198,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784798913
+    "updated_at": 1784829655
   },
   {
     "id": 185699,
@@ -9310,7 +9310,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784798935
+    "updated_at": 1784829630
   },
   {
     "id": 185515,
@@ -9340,7 +9340,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784798938
+    "updated_at": 1784829650
   },
   {
     "id": 185260,
@@ -11039,7 +11039,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784790078
+    "updated_at": 1784829642
   },
   {
     "id": 158987,
@@ -12751,6 +12751,36 @@
     "score": null,
     "genres": [],
     "updated_at": 1784790078
+  },
+  {
+    "id": 7242,
+    "id_mal": 7242,
+    "url": "https://anilist.co/anime/7242",
+    "title": {
+      "english": "",
+      "romaji": "Sengoku Gyoujin Dullahan: Kagen no Keishousha",
+      "native": "戦国驍刃デュラハン"
+    },
+    "description": "This story re-imagines Japan's violent Sengoku Era - instead of traditional samurai armor, legendary figures like Date Masamune fight wearing Gishin powered suits.<br><br>\nMasamune's armor is called Oryu; however, the robot is too strong for the young Masamune to control, which leads to the death of many people. Fearing the power of Oryu, the other daimyo form an alliance against Masamune in order to destroy it.\n<br><br>\n(Source: Anime News Network)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/7242.jpg",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "TV",
+    "episodes": null,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Mecha"
+    ],
+    "updated_at": 1784829657
   },
   {
     "id": 6504,
