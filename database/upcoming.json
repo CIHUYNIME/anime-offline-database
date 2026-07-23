@@ -524,7 +524,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784840548
+    "updated_at": 1784847750
   },
   {
     "id": 213872,
@@ -639,7 +639,7 @@
       "Adventure",
       "Sci-Fi"
     ],
-    "updated_at": 1784840550
+    "updated_at": 1784847750
   },
   {
     "id": 213846,
@@ -1611,7 +1611,7 @@
       "Comedy",
       "Drama"
     ],
-    "updated_at": 1784840547
+    "updated_at": 1784847750
   },
   {
     "id": 213316,
@@ -1644,7 +1644,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784844165
+    "updated_at": 1784847750
   },
   {
     "id": 213298,
@@ -1839,7 +1839,7 @@
       "Drama",
       "Romance"
     ],
-    "updated_at": 1784836946
+    "updated_at": 1784847750
   },
   {
     "id": 213020,
@@ -2235,7 +2235,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784383565
+    "updated_at": 1784847750
   },
   {
     "id": 212539,
@@ -2276,7 +2276,7 @@
       "native": "月華国奇医伝"
     },
     "description": "A beautifully illustrated shoujo manga tale of medicine, royal intrigue, and romance in a setting inspired by historical China!<br><br>\n\nWhether it be for illness or injury, the preferred healing method in Moon Flower Kingdom has always been the country’s special medicinal baths. However, after his party is attacked by a mysterious figure during a regional inspection, Prince Keiun witnesses a never-before-seen lifesaving medical technique. Even more shocking still, the one who performed this feat is a young girl named Koyo! And while luck may have been on their side this time, questions remain. Just who is this girl, and who is after the prince’s life?<br><br>\n\n(Source: Seven Seas Entertainment)",
-    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx212507-5nbraiGAp1Km.jpg",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b212507-STOId00vp45t.jpg",
     "banner_url": "",
     "schedule": "Jadwal belum diketahui",
     "next_episode": null,
@@ -2292,7 +2292,7 @@
       "Drama",
       "Romance"
     ],
-    "updated_at": 1784761401
+    "updated_at": 1784847750
   },
   {
     "id": 212503,
@@ -2322,6 +2322,34 @@
       "Fantasy"
     ],
     "updated_at": 1784840543
+  },
+  {
+    "id": 212456,
+    "id_mal": 64235,
+    "url": "https://anilist.co/anime/212456",
+    "title": {
+      "english": "",
+      "romaji": "Omae, Tanuki ni Naranee ka?",
+      "native": "お前、タヌキにならねーか？"
+    },
+    "description": "A story of being scouted by a raccoon dog when trying to die.<br><br>(Source: Pixiv, translated)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx212456-XmfocXAf0G0I.jpg",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/212456-ZainbEftuRqY.jpg",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "TV",
+    "episodes": null,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Drama",
+      "Supernatural"
+    ],
+    "updated_at": 1784847750
   },
   {
     "id": 212391,
@@ -2495,7 +2523,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784833321
+    "updated_at": 1784847750
   },
   {
     "id": 211711,
@@ -2669,7 +2697,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784833321
+    "updated_at": 1784847750
   },
   {
     "id": 211338,
@@ -2754,7 +2782,7 @@
       "Drama",
       "Romance"
     ],
-    "updated_at": 1784739747
+    "updated_at": 1784847750
   },
   {
     "id": 211258,
@@ -3555,7 +3583,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784833312
+    "updated_at": 1784847750
   },
   {
     "id": 209247,
@@ -3704,7 +3732,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784779303
+    "updated_at": 1784847750
   },
   {
     "id": 209132,
@@ -3816,7 +3844,7 @@
     "genres": [
       "Slice of Life"
     ],
-    "updated_at": 1784563304
+    "updated_at": 1784847750
   },
   {
     "id": 208609,
@@ -3902,7 +3930,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784840539
+    "updated_at": 1784847750
   },
   {
     "id": 207782,
@@ -3960,7 +3988,7 @@
       "Romance",
       "Supernatural"
     ],
-    "updated_at": 1784732535
+    "updated_at": 1784847750
   },
   {
     "id": 207385,
@@ -4250,7 +4278,7 @@
       "Action",
       "Adventure"
     ],
-    "updated_at": 1784836946
+    "updated_at": 1784847750
   },
   {
     "id": 206812,
@@ -4278,7 +4306,7 @@
       "Action",
       "Adventure"
     ],
-    "updated_at": 1784840550
+    "updated_at": 1784847750
   },
   {
     "id": 206798,
@@ -4365,7 +4393,7 @@
       "Drama",
       "Slice of Life"
     ],
-    "updated_at": 1784844166
+    "updated_at": 1784847750
   },
   {
     "id": 206298,
@@ -5052,7 +5080,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784804496
+    "updated_at": 1784847750
   },
   {
     "id": 205068,
@@ -5458,7 +5486,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784836946
+    "updated_at": 1784847750
   },
   {
     "id": 204363,
@@ -5486,7 +5514,7 @@
       "Action",
       "Comedy"
     ],
-    "updated_at": 1784833316
+    "updated_at": 1784847750
   },
   {
     "id": 204362,
@@ -5742,7 +5770,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784840550
+    "updated_at": 1784847750
   },
   {
     "id": 203141,
@@ -6113,6 +6141,34 @@
     "updated_at": 1784779303
   },
   {
+    "id": 202252,
+    "id_mal": null,
+    "url": "https://anilist.co/anime/202252",
+    "title": {
+      "english": "",
+      "romaji": "Kyoukai no Melody",
+      "native": "境界のメロディ"
+    },
+    "description": "Kyousuke, who lost his partner Kai in an accident just before their major debut, has distanced himself from music and lived listlessly. But three years after the accident, Kai suddenly appeared before Kyousuke.<br><br>\n\n<i>\"Even if you're alive, if you just stop and do nothing, it's the same as being dead, right?\" </i> \n\n<br><br>His blunt, unfiltered way of speaking was unchanged from before his death. And his forcefulness made Kyousuke smile against his will. Persuaded by Kai, Kyousuke confronts the world of music once more and rediscovers the joy of creating sound together.\n<br><br>\nBut the happy times with Kai wouldn't last forever...<br><br>\n(Source: Crunchyroll News, edited)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx202252-wtAAAsj1PTQt.jpg",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "TV",
+    "episodes": null,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Drama",
+      "Music"
+    ],
+    "updated_at": 1784847750
+  },
+  {
     "id": 202251,
     "id_mal": 62924,
     "url": "https://anilist.co/anime/202251",
@@ -6168,7 +6224,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784797901
+    "updated_at": 1784847750
   },
   {
     "id": 202079,
@@ -6196,7 +6252,7 @@
       "Comedy",
       "Slice of Life"
     ],
-    "updated_at": 1784797911
+    "updated_at": 1784847750
   },
   {
     "id": 201388,
@@ -7351,7 +7407,7 @@
       "Drama",
       "Fantasy"
     ],
-    "updated_at": 1784829659
+    "updated_at": 1784847750
   },
   {
     "id": 197022,
@@ -7762,7 +7818,7 @@
       "Comedy",
       "Supernatural"
     ],
-    "updated_at": 1784833321
+    "updated_at": 1784847750
   },
   {
     "id": 195210,
@@ -8341,7 +8397,7 @@
       "Romance",
       "Sci-Fi"
     ],
-    "updated_at": 1784804496
+    "updated_at": 1784847750
   },
   {
     "id": 190054,
@@ -9172,7 +9228,7 @@
       "Romance",
       "Sci-Fi"
     ],
-    "updated_at": 1784840550
+    "updated_at": 1784847745
   },
   {
     "id": 186336,
@@ -9538,7 +9594,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784799010
+    "updated_at": 1784847750
   },
   {
     "id": 184321,
@@ -10832,7 +10888,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784628131
+    "updated_at": 1784847750
   },
   {
     "id": 164194,
@@ -11323,7 +11379,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784715400
+    "updated_at": 1784847750
   },
   {
     "id": 154122,
@@ -11382,7 +11438,7 @@
       "Drama",
       "Sports"
     ],
-    "updated_at": 1784833321
+    "updated_at": 1784847750
   },
   {
     "id": 153498,
@@ -11723,7 +11779,7 @@
       "Fantasy",
       "Mahou Shoujo"
     ],
-    "updated_at": 1784840550
+    "updated_at": 1784847750
   },
   {
     "id": 137697,
