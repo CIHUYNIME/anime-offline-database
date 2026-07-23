@@ -52272,7 +52272,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784312096
+    "updated_at": 1784823281
   },
   {
     "id": 7435,
@@ -52301,7 +52301,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784312096
+    "updated_at": 1784823282
   },
   {
     "id": 7366,
@@ -52386,7 +52386,7 @@
     "genres": [
       "Comedy"
     ],
-    "updated_at": 1784494946
+    "updated_at": 1784823294
   },
   {
     "id": 7336,
@@ -52443,7 +52443,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784312104
+    "updated_at": 1784823295
   },
   {
     "id": 7329,
@@ -52472,7 +52472,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784312104
+    "updated_at": 1784823295
   },
   {
     "id": 7314,
@@ -52530,7 +52530,7 @@
       "Sci-Fi",
       "Supernatural"
     ],
-    "updated_at": 1784790078
+    "updated_at": 1784823342
   },
   {
     "id": 7308,
@@ -52639,11 +52639,11 @@
     "episodes": 1,
     "duration": 27,
     "status": "FINISHED",
-    "score": 56,
+    "score": 57,
     "genres": [
       "Drama"
     ],
-    "updated_at": 1784325887
+    "updated_at": 1784823344
   },
   {
     "id": 7259,
@@ -52698,7 +52698,7 @@
       "Fantasy",
       "Psychological"
     ],
-    "updated_at": 1784312119
+    "updated_at": 1784823346
   },
   {
     "id": 7257,
@@ -52754,7 +52754,7 @@
     "genres": [
       "Comedy"
     ],
-    "updated_at": 1784312119
+    "updated_at": 1784823347
   },
   {
     "id": 7252,
@@ -52814,7 +52814,7 @@
       "Romance",
       "Sci-Fi"
     ],
-    "updated_at": 1784642561
+    "updated_at": 1784823348
   },
   {
     "id": 7171,
@@ -52896,7 +52896,7 @@
       "Drama",
       "Supernatural"
     ],
-    "updated_at": 1784312125
+    "updated_at": 1784823367
   },
   {
     "id": 7158,
@@ -52982,7 +52982,7 @@
       "Drama",
       "Sci-Fi"
     ],
-    "updated_at": 1784312129
+    "updated_at": 1784823370
   },
   {
     "id": 7135,
@@ -53010,7 +53010,7 @@
       "Adventure",
       "Supernatural"
     ],
-    "updated_at": 1784312130
+    "updated_at": 1784823371
   },
   {
     "id": 7045,
@@ -53039,7 +53039,35 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784570509
+    "updated_at": 1784823403
+  },
+  {
+    "id": 7031,
+    "id_mal": 7031,
+    "url": "https://anilist.co/anime/7031",
+    "title": {
+      "english": "Au Fou!",
+      "romaji": "Satsujinkyou Jidai",
+      "native": "殺人狂時代"
+    },
+    "description": "Short experimental animation film from 1966 from pioneer Kuri Yoji. <br><br>\nTwo versions exist. The original monochrome version that is 13 min. And the edited international colour version that is 9 min.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b7031-WAzAHAJ2YGSC.jpg",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 13,
+    "status": "FINISHED",
+    "score": 42,
+    "genres": [
+      "Comedy",
+      "Fantasy"
+    ],
+    "updated_at": 1784823407
   },
   {
     "id": 7030,
@@ -53201,7 +53229,34 @@
     "genres": [
       "Comedy"
     ],
-    "updated_at": 1784790078
+    "updated_at": 1784823412
+  },
+  {
+    "id": 7020,
+    "id_mal": 7020,
+    "url": "https://anilist.co/anime/7020",
+    "title": {
+      "english": "",
+      "romaji": "Fashion",
+      "native": "ファッション"
+    },
+    "description": "Experimental anime from animation pioneer Yoji Kuri from 1960.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b7020-9DAqHQuuFJ8Y.jpg",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 5,
+    "status": "FINISHED",
+    "score": 33,
+    "genres": [
+      "Comedy"
+    ],
+    "updated_at": 1784823412
   },
   {
     "id": 7014,
@@ -53229,7 +53284,7 @@
       "Drama",
       "Supernatural"
     ],
-    "updated_at": 1784312169
+    "updated_at": 1784823426
   },
   {
     "id": 6988,
@@ -53256,7 +53311,7 @@
     "genres": [
       "Comedy"
     ],
-    "updated_at": 1784613738
+    "updated_at": 1784823431
   },
   {
     "id": 6985,
@@ -53285,7 +53340,7 @@
       "Romance",
       "Supernatural"
     ],
-    "updated_at": 1784480696
+    "updated_at": 1784823440
   },
   {
     "id": 6978,
@@ -53342,7 +53397,7 @@
     "genres": [
       "Adventure"
     ],
-    "updated_at": 1784779303
+    "updated_at": 1784823443
   },
   {
     "id": 6965,
@@ -53423,7 +53478,7 @@
     "genres": [
       "Adventure"
     ],
-    "updated_at": 1784757804
+    "updated_at": 1784823474
   },
   {
     "id": 6950,
@@ -53535,7 +53590,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784570509
+    "updated_at": 1784823478
   },
   {
     "id": 6927,
@@ -53597,7 +53652,7 @@
       "Fantasy",
       "Supernatural"
     ],
-    "updated_at": 1784768483
+    "updated_at": 1784823513
   },
   {
     "id": 6872,
@@ -53628,6 +53683,31 @@
       "Sci-Fi"
     ],
     "updated_at": 1784312200
+  },
+  {
+    "id": 6857,
+    "id_mal": 6857,
+    "url": "https://anilist.co/anime/6857",
+    "title": {
+      "english": "",
+      "romaji": "Momotarou no Umiwashi",
+      "native": "桃太郎の海鷲"
+    },
+    "description": "Momotaro sends a sneak aircraft attack to sink the ships of Demon Island, using his animal companions as crew members and pilots.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6857.jpg",
+    "banner_url": "",
+    "schedule": "Musim: SPRING 1943",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "SPRING",
+    "year": 1943,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 37,
+    "status": "FINISHED",
+    "score": 43,
+    "genres": [],
+    "updated_at": 1784823618
   },
   {
     "id": 6855,
@@ -53684,6 +53764,33 @@
     "updated_at": 1784312205
   },
   {
+    "id": 6828,
+    "id_mal": 6828,
+    "url": "https://anilist.co/anime/6828",
+    "title": {
+      "english": "",
+      "romaji": "Ohi-sama to Kaeru",
+      "native": "お日様と蛙"
+    },
+    "description": "A short film about frogs and a fish trying to eat them all.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6828.jpg",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 1,
+    "status": "FINISHED",
+    "score": 38,
+    "genres": [
+      "Comedy"
+    ],
+    "updated_at": 1784823622
+  },
+  {
     "id": 6797,
     "id_mal": 6797,
     "url": "https://anilist.co/anime/6797",
@@ -53736,7 +53843,7 @@
       "Music",
       "Sci-Fi"
     ],
-    "updated_at": 1784656913
+    "updated_at": 1784823683
   },
   {
     "id": 6772,
@@ -53765,7 +53872,7 @@
       "Fantasy",
       "Mecha"
     ],
-    "updated_at": 1784674976
+    "updated_at": 1784823708
   },
   {
     "id": 6769,
@@ -53846,7 +53953,34 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784779303
+    "updated_at": 1784823875
+  },
+  {
+    "id": 6693,
+    "id_mal": 6693,
+    "url": "https://anilist.co/anime/6693",
+    "title": {
+      "english": "",
+      "romaji": "Yatterman: Shin Yattermecha Daishuugou! Omocha no Kuni de Daikessen da Koron!",
+      "native": "劇場版 ヤッターマン 新ヤッターメカ大集合！ オモチャの国で大決断だコロン！"
+    },
+    "description": "Yatterman movie.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx6693-iIlqOzhMBI55.png",
+    "banner_url": "",
+    "schedule": "Musim: SUMMER 2009",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "SUMMER",
+    "year": 2009,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 94,
+    "status": "FINISHED",
+    "score": 51,
+    "genres": [
+      "Comedy"
+    ],
+    "updated_at": 1784823875
   },
   {
     "id": 6688,
@@ -53930,7 +54064,7 @@
       "Sci-Fi",
       "Sports"
     ],
-    "updated_at": 1784804496
+    "updated_at": 1784823891
   },
   {
     "id": 6671,
@@ -53985,7 +54119,7 @@
     "genres": [
       "Comedy"
     ],
-    "updated_at": 1784312262
+    "updated_at": 1784823893
   },
   {
     "id": 6653,
@@ -54044,7 +54178,7 @@
       "Mystery",
       "Romance"
     ],
-    "updated_at": 1784790078
+    "updated_at": 1784823895
   },
   {
     "id": 6624,
@@ -54074,7 +54208,7 @@
       "Romance",
       "Thriller"
     ],
-    "updated_at": 1784312265
+    "updated_at": 1784823905
   },
   {
     "id": 6610,
@@ -54106,7 +54240,7 @@
       "Sci-Fi",
       "Thriller"
     ],
-    "updated_at": 1784808273
+    "updated_at": 1784823910
   },
   {
     "id": 6585,
@@ -54135,7 +54269,7 @@
       "Fantasy",
       "Sci-Fi"
     ],
-    "updated_at": 1784494944
+    "updated_at": 1784823946
   },
   {
     "id": 6527,
@@ -54164,7 +54298,7 @@
       "Fantasy",
       "Mahou Shoujo"
     ],
-    "updated_at": 1784707332
+    "updated_at": 1784824022
   },
   {
     "id": 6519,
@@ -54190,6 +54324,35 @@
     "score": null,
     "genres": [],
     "updated_at": 1784312302
+  },
+  {
+    "id": 6518,
+    "id_mal": 6518,
+    "url": "https://anilist.co/anime/6518",
+    "title": {
+      "english": "Tamagotchi: The Movie",
+      "romaji": "Eiga de Toujou! Tamagotchi Doki Doki! Uchuu no Maigotchi!?",
+      "native": "えいがでとーじょー！ たまごっち ドキドキ！うちゅーのまいごっち！？"
+    },
+    "description": "Tidak ada deskripsi.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6518.jpg",
+    "banner_url": "",
+    "schedule": "Musim: FALL 2007",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "FALL",
+    "year": 2007,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 90,
+    "status": "FINISHED",
+    "score": 54,
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Slice of Life"
+    ],
+    "updated_at": 1784824023
   },
   {
     "id": 6496,
@@ -54249,7 +54412,34 @@
       "Action",
       "Mystery"
     ],
-    "updated_at": 1784570509
+    "updated_at": 1784824033
+  },
+  {
+    "id": 6463,
+    "id_mal": 6463,
+    "url": "https://anilist.co/anime/6463",
+    "title": {
+      "english": "The Day I Bought a Star",
+      "romaji": "Hoshi wo Katta Hi",
+      "native": "星をかった日"
+    },
+    "description": "A short film only screened at the Ghibli Museum in Mitaka. This work is set in a mysterious world \"Iblard,\" imagined and depicted by the artist Naohisa Inoue.<br><br>\n\nIn the city where Nona lives, the Time Bureau watches how its citizens use time. The Bureau supervises those who are wasting time or using time incorrectly. Nona is unable to bear this and runs away from home. He meets a mysterious woman named Ninya, and begins life on her farm. One day, Nona obtains a seed of a star in exchange for his vegetables, and decides to grow it.\n<br><br>\n(Source: Ghibli Museum)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b6463-m2I4wH08C65j.jpg",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/6463-0l9VmddD5FuB.jpg",
+    "schedule": "Musim: WINTER 2006",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "WINTER",
+    "year": 2006,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 16,
+    "status": "FINISHED",
+    "score": 62,
+    "genres": [
+      "Sci-Fi"
+    ],
+    "updated_at": 1784824033
   },
   {
     "id": 6460,
@@ -54279,7 +54469,7 @@
       "Fantasy",
       "Slice of Life"
     ],
-    "updated_at": 1784312313
+    "updated_at": 1784824033
   },
   {
     "id": 6431,
@@ -54337,7 +54527,7 @@
       "Psychological",
       "Romance"
     ],
-    "updated_at": 1784667776
+    "updated_at": 1784824039
   },
   {
     "id": 6372,
@@ -54369,7 +54559,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784412201
+    "updated_at": 1784824045
   },
   {
     "id": 6325,
@@ -54397,7 +54587,34 @@
       "Action",
       "Comedy"
     ],
-    "updated_at": 1784600387
+    "updated_at": 1784824106
+  },
+  {
+    "id": 6310,
+    "id_mal": 6310,
+    "url": "https://anilist.co/anime/6310",
+    "title": {
+      "english": "",
+      "romaji": "Kinnikuman II Sei",
+      "native": "キン肉マンII世"
+    },
+    "description": "While the New Generation Choujins are taking part in Fan Appreciation Day, The Cyborg arrives, takes Meat hostage, and challenges Mantarou to a fight inside Tokyo Tower.\n<br><br>\n(Source: Anime News Network)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6310.jpg",
+    "banner_url": "",
+    "schedule": "Musim: SUMMER 2001",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "SUMMER",
+    "year": 2001,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 30,
+    "status": "FINISHED",
+    "score": 64,
+    "genres": [
+      "Comedy"
+    ],
+    "updated_at": 1784824108
   },
   {
     "id": 6305,
@@ -54424,7 +54641,7 @@
     "genres": [
       "Music"
     ],
-    "updated_at": 1784390608
+    "updated_at": 1784824108
   },
   {
     "id": 6288,
@@ -54453,7 +54670,7 @@
       "Mecha",
       "Sci-Fi"
     ],
-    "updated_at": 1784700176
+    "updated_at": 1784824110
   },
   {
     "id": 6281,
@@ -54480,7 +54697,7 @@
     "genres": [
       "Sci-Fi"
     ],
-    "updated_at": 1784620910
+    "updated_at": 1784824111
   },
   {
     "id": 6219,
@@ -54567,7 +54784,7 @@
       "Adventure",
       "Sci-Fi"
     ],
-    "updated_at": 1784748278
+    "updated_at": 1784824139
   },
   {
     "id": 6178,
@@ -54597,7 +54814,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784808291
+    "updated_at": 1784824151
   },
   {
     "id": 6172,
@@ -54627,7 +54844,7 @@
       "Mystery",
       "Sci-Fi"
     ],
-    "updated_at": 1784748280
+    "updated_at": 1784824157
   },
   {
     "id": 6169,
@@ -54656,7 +54873,7 @@
       "Fantasy",
       "Supernatural"
     ],
-    "updated_at": 1784748281
+    "updated_at": 1784824166
   },
   {
     "id": 6162,
@@ -54685,7 +54902,7 @@
       "Adventure",
       "Sci-Fi"
     ],
-    "updated_at": 1784748289
+    "updated_at": 1784824188
   },
   {
     "id": 6156,
@@ -54827,7 +55044,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784748335
+    "updated_at": 1784824209
   },
   {
     "id": 6032,
@@ -54856,7 +55073,7 @@
       "Fantasy",
       "Mecha"
     ],
-    "updated_at": 1784748361
+    "updated_at": 1784824262
   },
   {
     "id": 6028,
@@ -54939,7 +55156,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784748368
+    "updated_at": 1784824274
   },
   {
     "id": 5943,
@@ -54967,7 +55184,7 @@
       "Adventure",
       "Sci-Fi"
     ],
-    "updated_at": 1784779303
+    "updated_at": 1784824292
   },
   {
     "id": 5929,
@@ -54994,7 +55211,7 @@
     "genres": [
       "Drama"
     ],
-    "updated_at": 1784754188
+    "updated_at": 1784824304
   },
   {
     "id": 5921,
@@ -55216,7 +55433,7 @@
       "Action",
       "Adventure"
     ],
-    "updated_at": 1784312423
+    "updated_at": 1784824309
   },
   {
     "id": 5848,
@@ -55247,6 +55464,33 @@
     "updated_at": 1784748421
   },
   {
+    "id": 5813,
+    "id_mal": 5813,
+    "url": "https://anilist.co/anime/5813",
+    "title": {
+      "english": "",
+      "romaji": "Urashima Tarou (1931)",
+      "native": "浦島太郎"
+    },
+    "description": "Urashima Taro is based on a well-known Japanese folk tale about an honest fisherman who is invited to an underwater castle after saving a sea turtle on a beach from bullies.<br><br>\n(Source: forum.bcdb.com)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5813.jpg",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 1,
+    "status": "FINISHED",
+    "score": 40,
+    "genres": [
+      "Action"
+    ],
+    "updated_at": 1784824312
+  },
+  {
     "id": 5812,
     "id_mal": 5812,
     "url": "https://anilist.co/anime/5812",
@@ -55271,7 +55515,7 @@
     "genres": [
       "Action"
     ],
-    "updated_at": 1784312426
+    "updated_at": 1784824312
   },
   {
     "id": 5799,
@@ -55300,7 +55544,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784748424
+    "updated_at": 1784824312
   },
   {
     "id": 5753,
@@ -55387,7 +55631,7 @@
       "Romance",
       "Sci-Fi"
     ],
-    "updated_at": 1784761401
+    "updated_at": 1784824334
   },
   {
     "id": 5673,
@@ -55415,7 +55659,7 @@
       "Adventure",
       "Drama"
     ],
-    "updated_at": 1784754196
+    "updated_at": 1784824379
   },
   {
     "id": 5662,
@@ -55636,7 +55880,7 @@
       "Action",
       "Drama"
     ],
-    "updated_at": 1784779303
+    "updated_at": 1784824418
   },
   {
     "id": 5460,
@@ -55696,7 +55940,7 @@
       "Sci-Fi",
       "Supernatural"
     ],
-    "updated_at": 1784779303
+    "updated_at": 1784824421
   },
   {
     "id": 5415,
@@ -55752,7 +55996,7 @@
     "genres": [
       "Action"
     ],
-    "updated_at": 1784748503
+    "updated_at": 1784824424
   },
   {
     "id": 5365,
@@ -55808,7 +56052,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784312497
+    "updated_at": 1784824436
   },
   {
     "id": 5310,
@@ -55839,7 +56083,7 @@
       "Romance",
       "Sci-Fi"
     ],
-    "updated_at": 1784748517
+    "updated_at": 1784824436
   },
   {
     "id": 5303,
@@ -55866,7 +56110,7 @@
     "genres": [
       "Mecha"
     ],
-    "updated_at": 1784748518
+    "updated_at": 1784824437
   },
   {
     "id": 5296,
@@ -55921,7 +56165,7 @@
       "Action",
       "Drama"
     ],
-    "updated_at": 1784748521
+    "updated_at": 1784824441
   },
   {
     "id": 5290,
@@ -56088,7 +56332,7 @@
     "genres": [
       "Action"
     ],
-    "updated_at": 1784748541
+    "updated_at": 1784824469
   },
   {
     "id": 5205,
@@ -56119,7 +56363,7 @@
       "Supernatural",
       "Thriller"
     ],
-    "updated_at": 1784748552
+    "updated_at": 1784824473
   },
   {
     "id": 5204,
@@ -56150,7 +56394,7 @@
       "Supernatural",
       "Thriller"
     ],
-    "updated_at": 1784748558
+    "updated_at": 1784824474
   },
   {
     "id": 5178,
@@ -56178,7 +56422,7 @@
       "Action",
       "Supernatural"
     ],
-    "updated_at": 1784748560
+    "updated_at": 1784824476
   },
   {
     "id": 5157,
@@ -56207,7 +56451,7 @@
       "Adventure",
       "Mystery"
     ],
-    "updated_at": 1784779303
+    "updated_at": 1784824479
   },
   {
     "id": 5136,
@@ -56264,7 +56508,7 @@
     "genres": [
       "Hentai"
     ],
-    "updated_at": 1784312589
+    "updated_at": 1784824525
   },
   {
     "id": 5098,
@@ -56291,7 +56535,7 @@
     "genres": [
       "Drama"
     ],
-    "updated_at": 1784748665
+    "updated_at": 1784824525
   },
   {
     "id": 5096,
@@ -56319,7 +56563,7 @@
       "Adventure",
       "Comedy"
     ],
-    "updated_at": 1784748666
+    "updated_at": 1784824526
   },
   {
     "id": 5090,
@@ -56406,7 +56650,7 @@
       "Drama",
       "Slice of Life"
     ],
-    "updated_at": 1784748667
+    "updated_at": 1784824527
   },
   {
     "id": 5053,
@@ -56461,7 +56705,7 @@
       "Action",
       "Sports"
     ],
-    "updated_at": 1784748744
+    "updated_at": 1784824556
   },
   {
     "id": 5006,
@@ -56519,7 +56763,7 @@
       "Mahou Shoujo",
       "Sci-Fi"
     ],
-    "updated_at": 1784757804
+    "updated_at": 1784824560
   },
   {
     "id": 4983,
@@ -56551,7 +56795,7 @@
       "Fantasy",
       "Horror"
     ],
-    "updated_at": 1784748767
+    "updated_at": 1784824561
   },
   {
     "id": 4970,
@@ -56578,7 +56822,7 @@
     "genres": [
       "Action"
     ],
-    "updated_at": 1784748794
+    "updated_at": 1784824564
   },
   {
     "id": 4948,
@@ -56665,7 +56909,7 @@
       "Adventure",
       "Drama"
     ],
-    "updated_at": 1784808277
+    "updated_at": 1784824566
   },
   {
     "id": 4921,
@@ -56692,7 +56936,7 @@
     "genres": [
       "Adventure"
     ],
-    "updated_at": 1784748797
+    "updated_at": 1784824566
   },
   {
     "id": 4907,
@@ -56748,7 +56992,7 @@
       "Adventure",
       "Drama"
     ],
-    "updated_at": 1784779303
+    "updated_at": 1784824587
   },
   {
     "id": 4835,
@@ -56778,7 +57022,7 @@
       "Drama",
       "Supernatural"
     ],
-    "updated_at": 1784790078
+    "updated_at": 1784824591
   },
   {
     "id": 4790,
@@ -56860,7 +57104,7 @@
       "Adventure",
       "Sci-Fi"
     ],
-    "updated_at": 1784386898
+    "updated_at": 1784824599
   },
   {
     "id": 4713,
@@ -56888,7 +57132,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784412201
+    "updated_at": 1784824605
   },
   {
     "id": 4703,
@@ -56918,7 +57162,7 @@
       "Mahou Shoujo",
       "Romance"
     ],
-    "updated_at": 1784749109
+    "updated_at": 1784824605
   },
   {
     "id": 4682,
@@ -56972,7 +57216,7 @@
     "genres": [
       "Comedy"
     ],
-    "updated_at": 1784749115
+    "updated_at": 1784824607
   },
   {
     "id": 4672,
@@ -57001,7 +57245,7 @@
       "Psychological",
       "Sci-Fi"
     ],
-    "updated_at": 1784808275
+    "updated_at": 1784824608
   },
   {
     "id": 4640,
@@ -57087,7 +57331,35 @@
       "Romance",
       "Sci-Fi"
     ],
-    "updated_at": 1784749210
+    "updated_at": 1784824618
+  },
+  {
+    "id": 4524,
+    "id_mal": 4524,
+    "url": "https://anilist.co/anime/4524",
+    "title": {
+      "english": "Shenmue: The Movie",
+      "romaji": "Shenmue: The Movie",
+      "native": "シェンムー・ザ・ムービー"
+    },
+    "description": "Using scenes from the original SEGA Dreamcast game plus some extra made for the movie, Shenmue: the Movie details the events of the first game. After Ryo's father is murdered and a mysterious mirror taken, Ryo sets himself on a quest for revenge.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4524.jpg",
+    "banner_url": "",
+    "schedule": "Musim: FALL 2001",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "FALL",
+    "year": 2001,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 90,
+    "status": "FINISHED",
+    "score": 49,
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "updated_at": 1784824622
   },
   {
     "id": 4513,
@@ -57144,7 +57416,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784749228
+    "updated_at": 1784824624
   },
   {
     "id": 4475,
@@ -57308,7 +57580,7 @@
       "Action",
       "Supernatural"
     ],
-    "updated_at": 1784749256
+    "updated_at": 1784824643
   },
   {
     "id": 4406,
@@ -57363,7 +57635,7 @@
     "genres": [
       "Fantasy"
     ],
-    "updated_at": 1784313155
+    "updated_at": 1784824646
   },
   {
     "id": 4396,
@@ -57390,7 +57662,7 @@
     "genres": [
       "Supernatural"
     ],
-    "updated_at": 1784808291
+    "updated_at": 1784824646
   },
   {
     "id": 4395,
@@ -57417,7 +57689,34 @@
     "genres": [
       "Adventure"
     ],
-    "updated_at": 1784313156
+    "updated_at": 1784824646
+  },
+  {
+    "id": 4394,
+    "id_mal": 4394,
+    "url": "https://anilist.co/anime/4394",
+    "title": {
+      "english": "",
+      "romaji": "Norakuro Gocho",
+      "native": "のらくろ伍長"
+    },
+    "description": "Short movie from 1934 about Norakuro from the Fierce Dog Brigade who is now promoted to Corporal and chases a mountain monkey that has stolen a confidential document.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx4394-eZ1L5hqiZ41L.png",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 11,
+    "status": "FINISHED",
+    "score": 43,
+    "genres": [
+      "Adventure"
+    ],
+    "updated_at": 1784824646
   },
   {
     "id": 4391,
@@ -57615,7 +57914,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784749273
+    "updated_at": 1784824657
   },
   {
     "id": 4282,
@@ -57647,7 +57946,7 @@
       "Supernatural",
       "Thriller"
     ],
-    "updated_at": 1784761401
+    "updated_at": 1784824663
   },
   {
     "id": 4280,
@@ -57677,7 +57976,7 @@
       "Supernatural",
       "Thriller"
     ],
-    "updated_at": 1784749278
+    "updated_at": 1784824667
   },
   {
     "id": 4250,
@@ -57734,7 +58033,7 @@
       "Romance",
       "Sci-Fi"
     ],
-    "updated_at": 1784749280
+    "updated_at": 1784824668
   },
   {
     "id": 4220,
@@ -57762,7 +58061,7 @@
       "Drama",
       "Fantasy"
     ],
-    "updated_at": 1784570509
+    "updated_at": 1784824690
   },
   {
     "id": 4218,
@@ -57848,7 +58147,7 @@
       "Drama",
       "Fantasy"
     ],
-    "updated_at": 1784761401
+    "updated_at": 1784824712
   },
   {
     "id": 4147,
@@ -57875,7 +58174,7 @@
     "genres": [
       "Fantasy"
     ],
-    "updated_at": 1784390608
+    "updated_at": 1784824713
   },
   {
     "id": 4124,
@@ -57904,7 +58203,7 @@
       "Fantasy",
       "Mahou Shoujo"
     ],
-    "updated_at": 1784749359
+    "updated_at": 1784824714
   },
   {
     "id": 4107,
@@ -57936,7 +58235,7 @@
       "Romance",
       "Sci-Fi"
     ],
-    "updated_at": 1784790078
+    "updated_at": 1784824716
   },
   {
     "id": 4106,
@@ -57965,7 +58264,7 @@
       "Comedy",
       "Sci-Fi"
     ],
-    "updated_at": 1784749362
+    "updated_at": 1784824717
   },
   {
     "id": 4099,
@@ -58073,7 +58372,7 @@
       "Horror",
       "Supernatural"
     ],
-    "updated_at": 1784313708
+    "updated_at": 1784824717
   },
   {
     "id": 4091,
@@ -58100,7 +58399,35 @@
     "genres": [
       "Slice of Life"
     ],
-    "updated_at": 1784749363
+    "updated_at": 1784824718
+  },
+  {
+    "id": 4031,
+    "id_mal": 4031,
+    "url": "https://anilist.co/anime/4031",
+    "title": {
+      "english": "",
+      "romaji": "Sakigake!! Otokojuku (Movie)",
+      "native": "魁!!男塾 (Movie)"
+    },
+    "description": "Otokojuku, a private school for juvenile delinquents that were previously expelled from normal schools. At this school, Japanese chivalry is taught through the feudal and military fundamentals. Similar to an action film, the classes are overwhelmed by violence. Only those who survive it become true men.<br>\n(Source: Animenfo)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4031.jpg",
+    "banner_url": "",
+    "schedule": "Musim: SUMMER 1988",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "SUMMER",
+    "year": 1988,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 74,
+    "status": "FINISHED",
+    "score": 64,
+    "genres": [
+      "Action",
+      "Comedy"
+    ],
+    "updated_at": 1784824735
   },
   {
     "id": 4026,
@@ -58129,7 +58456,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784749398
+    "updated_at": 1784824736
   },
   {
     "id": 3990,
@@ -58184,7 +58511,7 @@
       "Mecha",
       "Sci-Fi"
     ],
-    "updated_at": 1784768483
+    "updated_at": 1784824742
   },
   {
     "id": 3963,
@@ -58214,7 +58541,7 @@
       "Mecha",
       "Sci-Fi"
     ],
-    "updated_at": 1784749407
+    "updated_at": 1784824742
   },
   {
     "id": 3946,
@@ -58243,7 +58570,7 @@
       "Drama",
       "Slice of Life"
     ],
-    "updated_at": 1784749410
+    "updated_at": 1784824744
   },
   {
     "id": 3930,
@@ -58326,7 +58653,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784749420
+    "updated_at": 1784824748
   },
   {
     "id": 3905,
@@ -58382,7 +58709,7 @@
       "Mecha",
       "Sci-Fi"
     ],
-    "updated_at": 1784761401
+    "updated_at": 1784824752
   },
   {
     "id": 3886,
@@ -58412,7 +58739,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784749424
+    "updated_at": 1784824753
   },
   {
     "id": 3868,
@@ -58440,7 +58767,7 @@
       "Drama",
       "Romance"
     ],
-    "updated_at": 1784749425
+    "updated_at": 1784824756
   },
   {
     "id": 3848,
@@ -58470,7 +58797,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784749427
+    "updated_at": 1784824757
   },
   {
     "id": 3847,
@@ -58497,7 +58824,7 @@
     "genres": [
       "Fantasy"
     ],
-    "updated_at": 1784749427
+    "updated_at": 1784824757
   },
   {
     "id": 3843,
@@ -58552,7 +58879,7 @@
     "genres": [
       "Adventure"
     ],
-    "updated_at": 1784804496
+    "updated_at": 1784824757
   },
   {
     "id": 3829,
@@ -58610,7 +58937,7 @@
       "Psychological",
       "Sci-Fi"
     ],
-    "updated_at": 1784749436
+    "updated_at": 1784824775
   },
   {
     "id": 3785,
@@ -58641,7 +58968,7 @@
       "Psychological",
       "Sci-Fi"
     ],
-    "updated_at": 1784749440
+    "updated_at": 1784824785
   },
   {
     "id": 3784,
@@ -58672,7 +58999,7 @@
       "Psychological",
       "Sci-Fi"
     ],
-    "updated_at": 1784749444
+    "updated_at": 1784824790
   },
   {
     "id": 3783,
@@ -58703,7 +59030,7 @@
       "Supernatural",
       "Thriller"
     ],
-    "updated_at": 1784790078
+    "updated_at": 1784824793
   },
   {
     "id": 3782,
@@ -58734,7 +59061,7 @@
       "Supernatural",
       "Thriller"
     ],
-    "updated_at": 1784768483
+    "updated_at": 1784824795
   },
   {
     "id": 3760,
@@ -58762,7 +59089,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784749449
+    "updated_at": 1784824796
   },
   {
     "id": 3758,
@@ -58872,7 +59199,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784749450
+    "updated_at": 1784824796
   },
   {
     "id": 3745,
@@ -58902,7 +59229,7 @@
       "Ecchi",
       "Slice of Life"
     ],
-    "updated_at": 1783948377
+    "updated_at": 1784824797
   },
   {
     "id": 3744,
@@ -58929,7 +59256,7 @@
     "genres": [
       "Comedy"
     ],
-    "updated_at": 1784749451
+    "updated_at": 1784824797
   },
   {
     "id": 3743,
@@ -58984,7 +59311,7 @@
       "Adventure",
       "Comedy"
     ],
-    "updated_at": 1784749453
+    "updated_at": 1784824800
   },
   {
     "id": 3720,
@@ -59011,7 +59338,7 @@
     "genres": [
       "Fantasy"
     ],
-    "updated_at": 1784749454
+    "updated_at": 1784824800
   },
   {
     "id": 3669,
@@ -59122,7 +59449,7 @@
       "Adventure",
       "Horror"
     ],
-    "updated_at": 1784768483
+    "updated_at": 1784824822
   },
   {
     "id": 3602,
@@ -59151,7 +59478,7 @@
       "Drama",
       "Sci-Fi"
     ],
-    "updated_at": 1784749489
+    "updated_at": 1784824822
   },
   {
     "id": 3570,
@@ -59180,7 +59507,34 @@
       "Fantasy",
       "Slice of Life"
     ],
-    "updated_at": 1784749517
+    "updated_at": 1784824842
+  },
+  {
+    "id": 3547,
+    "id_mal": 3547,
+    "url": "https://anilist.co/anime/3547",
+    "title": {
+      "english": "",
+      "romaji": "Kochira Katsushikaku Kameari Kouenmae Hashutsujo THE MOVIE 2: UFO Shuurai! Tornado Daisakusen!!",
+      "native": "こちら葛飾区亀有公園前派出所　ＴＨＥ　ＭＯＶＩＥ２　ＵＦＯ襲来！トルネード大作戦！！"
+    },
+    "description": "More movie mayhem for Ryoutsu. <br>",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3547.jpg",
+    "banner_url": "",
+    "schedule": "Musim: FALL 2003",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "FALL",
+    "year": 2003,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 100,
+    "status": "FINISHED",
+    "score": 58,
+    "genres": [
+      "Comedy"
+    ],
+    "updated_at": 1784824844
   },
   {
     "id": 3522,
@@ -59208,7 +59562,7 @@
       "Action",
       "Sci-Fi"
     ],
-    "updated_at": 1784749521
+    "updated_at": 1784824845
   },
   {
     "id": 3508,
@@ -59241,7 +59595,34 @@
       "Romance",
       "Sci-Fi"
     ],
-    "updated_at": 1784749528
+    "updated_at": 1784824847
+  },
+  {
+    "id": 3496,
+    "id_mal": 3496,
+    "url": "https://anilist.co/anime/3496",
+    "title": {
+      "english": "The Golden Laws",
+      "romaji": "Ougon no Hou: El Cantare no Rekishikan",
+      "native": "黄金の法　エル・カンターレの歴史観"
+    },
+    "description": "In the year 2403 AD a young student named Satoru is visited by a time traveler from the future, a cute girl named Alisa. The two go back in time together to explore the 21st century when a malfunction sends them hurdling through seemingly random episodes of religious and perhaps historic importance. <br><br>\nJapan's answer to Scientology, Kyoufuku no Kagaku (&#24184;&#31119;&#12398;&#31185;&#23398;, also known as The Institute for Research in Human Happiness), returns with their third animated feature.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3496.jpg",
+    "banner_url": "",
+    "schedule": "Musim: FALL 2003",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "FALL",
+    "year": 2003,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 110,
+    "status": "FINISHED",
+    "score": 40,
+    "genres": [
+      "Fantasy"
+    ],
+    "updated_at": 1784824853
   },
   {
     "id": 3488,
@@ -59269,7 +59650,7 @@
       "Drama",
       "Romance"
     ],
-    "updated_at": 1784749535
+    "updated_at": 1784824853
   },
   {
     "id": 3481,
@@ -59404,6 +59785,35 @@
       "Drama"
     ],
     "updated_at": 1784749541
+  },
+  {
+    "id": 3463,
+    "id_mal": 3463,
+    "url": "https://anilist.co/anime/3463",
+    "title": {
+      "english": "A.LI.CE",
+      "romaji": "A・LI・CE",
+      "native": "Ａ・ＬＩ・ＣＥ"
+    },
+    "description": "Alice, the youngest person ever to be sent into space, is the only survivor when her flight crashes back to earth. Not only is she the only survivor, but she learns that she has been mysteriously catapulted 30 years to the future, where a mysterious dictator known as Nero rules the world with an iron fist and has sent his soldiers to capture, or kill her.\n<br><br>\n(Source: Anime News Network)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b3463-8r8IutdGFKMk.jpg",
+    "banner_url": "",
+    "schedule": "Musim: WINTER 2000",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "WINTER",
+    "year": 2000,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 85,
+    "status": "FINISHED",
+    "score": 37,
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Sci-Fi"
+    ],
+    "updated_at": 1784824865
   },
   {
     "id": 3446,

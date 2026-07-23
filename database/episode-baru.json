@@ -115,91 +115,6 @@
     "updated_at": 1784624537
   },
   {
-    "id": 180136,
-    "id_mal": 59741,
-    "url": "https://anilist.co/anime/180136",
-    "title": {
-      "english": "The Exiled Heavy Knight Knows How to Game the System",
-      "romaji": "Tsuihou Sareta Tensei Juukishi wa Game Chishiki de Musou Suru",
-      "native": "追放された転生重騎士はゲーム知識で無双する"
-    },
-    "description": "Born into a prestigious family of master swordsmen, Elymas Edvaughn’s future shatters when he awakens the so-called “defective” Heavy Knight class. Disowned and cast out, he regains memories of another life—and realizes this world mirrors a VR game he once mastered. Armed with knowledge no one else possesses, he sets out to rewrite his fate and prove the strength of the “weakest” class.<br>\n<br>\n(Source: Crunchyroll)",
-    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx180136-gtMTCRlOD4OE.jpg",
-    "banner_url": "",
-    "schedule": "Episode 4 tayang pada 23/7/2026, 22.26.00 WIB",
-    "next_episode": 4,
-    "next_airing_timestamp": 1784820360,
-    "season": "SUMMER",
-    "year": 2026,
-    "format": "TV",
-    "episodes": 26,
-    "duration": 24,
-    "status": "RELEASING",
-    "score": 67,
-    "genres": [
-      "Action",
-      "Fantasy"
-    ],
-    "updated_at": 1784815241
-  },
-  {
-    "id": 207141,
-    "id_mal": 63403,
-    "url": "https://anilist.co/anime/207141",
-    "title": {
-      "english": "Chainsmoker Cat",
-      "romaji": "Yani Neko",
-      "native": "ヤニねこ"
-    },
-    "description": "Yani is a catgirl with a seriously bad smoking habit. She smokes so much that her apartment smells like ash and is littered with cigarette butts—and plenty of other trash! Every time she tries to quit, she becomes weak to the cravings and gives in almost instantly. Will she ever get her life together, or is she doomed to live as a chainsmoking slob forever? \n<BR><BR>\n(Source: Seven Seas Entertainment)",
-    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx207141-h5q5KJPd6vaX.jpg",
-    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/207141-MvHAS2YVfJzL.jpg",
-    "schedule": "Episode 4 tayang pada 23/7/2026, 22.30.00 WIB",
-    "next_episode": 4,
-    "next_airing_timestamp": 1784820600,
-    "season": "SUMMER",
-    "year": 2026,
-    "format": "TV",
-    "episodes": null,
-    "duration": 24,
-    "status": "RELEASING",
-    "score": 68,
-    "genres": [
-      "Comedy",
-      "Slice of Life"
-    ],
-    "updated_at": 1784815227
-  },
-  {
-    "id": 204466,
-    "id_mal": 63150,
-    "url": "https://anilist.co/anime/204466",
-    "title": {
-      "english": "KAIJU GIRL CARAMELISE",
-      "romaji": "Otome Kaijuu Caramelise",
-      "native": "乙女怪獣キャラメリゼ"
-    },
-    "description": "Kuroe Akaishi just wants a normal high school life—but that’s impossible with a rare condition that turns her into a giant kaiju whenever her emotions spike! Things get even worse when she falls for Arata Minami, the most popular boy in class. Now every blush, heartbeat, and crush could trigger a monster transformation. Can Kuroe survive high school love before it destroys everything around her?!<br>\n<br>\n(Source: Crunchyroll)",
-    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx204466-vXMvIs4VOoQd.png",
-    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/204466-cpbNGN9qHrGP.jpg",
-    "schedule": "Episode 4 tayang pada 23/7/2026, 23.28.00 WIB",
-    "next_episode": 4,
-    "next_airing_timestamp": 1784824080,
-    "season": "SUMMER",
-    "year": 2026,
-    "format": "TV",
-    "episodes": null,
-    "duration": 24,
-    "status": "RELEASING",
-    "score": 75,
-    "genres": [
-      "Comedy",
-      "Romance",
-      "Supernatural"
-    ],
-    "updated_at": 1784815220
-  },
-  {
     "id": 8336,
     "id_mal": 8336,
     "url": "https://anilist.co/anime/8336",
@@ -252,7 +167,7 @@
       "Comedy",
       "Slice of Life"
     ],
-    "updated_at": 1784807094
+    "updated_at": 1784818984
   },
   {
     "id": 213484,
@@ -342,7 +257,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784815233
+    "updated_at": 1784818985
   },
   {
     "id": 182205,
@@ -372,7 +287,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784815219
+    "updated_at": 1784818960
   },
   {
     "id": 188525,
@@ -429,7 +344,7 @@
       "Mystery",
       "Slice of Life"
     ],
-    "updated_at": 1784815287
+    "updated_at": 1784819008
   },
   {
     "id": 182616,
@@ -515,7 +430,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784815237
+    "updated_at": 1784818965
   },
   {
     "id": 207674,
@@ -573,7 +488,7 @@
       "Ecchi",
       "Supernatural"
     ],
-    "updated_at": 1784807144
+    "updated_at": 1784819022
   },
   {
     "id": 142274,
@@ -657,7 +572,7 @@
       "Fantasy",
       "Slice of Life"
     ],
-    "updated_at": 1784815279
+    "updated_at": 1784818990
   },
   {
     "id": 214260,
@@ -686,7 +601,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784815241
+    "updated_at": 1784819031
   },
   {
     "id": 137683,
@@ -716,7 +631,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784815245
+    "updated_at": 1784818994
   },
   {
     "id": 966,
@@ -774,7 +689,7 @@
       "Comedy",
       "Sci-Fi"
     ],
-    "updated_at": 1784815283
+    "updated_at": 1784822997
   },
   {
     "id": 171110,
@@ -833,7 +748,7 @@
       "Mystery",
       "Psychological"
     ],
-    "updated_at": 1784815230
+    "updated_at": 1784818969
   },
   {
     "id": 184492,
@@ -862,7 +777,7 @@
       "Fantasy",
       "Supernatural"
     ],
-    "updated_at": 1784815227
+    "updated_at": 1784818970
   },
   {
     "id": 213356,
@@ -919,7 +834,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784815230
+    "updated_at": 1784818966
   },
   {
     "id": 187538,
@@ -950,7 +865,7 @@
       "Sci-Fi",
       "Supernatural"
     ],
-    "updated_at": 1784815229
+    "updated_at": 1784818960
   },
   {
     "id": 206249,
@@ -978,7 +893,7 @@
       "Action",
       "Supernatural"
     ],
-    "updated_at": 1784815287
+    "updated_at": 1784818983
   },
   {
     "id": 195600,
@@ -1009,7 +924,7 @@
       "Fantasy",
       "Supernatural"
     ],
-    "updated_at": 1784815229
+    "updated_at": 1784818962
   },
   {
     "id": 190569,
@@ -1036,7 +951,7 @@
     "genres": [
       "Drama"
     ],
-    "updated_at": 1784815238
+    "updated_at": 1784818965
   },
   {
     "id": 196012,
@@ -1066,7 +981,7 @@
       "Romance",
       "Supernatural"
     ],
-    "updated_at": 1784815227
+    "updated_at": 1784818986
   },
   {
     "id": 211181,
@@ -1210,7 +1125,7 @@
       "Fantasy",
       "Mahou Shoujo"
     ],
-    "updated_at": 1784815288
+    "updated_at": 1784819005
   },
   {
     "id": 208225,
@@ -1238,7 +1153,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784815230
+    "updated_at": 1784818971
   },
   {
     "id": 199066,
@@ -1267,7 +1182,7 @@
       "Romance",
       "Supernatural"
     ],
-    "updated_at": 1784815235
+    "updated_at": 1784818980
   },
   {
     "id": 201514,
@@ -1295,7 +1210,7 @@
       "Comedy",
       "Romance"
     ],
-    "updated_at": 1784815218
+    "updated_at": 1784818969
   },
   {
     "id": 206950,
@@ -1403,7 +1318,7 @@
     "genres": [
       "Slice of Life"
     ],
-    "updated_at": 1784815300
+    "updated_at": 1784819031
   },
   {
     "id": 185646,
@@ -1430,7 +1345,7 @@
     "genres": [
       "Slice of Life"
     ],
-    "updated_at": 1784807144
+    "updated_at": 1784818986
   },
   {
     "id": 202957,
@@ -1458,7 +1373,7 @@
       "Mahou Shoujo",
       "Mystery"
     ],
-    "updated_at": 1784815231
+    "updated_at": 1784818981
   },
   {
     "id": 188388,
@@ -1488,7 +1403,7 @@
       "Fantasy",
       "Sci-Fi"
     ],
-    "updated_at": 1784815298
+    "updated_at": 1784818991
   },
   {
     "id": 206523,
@@ -1572,7 +1487,7 @@
       "Horror",
       "Supernatural"
     ],
-    "updated_at": 1784815261
+    "updated_at": 1784819001
   },
   {
     "id": 210031,
@@ -1602,7 +1517,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784815231
+    "updated_at": 1784818959
   },
   {
     "id": 204060,
@@ -1630,7 +1545,7 @@
       "Action",
       "Comedy"
     ],
-    "updated_at": 1784815222
+    "updated_at": 1784818982
   },
   {
     "id": 118123,
@@ -1745,7 +1660,7 @@
       "Ecchi",
       "Romance"
     ],
-    "updated_at": 1784815225
+    "updated_at": 1784818958
   },
   {
     "id": 103303,
@@ -1773,7 +1688,7 @@
       "Adventure",
       "Romance"
     ],
-    "updated_at": 1784815226
+    "updated_at": 1784818972
   },
   {
     "id": 21,
@@ -1804,7 +1719,7 @@
       "Drama",
       "Fantasy"
     ],
-    "updated_at": 1784815221
+    "updated_at": 1784818955
   },
   {
     "id": 196974,
@@ -1831,7 +1746,7 @@
     "genres": [
       "Fantasy"
     ],
-    "updated_at": 1784815234
+    "updated_at": 1784818962
   },
   {
     "id": 188139,
@@ -1889,7 +1804,7 @@
       "Ecchi",
       "Fantasy"
     ],
-    "updated_at": 1784815226
+    "updated_at": 1784818958
   },
   {
     "id": 177637,
@@ -1917,7 +1832,7 @@
       "Romance",
       "Supernatural"
     ],
-    "updated_at": 1784815228
+    "updated_at": 1784818963
   },
   {
     "id": 205116,
@@ -1972,7 +1887,7 @@
       "Ecchi",
       "Slice of Life"
     ],
-    "updated_at": 1784815299
+    "updated_at": 1784819012
   },
   {
     "id": 213359,
@@ -2030,7 +1945,7 @@
       "Drama",
       "Fantasy"
     ],
-    "updated_at": 1784815244
+    "updated_at": 1784818974
   },
   {
     "id": 169582,
@@ -2061,7 +1976,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784815234
+    "updated_at": 1784818956
   },
   {
     "id": 202269,
@@ -2089,7 +2004,7 @@
       "Drama",
       "Romance"
     ],
-    "updated_at": 1784815234
+    "updated_at": 1784818970
   },
   {
     "id": 206521,
@@ -2116,7 +2031,7 @@
     "genres": [
       "Drama"
     ],
-    "updated_at": 1784815229
+    "updated_at": 1784818976
   },
   {
     "id": 185542,
@@ -2146,7 +2061,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784815235
+    "updated_at": 1784818958
   },
   {
     "id": 199408,
@@ -2174,7 +2089,7 @@
       "Drama",
       "Fantasy"
     ],
-    "updated_at": 1784815230
+    "updated_at": 1784818971
   },
   {
     "id": 209504,
@@ -2204,7 +2119,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784815241
+    "updated_at": 1784818969
   },
   {
     "id": 195833,
@@ -2289,7 +2204,7 @@
       "Slice of Life",
       "Sports"
     ],
-    "updated_at": 1784815242
+    "updated_at": 1784818970
   },
   {
     "id": 197754,
@@ -2317,7 +2232,7 @@
       "Drama",
       "Psychological"
     ],
-    "updated_at": 1784815226
+    "updated_at": 1784818975
   },
   {
     "id": 213188,
@@ -2373,7 +2288,7 @@
     "genres": [
       "Drama"
     ],
-    "updated_at": 1784815223
+    "updated_at": 1784818969
   },
   {
     "id": 187260,
@@ -2402,7 +2317,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784815220
+    "updated_at": 1784818962
   },
   {
     "id": 213665,
@@ -2488,7 +2403,7 @@
       "Psychological",
       "Sci-Fi"
     ],
-    "updated_at": 1784815217
+    "updated_at": 1784818958
   },
   {
     "id": 209800,
@@ -2517,7 +2432,7 @@
       "Adventure",
       "Sci-Fi"
     ],
-    "updated_at": 1784815319
+    "updated_at": 1784818976
   },
   {
     "id": 198709,
@@ -2547,7 +2462,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784815254
+    "updated_at": 1784818960
   },
   {
     "id": 207809,
@@ -2578,7 +2493,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784815254
+    "updated_at": 1784818959
   },
   {
     "id": 204656,
@@ -2660,7 +2575,7 @@
     "genres": [
       "Romance"
     ],
-    "updated_at": 1784815319
+    "updated_at": 1784818987
   },
   {
     "id": 188529,
@@ -2687,7 +2602,7 @@
     "genres": [
       "Comedy"
     ],
-    "updated_at": 1784815319
+    "updated_at": 1784819012
   },
   {
     "id": 198946,
@@ -2716,7 +2631,7 @@
       "Drama",
       "Fantasy"
     ],
-    "updated_at": 1784815223
+    "updated_at": 1784818960
   },
   {
     "id": 135865,
@@ -2744,7 +2659,7 @@
       "Action",
       "Fantasy"
     ],
-    "updated_at": 1784815217
+    "updated_at": 1784818956
   },
   {
     "id": 213666,
@@ -2772,7 +2687,7 @@
       "Drama",
       "Romance"
     ],
-    "updated_at": 1784815247
+    "updated_at": 1784818959
   },
   {
     "id": 192800,
@@ -2800,7 +2715,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784815218
+    "updated_at": 1784818968
   },
   {
     "id": 196356,
@@ -2828,7 +2743,7 @@
       "Comedy",
       "Slice of Life"
     ],
-    "updated_at": 1784815228
+    "updated_at": 1784818963
   },
   {
     "id": 159309,
@@ -2858,7 +2773,7 @@
       "Mecha",
       "Romance"
     ],
-    "updated_at": 1784815220
+    "updated_at": 1784818959
   },
   {
     "id": 194829,
@@ -2888,7 +2803,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784808096
+    "updated_at": 1784818958
   },
   {
     "id": 205772,
@@ -2915,7 +2830,7 @@
     "genres": [
       "Comedy"
     ],
-    "updated_at": 1784815287
+    "updated_at": 1784819012
   },
   {
     "id": 213961,
@@ -2943,7 +2858,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784815319
+    "updated_at": 1784819019
   },
   {
     "id": 197715,
@@ -2973,7 +2888,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784815218
+    "updated_at": 1784818960
   },
   {
     "id": 207254,
@@ -3002,7 +2917,7 @@
       "Drama",
       "Sci-Fi"
     ],
-    "updated_at": 1784815230
+    "updated_at": 1784818978
   },
   {
     "id": 209669,
@@ -3032,7 +2947,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784815240
+    "updated_at": 1784818964
   },
   {
     "id": 184356,
@@ -3061,7 +2976,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784815217
+    "updated_at": 1784818962
   },
   {
     "id": 209541,
@@ -3089,7 +3004,7 @@
       "Fantasy",
       "Slice of Life"
     ],
-    "updated_at": 1784815319
+    "updated_at": 1784819012
   },
   {
     "id": 194389,
@@ -3116,7 +3031,7 @@
     "genres": [
       "Slice of Life"
     ],
-    "updated_at": 1784811664
+    "updated_at": 1784819017
   },
   {
     "id": 203880,
@@ -3145,7 +3060,7 @@
       "Horror",
       "Supernatural"
     ],
-    "updated_at": 1784815222
+    "updated_at": 1784818959
   },
   {
     "id": 201667,
@@ -3174,7 +3089,7 @@
       "Slice of Life",
       "Supernatural"
     ],
-    "updated_at": 1784815245
+    "updated_at": 1784818975
   },
   {
     "id": 187166,
@@ -3202,7 +3117,7 @@
       "Comedy",
       "Music"
     ],
-    "updated_at": 1784815230
+    "updated_at": 1784818958
   },
   {
     "id": 198376,
@@ -3232,7 +3147,7 @@
       "Music",
       "Slice of Life"
     ],
-    "updated_at": 1784815241
+    "updated_at": 1784818971
   },
   {
     "id": 108992,
@@ -3260,7 +3175,7 @@
       "Action",
       "Supernatural"
     ],
-    "updated_at": 1784815273
+    "updated_at": 1784818979
   },
   {
     "id": 196187,
@@ -3289,7 +3204,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784815226
+    "updated_at": 1784818964
   },
   {
     "id": 208044,
@@ -3318,7 +3233,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784811605
+    "updated_at": 1784818958
   },
   {
     "id": 204560,
@@ -3376,6 +3291,91 @@
     "updated_at": 1784800539
   },
   {
+    "id": 180136,
+    "id_mal": 59741,
+    "url": "https://anilist.co/anime/180136",
+    "title": {
+      "english": "The Exiled Heavy Knight Knows How to Game the System",
+      "romaji": "Tsuihou Sareta Tensei Juukishi wa Game Chishiki de Musou Suru",
+      "native": "追放された転生重騎士はゲーム知識で無双する"
+    },
+    "description": "Born into a prestigious family of master swordsmen, Elymas Edvaughn’s future shatters when he awakens the so-called “defective” Heavy Knight class. Disowned and cast out, he regains memories of another life—and realizes this world mirrors a VR game he once mastered. Armed with knowledge no one else possesses, he sets out to rewrite his fate and prove the strength of the “weakest” class.<br>\n<br>\n(Source: Crunchyroll)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx180136-gtMTCRlOD4OE.jpg",
+    "banner_url": "",
+    "schedule": "Episode 5 tayang pada 30/7/2026, 22.26.00 WIB",
+    "next_episode": 5,
+    "next_airing_timestamp": 1785425160,
+    "season": "SUMMER",
+    "year": 2026,
+    "format": "TV",
+    "episodes": 26,
+    "duration": 24,
+    "status": "RELEASING",
+    "score": 67,
+    "genres": [
+      "Action",
+      "Fantasy"
+    ],
+    "updated_at": 1784818963
+  },
+  {
+    "id": 207141,
+    "id_mal": 63403,
+    "url": "https://anilist.co/anime/207141",
+    "title": {
+      "english": "Chainsmoker Cat",
+      "romaji": "Yani Neko",
+      "native": "ヤニねこ"
+    },
+    "description": "Yani is a catgirl with a seriously bad smoking habit. She smokes so much that her apartment smells like ash and is littered with cigarette butts—and plenty of other trash! Every time she tries to quit, she becomes weak to the cravings and gives in almost instantly. Will she ever get her life together, or is she doomed to live as a chainsmoking slob forever? \n<BR><BR>\n(Source: Seven Seas Entertainment)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx207141-h5q5KJPd6vaX.jpg",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/207141-MvHAS2YVfJzL.jpg",
+    "schedule": "Episode 5 tayang pada 30/7/2026, 22.30.00 WIB",
+    "next_episode": 5,
+    "next_airing_timestamp": 1785425400,
+    "season": "SUMMER",
+    "year": 2026,
+    "format": "TV",
+    "episodes": null,
+    "duration": 24,
+    "status": "RELEASING",
+    "score": 68,
+    "genres": [
+      "Comedy",
+      "Slice of Life"
+    ],
+    "updated_at": 1784818965
+  },
+  {
+    "id": 204466,
+    "id_mal": 63150,
+    "url": "https://anilist.co/anime/204466",
+    "title": {
+      "english": "KAIJU GIRL CARAMELISE",
+      "romaji": "Otome Kaijuu Caramelise",
+      "native": "乙女怪獣キャラメリゼ"
+    },
+    "description": "Kuroe Akaishi just wants a normal high school life—but that’s impossible with a rare condition that turns her into a giant kaiju whenever her emotions spike! Things get even worse when she falls for Arata Minami, the most popular boy in class. Now every blush, heartbeat, and crush could trigger a monster transformation. Can Kuroe survive high school love before it destroys everything around her?!<br>\n<br>\n(Source: Crunchyroll)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx204466-vXMvIs4VOoQd.png",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/204466-cpbNGN9qHrGP.jpg",
+    "schedule": "Episode 5 tayang pada 30/7/2026, 23.28.00 WIB",
+    "next_episode": 5,
+    "next_airing_timestamp": 1785428880,
+    "season": "SUMMER",
+    "year": 2026,
+    "format": "TV",
+    "episodes": null,
+    "duration": 24,
+    "status": "RELEASING",
+    "score": 75,
+    "genres": [
+      "Comedy",
+      "Romance",
+      "Supernatural"
+    ],
+    "updated_at": 1784818959
+  },
+  {
     "id": 188753,
     "id_mal": 61297,
     "url": "https://anilist.co/anime/188753",
@@ -3430,7 +3430,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784815230
+    "updated_at": 1784818965
   },
   {
     "id": 208685,
@@ -3457,7 +3457,7 @@
     "genres": [
       "Hentai"
     ],
-    "updated_at": 1784815311
+    "updated_at": 1784819031
   },
   {
     "id": 165159,
@@ -3486,7 +3486,7 @@
       "Adventure",
       "Sports"
     ],
-    "updated_at": 1784808291
+    "updated_at": 1784819011
   },
   {
     "id": 189046,
@@ -3519,7 +3519,7 @@
       "Romance",
       "Thriller"
     ],
-    "updated_at": 1784811609
+    "updated_at": 1784818963
   },
   {
     "id": 210687,
@@ -3658,7 +3658,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784815244
+    "updated_at": 1784819024
   },
   {
     "id": 208361,
