@@ -25,7 +25,7 @@
       "Comedy",
       "Romance"
     ],
-    "updated_at": 1784829615
+    "updated_at": 1784845396
   },
   {
     "id": 214332,
@@ -195,7 +195,7 @@
       "Adventure",
       "Sci-Fi"
     ],
-    "updated_at": 1784836946
+    "updated_at": 1784844170
   },
   {
     "id": 214049,
@@ -496,7 +496,7 @@
     "status": "NOT_YET_RELEASED",
     "score": null,
     "genres": [],
-    "updated_at": 1784808291
+    "updated_at": 1784844170
   },
   {
     "id": 213873,
@@ -1644,7 +1644,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784815319
+    "updated_at": 1784844165
   },
   {
     "id": 213298,
@@ -1810,7 +1810,7 @@
     "genres": [
       "Hentai"
     ],
-    "updated_at": 1784653321
+    "updated_at": 1784844170
   },
   {
     "id": 213052,
@@ -1924,7 +1924,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784687279
+    "updated_at": 1784844170
   },
   {
     "id": 212876,
@@ -2550,7 +2550,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784700172
+    "updated_at": 1784844170
   },
   {
     "id": 211709,
@@ -3303,7 +3303,7 @@
       "Comedy",
       "Romance"
     ],
-    "updated_at": 1784549490
+    "updated_at": 1784844164
   },
   {
     "id": 209827,
@@ -3584,7 +3584,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784671449
+    "updated_at": 1784844170
   },
   {
     "id": 209224,
@@ -3675,7 +3675,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784840540
+    "updated_at": 1784844170
   },
   {
     "id": 209218,
@@ -3844,7 +3844,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784840549
+    "updated_at": 1784844170
   },
   {
     "id": 208192,
@@ -4365,7 +4365,7 @@
       "Drama",
       "Slice of Life"
     ],
-    "updated_at": 1784836946
+    "updated_at": 1784844166
   },
   {
     "id": 206298,
@@ -4479,7 +4479,7 @@
       "Action",
       "Fantasy"
     ],
-    "updated_at": 1784556649
+    "updated_at": 1784844170
   },
   {
     "id": 206244,
@@ -4596,7 +4596,7 @@
       "Mecha",
       "Sci-Fi"
     ],
-    "updated_at": 1784833321
+    "updated_at": 1784844170
   },
   {
     "id": 206160,
@@ -4941,6 +4941,34 @@
     "updated_at": 1784592445
   },
   {
+    "id": 205372,
+    "id_mal": 62685,
+    "url": "https://anilist.co/anime/205372",
+    "title": {
+      "english": "Mang Wasteland Period",
+      "romaji": "Mang Huang Ji (2026)",
+      "native": "莽荒纪 (2026)"
+    },
+    "description": "Fate had never been kind to Ji Ning. Wracked by illnesses and infirm his entire life on Earth, Ning knew early on that he would die as a teenager. What he didn’t know was that there really was such a thing as life after death, and that the universe was a far larger place than he thought. A lucky twist of fate (one of the few in Ning’s life) meant that Ning was reborn into a world of Immortals and monsters, of Ki Refiners and powerful Fiendgods, a world where Dynasties lasted for millions of years. A world which is both greater and yet also smaller than he ever could imagine. He would have the opportunity to join them, and in this life, Ning swore to himself, he would never let himself be weak again! The Era he was born into was a Desolate one, but Ning would make it his era.\n<br><br>\n(Source: Novel Update)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx205372-9fVFyRIsra1X.jpg",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "ONA",
+    "episodes": 26,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "updated_at": 1784844170
+  },
+  {
     "id": 205289,
     "id_mal": 63221,
     "url": "https://anilist.co/anime/205289",
@@ -5083,7 +5111,7 @@
       "Sci-Fi",
       "Supernatural"
     ],
-    "updated_at": 1784797756
+    "updated_at": 1784844170
   },
   {
     "id": 204738,
@@ -5518,7 +5546,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784804496
+    "updated_at": 1784844170
   },
   {
     "id": 204286,
@@ -6403,7 +6431,7 @@
       "Slice of Life",
       "Supernatural"
     ],
-    "updated_at": 1784798036
+    "updated_at": 1784844168
   },
   {
     "id": 199597,
@@ -8141,7 +8169,7 @@
       "Supernatural",
       "Thriller"
     ],
-    "updated_at": 1784833321
+    "updated_at": 1784844170
   },
   {
     "id": 191788,
@@ -10150,7 +10178,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784804496
+    "updated_at": 1784844170
   },
   {
     "id": 177704,
@@ -10376,7 +10404,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784790078
+    "updated_at": 1784844170
   },
   {
     "id": 171952,
@@ -10548,7 +10576,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784840547
+    "updated_at": 1784844170
   },
   {
     "id": 169579,
@@ -11036,7 +11064,7 @@
       "Adventure",
       "Comedy"
     ],
-    "updated_at": 1784840539
+    "updated_at": 1784844170
   },
   {
     "id": 161410,
