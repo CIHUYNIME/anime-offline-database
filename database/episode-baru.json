@@ -142,97 +142,6 @@
     "updated_at": 1784667776
   },
   {
-    "id": 199748,
-    "id_mal": 62617,
-    "url": "https://anilist.co/anime/199748",
-    "title": {
-      "english": "I Became a Legend After My 10 Year-Long Last Stand",
-      "romaji": "Koko wa Ore ni Makasete Saki ni Ike to Ittekara 10-nen ga Tattara Densetsu ni Natteita.",
-      "native": "ここは俺に任せて先に行けと言ってから１０年がたったら伝説になっていた。"
-    },
-    "description": "Luck, an S-rank mage in the hero’s party, makes a last stand against the Demon King to save his companions. When he finally returns victorious, ten years have passed, and the world praises him as a legendary hero who died in battle. Unable to reclaim his former life, Luck conceals his identity and begins again as “Lock,” an F-rank adventurer forging a future in a world that moved on without him.<br><br>\n(Source: Crunchyroll)\n<br><br>\n\n<i>Note: Koko wa Ore ni Makasete Saki ni Ike to Ittekara 10-nen ga Tattara Densetsu ni Natteita is streaming 3 days in advance of the TV broadcast on Prime Video beginning July 3rd, 2026. Regular broadcasting began on July 6th, 2026.</i>",
-    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199748-PAFk9pGSUmFL.png",
-    "banner_url": "",
-    "schedule": "Episode 4 tayang pada 24/7/2026, 20.30.00 WIB",
-    "next_episode": 4,
-    "next_airing_timestamp": 1784899800,
-    "season": "SUMMER",
-    "year": 2026,
-    "format": "ONA",
-    "episodes": 12,
-    "duration": 23,
-    "status": "RELEASING",
-    "score": 66,
-    "genres": [
-      "Action",
-      "Adventure",
-      "Fantasy"
-    ],
-    "updated_at": 1784894443
-  },
-  {
-    "id": 196218,
-    "id_mal": 62078,
-    "url": "https://anilist.co/anime/196218",
-    "title": {
-      "english": "The Frontier Lord Begins with Zero Subjects",
-      "romaji": "Ryoumin 0-Nin Start no Henkyou Ryoushu-sama",
-      "native": "領民0人スタートの辺境領主様"
-    },
-    "description": "The war is over, and hero Dias is finally rewarded with land of his own—only to discover it's a barren frontier with no people, no villages, and no sign of civilization. With nothing but endless grassland ahead of him, Dias sets out to build a domain from the ground up. But after meeting Alna, a mysterious girl with a blue horn, his lonely frontier is about to spring to life. \n<br><br>\n(Source: Crunchyroll)<br><br>\n\n<i>Note: Ryoumin 0-Nin Start no Henkyou Ryoushu-sama is streaming a week advance of the TV broadcast on Prime Video beginning July 3rd, 2026. Regular broadcasting began on July 10th, 2026.</i>",
-    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx196218-UsdTTCrwpDIN.jpg",
-    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/196218-lX0y9T76KQkC.jpg",
-    "schedule": "Episode 4 tayang pada 24/7/2026, 20.30.00 WIB",
-    "next_episode": 4,
-    "next_airing_timestamp": 1784899800,
-    "season": "SUMMER",
-    "year": 2026,
-    "format": "ONA",
-    "episodes": null,
-    "duration": 25,
-    "status": "RELEASING",
-    "score": 68,
-    "genres": [
-      "Action",
-      "Comedy",
-      "Drama",
-      "Fantasy",
-      "Romance",
-      "Slice of Life"
-    ],
-    "updated_at": 1784890843
-  },
-  {
-    "id": 182205,
-    "id_mal": 59970,
-    "url": "https://anilist.co/anime/182205",
-    "title": {
-      "english": "That Time I Got Reincarnated as a Slime Season 4",
-      "romaji": "Tensei Shitara Slime Datta Ken 4th Season",
-      "native": "転生したらスライムだった件 第4期"
-    },
-    "description": "The fourth season of <i>Tensei Shitara Slime Datta Ken</i>.<br><br>\nDemon Lord Rimuru's dream of creating an alliance between humans and monsters takes a step closer to being realized. As Tempest continues to prosper, Granville Rozzo and his granddaughter, Maribel Rozzo, clash with Demon Lord Rimuru over their plan to protect mankind by ruling over them. Meanwhile, in El Dorado, Demon Lord Leon works toward goals of his own. The awakening of a new Hero draws near!<br><br>\n\n(Source: Crunchyroll News)",
-    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx182205-q2AeO1owuQbO.jpg",
-    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/182205-fRUoKv6f2JAq.jpg",
-    "schedule": "Episode 16 tayang pada 24/7/2026, 21.00.00 WIB",
-    "next_episode": 16,
-    "next_airing_timestamp": 1784901600,
-    "season": "SPRING",
-    "year": 2026,
-    "format": "TV",
-    "episodes": null,
-    "duration": 24,
-    "status": "RELEASING",
-    "score": 82,
-    "genres": [
-      "Action",
-      "Adventure",
-      "Comedy",
-      "Fantasy"
-    ],
-    "updated_at": 1784894366
-  },
-  {
     "id": 188525,
     "id_mal": 61280,
     "url": "https://anilist.co/anime/188525",
@@ -258,7 +167,7 @@
       "Comedy",
       "Slice of Life"
     ],
-    "updated_at": 1784890848
+    "updated_at": 1784902079
   },
   {
     "id": 202508,
@@ -287,7 +196,7 @@
       "Mystery",
       "Slice of Life"
     ],
-    "updated_at": 1784894504
+    "updated_at": 1784902079
   },
   {
     "id": 182616,
@@ -315,7 +224,7 @@
       "Action",
       "Adventure"
     ],
-    "updated_at": 1784894399
+    "updated_at": 1784902079
   },
   {
     "id": 203490,
@@ -344,7 +253,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784894438
+    "updated_at": 1784902100
   },
   {
     "id": 209983,
@@ -373,7 +282,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784894448
+    "updated_at": 1784902115
   },
   {
     "id": 207674,
@@ -402,7 +311,7 @@
       "Ecchi",
       "Supernatural"
     ],
-    "updated_at": 1784894441
+    "updated_at": 1784902100
   },
   {
     "id": 213831,
@@ -431,7 +340,7 @@
       "Ecchi",
       "Supernatural"
     ],
-    "updated_at": 1784894443
+    "updated_at": 1784902107
   },
   {
     "id": 142274,
@@ -515,7 +424,7 @@
       "Fantasy",
       "Slice of Life"
     ],
-    "updated_at": 1784894504
+    "updated_at": 1784902186
   },
   {
     "id": 214260,
@@ -574,7 +483,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784894473
+    "updated_at": 1784902128
   },
   {
     "id": 966,
@@ -632,7 +541,7 @@
       "Comedy",
       "Sci-Fi"
     ],
-    "updated_at": 1784890864
+    "updated_at": 1784898145
   },
   {
     "id": 171110,
@@ -661,7 +570,7 @@
       "Fantasy",
       "Slice of Life"
     ],
-    "updated_at": 1784894442
+    "updated_at": 1784902054
   },
   {
     "id": 235,
@@ -691,7 +600,7 @@
       "Mystery",
       "Psychological"
     ],
-    "updated_at": 1784894422
+    "updated_at": 1784902120
   },
   {
     "id": 184492,
@@ -720,7 +629,7 @@
       "Fantasy",
       "Supernatural"
     ],
-    "updated_at": 1784894396
+    "updated_at": 1784902064
   },
   {
     "id": 213356,
@@ -777,7 +686,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784894417
+    "updated_at": 1784902050
   },
   {
     "id": 187538,
@@ -808,7 +717,7 @@
       "Sci-Fi",
       "Supernatural"
     ],
-    "updated_at": 1784894411
+    "updated_at": 1784902061
   },
   {
     "id": 206249,
@@ -836,7 +745,7 @@
       "Action",
       "Supernatural"
     ],
-    "updated_at": 1784894401
+    "updated_at": 1784898145
   },
   {
     "id": 195600,
@@ -867,7 +776,7 @@
       "Fantasy",
       "Supernatural"
     ],
-    "updated_at": 1784894406
+    "updated_at": 1784902053
   },
   {
     "id": 190569,
@@ -894,7 +803,7 @@
     "genres": [
       "Drama"
     ],
-    "updated_at": 1784894398
+    "updated_at": 1784902103
   },
   {
     "id": 196012,
@@ -924,7 +833,7 @@
       "Romance",
       "Supernatural"
     ],
-    "updated_at": 1784894435
+    "updated_at": 1784898044
   },
   {
     "id": 211181,
@@ -953,7 +862,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784800885
+    "updated_at": 1784902145
   },
   {
     "id": 196017,
@@ -978,7 +887,7 @@
     "status": "RELEASING",
     "score": 69,
     "genres": [],
-    "updated_at": 1784894421
+    "updated_at": 1784902103
   },
   {
     "id": 194219,
@@ -1007,7 +916,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784894476
+    "updated_at": 1784902094
   },
   {
     "id": 185692,
@@ -1037,7 +946,7 @@
       "Fantasy",
       "Mahou Shoujo"
     ],
-    "updated_at": 1784894472
+    "updated_at": 1784902129
   },
   {
     "id": 185875,
@@ -1068,7 +977,7 @@
       "Fantasy",
       "Mahou Shoujo"
     ],
-    "updated_at": 1784894452
+    "updated_at": 1784902131
   },
   {
     "id": 208225,
@@ -1096,7 +1005,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784883973
+    "updated_at": 1784902189
   },
   {
     "id": 199066,
@@ -1125,7 +1034,7 @@
       "Romance",
       "Supernatural"
     ],
-    "updated_at": 1784894425
+    "updated_at": 1784902107
   },
   {
     "id": 201514,
@@ -1153,7 +1062,7 @@
       "Comedy",
       "Romance"
     ],
-    "updated_at": 1784894428
+    "updated_at": 1784902103
   },
   {
     "id": 206950,
@@ -1261,7 +1170,7 @@
     "genres": [
       "Slice of Life"
     ],
-    "updated_at": 1784894495
+    "updated_at": 1784898145
   },
   {
     "id": 185646,
@@ -1288,7 +1197,7 @@
     "genres": [
       "Slice of Life"
     ],
-    "updated_at": 1784890917
+    "updated_at": 1784898145
   },
   {
     "id": 202957,
@@ -1316,7 +1225,7 @@
       "Mahou Shoujo",
       "Mystery"
     ],
-    "updated_at": 1784890910
+    "updated_at": 1784902105
   },
   {
     "id": 188388,
@@ -1346,7 +1255,7 @@
       "Fantasy",
       "Sci-Fi"
     ],
-    "updated_at": 1784894372
+    "updated_at": 1784902057
   },
   {
     "id": 206523,
@@ -1401,7 +1310,7 @@
       "Action",
       "Fantasy"
     ],
-    "updated_at": 1784857744
+    "updated_at": 1784902189
   },
   {
     "id": 200230,
@@ -1430,7 +1339,7 @@
       "Horror",
       "Supernatural"
     ],
-    "updated_at": 1784894428
+    "updated_at": 1784902122
   },
   {
     "id": 210031,
@@ -1460,7 +1369,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784894427
+    "updated_at": 1784902093
   },
   {
     "id": 204060,
@@ -1488,7 +1397,7 @@
       "Action",
       "Comedy"
     ],
-    "updated_at": 1784894424
+    "updated_at": 1784898082
   },
   {
     "id": 118123,
@@ -1517,7 +1426,7 @@
       "Adventure",
       "Comedy"
     ],
-    "updated_at": 1784892763
+    "updated_at": 1784902189
   },
   {
     "id": 2406,
@@ -1545,7 +1454,7 @@
       "Comedy",
       "Slice of Life"
     ],
-    "updated_at": 1784894492
+    "updated_at": 1784898145
   },
   {
     "id": 198409,
@@ -1574,7 +1483,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784894413
+    "updated_at": 1784902091
   },
   {
     "id": 200637,
@@ -1603,7 +1512,7 @@
       "Ecchi",
       "Romance"
     ],
-    "updated_at": 1784894438
+    "updated_at": 1784902106
   },
   {
     "id": 103303,
@@ -1626,12 +1535,12 @@
     "episodes": 13,
     "duration": 25,
     "status": "RELEASING",
-    "score": 76,
+    "score": 75,
     "genres": [
       "Adventure",
       "Romance"
     ],
-    "updated_at": 1784894410
+    "updated_at": 1784902093
   },
   {
     "id": 21,
@@ -1662,7 +1571,7 @@
       "Drama",
       "Fantasy"
     ],
-    "updated_at": 1784894413
+    "updated_at": 1784902040
   },
   {
     "id": 196974,
@@ -1689,7 +1598,7 @@
     "genres": [
       "Fantasy"
     ],
-    "updated_at": 1784894399
+    "updated_at": 1784902047
   },
   {
     "id": 188139,
@@ -1702,7 +1611,7 @@
     },
     "description": "As maidens from the Five Clans battle for the Crown Prince’s heart, jealous Keigetsu uses forbidden magic to swap bodies with the beloved Reirin. Switching places does not guarantee happiness for Keigetsu with her new body's ill health leaving her hanging on the verge of death. Meanwhile, Reirin, now wearing the face of a scorned outcast, must answer for Keigetsu’s crimes in a dangerous trial.\n<br><br>\nThe unlikely pair become increasingly entangled in each other’s lives and they will need to work together to survive after discovering the dark conspiracies brewing beneath the palace's genial surface. To confront the deadly threats lurking in the shadows, Reirin must embrace her new identity and defy their expectations of the court's inept villainess.<br><br>\n(Source: Crunchyroll)",
     "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx188139-1qIJfWxym8FX.jpg",
-    "banner_url": "",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/188139-bxOal1Q2Ehlr.jpg",
     "schedule": "Episode 3 tayang pada 26/7/2026, 21.46.00 WIB",
     "next_episode": 3,
     "next_airing_timestamp": 1785077160,
@@ -1717,7 +1626,7 @@
       "Drama",
       "Romance"
     ],
-    "updated_at": 1784894573
+    "updated_at": 1784902077
   },
   {
     "id": 178789,
@@ -1747,7 +1656,7 @@
       "Ecchi",
       "Fantasy"
     ],
-    "updated_at": 1784894409
+    "updated_at": 1784902047
   },
   {
     "id": 177637,
@@ -1775,7 +1684,7 @@
       "Romance",
       "Supernatural"
     ],
-    "updated_at": 1784894382
+    "updated_at": 1784902056
   },
   {
     "id": 205116,
@@ -1830,7 +1739,7 @@
       "Ecchi",
       "Slice of Life"
     ],
-    "updated_at": 1784894437
+    "updated_at": 1784902189
   },
   {
     "id": 213359,
@@ -1888,7 +1797,7 @@
       "Drama",
       "Fantasy"
     ],
-    "updated_at": 1784894483
+    "updated_at": 1784902166
   },
   {
     "id": 169582,
@@ -1919,7 +1828,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784894398
+    "updated_at": 1784902095
   },
   {
     "id": 202269,
@@ -1947,7 +1856,7 @@
       "Drama",
       "Romance"
     ],
-    "updated_at": 1784894374
+    "updated_at": 1784902053
   },
   {
     "id": 206521,
@@ -1974,7 +1883,7 @@
     "genres": [
       "Drama"
     ],
-    "updated_at": 1784894456
+    "updated_at": 1784902089
   },
   {
     "id": 185542,
@@ -2004,7 +1913,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784894428
+    "updated_at": 1784902049
   },
   {
     "id": 199408,
@@ -2032,7 +1941,7 @@
       "Drama",
       "Fantasy"
     ],
-    "updated_at": 1784894438
+    "updated_at": 1784902096
   },
   {
     "id": 209504,
@@ -2062,7 +1971,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784894418
+    "updated_at": 1784902065
   },
   {
     "id": 195833,
@@ -2090,7 +1999,7 @@
       "Comedy",
       "Sports"
     ],
-    "updated_at": 1784894398
+    "updated_at": 1784902189
   },
   {
     "id": 169583,
@@ -2118,7 +2027,7 @@
       "Comedy",
       "Romance"
     ],
-    "updated_at": 1784894420
+    "updated_at": 1784902056
   },
   {
     "id": 199111,
@@ -2147,7 +2056,7 @@
       "Slice of Life",
       "Sports"
     ],
-    "updated_at": 1784894373
+    "updated_at": 1784902095
   },
   {
     "id": 197754,
@@ -2175,7 +2084,7 @@
       "Drama",
       "Psychological"
     ],
-    "updated_at": 1784894389
+    "updated_at": 1784902134
   },
   {
     "id": 140842,
@@ -2203,7 +2112,7 @@
       "Comedy",
       "Slice of Life"
     ],
-    "updated_at": 1784894473
+    "updated_at": 1784902121
   },
   {
     "id": 213188,
@@ -2232,7 +2141,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784890929
+    "updated_at": 1784902189
   },
   {
     "id": 213484,
@@ -2261,7 +2170,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784894463
+    "updated_at": 1784902096
   },
   {
     "id": 128757,
@@ -2288,7 +2197,7 @@
     "genres": [
       "Drama"
     ],
-    "updated_at": 1784894373
+    "updated_at": 1784902086
   },
   {
     "id": 187260,
@@ -2317,7 +2226,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784894377
+    "updated_at": 1784902094
   },
   {
     "id": 213665,
@@ -2345,7 +2254,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784894449
+    "updated_at": 1784898096
   },
   {
     "id": 196219,
@@ -2374,7 +2283,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784894466
+    "updated_at": 1784902104
   },
   {
     "id": 177699,
@@ -2403,7 +2312,7 @@
       "Psychological",
       "Sci-Fi"
     ],
-    "updated_at": 1784894397
+    "updated_at": 1784902070
   },
   {
     "id": 209800,
@@ -2432,7 +2341,7 @@
       "Adventure",
       "Sci-Fi"
     ],
-    "updated_at": 1784894391
+    "updated_at": 1784902145
   },
   {
     "id": 198709,
@@ -2462,7 +2371,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784894439
+    "updated_at": 1784902102
   },
   {
     "id": 207809,
@@ -2493,7 +2402,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784894457
+    "updated_at": 1784898041
   },
   {
     "id": 204656,
@@ -2520,7 +2429,7 @@
     "genres": [
       "Slice of Life"
     ],
-    "updated_at": 1784894485
+    "updated_at": 1784898145
   },
   {
     "id": 213703,
@@ -2631,7 +2540,7 @@
       "Drama",
       "Fantasy"
     ],
-    "updated_at": 1784894370
+    "updated_at": 1784902053
   },
   {
     "id": 135865,
@@ -2659,7 +2568,7 @@
       "Action",
       "Fantasy"
     ],
-    "updated_at": 1784894404
+    "updated_at": 1784902042
   },
   {
     "id": 213666,
@@ -2687,7 +2596,7 @@
       "Drama",
       "Romance"
     ],
-    "updated_at": 1784894460
+    "updated_at": 1784902046
   },
   {
     "id": 192800,
@@ -2715,7 +2624,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784894427
+    "updated_at": 1784902061
   },
   {
     "id": 196356,
@@ -2743,7 +2652,7 @@
       "Comedy",
       "Slice of Life"
     ],
-    "updated_at": 1784894405
+    "updated_at": 1784902046
   },
   {
     "id": 159309,
@@ -2773,7 +2682,7 @@
       "Mecha",
       "Romance"
     ],
-    "updated_at": 1784894412
+    "updated_at": 1784902066
   },
   {
     "id": 194829,
@@ -2803,7 +2712,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784894409
+    "updated_at": 1784902048
   },
   {
     "id": 205772,
@@ -2830,7 +2739,7 @@
     "genres": [
       "Comedy"
     ],
-    "updated_at": 1784894473
+    "updated_at": 1784902189
   },
   {
     "id": 213961,
@@ -2888,7 +2797,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784894381
+    "updated_at": 1784902059
   },
   {
     "id": 207254,
@@ -2917,7 +2826,7 @@
       "Drama",
       "Sci-Fi"
     ],
-    "updated_at": 1784894415
+    "updated_at": 1784902132
   },
   {
     "id": 209669,
@@ -2947,7 +2856,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784894437
+    "updated_at": 1784902061
   },
   {
     "id": 184356,
@@ -2976,7 +2885,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784894405
+    "updated_at": 1784902062
   },
   {
     "id": 209541,
@@ -3004,7 +2913,7 @@
       "Fantasy",
       "Slice of Life"
     ],
-    "updated_at": 1784894495
+    "updated_at": 1784898145
   },
   {
     "id": 194389,
@@ -3031,7 +2940,7 @@
     "genres": [
       "Slice of Life"
     ],
-    "updated_at": 1784894495
+    "updated_at": 1784902189
   },
   {
     "id": 203880,
@@ -3060,7 +2969,7 @@
       "Horror",
       "Supernatural"
     ],
-    "updated_at": 1784894436
+    "updated_at": 1784902053
   },
   {
     "id": 201667,
@@ -3089,7 +2998,7 @@
       "Slice of Life",
       "Supernatural"
     ],
-    "updated_at": 1784894450
+    "updated_at": 1784902093
   },
   {
     "id": 187166,
@@ -3117,7 +3026,7 @@
       "Comedy",
       "Music"
     ],
-    "updated_at": 1784894396
+    "updated_at": 1784898089
   },
   {
     "id": 198376,
@@ -3147,7 +3056,7 @@
       "Music",
       "Slice of Life"
     ],
-    "updated_at": 1784894422
+    "updated_at": 1784902055
   },
   {
     "id": 108992,
@@ -3175,7 +3084,7 @@
       "Action",
       "Supernatural"
     ],
-    "updated_at": 1784895347
+    "updated_at": 1784902061
   },
   {
     "id": 196187,
@@ -3204,7 +3113,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784894367
+    "updated_at": 1784902039
   },
   {
     "id": 208044,
@@ -3233,7 +3142,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784894413
+    "updated_at": 1784902046
   },
   {
     "id": 204560,
@@ -3316,7 +3225,7 @@
       "Action",
       "Fantasy"
     ],
-    "updated_at": 1784894404
+    "updated_at": 1784902041
   },
   {
     "id": 207141,
@@ -3344,7 +3253,7 @@
       "Comedy",
       "Slice of Life"
     ],
-    "updated_at": 1784890815
+    "updated_at": 1784902048
   },
   {
     "id": 204466,
@@ -3373,7 +3282,7 @@
       "Romance",
       "Supernatural"
     ],
-    "updated_at": 1784894421
+    "updated_at": 1784902045
   },
   {
     "id": 188753,
@@ -3430,7 +3339,98 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784894426
+    "updated_at": 1784902083
+  },
+  {
+    "id": 199748,
+    "id_mal": 62617,
+    "url": "https://anilist.co/anime/199748",
+    "title": {
+      "english": "I Became a Legend After My 10 Year-Long Last Stand",
+      "romaji": "Koko wa Ore ni Makasete Saki ni Ike to Ittekara 10-nen ga Tattara Densetsu ni Natteita.",
+      "native": "ここは俺に任せて先に行けと言ってから１０年がたったら伝説になっていた。"
+    },
+    "description": "Luck, an S-rank mage in the hero’s party, makes a last stand against the Demon King to save his companions. When he finally returns victorious, ten years have passed, and the world praises him as a legendary hero who died in battle. Unable to reclaim his former life, Luck conceals his identity and begins again as “Lock,” an F-rank adventurer forging a future in a world that moved on without him.<br><br>\n(Source: Crunchyroll)\n<br><br>\n\n<i>Note: Koko wa Ore ni Makasete Saki ni Ike to Ittekara 10-nen ga Tattara Densetsu ni Natteita is streaming 3 days in advance of the TV broadcast on Prime Video beginning July 3rd, 2026. Regular broadcasting began on July 6th, 2026.</i>",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199748-PAFk9pGSUmFL.png",
+    "banner_url": "",
+    "schedule": "Episode 5 tayang pada 31/7/2026, 20.30.00 WIB",
+    "next_episode": 5,
+    "next_airing_timestamp": 1785504600,
+    "season": "SUMMER",
+    "year": 2026,
+    "format": "ONA",
+    "episodes": 12,
+    "duration": 23,
+    "status": "RELEASING",
+    "score": 66,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "updated_at": 1784902085
+  },
+  {
+    "id": 196218,
+    "id_mal": 62078,
+    "url": "https://anilist.co/anime/196218",
+    "title": {
+      "english": "The Frontier Lord Begins with Zero Subjects",
+      "romaji": "Ryoumin 0-Nin Start no Henkyou Ryoushu-sama",
+      "native": "領民0人スタートの辺境領主様"
+    },
+    "description": "The war is over, and hero Dias is finally rewarded with land of his own—only to discover it's a barren frontier with no people, no villages, and no sign of civilization. With nothing but endless grassland ahead of him, Dias sets out to build a domain from the ground up. But after meeting Alna, a mysterious girl with a blue horn, his lonely frontier is about to spring to life. \n<br><br>\n(Source: Crunchyroll)<br><br>\n\n<i>Note: Ryoumin 0-Nin Start no Henkyou Ryoushu-sama is streaming a week advance of the TV broadcast on Prime Video beginning July 3rd, 2026. Regular broadcasting began on July 10th, 2026.</i>",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx196218-UsdTTCrwpDIN.jpg",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/196218-lX0y9T76KQkC.jpg",
+    "schedule": "Episode 5 tayang pada 31/7/2026, 20.30.00 WIB",
+    "next_episode": 5,
+    "next_airing_timestamp": 1785504600,
+    "season": "SUMMER",
+    "year": 2026,
+    "format": "ONA",
+    "episodes": null,
+    "duration": 25,
+    "status": "RELEASING",
+    "score": 68,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Drama",
+      "Fantasy",
+      "Romance",
+      "Slice of Life"
+    ],
+    "updated_at": 1784902050
+  },
+  {
+    "id": 182205,
+    "id_mal": 59970,
+    "url": "https://anilist.co/anime/182205",
+    "title": {
+      "english": "That Time I Got Reincarnated as a Slime Season 4",
+      "romaji": "Tensei Shitara Slime Datta Ken 4th Season",
+      "native": "転生したらスライムだった件 第4期"
+    },
+    "description": "The fourth season of <i>Tensei Shitara Slime Datta Ken</i>.<br><br>\nDemon Lord Rimuru's dream of creating an alliance between humans and monsters takes a step closer to being realized. As Tempest continues to prosper, Granville Rozzo and his granddaughter, Maribel Rozzo, clash with Demon Lord Rimuru over their plan to protect mankind by ruling over them. Meanwhile, in El Dorado, Demon Lord Leon works toward goals of his own. The awakening of a new Hero draws near!<br><br>\n\n(Source: Crunchyroll News)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx182205-q2AeO1owuQbO.jpg",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/182205-fRUoKv6f2JAq.jpg",
+    "schedule": "Episode 17 tayang pada 31/7/2026, 21.00.00 WIB",
+    "next_episode": 17,
+    "next_airing_timestamp": 1785506400,
+    "season": "SPRING",
+    "year": 2026,
+    "format": "TV",
+    "episodes": null,
+    "duration": 24,
+    "status": "RELEASING",
+    "score": 82,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Fantasy"
+    ],
+    "updated_at": 1784902042
   },
   {
     "id": 208685,
@@ -3457,7 +3457,7 @@
     "genres": [
       "Hentai"
     ],
-    "updated_at": 1784887306
+    "updated_at": 1784898145
   },
   {
     "id": 165159,
@@ -3486,7 +3486,7 @@
       "Adventure",
       "Sports"
     ],
-    "updated_at": 1784894504
+    "updated_at": 1784898023
   },
   {
     "id": 189046,
@@ -3519,7 +3519,7 @@
       "Romance",
       "Thriller"
     ],
-    "updated_at": 1784894423
+    "updated_at": 1784902048
   },
   {
     "id": 210687,
@@ -3548,7 +3548,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784890929
+    "updated_at": 1784898114
   },
   {
     "id": 208264,
@@ -3658,7 +3658,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784884710
+    "updated_at": 1784902189
   },
   {
     "id": 208361,
