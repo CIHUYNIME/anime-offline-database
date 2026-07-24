@@ -390,7 +390,7 @@
       "Drama",
       "Romance"
     ],
-    "updated_at": 1784883629
+    "updated_at": 1784934131
   },
   {
     "id": 213929,
@@ -419,7 +419,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784883630
+    "updated_at": 1784934131
   },
   {
     "id": 213908,
@@ -609,7 +609,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784905276
+    "updated_at": 1784934132
   },
   {
     "id": 213867,
@@ -866,7 +866,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784930547
+    "updated_at": 1784934123
   },
   {
     "id": 213782,
@@ -1234,7 +1234,7 @@
       "Drama",
       "Sci-Fi"
     ],
-    "updated_at": 1784883649
+    "updated_at": 1784934133
   },
   {
     "id": 213581,
@@ -1292,7 +1292,7 @@
       "Fantasy",
       "Supernatural"
     ],
-    "updated_at": 1784883652
+    "updated_at": 1784934123
   },
   {
     "id": 213579,
@@ -1321,7 +1321,7 @@
       "Mecha",
       "Sci-Fi"
     ],
-    "updated_at": 1784883652
+    "updated_at": 1784934133
   },
   {
     "id": 213507,
@@ -1435,7 +1435,7 @@
       "Fantasy",
       "Slice of Life"
     ],
-    "updated_at": 1784790071
+    "updated_at": 1784934133
   },
   {
     "id": 213477,
@@ -1521,7 +1521,7 @@
       "Comedy",
       "Romance"
     ],
-    "updated_at": 1784883661
+    "updated_at": 1784934133
   },
   {
     "id": 213396,
@@ -1582,7 +1582,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784930547
+    "updated_at": 1784934128
   },
   {
     "id": 213362,
@@ -1638,7 +1638,7 @@
     "genres": [
       "Drama"
     ],
-    "updated_at": 1784883665
+    "updated_at": 1784934132
   },
   {
     "id": 213338,
@@ -1667,7 +1667,7 @@
       "Comedy",
       "Drama"
     ],
-    "updated_at": 1784902187
+    "updated_at": 1784934133
   },
   {
     "id": 213316,
@@ -1895,7 +1895,7 @@
       "Drama",
       "Romance"
     ],
-    "updated_at": 1784930547
+    "updated_at": 1784934129
   },
   {
     "id": 213020,
@@ -2008,7 +2008,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784883693
+    "updated_at": 1784934124
   },
   {
     "id": 212876,
@@ -2549,7 +2549,7 @@
       "Drama",
       "Slice of Life"
     ],
-    "updated_at": 1784883739
+    "updated_at": 1784934133
   },
   {
     "id": 211877,
@@ -2607,7 +2607,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784890929
+    "updated_at": 1784934133
   },
   {
     "id": 211711,
@@ -2662,7 +2662,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784883761
+    "updated_at": 1784934128
   },
   {
     "id": 211709,
@@ -2692,7 +2692,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784883762
+    "updated_at": 1784934128
   },
   {
     "id": 211538,
@@ -2866,7 +2866,7 @@
       "Drama",
       "Romance"
     ],
-    "updated_at": 1784883787
+    "updated_at": 1784934130
   },
   {
     "id": 211258,
@@ -3242,7 +3242,7 @@
       "Mystery",
       "Supernatural"
     ],
-    "updated_at": 1784912586
+    "updated_at": 1784934133
   },
   {
     "id": 209980,
@@ -3272,7 +3272,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784926949
+    "updated_at": 1784934125
   },
   {
     "id": 209963,
@@ -3415,7 +3415,7 @@
       "Comedy",
       "Romance"
     ],
-    "updated_at": 1784883871
+    "updated_at": 1784934126
   },
   {
     "id": 209827,
@@ -3596,8 +3596,8 @@
       "romaji": "Vertex Force",
       "native": "バーテックスフォース"
     },
-    "description": "An original TV anime series, \"Vertex Force,\" is being planned under the direction of Kazuhiro Takamura, who previously directed <i>\"Strike Witches\"</i> and <i>\"Vividred Operation\"</i>! Airing in 2026!<br><br>\n(Source: Official Twitter)",
-    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx209562-lWbqsEyIk8R1.jpg",
+    "description": "Akira lives a peaceful life with his older sister Haruka and his mother, who runs a cafe. The family however harbors a secret — Haruka has inherited a power from her father called \"Engine,\" and she hides that power from others. Akira on the other hand has not inherited his father's power, and he has an inferiority complex about it. Amidst this, strange events start happening around the world.\n<br><br>\n(Source: Anime News Network)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx209562-b0UuACa2iU73.jpg",
     "banner_url": "",
     "schedule": "Musim: FALL 2026",
     "next_episode": null,
@@ -3610,9 +3610,10 @@
     "status": "NOT_YET_RELEASED",
     "score": null,
     "genres": [
+      "Action",
       "Mecha"
     ],
-    "updated_at": 1784883890
+    "updated_at": 1784934133
   },
   {
     "id": 209502,
@@ -3640,7 +3641,7 @@
       "Comedy",
       "Romance"
     ],
-    "updated_at": 1784894504
+    "updated_at": 1784934128
   },
   {
     "id": 209499,
@@ -3817,7 +3818,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784894504
+    "updated_at": 1784934133
   },
   {
     "id": 209218,
@@ -4221,7 +4222,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784884025
+    "updated_at": 1784934133
   },
   {
     "id": 207329,
@@ -4309,7 +4310,7 @@
       "Mystery",
       "Romance"
     ],
-    "updated_at": 1784884029
+    "updated_at": 1784934128
   },
   {
     "id": 207251,
@@ -4567,7 +4568,7 @@
       "Romance",
       "Supernatural"
     ],
-    "updated_at": 1784797639
+    "updated_at": 1784934133
   },
   {
     "id": 206401,
@@ -5311,7 +5312,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784930547
+    "updated_at": 1784934125
   },
   {
     "id": 205068,
@@ -5486,7 +5487,7 @@
       "Sci-Fi",
       "Supernatural"
     ],
-    "updated_at": 1784912586
+    "updated_at": 1784934133
   },
   {
     "id": 204585,
@@ -5516,7 +5517,7 @@
       "Mystery",
       "Sci-Fi"
     ],
-    "updated_at": 1784797765
+    "updated_at": 1784934125
   },
   {
     "id": 204584,
@@ -5546,7 +5547,7 @@
       "Mystery",
       "Sci-Fi"
     ],
-    "updated_at": 1784797766
+    "updated_at": 1784934125
   },
   {
     "id": 204579,
@@ -5658,7 +5659,7 @@
     "genres": [
       "Slice of Life"
     ],
-    "updated_at": 1784905282
+    "updated_at": 1784934133
   },
   {
     "id": 204429,
@@ -5973,6 +5974,36 @@
       "Supernatural"
     ],
     "updated_at": 1784797834
+  },
+  {
+    "id": 203368,
+    "id_mal": null,
+    "url": "https://anilist.co/anime/203368",
+    "title": {
+      "english": "",
+      "romaji": "Onegai☆Teacher Shinsaku Animation (Provisional Title)",
+      "native": "おねがい☆ティーチャー 新作アニメーション（仮）"
+    },
+    "description": "New Onegai☆Teacher anime project initiated after the 20th anniversary of the series and the closure of Lake Kizaki Capeground.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx203368-tZl53bKgcxWN.jpg",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "OVA",
+    "episodes": null,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance",
+      "Sci-Fi"
+    ],
+    "updated_at": 1784934132
   },
   {
     "id": 203275,
@@ -6398,7 +6429,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784902189
+    "updated_at": 1784934133
   },
   {
     "id": 202250,
@@ -6514,7 +6545,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784797962
+    "updated_at": 1784934131
   },
   {
     "id": 200929,
@@ -6720,7 +6751,7 @@
       "Drama",
       "Romance"
     ],
-    "updated_at": 1784836946
+    "updated_at": 1784934123
   },
   {
     "id": 199594,
@@ -7580,7 +7611,7 @@
       "Drama",
       "Music"
     ],
-    "updated_at": 1784798180
+    "updated_at": 1784934133
   },
   {
     "id": 197095,
@@ -7963,7 +7994,7 @@
       "Mystery",
       "Supernatural"
     ],
-    "updated_at": 1784836946
+    "updated_at": 1784934133
   },
   {
     "id": 195436,
@@ -7992,7 +8023,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784912586
+    "updated_at": 1784934133
   },
   {
     "id": 195350,
@@ -8916,7 +8947,7 @@
       "Ecchi",
       "Fantasy"
     ],
-    "updated_at": 1784905282
+    "updated_at": 1784934133
   },
   {
     "id": 187918,
@@ -9066,17 +9097,17 @@
     "url": "https://anilist.co/anime/187361",
     "title": {
       "english": "",
-      "romaji": "Garena Free Fire",
-      "native": "Garena Free Fire"
+      "romaji": "Free Fire Daybreak",
+      "native": "Free Fire Daybreak"
     },
-    "description": "Tidak ada deskripsi.",
-    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx187361-p6nVekPJwl2b.png",
+    "description": "Set in the futuristic metropolis of New Dawn, <i>Free Fire Daybreak</i> follows protagonist Kelly, who awakens with no memory of her past and is drawn into Horizon Corporation's mysterious \"Project Bloom\".\n<br><br>\n(Source: Official Website)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx187361-dVnt8gXOZJPw.jpg",
     "banner_url": "",
-    "schedule": "Jadwal belum diketahui",
+    "schedule": "Musim: SPRING 2027",
     "next_episode": null,
     "next_airing_timestamp": null,
-    "season": "",
-    "year": null,
+    "season": "SPRING",
+    "year": 2027,
     "format": "",
     "episodes": null,
     "duration": null,
@@ -9085,7 +9116,7 @@
     "genres": [
       "Action"
     ],
-    "updated_at": 1784246821
+    "updated_at": 1784934159
   },
   {
     "id": 187316,
@@ -9431,7 +9462,7 @@
       "Romance",
       "Sci-Fi"
     ],
-    "updated_at": 1784890929
+    "updated_at": 1784934133
   },
   {
     "id": 186336,
@@ -9882,7 +9913,7 @@
       "Comedy",
       "Slice of Life"
     ],
-    "updated_at": 1784926949
+    "updated_at": 1784934133
   },
   {
     "id": 183960,
@@ -10899,6 +10930,31 @@
     "updated_at": 1784902189
   },
   {
+    "id": 168259,
+    "id_mal": null,
+    "url": "https://anilist.co/anime/168259",
+    "title": {
+      "english": "",
+      "romaji": "Xi You Ji",
+      "native": "西游记"
+    },
+    "description": "Tidak ada deskripsi.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx168259-ThKs8cKh95Pl.jpg",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "ONA",
+    "episodes": null,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [],
+    "updated_at": 1784934133
+  },
+  {
     "id": 168248,
     "id_mal": null,
     "url": "https://anilist.co/anime/168248",
@@ -11061,6 +11117,34 @@
       "Fantasy"
     ],
     "updated_at": 1784836946
+  },
+  {
+    "id": 166450,
+    "id_mal": null,
+    "url": "https://anilist.co/anime/166450",
+    "title": {
+      "english": "",
+      "romaji": "Ban Xing",
+      "native": "半星"
+    },
+    "description": "Tidak ada deskripsi.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx166450-91mSDZxw4DiR.jpg",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "ONA",
+    "episodes": null,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Romance",
+      "Sci-Fi"
+    ],
+    "updated_at": 1784934132
   },
   {
     "id": 165831,
@@ -11695,7 +11779,7 @@
       "Drama",
       "Sports"
     ],
-    "updated_at": 1784894504
+    "updated_at": 1784934133
   },
   {
     "id": 153498,
@@ -12036,7 +12120,7 @@
       "Fantasy",
       "Mahou Shoujo"
     ],
-    "updated_at": 1784912586
+    "updated_at": 1784934133
   },
   {
     "id": 137697,
@@ -12524,7 +12608,7 @@
       "Romance",
       "Sci-Fi"
     ],
-    "updated_at": 1784287761
+    "updated_at": 1784934133
   },
   {
     "id": 120733,
@@ -12669,7 +12753,7 @@
       "Slice of Life",
       "Supernatural"
     ],
-    "updated_at": 1784880083
+    "updated_at": 1784934128
   },
   {
     "id": 112295,
