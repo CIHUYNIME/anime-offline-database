@@ -131,7 +131,7 @@
       "Drama",
       "Fantasy"
     ],
-    "updated_at": 1784883622
+    "updated_at": 1784926949
   },
   {
     "id": 214067,
@@ -489,7 +489,7 @@
       "Psychological",
       "Sci-Fi"
     ],
-    "updated_at": 1784883713
+    "updated_at": 1784926949
   },
   {
     "id": 212391,
@@ -2803,7 +2803,7 @@
       "Music",
       "Slice of Life"
     ],
-    "updated_at": 1784912586
+    "updated_at": 1784926949
   },
   {
     "id": 194029,
@@ -3138,7 +3138,7 @@
     "genres": [
       "Action"
     ],
-    "updated_at": 1784798573
+    "updated_at": 1784926949
   },
   {
     "id": 191013,
@@ -3833,7 +3833,7 @@
       "Mystery",
       "Sci-Fi"
     ],
-    "updated_at": 1784905282
+    "updated_at": 1784926949
   },
   {
     "id": 186714,
@@ -4216,7 +4216,7 @@
       "Drama",
       "Fantasy"
     ],
-    "updated_at": 1784905282
+    "updated_at": 1784926949
   },
   {
     "id": 185537,
@@ -6232,7 +6232,7 @@
       "Drama",
       "Sports"
     ],
-    "updated_at": 1784905282
+    "updated_at": 1784926949
   },
   {
     "id": 174788,
@@ -6744,7 +6744,7 @@
       "Fantasy",
       "Mystery"
     ],
-    "updated_at": 1784563304
+    "updated_at": 1784926949
   },
   {
     "id": 169769,
@@ -6801,6 +6801,61 @@
       "Music"
     ],
     "updated_at": 1784448140
+  },
+  {
+    "id": 169762,
+    "id_mal": null,
+    "url": "https://anilist.co/anime/169762",
+    "title": {
+      "english": "Squishy Fish Eggs",
+      "romaji": "Tara Ko wo Sawattara",
+      "native": "たらこを触ったら"
+    },
+    "description": "When I touched the sack of cod roe for the first time, it felt exactly like my thighs. It was light pink and so soft. Maybe my whole world is made of squishy fish eggs.\n<br><br>\n(Source: Geidai Animation)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169762-FipguJREKB1z.jpg",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 3,
+    "status": "FINISHED",
+    "score": null,
+    "genres": [
+      "Psychological",
+      "Slice of Life"
+    ],
+    "updated_at": 1784926949
+  },
+  {
+    "id": 169761,
+    "id_mal": null,
+    "url": "https://anilist.co/anime/169761",
+    "title": {
+      "english": "Representation of Light",
+      "romaji": "Hikari no Hyoushou",
+      "native": "光の表象"
+    },
+    "description": "My deceased great-grandmother had been a part of my life as a portrait on the wall. I searched for ways to substantiate her life inside me and decided to photograph and develop pictures of her at two different ages.\n<br><br>\n(Source: Geidai Animation)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169761-ktz9SEbXiWxJ.jpg",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 4,
+    "status": "FINISHED",
+    "score": null,
+    "genres": [
+      "Psychological"
+    ],
+    "updated_at": 1784926949
   },
   {
     "id": 169756,
@@ -7109,6 +7164,33 @@
     "updated_at": 1784894504
   },
   {
+    "id": 169023,
+    "id_mal": null,
+    "url": "https://anilist.co/anime/169023",
+    "title": {
+      "english": "Grey Zone",
+      "romaji": "Grey Zone",
+      "native": "Grey Zone"
+    },
+    "description": "Lumps of clay fall into the grey space. The white clay turns into a man, the black clay into a monster. The two lose their flesh every time they move so they start a battle to stay alive.\n<br><br>\n(Source: Geidai Animation)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169023-c6i8qphOapDZ.jpg",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 5,
+    "status": "FINISHED",
+    "score": null,
+    "genres": [
+      "Horror"
+    ],
+    "updated_at": 1784926949
+  },
+  {
     "id": 169021,
     "id_mal": 53158,
     "url": "https://anilist.co/anime/169021",
@@ -7249,6 +7331,34 @@
       "Sci-Fi"
     ],
     "updated_at": 1784840550
+  },
+  {
+    "id": 168834,
+    "id_mal": null,
+    "url": "https://anilist.co/anime/168834",
+    "title": {
+      "english": "WOKE",
+      "romaji": "WOKE",
+      "native": "WOKE"
+    },
+    "description": "Right there in that little gap between fantasy and reality, me and you, movies and videos, concrete and abstract, is that nice cozy space.\n<br><br>\n(Source: Geidai Animation)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx168834-hnbEYinIuGrV.jpg",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 2,
+    "status": "FINISHED",
+    "score": null,
+    "genres": [
+      "Music",
+      "Psychological"
+    ],
+    "updated_at": 1784926949
   },
   {
     "id": 168833,
@@ -7606,7 +7716,7 @@
     "genres": [
       "Sci-Fi"
     ],
-    "updated_at": 1784912586
+    "updated_at": 1784926949
   },
   {
     "id": 165253,
@@ -11844,7 +11954,7 @@
     "genres": [
       "Action"
     ],
-    "updated_at": 1784242996
+    "updated_at": 1784926949
   },
   {
     "id": 142567,
@@ -12738,6 +12848,31 @@
     "updated_at": 1784584987
   },
   {
+    "id": 140590,
+    "id_mal": null,
+    "url": "https://anilist.co/anime/140590",
+    "title": {
+      "english": "MOM",
+      "romaji": "MOM",
+      "native": "MOM"
+    },
+    "description": "2013 Graduation work of Hidemi Yamashita at Tama Art University.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b140590-MeDcyhDa0Z1f.png",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/140590-Eh032lpzQmHx.jpg",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 3,
+    "status": "FINISHED",
+    "score": null,
+    "genres": [],
+    "updated_at": 1784926949
+  },
+  {
     "id": 140589,
     "id_mal": null,
     "url": "https://anilist.co/anime/140589",
@@ -12997,6 +13132,33 @@
     "score": null,
     "genres": [],
     "updated_at": 1784717244
+  },
+  {
+    "id": 140384,
+    "id_mal": null,
+    "url": "https://anilist.co/anime/140384",
+    "title": {
+      "english": "mubi",
+      "romaji": "Mubi",
+      "native": "夢寐"
+    },
+    "description": "Graduation work of Tomoe Obayashi at Tama Art University.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx140384-vEHiCc17WH96.png",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/140384-iRhpBkOfDsCs.jpg",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 6,
+    "status": "FINISHED",
+    "score": null,
+    "genres": [
+      "Psychological"
+    ],
+    "updated_at": 1784926949
   },
   {
     "id": 140382,
@@ -14247,7 +14409,7 @@
       "Action",
       "Comedy"
     ],
-    "updated_at": 1784836946
+    "updated_at": 1784926949
   },
   {
     "id": 133898,
@@ -14334,7 +14496,7 @@
       "Drama",
       "Sports"
     ],
-    "updated_at": 1784779303
+    "updated_at": 1784926949
   },
   {
     "id": 133007,
@@ -14764,6 +14926,34 @@
       "Psychological"
     ],
     "updated_at": 1784600440
+  },
+  {
+    "id": 131367,
+    "id_mal": 41734,
+    "url": "https://anilist.co/anime/131367",
+    "title": {
+      "english": "",
+      "romaji": "Jintai no Survival!",
+      "native": "人体のサバイバル!"
+    },
+    "description": "Anime film based on the Kagaku Manga Survival (Science Manga Survival) study manga series which follows children in various adventurous situations while weaving information about science into the story.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b131367-yDF51HGFcban.jpg",
+    "banner_url": "",
+    "schedule": "Musim: SUMMER 2020",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "SUMMER",
+    "year": 2020,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 46,
+    "status": "FINISHED",
+    "score": null,
+    "genres": [
+      "Action",
+      "Comedy"
+    ],
+    "updated_at": 1784926949
   },
   {
     "id": 131045,
@@ -15609,7 +15799,7 @@
       "Mystery",
       "Sci-Fi"
     ],
-    "updated_at": 1784905282
+    "updated_at": 1784926949
   },
   {
     "id": 127253,
@@ -15718,7 +15908,7 @@
     "genres": [
       "Drama"
     ],
-    "updated_at": 1784872919
+    "updated_at": 1784926949
   },
   {
     "id": 126863,
@@ -16226,7 +16416,7 @@
     "genres": [
       "Music"
     ],
-    "updated_at": 1784844170
+    "updated_at": 1784926949
   },
   {
     "id": 123394,
@@ -16256,6 +16446,33 @@
       "Sci-Fi"
     ],
     "updated_at": 1784923403
+  },
+  {
+    "id": 123198,
+    "id_mal": 42815,
+    "url": "https://anilist.co/anime/123198",
+    "title": {
+      "english": "",
+      "romaji": "Xin Yu Gong Yu Shan",
+      "native": "新愚公移山"
+    },
+    "description": "Tidak ada deskripsi.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx123198-9SX3IG2cRUS7.jpg",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 83,
+    "status": "FINISHED",
+    "score": null,
+    "genres": [
+      "Adventure"
+    ],
+    "updated_at": 1784926949
   },
   {
     "id": 123148,
@@ -16451,6 +16668,36 @@
       "Psychological"
     ],
     "updated_at": 1784502186
+  },
+  {
+    "id": 121856,
+    "id_mal": 42209,
+    "url": "https://anilist.co/anime/121856",
+    "title": {
+      "english": "",
+      "romaji": "Xi Xing Ji: Zaijian Wu Kong",
+      "native": "西行纪之再见悟空"
+    },
+    "description": "Tidak ada deskripsi.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx121856-jGdvLC88q7Yz.png",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 65,
+    "status": "FINISHED",
+    "score": 58,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy",
+      "Romance"
+    ],
+    "updated_at": 1784926949
   },
   {
     "id": 121838,
@@ -17388,6 +17635,31 @@
     "updated_at": 1784844170
   },
   {
+    "id": 120167,
+    "id_mal": null,
+    "url": "https://anilist.co/anime/120167",
+    "title": {
+      "english": "The Balloon Catcher",
+      "romaji": "The Balloon Catcher",
+      "native": "ザ・バルーン・キャッチャー"
+    },
+    "description": "An axe-human tries to get along with a balloon-human in Balloon City. But the axe human was watched by balloon police because his sharp blade frightens balloon humans.While the axe man tried to get along with them, a balloon human got killed on the gloomy subway platform.<br><br>\n(Source: Young Power 2020)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b120167-BvH5VuPdIA1O.jpg",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/120167-aJSwxMqAhmLp.jpg",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 6,
+    "status": "FINISHED",
+    "score": null,
+    "genres": [],
+    "updated_at": 1784926949
+  },
+  {
     "id": 119846,
     "id_mal": 28235,
     "url": "https://anilist.co/anime/119846",
@@ -17723,6 +17995,33 @@
       "Mystery"
     ],
     "updated_at": 1784880083
+  },
+  {
+    "id": 119086,
+    "id_mal": 42507,
+    "url": "https://anilist.co/anime/119086",
+    "title": {
+      "english": "",
+      "romaji": "Mamoru: Hikitsugu - Watashitachi no Kurashi",
+      "native": "守る 引き継ぐ 私たちの暮らし"
+    },
+    "description": "A young man who has left his parents' home follows the path of a customs officer. And what lies ahead is...",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b119086-NJ3IddpMt2Ye.jpg",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 4,
+    "status": "FINISHED",
+    "score": 49,
+    "genres": [
+      "Slice of Life"
+    ],
+    "updated_at": 1784926949
   },
   {
     "id": 119085,
@@ -18114,6 +18413,34 @@
       "Slice of Life"
     ],
     "updated_at": 1784743431
+  },
+  {
+    "id": 118036,
+    "id_mal": 42074,
+    "url": "https://anilist.co/anime/118036",
+    "title": {
+      "english": "",
+      "romaji": "Gon",
+      "native": "ごん"
+    },
+    "description": "A short film based on Niimi Nankichi's masterpiece, \"Gon, the Little Fox\", with a new story added based on an original interpretation.\nThe film depicts the existence of barriers that man and beast cannot overcome. The stage is natural woodland close to a vllage in Japan, which is home to many small lives. This sad, yet gentle tale that unfolds in the beauty of nature.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx118036-N3rEgjY1nJ9t.jpg",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/118036-EFYtjWjbKlxR.jpg",
+    "schedule": "Musim: WINTER 2020",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "WINTER",
+    "year": 2020,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 28,
+    "status": "FINISHED",
+    "score": 58,
+    "genres": [
+      "Adventure",
+      "Fantasy"
+    ],
+    "updated_at": 1784926949
   },
   {
     "id": 118035,
@@ -18811,13 +19138,13 @@
     "episodes": 1,
     "duration": 60,
     "status": "FINISHED",
-    "score": 79,
+    "score": 78,
     "genres": [
       "Fantasy",
       "Sci-Fi",
       "Slice of Life"
     ],
-    "updated_at": 1784836946
+    "updated_at": 1784926949
   },
   {
     "id": 117403,
@@ -19506,7 +19833,7 @@
     "genres": [
       "Fantasy"
     ],
-    "updated_at": 1784894504
+    "updated_at": 1784926949
   },
   {
     "id": 116225,
@@ -19562,7 +19889,7 @@
       "Comedy",
       "Mystery"
     ],
-    "updated_at": 1784912586
+    "updated_at": 1784926949
   },
   {
     "id": 116069,
@@ -20366,7 +20693,32 @@
     "genres": [
       "Sci-Fi"
     ],
-    "updated_at": 1784722320
+    "updated_at": 1784926949
+  },
+  {
+    "id": 114946,
+    "id_mal": 40037,
+    "url": "https://anilist.co/anime/114946",
+    "title": {
+      "english": "",
+      "romaji": "Michiru Rescue!",
+      "native": "みちるレスキュー！"
+    },
+    "description": "Four glowing orbs of different color fly through space, chasing after a dark red orb. After a fierce battle, only the blue orb falls to earth, into the room where Michiru is sleeping. But the dark red orb also appears on earth. The orb changes shape into the form of a boy, and starts to illegally raise Mejiro birds. Later, Michiru is at a flea market in a park, when a large flock of Mejiro birds cover the sky, and start attacking people. The yellow, silver, and purple orbs show up and almost manage to calm down the Mejiro, but violence is about to break out again. At that moment, Michiru hears a voice inside her head asking her to save the Mejiro.<br><br>\n(Source: Anime News Network)<br><br><i>The movie was planned to be screened on March 14, but the event was cancelled due to concerns of COVID-19 spread.</i>",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx114946-muGFJUwuiKWV.jpg",
+    "banner_url": "",
+    "schedule": "Musim: WINTER 2020",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "WINTER",
+    "year": 2020,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 24,
+    "status": "FINISHED",
+    "score": null,
+    "genres": [],
+    "updated_at": 1784926949
   },
   {
     "id": 114945,
@@ -20393,7 +20745,7 @@
     "genres": [
       "Slice of Life"
     ],
-    "updated_at": 1784804711
+    "updated_at": 1784926949
   },
   {
     "id": 114814,
@@ -21427,7 +21779,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784840550
+    "updated_at": 1784926949
   },
   {
     "id": 113345,
@@ -22166,7 +22518,7 @@
     "genres": [
       "Romance"
     ],
-    "updated_at": 1784905282
+    "updated_at": 1784926949
   },
   {
     "id": 112792,
@@ -23225,7 +23577,7 @@
       "Slice of Life",
       "Sports"
     ],
-    "updated_at": 1784912586
+    "updated_at": 1784926949
   },
   {
     "id": 111128,
@@ -24875,7 +25227,7 @@
       "Drama",
       "Romance"
     ],
-    "updated_at": 1784895297
+    "updated_at": 1784926949
   },
   {
     "id": 109100,
@@ -26786,7 +27138,7 @@
       "Romance",
       "Sci-Fi"
     ],
-    "updated_at": 1784905278
+    "updated_at": 1784926949
   },
   {
     "id": 106206,
@@ -27329,7 +27681,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784467107
+    "updated_at": 1784926949
   },
   {
     "id": 104568,
@@ -30373,7 +30725,7 @@
       "Mystery",
       "Supernatural"
     ],
-    "updated_at": 1784847750
+    "updated_at": 1784926949
   },
   {
     "id": 103166,
@@ -33833,7 +34185,7 @@
     "status": "FINISHED",
     "score": 51,
     "genres": [],
-    "updated_at": 1784902182
+    "updated_at": 1784926949
   },
   {
     "id": 101387,
@@ -34985,7 +35337,7 @@
       "Psychological",
       "Sci-Fi"
     ],
-    "updated_at": 1784844170
+    "updated_at": 1784926949
   },
   {
     "id": 100291,
@@ -36667,7 +37019,7 @@
       "Mystery",
       "Supernatural"
     ],
-    "updated_at": 1784808568
+    "updated_at": 1784926949
   },
   {
     "id": 98332,
@@ -39504,7 +39856,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784912586
+    "updated_at": 1784926949
   },
   {
     "id": 21295,
@@ -39706,7 +40058,7 @@
       "Sci-Fi",
       "Supernatural"
     ],
-    "updated_at": 1784912586
+    "updated_at": 1784926949
   },
   {
     "id": 21244,
@@ -40484,7 +40836,7 @@
       "Slice of Life",
       "Supernatural"
     ],
-    "updated_at": 1784912586
+    "updated_at": 1784926949
   },
   {
     "id": 20990,
@@ -41212,7 +41564,7 @@
       "Slice of Life",
       "Supernatural"
     ],
-    "updated_at": 1784912586
+    "updated_at": 1784926949
   },
   {
     "id": 20766,
@@ -41392,7 +41744,7 @@
       "Sci-Fi",
       "Supernatural"
     ],
-    "updated_at": 1784890929
+    "updated_at": 1784926949
   },
   {
     "id": 20736,
@@ -41424,7 +41776,7 @@
       "Sci-Fi",
       "Supernatural"
     ],
-    "updated_at": 1784890929
+    "updated_at": 1784926949
   },
   {
     "id": 20709,
@@ -41712,7 +42064,7 @@
       "Mystery",
       "Psychological"
     ],
-    "updated_at": 1784844170
+    "updated_at": 1784926949
   },
   {
     "id": 20549,
@@ -42502,7 +42854,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784912646
+    "updated_at": 1784926949
   },
   {
     "id": 19433,
@@ -44577,7 +44929,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784913103
+    "updated_at": 1784926949
   },
   {
     "id": 16662,
@@ -45218,7 +45570,7 @@
     "genres": [
       "Comedy"
     ],
-    "updated_at": 1784790078
+    "updated_at": 1784926949
   },
   {
     "id": 15813,
@@ -45559,7 +45911,7 @@
       "Mecha",
       "Sci-Fi"
     ],
-    "updated_at": 1784902189
+    "updated_at": 1784926949
   },
   {
     "id": 15197,
@@ -45588,7 +45940,7 @@
       "Mecha",
       "Sci-Fi"
     ],
-    "updated_at": 1784840550
+    "updated_at": 1784926949
   },
   {
     "id": 15177,
@@ -45761,7 +46113,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784484443
+    "updated_at": 1784926949
   },
   {
     "id": 14837,
@@ -46049,7 +46401,7 @@
       "Psychological",
       "Thriller"
     ],
-    "updated_at": 1784912586
+    "updated_at": 1784926949
   },
   {
     "id": 14349,
@@ -50185,7 +50537,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784912586
+    "updated_at": 1784926949
   },
   {
     "id": 9990,
@@ -51428,7 +51780,7 @@
       "Fantasy",
       "Mecha"
     ],
-    "updated_at": 1784916345
+    "updated_at": 1784926949
   },
   {
     "id": 9228,
@@ -52275,7 +52627,7 @@
       "Fantasy",
       "Mecha"
     ],
-    "updated_at": 1784917170
+    "updated_at": 1784926949
   },
   {
     "id": 8500,
@@ -53998,7 +54350,7 @@
     "genres": [
       "Fantasy"
     ],
-    "updated_at": 1784480696
+    "updated_at": 1784926949
   },
   {
     "id": 7715,
@@ -54743,7 +55095,7 @@
       "Sci-Fi",
       "Slice of Life"
     ],
-    "updated_at": 1784917346
+    "updated_at": 1784926949
   },
   {
     "id": 7451,
@@ -56262,7 +56614,7 @@
       "Fantasy",
       "Supernatural"
     ],
-    "updated_at": 1784917411
+    "updated_at": 1784926949
   },
   {
     "id": 6872,
@@ -57219,7 +57571,7 @@
       "Psychological",
       "Romance"
     ],
-    "updated_at": 1784917523
+    "updated_at": 1784926949
   },
   {
     "id": 6372,
@@ -59223,7 +59575,7 @@
       "Supernatural",
       "Thriller"
     ],
-    "updated_at": 1784917788
+    "updated_at": 1784926949
   },
   {
     "id": 5178,
@@ -59251,7 +59603,7 @@
       "Action",
       "Supernatural"
     ],
-    "updated_at": 1784917790
+    "updated_at": 1784926949
   },
   {
     "id": 5157,
@@ -60409,7 +60761,7 @@
       "Action",
       "Supernatural"
     ],
-    "updated_at": 1784918548
+    "updated_at": 1784926949
   },
   {
     "id": 4406,
@@ -61651,7 +62003,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784836946
+    "updated_at": 1784926949
   },
   {
     "id": 3847,
@@ -62976,7 +63328,7 @@
       "Drama",
       "Romance"
     ],
-    "updated_at": 1784563304
+    "updated_at": 1784926949
   },
   {
     "id": 3089,
@@ -63747,7 +64099,7 @@
       "Comedy",
       "Sci-Fi"
     ],
-    "updated_at": 1784635298
+    "updated_at": 1784926949
   },
   {
     "id": 2848,
@@ -63808,7 +64160,7 @@
       "Drama",
       "Fantasy"
     ],
-    "updated_at": 1784894504
+    "updated_at": 1784926949
   },
   {
     "id": 2830,
@@ -65136,7 +65488,7 @@
       "Supernatural",
       "Thriller"
     ],
-    "updated_at": 1784902189
+    "updated_at": 1784926949
   },
   {
     "id": 2591,
@@ -65622,7 +65974,7 @@
       "Action",
       "Adventure"
     ],
-    "updated_at": 1784890929
+    "updated_at": 1784926949
   },
   {
     "id": 2408,
@@ -66741,7 +67093,7 @@
     "genres": [
       "Sports"
     ],
-    "updated_at": 1784242996
+    "updated_at": 1784926949
   },
   {
     "id": 2118,
@@ -66768,7 +67120,7 @@
     "genres": [
       "Sports"
     ],
-    "updated_at": 1784489350
+    "updated_at": 1784926949
   },
   {
     "id": 2111,
@@ -68087,7 +68439,7 @@
       "Romance",
       "Supernatural"
     ],
-    "updated_at": 1784743431
+    "updated_at": 1784926949
   },
   {
     "id": 1796,
@@ -70754,7 +71106,7 @@
       "Drama",
       "Sci-Fi"
     ],
-    "updated_at": 1784815319
+    "updated_at": 1784926949
   },
   {
     "id": 1033,
@@ -70783,7 +71135,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784890929
+    "updated_at": 1784926949
   },
   {
     "id": 1032,
@@ -70870,7 +71222,7 @@
       "Drama",
       "Fantasy"
     ],
-    "updated_at": 1784890929
+    "updated_at": 1784926949
   },
   {
     "id": 1029,
@@ -71840,7 +72192,7 @@
       "Adventure",
       "Supernatural"
     ],
-    "updated_at": 1784751496
+    "updated_at": 1784926949
   },
   {
     "id": 815,
@@ -71984,7 +72336,7 @@
       "Psychological",
       "Supernatural"
     ],
-    "updated_at": 1784894504
+    "updated_at": 1784926949
   },
   {
     "id": 792,
@@ -72635,7 +72987,7 @@
       "Drama",
       "Sci-Fi"
     ],
-    "updated_at": 1784902189
+    "updated_at": 1784926949
   },
   {
     "id": 548,
@@ -72665,7 +73017,7 @@
       "Romance",
       "Sci-Fi"
     ],
-    "updated_at": 1784779303
+    "updated_at": 1784926949
   },
   {
     "id": 544,
@@ -74096,7 +74448,7 @@
       "Romance",
       "Sports"
     ],
-    "updated_at": 1784865759
+    "updated_at": 1784926949
   },
   {
     "id": 304,

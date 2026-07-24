@@ -695,7 +695,7 @@
       "Adventure",
       "Sci-Fi"
     ],
-    "updated_at": 1784912586
+    "updated_at": 1784926949
   },
   {
     "id": 213846,
@@ -1700,7 +1700,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784912586
+    "updated_at": 1784926949
   },
   {
     "id": 213298,
@@ -2348,7 +2348,7 @@
       "Psychological",
       "Sci-Fi"
     ],
-    "updated_at": 1784883713
+    "updated_at": 1784926949
   },
   {
     "id": 212507,
@@ -2781,7 +2781,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784883775
+    "updated_at": 1784926949
   },
   {
     "id": 211338,
@@ -3007,7 +3007,7 @@
       "Action",
       "Fantasy"
     ],
-    "updated_at": 1784902189
+    "updated_at": 1784926949
   },
   {
     "id": 210483,
@@ -3272,7 +3272,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784905282
+    "updated_at": 1784926949
   },
   {
     "id": 209963,
@@ -4452,7 +4452,7 @@
       "Supernatural",
       "Thriller"
     ],
-    "updated_at": 1784902189
+    "updated_at": 1784926949
   },
   {
     "id": 206814,
@@ -4964,7 +4964,7 @@
       "Drama",
       "Romance"
     ],
-    "updated_at": 1784884123
+    "updated_at": 1784926949
   },
   {
     "id": 205907,
@@ -7325,7 +7325,7 @@
     "genres": [
       "Action"
     ],
-    "updated_at": 1784890929
+    "updated_at": 1784926949
   },
   {
     "id": 198727,
@@ -7353,7 +7353,7 @@
       "Comedy",
       "Romance"
     ],
-    "updated_at": 1784912586
+    "updated_at": 1784926949
   },
   {
     "id": 198705,
@@ -8282,7 +8282,7 @@
       "Music",
       "Slice of Life"
     ],
-    "updated_at": 1784912586
+    "updated_at": 1784926949
   },
   {
     "id": 194030,
@@ -8510,7 +8510,7 @@
     "genres": [
       "Action"
     ],
-    "updated_at": 1784798573
+    "updated_at": 1784926949
   },
   {
     "id": 191013,
@@ -9854,7 +9854,7 @@
       "Comedy",
       "Sports"
     ],
-    "updated_at": 1784799026
+    "updated_at": 1784926949
   },
   {
     "id": 184072,
@@ -9882,7 +9882,7 @@
       "Comedy",
       "Slice of Life"
     ],
-    "updated_at": 1784840550
+    "updated_at": 1784926949
   },
   {
     "id": 183960,
@@ -10604,7 +10604,7 @@
       "Drama",
       "Sports"
     ],
-    "updated_at": 1784905282
+    "updated_at": 1784926949
   },
   {
     "id": 174427,
@@ -10953,6 +10953,31 @@
     "updated_at": 1784894504
   },
   {
+    "id": 167992,
+    "id_mal": 56182,
+    "url": "https://anilist.co/anime/167992",
+    "title": {
+      "english": "",
+      "romaji": "URAHARA",
+      "native": "URAHARA"
+    },
+    "description": "At once stylish and surreal, <i>URAHARA</i> depicts a strange and dystopic world where modern civilization is visually compared to rapidly-reproducing bacteria and brief moments of wonder and beauty can be found amid the chaos of urban sprawl.<br><br>\n\n(Source: Crunchyroll)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx167992-J6zlWxSYXuiP.jpg",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "",
+    "episodes": null,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [],
+    "updated_at": 1784926949
+  },
+  {
     "id": 167151,
     "id_mal": 56008,
     "url": "https://anilist.co/anime/167151",
@@ -11091,7 +11116,7 @@
     "genres": [
       "Sci-Fi"
     ],
-    "updated_at": 1784912586
+    "updated_at": 1784926949
   },
   {
     "id": 165523,
@@ -11323,7 +11348,7 @@
     "genres": [
       "Sci-Fi"
     ],
-    "updated_at": 1784714651
+    "updated_at": 1784926949
   },
   {
     "id": 162561,
@@ -11352,7 +11377,7 @@
       "Adventure",
       "Comedy"
     ],
-    "updated_at": 1784902189
+    "updated_at": 1784926949
   },
   {
     "id": 161410,
@@ -11407,7 +11432,7 @@
       "Mahou Shoujo",
       "Thriller"
     ],
-    "updated_at": 1784912586
+    "updated_at": 1784926949
   },
   {
     "id": 160275,
@@ -12156,7 +12181,7 @@
       "Action",
       "Comedy"
     ],
-    "updated_at": 1784836946
+    "updated_at": 1784926949
   },
   {
     "id": 133007,
