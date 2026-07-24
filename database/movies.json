@@ -4660,7 +4660,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784799151
+    "updated_at": 1784894504
   },
   {
     "id": 182317,
@@ -6120,7 +6120,7 @@
       "Music",
       "Romance"
     ],
-    "updated_at": 1784872919
+    "updated_at": 1784894504
   },
   {
     "id": 175138,
@@ -6488,7 +6488,7 @@
       "Drama",
       "Music"
     ],
-    "updated_at": 1784768483
+    "updated_at": 1784894504
   },
   {
     "id": 171145,
@@ -6719,6 +6719,33 @@
     "updated_at": 1784757804
   },
   {
+    "id": 169752,
+    "id_mal": null,
+    "url": "https://anilist.co/anime/169752",
+    "title": {
+      "english": "Jinxes",
+      "romaji": "Watashi ru-ru",
+      "native": "わたしルール"
+    },
+    "description": "A girl heading home from school is met with a bigger version of herself who poses arbitrary challenges with unspeakable consequences. The little girl tries to keep up but suddenly the stakes are raised.\n<br><br>\n(Source: Geidai Animation)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169752-IizIETxANoSH.jpg",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 3,
+    "status": "FINISHED",
+    "score": null,
+    "genres": [
+      "Slice of Life"
+    ],
+    "updated_at": 1784894504
+  },
+  {
     "id": 169746,
     "id_mal": 53598,
     "url": "https://anilist.co/anime/169746",
@@ -6803,6 +6830,34 @@
       "Sci-Fi"
     ],
     "updated_at": 1784656913
+  },
+  {
+    "id": 169026,
+    "id_mal": null,
+    "url": "https://anilist.co/anime/169026",
+    "title": {
+      "english": "Gals",
+      "romaji": "Onna Tomodachi",
+      "native": "女友だち"
+    },
+    "description": "Reminiscing the days I spent with an old friend, facing up to the narrow but deep gap that lies between us.\n<br><br>\n(Source: Geidai Animation)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169026-ssTpwejSWpU4.jpg",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 3,
+    "status": "FINISHED",
+    "score": null,
+    "genres": [
+      "Psychological",
+      "Slice of Life"
+    ],
+    "updated_at": 1784894504
   },
   {
     "id": 169021,
@@ -7000,7 +7055,7 @@
       "Adventure",
       "Sci-Fi"
     ],
-    "updated_at": 1784872919
+    "updated_at": 1784894504
   },
   {
     "id": 167984,
@@ -7332,7 +7387,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784836946
+    "updated_at": 1784894504
   },
   {
     "id": 164194,
@@ -9275,7 +9330,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784761401
+    "updated_at": 1784894504
   },
   {
     "id": 151117,
@@ -10408,7 +10463,7 @@
       "Fantasy",
       "Mystery"
     ],
-    "updated_at": 1784865759
+    "updated_at": 1784894504
   },
   {
     "id": 145704,
@@ -11067,7 +11122,7 @@
     "genres": [
       "Comedy"
     ],
-    "updated_at": 1784376216
+    "updated_at": 1784894504
   },
   {
     "id": 143154,
@@ -12059,6 +12114,31 @@
     "updated_at": 1784717209
   },
   {
+    "id": 140600,
+    "id_mal": null,
+    "url": "https://anilist.co/anime/140600",
+    "title": {
+      "english": "Factory",
+      "romaji": "Factory",
+      "native": "Factory"
+    },
+    "description": "Graduation work of Chihiro Okamoto at Tama Art University.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx140600-6eRE24YDvmE0.png",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 3,
+    "status": "FINISHED",
+    "score": null,
+    "genres": [],
+    "updated_at": 1784894504
+  },
+  {
     "id": 140591,
     "id_mal": null,
     "url": "https://anilist.co/anime/140591",
@@ -12157,6 +12237,31 @@
     "score": null,
     "genres": [],
     "updated_at": 1784530893
+  },
+  {
+    "id": 140584,
+    "id_mal": null,
+    "url": "https://anilist.co/anime/140584",
+    "title": {
+      "english": "Rendez-vous with you",
+      "romaji": "kimi to Rendez-vous",
+      "native": "君とランデブー"
+    },
+    "description": "Kaori Kumada's Tama Art University 2018 graduate project",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b140584-j1DT95gCVI1b.png",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/140584-kSGLtJzRBFs1.jpg",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 2,
+    "status": "FINISHED",
+    "score": null,
+    "genres": [],
+    "updated_at": 1784894504
   },
   {
     "id": 140580,
@@ -12344,6 +12449,34 @@
       "Mystery"
     ],
     "updated_at": 1784717244
+  },
+  {
+    "id": 140364,
+    "id_mal": null,
+    "url": "https://anilist.co/anime/140364",
+    "title": {
+      "english": "Namahage’s Obon Homecoming",
+      "romaji": "Namahage no Obon Kaeri",
+      "native": "ナマハゲのお盆帰り"
+    },
+    "description": "A visitor shows up in the middle of the night at the countryside house that Miyako shares with her father. Miyako goes to wake up her father, but the creature enters the house. Miyako stands frozen.\n<br><br>\nGraduate Work 2018, Tokyo University of the Arts, Graduate School of Film and New Media, Department of Animation\n<br><br>\n(Source: Geidai Animation)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx140364-aNZILRU8F1iZ.jpg",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 7,
+    "status": "FINISHED",
+    "score": null,
+    "genres": [
+      "Supernatural",
+      "Thriller"
+    ],
+    "updated_at": 1784894504
   },
   {
     "id": 140355,
@@ -12619,6 +12752,34 @@
     "updated_at": 1784462595
   },
   {
+    "id": 140035,
+    "id_mal": 41183,
+    "url": "https://anilist.co/anime/140035",
+    "title": {
+      "english": "Fluffiction",
+      "romaji": "Mofumofuiction",
+      "native": "モフモフィクション"
+    },
+    "description": "Fluffy turtles, fluffy monkeys, fluffy lizards. Discover the world populated by these mysteriously charming imaginary creatures. They have adorably fluffy bodies and are becoming an ever more common sight in daily life.\n<br><br>\nGraduate Work 2018, Tokyo University of the Arts, Graduate School of Film and New Media, Department of Animation\n<br><br>\n(Source: Geidai Animation)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b140035-VkTePFDGPtY7.jpg",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 7,
+    "status": "FINISHED",
+    "score": 51,
+    "genres": [
+      "Comedy",
+      "Fantasy"
+    ],
+    "updated_at": 1784894504
+  },
+  {
     "id": 139498,
     "id_mal": 49877,
     "url": "https://anilist.co/anime/139498",
@@ -12729,7 +12890,7 @@
       "Romance",
       "Sci-Fi"
     ],
-    "updated_at": 1784829633
+    "updated_at": 1784894504
   },
   {
     "id": 139310,
@@ -17700,7 +17861,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784872919
+    "updated_at": 1784894504
   },
   {
     "id": 117009,
@@ -18305,7 +18466,7 @@
     "genres": [
       "Fantasy"
     ],
-    "updated_at": 1784804600
+    "updated_at": 1784894504
   },
   {
     "id": 116069,
@@ -20910,7 +21071,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784808278
+    "updated_at": 1784894525
   },
   {
     "id": 112732,
@@ -20937,7 +21098,7 @@
     "genres": [
       "Sci-Fi"
     ],
-    "updated_at": 1784865759
+    "updated_at": 1784894530
   },
   {
     "id": 112612,
@@ -20967,7 +21128,7 @@
       "Mahou Shoujo",
       "Sci-Fi"
     ],
-    "updated_at": 1784549634
+    "updated_at": 1784894603
   },
   {
     "id": 112478,
@@ -21077,7 +21238,7 @@
       "Action",
       "Mecha"
     ],
-    "updated_at": 1784642561
+    "updated_at": 1784894640
   },
   {
     "id": 112308,
@@ -21106,7 +21267,7 @@
       "Mecha",
       "Sci-Fi"
     ],
-    "updated_at": 1784805415
+    "updated_at": 1784894669
   },
   {
     "id": 112306,
@@ -21192,7 +21353,7 @@
       "Mystery",
       "Supernatural"
     ],
-    "updated_at": 1784829632
+    "updated_at": 1784894709
   },
   {
     "id": 112135,
@@ -21220,7 +21381,7 @@
       "Drama",
       "Slice of Life"
     ],
-    "updated_at": 1784880083
+    "updated_at": 1784894711
   },
   {
     "id": 112030,
@@ -21276,7 +21437,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784880083
+    "updated_at": 1784894737
   },
   {
     "id": 112018,
@@ -21418,7 +21579,7 @@
       "Fantasy",
       "Slice of Life"
     ],
-    "updated_at": 1784805469
+    "updated_at": 1784894744
   },
   {
     "id": 111950,
@@ -21446,7 +21607,7 @@
       "Psychological",
       "Slice of Life"
     ],
-    "updated_at": 1784671478
+    "updated_at": 1784894745
   },
   {
     "id": 111949,
@@ -21530,7 +21691,7 @@
       "Music",
       "Slice of Life"
     ],
-    "updated_at": 1784805470
+    "updated_at": 1784894745
   },
   {
     "id": 111943,
@@ -21688,7 +21849,7 @@
     "genres": [
       "Sci-Fi"
     ],
-    "updated_at": 1784844170
+    "updated_at": 1784894753
   },
   {
     "id": 111794,
@@ -21745,7 +21906,34 @@
       "Music",
       "Romance"
     ],
-    "updated_at": 1784833321
+    "updated_at": 1784894772
+  },
+  {
+    "id": 111344,
+    "id_mal": null,
+    "url": "https://anilist.co/anime/111344",
+    "title": {
+      "english": "There was a man",
+      "romaji": "There was a man",
+      "native": "There was a man"
+    },
+    "description": "An one-armed mountaineer encounters a lost arm on a mountain of salt. Who did it belong to? Why was it left there?\n<br><br>\nGraduate Work 2017 by Moeka YAMAZAKI, Tokyo University of the Arts, Graduate School of Film and New Media, Department of Animation.\n<br><br>\n(Source: Geidai Animation)\n",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx111344-KNc0FAHIBlZM.jpg",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/111344-aPZbl0YL3fvX.jpg",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 9,
+    "status": "FINISHED",
+    "score": null,
+    "genres": [
+      "Psychological"
+    ],
+    "updated_at": 1784894813
   },
   {
     "id": 111312,
@@ -21802,7 +21990,7 @@
       "Drama",
       "Romance"
     ],
-    "updated_at": 1784805542
+    "updated_at": 1784894832
   },
   {
     "id": 111290,
@@ -21886,7 +22074,7 @@
       "Slice of Life",
       "Sports"
     ],
-    "updated_at": 1784805557
+    "updated_at": 1784894854
   },
   {
     "id": 111128,
@@ -21913,7 +22101,7 @@
     "genres": [
       "Comedy"
     ],
-    "updated_at": 1784297606
+    "updated_at": 1784894855
   },
   {
     "id": 111027,
@@ -22105,7 +22293,7 @@
     "genres": [
       "Comedy"
     ],
-    "updated_at": 1784646370
+    "updated_at": 1784894914
   },
   {
     "id": 110629,
@@ -22216,7 +22404,7 @@
       "Drama",
       "Fantasy"
     ],
-    "updated_at": 1784880083
+    "updated_at": 1784894934
   },
   {
     "id": 110413,
@@ -22245,7 +22433,7 @@
       "Adventure",
       "Mystery"
     ],
-    "updated_at": 1784880083
+    "updated_at": 1784894943
   },
   {
     "id": 110381,
@@ -22272,7 +22460,7 @@
     "genres": [
       "Psychological"
     ],
-    "updated_at": 1784890929
+    "updated_at": 1784894953
   },
   {
     "id": 110356,
@@ -22328,7 +22516,7 @@
       "Action",
       "Sci-Fi"
     ],
-    "updated_at": 1784805652
+    "updated_at": 1784895020
   },
   {
     "id": 110224,
@@ -22356,7 +22544,7 @@
       "Action",
       "Adventure"
     ],
-    "updated_at": 1784805660
+    "updated_at": 1784895033
   },
   {
     "id": 110214,
@@ -22439,7 +22627,7 @@
     "status": "FINISHED",
     "score": 45,
     "genres": [],
-    "updated_at": 1784805663
+    "updated_at": 1784895039
   },
   {
     "id": 110131,
@@ -22498,7 +22686,7 @@
       "Fantasy",
       "Supernatural"
     ],
-    "updated_at": 1784805681
+    "updated_at": 1784895066
   },
   {
     "id": 109942,
@@ -22554,7 +22742,7 @@
       "Adventure",
       "Comedy"
     ],
-    "updated_at": 1784805689
+    "updated_at": 1784895080
   },
   {
     "id": 109928,
@@ -22583,7 +22771,7 @@
       "Music",
       "Supernatural"
     ],
-    "updated_at": 1784833321
+    "updated_at": 1784895091
   },
   {
     "id": 109821,
@@ -22612,7 +22800,7 @@
       "Romance",
       "Thriller"
     ],
-    "updated_at": 1784805699
+    "updated_at": 1784895108
   },
   {
     "id": 109802,
@@ -22668,7 +22856,7 @@
     "genres": [
       "Mahou Shoujo"
     ],
-    "updated_at": 1784805706
+    "updated_at": 1784895119
   },
   {
     "id": 109689,
@@ -22695,7 +22883,7 @@
     "genres": [
       "Comedy"
     ],
-    "updated_at": 1784440942
+    "updated_at": 1784895125
   },
   {
     "id": 109631,
@@ -22827,7 +23015,7 @@
     "status": "FINISHED",
     "score": 43,
     "genres": [],
-    "updated_at": 1784805737
+    "updated_at": 1784895175
   },
   {
     "id": 109364,
@@ -23093,7 +23281,7 @@
     "genres": [
       "Romance"
     ],
-    "updated_at": 1783948368
+    "updated_at": 1784895176
   },
   {
     "id": 109353,
@@ -23312,7 +23500,7 @@
     "genres": [
       "Fantasy"
     ],
-    "updated_at": 1784847750
+    "updated_at": 1784895177
   },
   {
     "id": 109343,
@@ -23366,7 +23554,7 @@
     "status": "FINISHED",
     "score": 39,
     "genres": [],
-    "updated_at": 1784805739
+    "updated_at": 1784895178
   },
   {
     "id": 109215,
@@ -23394,7 +23582,7 @@
       "Action",
       "Adventure"
     ],
-    "updated_at": 1784805755
+    "updated_at": 1784895254
   },
   {
     "id": 109203,
@@ -23480,7 +23668,7 @@
       "Fantasy",
       "Slice of Life"
     ],
-    "updated_at": 1784844170
+    "updated_at": 1784895279
   },
   {
     "id": 109171,
@@ -23508,7 +23696,7 @@
       "Drama",
       "Romance"
     ],
-    "updated_at": 1784847750
+    "updated_at": 1784895285
   },
   {
     "id": 109125,
@@ -23536,7 +23724,7 @@
       "Drama",
       "Romance"
     ],
-    "updated_at": 1784805767
+    "updated_at": 1784895297
   },
   {
     "id": 109100,
@@ -23695,7 +23883,7 @@
     "status": "FINISHED",
     "score": 48,
     "genres": [],
-    "updated_at": 1783945542
+    "updated_at": 1784895339
   },
   {
     "id": 108981,
@@ -23723,7 +23911,7 @@
       "Action",
       "Drama"
     ],
-    "updated_at": 1784805782
+    "updated_at": 1784895361
   },
   {
     "id": 108938,
@@ -23829,7 +24017,7 @@
     "genres": [
       "Music"
     ],
-    "updated_at": 1784805812
+    "updated_at": 1784895779
   },
   {
     "id": 108630,
@@ -23857,7 +24045,7 @@
       "Comedy",
       "Mahou Shoujo"
     ],
-    "updated_at": 1784805832
+    "updated_at": 1784896055
   },
   {
     "id": 108626,
@@ -23885,7 +24073,7 @@
       "Action",
       "Sci-Fi"
     ],
-    "updated_at": 1784805833
+    "updated_at": 1784896059
   },
   {
     "id": 108623,
@@ -23914,7 +24102,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784890929
+    "updated_at": 1784896068
   },
   {
     "id": 108577,
@@ -23945,7 +24133,7 @@
       "Slice of Life",
       "Supernatural"
     ],
-    "updated_at": 1784880083
+    "updated_at": 1784896086
   },
   {
     "id": 108553,
@@ -23973,7 +24161,7 @@
       "Action",
       "Sci-Fi"
     ],
-    "updated_at": 1784815319
+    "updated_at": 1784896113
   },
   {
     "id": 108487,
@@ -24003,7 +24191,7 @@
       "Slice of Life",
       "Supernatural"
     ],
-    "updated_at": 1784829636
+    "updated_at": 1784896161
   },
   {
     "id": 108260,
@@ -24034,7 +24222,7 @@
       "Fantasy",
       "Sci-Fi"
     ],
-    "updated_at": 1784805944
+    "updated_at": 1784896245
   },
   {
     "id": 108170,
@@ -24089,7 +24277,7 @@
     "genres": [
       "Psychological"
     ],
-    "updated_at": 1784408567
+    "updated_at": 1784896287
   },
   {
     "id": 107929,
@@ -24172,7 +24360,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784805980
+    "updated_at": 1784896301
   },
   {
     "id": 107897,
@@ -24229,7 +24417,7 @@
       "Mystery",
       "Thriller"
     ],
-    "updated_at": 1784805982
+    "updated_at": 1784896304
   },
   {
     "id": 107875,
@@ -24285,7 +24473,7 @@
     "genres": [
       "Drama"
     ],
-    "updated_at": 1784805983
+    "updated_at": 1784896305
   },
   {
     "id": 107864,
@@ -24396,7 +24584,32 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784805995
+    "updated_at": 1784896321
+  },
+  {
+    "id": 107670,
+    "id_mal": 35403,
+    "url": "https://anilist.co/anime/107670",
+    "title": {
+      "english": "",
+      "romaji": "Manga Revue Haru",
+      "native": "漫画レビュー 春"
+    },
+    "description": "Spring has come and the animals are coming out of hibernation. The rabbits play jump rope, while the polar bear and the raccoon dog play leapfrog. The frog and the monkey race on a car and a bicycle. School has started. The monkey teaches arithmetic, but the pig is fast asleep. They begin exercising in the school yard. The birds sing in the trees. The old goat goes to the mountain to clear land, while the old black cat washes clothes by the river. She finds a peach floating down the river, and takes it out of the water expecting to find Momotaro, only to find an ogre inside. The carefree polar bear goes to the pond to go fishing. In the pond, a small fish is swallowed by larger fish that is then swallowed by an even larger fish, and so on. The polar bear is happy to have caught such a large fish, but as he starts to head home with the fish over his shoulder, the fish fall out one by one. The old goat plays a drum and the old black cat plays a shamisen, while the pig and the duck dance to the music. In the end, a large crowd gathers around a sumo tournament in which the champion must defeat five wrestlers in succession. The mouse defeats the squirrel, only to be chased off by the black cat. The black cat is defeated by the bulldog, who is then shoved out of the ring by the duck. The monkey defeats the duck, goat, pig, and polar bear one by one, and emerges as the champion. The elephant awards a trophy to the monkey. However, the monkey collapses under its weight.\n<br><br>\n[Source: Anidb, Japanese Animated Film Classics]",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b107670-kNzXUy6JddyA.jpg",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 9,
+    "status": "FINISHED",
+    "score": 40,
+    "genres": [],
+    "updated_at": 1784896336
   },
   {
     "id": 107625,
@@ -24424,7 +24637,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784854839
+    "updated_at": 1784896350
   },
   {
     "id": 107623,
@@ -24565,7 +24778,7 @@
       "Romance",
       "Supernatural"
     ],
-    "updated_at": 1784687279
+    "updated_at": 1784896380
   },
   {
     "id": 107313,
@@ -24594,7 +24807,7 @@
       "Adventure",
       "Comedy"
     ],
-    "updated_at": 1784865759
+    "updated_at": 1784896389
   },
   {
     "id": 107302,
@@ -24650,7 +24863,7 @@
       "Comedy",
       "Music"
     ],
-    "updated_at": 1784291823
+    "updated_at": 1784896398
   },
   {
     "id": 107208,
@@ -24678,7 +24891,7 @@
       "Action",
       "Sports"
     ],
-    "updated_at": 1784808291
+    "updated_at": 1784896410
   },
   {
     "id": 107203,
@@ -24707,7 +24920,7 @@
       "Slice of Life",
       "Sports"
     ],
-    "updated_at": 1784844170
+    "updated_at": 1784896410
   },
   {
     "id": 107202,
@@ -24737,7 +24950,7 @@
       "Slice of Life",
       "Sports"
     ],
-    "updated_at": 1784833311
+    "updated_at": 1784896411
   },
   {
     "id": 107199,
@@ -24765,7 +24978,7 @@
       "Comedy",
       "Mystery"
     ],
-    "updated_at": 1784291901
+    "updated_at": 1784896415
   },
   {
     "id": 107012,
@@ -24793,7 +25006,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784815319
+    "updated_at": 1784896444
   },
   {
     "id": 106930,
@@ -24875,7 +25088,7 @@
       "Fantasy",
       "Mahou Shoujo"
     ],
-    "updated_at": 1784466375
+    "updated_at": 1784896473
   },
   {
     "id": 106566,
@@ -24900,7 +25113,7 @@
     "status": "FINISHED",
     "score": 30,
     "genres": [],
-    "updated_at": 1784664204
+    "updated_at": 1784896514
   },
   {
     "id": 106565,
@@ -25362,7 +25575,7 @@
       "Fantasy",
       "Sci-Fi"
     ],
-    "updated_at": 1784790078
+    "updated_at": 1784896686
   },
   {
     "id": 106286,
@@ -25392,7 +25605,7 @@
       "Slice of Life",
       "Supernatural"
     ],
-    "updated_at": 1784829640
+    "updated_at": 1784896756
   },
   {
     "id": 106240,
@@ -25422,7 +25635,7 @@
       "Romance",
       "Sci-Fi"
     ],
-    "updated_at": 1784815319
+    "updated_at": 1784896795
   },
   {
     "id": 106206,
@@ -25451,7 +25664,7 @@
       "Drama",
       "Mystery"
     ],
-    "updated_at": 1784292230
+    "updated_at": 1784896806
   },
   {
     "id": 105907,
@@ -25794,7 +26007,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784815319
+    "updated_at": 1784894504
   },
   {
     "id": 104990,
@@ -28980,7 +29193,7 @@
       "Action",
       "Fantasy"
     ],
-    "updated_at": 1784847750
+    "updated_at": 1784894504
   },
   {
     "id": 103221,
@@ -30771,7 +30984,7 @@
       "Mystery",
       "Psychological"
     ],
-    "updated_at": 1784643428
+    "updated_at": 1784894504
   },
   {
     "id": 102439,
@@ -31821,7 +32034,7 @@
       "Music",
       "Slice of Life"
     ],
-    "updated_at": 1784840550
+    "updated_at": 1784894504
   },
   {
     "id": 101975,
@@ -32156,7 +32369,7 @@
       "Sci-Fi",
       "Thriller"
     ],
-    "updated_at": 1784646370
+    "updated_at": 1784894504
   },
   {
     "id": 101811,
@@ -33282,7 +33495,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784880083
+    "updated_at": 1784894504
   },
   {
     "id": 100653,
@@ -33515,6 +33728,33 @@
     "score": 44,
     "genres": [],
     "updated_at": 1783950607
+  },
+  {
+    "id": 100359,
+    "id_mal": 35681,
+    "url": "https://anilist.co/anime/100359",
+    "title": {
+      "english": "Engimon",
+      "romaji": "Engimon",
+      "native": "えんぎもん"
+    },
+    "description": "In the children's room of the Amanogawa household in the neighborhood of Shichifukujin, there are five Engimon: Haruo (a papier-mache dog), Kin-chan (a goldfish paper balloon), Hebikura (a bamboo snake), Chief Daruma (a daruma doll), and Koume (a Kokeshi doll). They are always watching over the siblings of the household, Himi and Yamato. One day, an Engimon from somewhere else appears, and Himi leaves the house to chase it. Haruo and his friends come alive, much to Yamato's surprise, and together they go to rescue Himi.\n<br><br>\n(Source: Anime News Network)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx100359-Z6GcEnlXaC5j.png",
+    "banner_url": "",
+    "schedule": "Musim: WINTER 2018",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "WINTER",
+    "year": 2018,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 24,
+    "status": "FINISHED",
+    "score": 44,
+    "genres": [
+      "Comedy"
+    ],
+    "updated_at": 1784894504
   },
   {
     "id": 100356,
@@ -34061,7 +34301,7 @@
       "Mahou Shoujo",
       "Sci-Fi"
     ],
-    "updated_at": 1784840550
+    "updated_at": 1784894504
   },
   {
     "id": 99547,
@@ -34205,7 +34445,7 @@
       "Mecha",
       "Sci-Fi"
     ],
-    "updated_at": 1784833321
+    "updated_at": 1784894504
   },
   {
     "id": 99212,
@@ -36653,13 +36893,13 @@
     "episodes": 1,
     "duration": 97,
     "status": "FINISHED",
-    "score": 72,
+    "score": 73,
     "genres": [
       "Comedy",
       "Drama",
       "Romance"
     ],
-    "updated_at": 1784761401
+    "updated_at": 1784894504
   },
   {
     "id": 21826,
@@ -36744,7 +36984,7 @@
       "Action",
       "Supernatural"
     ],
-    "updated_at": 1784754196
+    "updated_at": 1784894504
   },
   {
     "id": 21794,
@@ -36804,7 +37044,7 @@
       "Slice of Life",
       "Supernatural"
     ],
-    "updated_at": 1784890917
+    "updated_at": 1784894504
   },
   {
     "id": 21788,
@@ -38174,7 +38414,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784847750
+    "updated_at": 1784894504
   },
   {
     "id": 21265,
@@ -38923,7 +39163,7 @@
       "Psychological",
       "Sci-Fi"
     ],
-    "updated_at": 1784816019
+    "updated_at": 1784894504
   },
   {
     "id": 21042,
@@ -40297,7 +40537,7 @@
       "Comedy",
       "Mystery"
     ],
-    "updated_at": 1784890922
+    "updated_at": 1784894504
   },
   {
     "id": 20535,
@@ -40580,7 +40820,7 @@
       "Psychological",
       "Supernatural"
     ],
-    "updated_at": 1784844170
+    "updated_at": 1784894504
   },
   {
     "id": 20500,
@@ -41031,7 +41271,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784872919
+    "updated_at": 1784894504
   },
   {
     "id": 19271,
@@ -42860,7 +43100,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784880083
+    "updated_at": 1784894504
   },
   {
     "id": 16662,
@@ -43422,7 +43662,7 @@
       "Romance",
       "Sports"
     ],
-    "updated_at": 1784790078
+    "updated_at": 1784894504
   },
   {
     "id": 16063,
@@ -44332,7 +44572,7 @@
       "Psychological",
       "Thriller"
     ],
-    "updated_at": 1784890917
+    "updated_at": 1784894504
   },
   {
     "id": 14349,
@@ -44360,7 +44600,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784880083
+    "updated_at": 1784894504
   },
   {
     "id": 14347,
@@ -48356,7 +48596,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784840550
+    "updated_at": 1784894504
   },
   {
     "id": 9990,
@@ -48890,7 +49130,7 @@
       "Comedy",
       "Mystery"
     ],
-    "updated_at": 1784890921
+    "updated_at": 1784894504
   },
   {
     "id": 9773,
@@ -48947,7 +49187,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784872919
+    "updated_at": 1784894504
   },
   {
     "id": 9751,
@@ -53893,7 +54133,7 @@
     "genres": [
       "Adventure"
     ],
-    "updated_at": 1784823474
+    "updated_at": 1784894504
   },
   {
     "id": 6950,
@@ -58650,7 +58890,7 @@
       "Romance",
       "Sci-Fi"
     ],
-    "updated_at": 1784847750
+    "updated_at": 1784894504
   },
   {
     "id": 4106,
@@ -58679,7 +58919,7 @@
       "Comedy",
       "Sci-Fi"
     ],
-    "updated_at": 1784872919
+    "updated_at": 1784894504
   },
   {
     "id": 4099,
@@ -59864,7 +60104,7 @@
       "Adventure",
       "Horror"
     ],
-    "updated_at": 1784872919
+    "updated_at": 1784894504
   },
   {
     "id": 3602,
@@ -60999,7 +61239,7 @@
       "Fantasy",
       "Sci-Fi"
     ],
-    "updated_at": 1784880083
+    "updated_at": 1784894504
   },
   {
     "id": 2952,
@@ -61369,7 +61609,7 @@
       "Drama",
       "Fantasy"
     ],
-    "updated_at": 1784847750
+    "updated_at": 1784894504
   },
   {
     "id": 2830,
@@ -62724,7 +62964,7 @@
     "genres": [
       "Adventure"
     ],
-    "updated_at": 1784368905
+    "updated_at": 1784894504
   },
   {
     "id": 2560,
@@ -66876,7 +67116,7 @@
     "genres": [
       "Mystery"
     ],
-    "updated_at": 1784890922
+    "updated_at": 1784894504
   },
   {
     "id": 1363,
@@ -68104,7 +68344,7 @@
       "Mecha",
       "Sci-Fi"
     ],
-    "updated_at": 1784880083
+    "updated_at": 1784894504
   },
   {
     "id": 1092,
@@ -69545,7 +69785,7 @@
       "Psychological",
       "Supernatural"
     ],
-    "updated_at": 1784757804
+    "updated_at": 1784894504
   },
   {
     "id": 792,
@@ -69661,7 +69901,7 @@
       "Adventure",
       "Mystery"
     ],
-    "updated_at": 1784890922
+    "updated_at": 1784894504
   },
   {
     "id": 779,
@@ -69689,7 +69929,7 @@
       "Adventure",
       "Mystery"
     ],
-    "updated_at": 1784890923
+    "updated_at": 1784894504
   },
   {
     "id": 760,
@@ -70379,7 +70619,7 @@
       "Fantasy",
       "Sci-Fi"
     ],
-    "updated_at": 1784865759
+    "updated_at": 1784894504
   },
   {
     "id": 523,
@@ -71186,7 +71426,7 @@
       "Psychological",
       "Romance"
     ],
-    "updated_at": 1784840550
+    "updated_at": 1784894504
   },
   {
     "id": 437,
@@ -72164,7 +72404,7 @@
       "Psychological",
       "Sci-Fi"
     ],
-    "updated_at": 1784854844
+    "updated_at": 1784894504
   },
   {
     "id": 5,
@@ -72194,6 +72434,6 @@
       "Mystery",
       "Sci-Fi"
     ],
-    "updated_at": 1784844170
+    "updated_at": 1784894504
   }
 ]

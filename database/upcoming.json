@@ -580,7 +580,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784883633
+    "updated_at": 1784894504
   },
   {
     "id": 213872,
@@ -1150,7 +1150,7 @@
       "Drama",
       "Fantasy"
     ],
-    "updated_at": 1784883647
+    "updated_at": 1784894504
   },
   {
     "id": 213655,
@@ -3640,7 +3640,7 @@
       "Comedy",
       "Romance"
     ],
-    "updated_at": 1784883894
+    "updated_at": 1784894504
   },
   {
     "id": 209499,
@@ -3817,7 +3817,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784883911
+    "updated_at": 1784894504
   },
   {
     "id": 209218,
@@ -4365,7 +4365,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784884038
+    "updated_at": 1784894504
   },
   {
     "id": 206949,
@@ -4392,7 +4392,7 @@
     "genres": [
       "Fantasy"
     ],
-    "updated_at": 1784884056
+    "updated_at": 1784894504
   },
   {
     "id": 206876,
@@ -5225,7 +5225,7 @@
       "Action",
       "Adventure"
     ],
-    "updated_at": 1784884155
+    "updated_at": 1784894504
   },
   {
     "id": 205289,
@@ -6170,7 +6170,7 @@
       "Ecchi",
       "Romance"
     ],
-    "updated_at": 1784808291
+    "updated_at": 1784894504
   },
   {
     "id": 202503,
@@ -6427,7 +6427,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784880083
+    "updated_at": 1784894504
   },
   {
     "id": 202079,
@@ -6630,7 +6630,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784804496
+    "updated_at": 1784894504
   },
   {
     "id": 200294,
@@ -7091,7 +7091,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784840550
+    "updated_at": 1784894504
   },
   {
     "id": 199152,
@@ -8455,7 +8455,7 @@
     "genres": [
       "Sports"
     ],
-    "updated_at": 1784880083
+    "updated_at": 1784894504
   },
   {
     "id": 191656,
@@ -9513,7 +9513,7 @@
       "Action",
       "Adventure"
     ],
-    "updated_at": 1784890915
+    "updated_at": 1784894504
   },
   {
     "id": 185995,
@@ -10437,7 +10437,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784865759
+    "updated_at": 1784894504
   },
   {
     "id": 177704,
@@ -10922,6 +10922,35 @@
     "score": null,
     "genres": [],
     "updated_at": 1784592399
+  },
+  {
+    "id": 168245,
+    "id_mal": 62751,
+    "url": "https://anilist.co/anime/168245",
+    "title": {
+      "english": "",
+      "romaji": "Nian Fanchen",
+      "native": "念凡尘"
+    },
+    "description": "Li Nianfan transmigrated into the world of immortal cultivation with a mortal body. After learning that he had no talent for cultivation, he settled down to live an ordinary life. But only to find...\n<br><br>\nThe dog he adopted watched his writing and painting, and became the demon lord that ruled half the world. The tree he planted in the backyard listened to him play and sing, and grew into the world tree that held up the bridge between heaven and earth. A casual conversation enlightened a passing traveler to become the immortal sage that defined the era...\n<br><br>\n(Source: Tencent, translated)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx168245-aWbAktBRYTf6.jpg",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "ONA",
+    "episodes": null,
+    "duration": null,
+    "status": "NOT_YET_RELEASED",
+    "score": null,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "updated_at": 1784894504
   },
   {
     "id": 167151,
@@ -11641,7 +11670,7 @@
       "Drama",
       "Sports"
     ],
-    "updated_at": 1784872919
+    "updated_at": 1784894504
   },
   {
     "id": 153498,
@@ -11982,7 +12011,7 @@
       "Fantasy",
       "Mahou Shoujo"
     ],
-    "updated_at": 1784847750
+    "updated_at": 1784894504
   },
   {
     "id": 137697,
@@ -12726,7 +12755,7 @@
       "Action",
       "Sci-Fi"
     ],
-    "updated_at": 1784805652
+    "updated_at": 1784895020
   },
   {
     "id": 110206,
@@ -12841,7 +12870,7 @@
       "Comedy",
       "Ecchi"
     ],
-    "updated_at": 1784466436
+    "updated_at": 1784896517
   },
   {
     "id": 104083,
