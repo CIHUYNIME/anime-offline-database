@@ -708,7 +708,7 @@
     "genres": [
       "Fantasy"
     ],
-    "updated_at": 1784902189
+    "updated_at": 1784912586
   },
   {
     "id": 210309,
@@ -1240,7 +1240,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784797646
+    "updated_at": 1784912586
   },
   {
     "id": 206611,
@@ -2775,7 +2775,7 @@
       "Music",
       "Slice of Life"
     ],
-    "updated_at": 1784798395
+    "updated_at": 1784912586
   },
   {
     "id": 194029,
@@ -3026,7 +3026,7 @@
       "Romance",
       "Sci-Fi"
     ],
-    "updated_at": 1784880083
+    "updated_at": 1784912586
   },
   {
     "id": 191403,
@@ -3391,7 +3391,7 @@
       "Mecha",
       "Sci-Fi"
     ],
-    "updated_at": 1784656913
+    "updated_at": 1784912586
   },
   {
     "id": 187317,
@@ -5531,7 +5531,7 @@
       "Sci-Fi",
       "Supernatural"
     ],
-    "updated_at": 1784902189
+    "updated_at": 1784912586
   },
   {
     "id": 178436,
@@ -6123,6 +6123,34 @@
     "updated_at": 1784894504
   },
   {
+    "id": 175152,
+    "id_mal": 54135,
+    "url": "https://anilist.co/anime/175152",
+    "title": {
+      "english": "",
+      "romaji": "Sore Ike! Anpanman: Roboly to Pokapoka Present",
+      "native": "えいがそれいけ! アンパンマン ロボリィとぽかぽかプレゼント"
+    },
+    "description": "Tidak ada deskripsi.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b175152-YXxZfWW0PmBk.jpg",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/175152-CgDVXXWIBZZk.jpg",
+    "schedule": "Musim: SUMMER 2023",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "SUMMER",
+    "year": 2023,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 64,
+    "status": "FINISHED",
+    "score": null,
+    "genres": [
+      "Comedy",
+      "Fantasy"
+    ],
+    "updated_at": 1784912586
+  },
+  {
     "id": 175138,
     "id_mal": 58201,
     "url": "https://anilist.co/anime/175138",
@@ -6147,7 +6175,7 @@
     "genres": [
       "Comedy"
     ],
-    "updated_at": 1783948413
+    "updated_at": 1784912586
   },
   {
     "id": 174871,
@@ -6233,6 +6261,34 @@
       "Slice of Life"
     ],
     "updated_at": 1784865759
+  },
+  {
+    "id": 174124,
+    "id_mal": 21969,
+    "url": "https://anilist.co/anime/174124",
+    "title": {
+      "english": "",
+      "romaji": "Sore Ike! Anpanman: Yumeneko no Kuni no Nyanii",
+      "native": "それいけ！アンパンマン 夢猫の国のニャニィ"
+    },
+    "description": "Tidak ada deskripsi.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx174124-07sMkhxFAHSZ.png",
+    "banner_url": "",
+    "schedule": "Musim: SUMMER 2004",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "SUMMER",
+    "year": 2004,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 51,
+    "status": "FINISHED",
+    "score": null,
+    "genres": [
+      "Comedy",
+      "Fantasy"
+    ],
+    "updated_at": 1784912586
   },
   {
     "id": 173935,
@@ -6346,7 +6402,7 @@
       "Slice of Life",
       "Sports"
     ],
-    "updated_at": 1784840544
+    "updated_at": 1784912586
   },
   {
     "id": 172393,
@@ -6691,6 +6747,33 @@
     "updated_at": 1784448140
   },
   {
+    "id": 169756,
+    "id_mal": null,
+    "url": "https://anilist.co/anime/169756",
+    "title": {
+      "english": "",
+      "romaji": "Time Autobahn",
+      "native": "Time Autobahn"
+    },
+    "description": "A speeding car leaps onto the highway of Time and hurtles forward — its velocity is limitless.\n<br><br>\n(Source: Geidai Animation)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169756-1WCwyrzbCwSH.jpg",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 3,
+    "status": "FINISHED",
+    "score": null,
+    "genres": [
+      "Psychological"
+    ],
+    "updated_at": 1784912586
+  },
+  {
     "id": 169754,
     "id_mal": 56785,
     "url": "https://anilist.co/anime/169754",
@@ -6716,7 +6799,7 @@
       "Adventure",
       "Mystery"
     ],
-    "updated_at": 1784902189
+    "updated_at": 1784912586
   },
   {
     "id": 169752,
@@ -7302,7 +7385,7 @@
     "genres": [
       "Sci-Fi"
     ],
-    "updated_at": 1784790069
+    "updated_at": 1784912586
   },
   {
     "id": 165253,
@@ -10547,6 +10630,61 @@
     "updated_at": 1784716492
   },
   {
+    "id": 145481,
+    "id_mal": 21971,
+    "url": "https://anilist.co/anime/145481",
+    "title": {
+      "english": "",
+      "romaji": "Sore Ike! Anpanman: Yuuki no Hana ga Hiraku Toki",
+      "native": "それいけ!アンパンマン 勇気の花がひらくとき"
+    },
+    "description": "Double Feature with <a href=https://anilist.co/anime/121830>Sore Ike! Anpanman: Anpanman to Tanoshii Nakama-tachi</a>.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b145481-15lcGcMK9mNr.png",
+    "banner_url": "",
+    "schedule": "Musim: SUMMER 1999",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "SUMMER",
+    "year": 1999,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 57,
+    "status": "FINISHED",
+    "score": null,
+    "genres": [
+      "Fantasy"
+    ],
+    "updated_at": 1784912586
+  },
+  {
+    "id": 145479,
+    "id_mal": 21935,
+    "url": "https://anilist.co/anime/145479",
+    "title": {
+      "english": "",
+      "romaji": "Sore Ike! Anpanman: Anpanman to Okashi na Nakama",
+      "native": "それいけ!アンパンマン アンパンマンとおかしな仲間"
+    },
+    "description": "Double feature with <a href=https://anilist.co/anime/116045>Sore Ike! Anpanman: Tenohira o Taiyou ni</a>.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b145479-pnufwPeDM5sT.jpg",
+    "banner_url": "",
+    "schedule": "Musim: SUMMER 1998",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "SUMMER",
+    "year": 1998,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 25,
+    "status": "FINISHED",
+    "score": null,
+    "genres": [
+      "Comedy",
+      "Fantasy"
+    ],
+    "updated_at": 1784912586
+  },
+  {
     "id": 145445,
     "id_mal": null,
     "url": "https://anilist.co/anime/145445",
@@ -10599,6 +10737,31 @@
       "Fantasy"
     ],
     "updated_at": 1784872919
+  },
+  {
+    "id": 145440,
+    "id_mal": 54674,
+    "url": "https://anilist.co/anime/145440",
+    "title": {
+      "english": "",
+      "romaji": "ETERNITY",
+      "native": "ETERNITY"
+    },
+    "description": "A 21-minute journey through space that repeats creation and expansion.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx145440-0lmZE3cWLJiH.jpg",
+    "banner_url": "",
+    "schedule": "Musim: FALL 2022",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "FALL",
+    "year": 2022,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 21,
+    "status": "FINISHED",
+    "score": 45,
+    "genres": [],
+    "updated_at": 1784912586
   },
   {
     "id": 145434,
@@ -11525,7 +11688,7 @@
       "Fantasy",
       "Music"
     ],
-    "updated_at": 1784865759
+    "updated_at": 1784912586
   },
   {
     "id": 141167,
@@ -11554,6 +11717,34 @@
       "Adventure"
     ],
     "updated_at": 1784717138
+  },
+  {
+    "id": 141057,
+    "id_mal": 22037,
+    "url": "https://anilist.co/anime/141057",
+    "title": {
+      "english": "",
+      "romaji": "Sore Ike! Anpanman: Dokin-chan no Dokidoki Calendar",
+      "native": "それいけ!アンパンマン ドキンちゃんのドキドキカレンダー"
+    },
+    "description": "Dokin-chan is finally the star of the show, watch as they sing and dance on the big stage! Baikinman joins in on the fun of the variety show, and the two look back on Soreike! Anpanman's past episodes.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx141057-nhRp7YdV7xdJ.png",
+    "banner_url": "",
+    "schedule": "Musim: SUMMER 1991",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "SUMMER",
+    "year": 1991,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 50,
+    "status": "FINISHED",
+    "score": null,
+    "genres": [
+      "Comedy",
+      "Fantasy"
+    ],
+    "updated_at": 1784912586
   },
   {
     "id": 141056,
@@ -12582,7 +12773,7 @@
       "Music",
       "Supernatural"
     ],
-    "updated_at": 1784890929
+    "updated_at": 1784912586
   },
   {
     "id": 140315,
@@ -12611,6 +12802,34 @@
       "Slice of Life"
     ],
     "updated_at": 1784480696
+  },
+  {
+    "id": 140307,
+    "id_mal": 21959,
+    "url": "https://anilist.co/anime/140307",
+    "title": {
+      "english": "",
+      "romaji": "Sore Ike! Anpanman: Kuroyuki-hime to Mote Mote Baikinman",
+      "native": "それいけ! アンパンマン くろゆき姫とモテモテばいきんまん"
+    },
+    "description": "Baikinman is snatched by a black cloud inhabited by a princess who loves black, Kuroyukihime. She is immediately thrilled with him and starts making trouble with him, turning everything black. However, both Dokin-chan and Anpanman are determined to stop her.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b140307-mT78eooLCC0K.jpg",
+    "banner_url": "",
+    "schedule": "Musim: SUMMER 2005",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "SUMMER",
+    "year": 2005,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 20,
+    "status": "FINISHED",
+    "score": null,
+    "genres": [
+      "Comedy",
+      "Fantasy"
+    ],
+    "updated_at": 1784912586
   },
   {
     "id": 140238,
@@ -12777,7 +12996,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784894504
+    "updated_at": 1784912586
   },
   {
     "id": 139498,
@@ -12862,7 +13081,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784890929
+    "updated_at": 1784912586
   },
   {
     "id": 139311,
@@ -12890,7 +13109,7 @@
       "Romance",
       "Sci-Fi"
     ],
-    "updated_at": 1784894504
+    "updated_at": 1784912586
   },
   {
     "id": 139310,
@@ -13654,6 +13873,35 @@
       "Drama"
     ],
     "updated_at": 1784739743
+  },
+  {
+    "id": 132698,
+    "id_mal": 48784,
+    "url": "https://anilist.co/anime/132698",
+    "title": {
+      "english": "",
+      "romaji": "Oshiri Tantei: Sufuure-tou no Himitsu",
+      "native": "映画おしりたんてい スフーレ島のひみつ"
+    },
+    "description": "Tidak ada deskripsi.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx132698-x6sU5wFSxmFN.jpg",
+    "banner_url": "",
+    "schedule": "Musim: SUMMER 2021",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "SUMMER",
+    "year": 2021,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 38,
+    "status": "FINISHED",
+    "score": null,
+    "genres": [
+      "Comedy",
+      "Fantasy",
+      "Mystery"
+    ],
+    "updated_at": 1784912586
   },
   {
     "id": 132545,
@@ -15829,6 +16077,35 @@
     "updated_at": 1784287636
   },
   {
+    "id": 121707,
+    "id_mal": 36749,
+    "url": "https://anilist.co/anime/121707",
+    "title": {
+      "english": "",
+      "romaji": "Hiragana Danshi: Jo",
+      "native": "劇場版 ひらがな男子 ～序～"
+    },
+    "description": "<i>This is a movie adaptation of the Hiragana Danshi multimedia project which is one of the projects that started from a monthly variety show on Nihon TV titled \"Ichara,\" which gets ideas for 2D characters from the audience.</i><br><br>Hiragana Danshi are on a mission to try to find their comrades in a world where Japanese characters have disappeared.\n",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx121707-H1gWu7sp4Aga.png",
+    "banner_url": "",
+    "schedule": "Musim: WINTER 2018",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "WINTER",
+    "year": 2018,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 54,
+    "status": "FINISHED",
+    "score": 45,
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Fantasy"
+    ],
+    "updated_at": 1784912586
+  },
+  {
     "id": 121677,
     "id_mal": 42281,
     "url": "https://anilist.co/anime/121677",
@@ -16598,6 +16875,61 @@
     "updated_at": 1784480696
   },
   {
+    "id": 119845,
+    "id_mal": 53721,
+    "url": "https://anilist.co/anime/119845",
+    "title": {
+      "english": "In there",
+      "romaji": "Ano chi",
+      "native": "あの地"
+    },
+    "description": "This story is about a place long ago, before birth and before death, that everyone knows and no one knows.\n<br><br>\nGraduate Work 2018, Tokyo University of the Arts, Graduate School of Film and New Media, Department of Animation.\n<br><br>\n(Source: Geidai Animation)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b119845-jleIzQUTzCC2.jpg",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/119845-RGRfZcWaQbl8.jpg",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 4,
+    "status": "FINISHED",
+    "score": 47,
+    "genres": [
+      "Psychological"
+    ],
+    "updated_at": 1784912586
+  },
+  {
+    "id": 119838,
+    "id_mal": null,
+    "url": "https://anilist.co/anime/119838",
+    "title": {
+      "english": "light of temptation",
+      "romaji": "light of temptation",
+      "native": ""
+    },
+    "description": "The angel of wind exhales, sending fluffy dandelion seeds into a slow dance. Wind and light guide the downy seeds into the magical world of botany.\n<br><br>\nGraduate Work 2018, Tokyo University of the Arts, Graduate School of Film and New Media, Department of Animation.\n<br><br>\n(Source: Geidai Animation)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx119838-DLcua2vVN4Yr.jpg",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 4,
+    "status": "FINISHED",
+    "score": null,
+    "genres": [
+      "Music",
+      "Psychological"
+    ],
+    "updated_at": 1784912586
+  },
+  {
     "id": 119836,
     "id_mal": 27495,
     "url": "https://anilist.co/anime/119836",
@@ -16623,7 +16955,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784779303
+    "updated_at": 1784912586
   },
   {
     "id": 119777,
@@ -16736,6 +17068,33 @@
     "updated_at": 1784288063
   },
   {
+    "id": 119354,
+    "id_mal": 37145,
+    "url": "https://anilist.co/anime/119354",
+    "title": {
+      "english": "Mogu&Perol",
+      "romaji": "Morimori Shima no Mogu to Perol",
+      "native": "モリモリ島のモーグとペロル"
+    },
+    "description": "A story about two friends living on an island delicious food can be found everywhere. Mogu is a born chef and Perol loves to eat.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b119354-cAW5OydzsERM.jpg",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 8,
+    "status": "FINISHED",
+    "score": 51,
+    "genres": [
+      "Comedy"
+    ],
+    "updated_at": 1784912586
+  },
+  {
     "id": 119321,
     "id_mal": 42143,
     "url": "https://anilist.co/anime/119321",
@@ -16820,6 +17179,35 @@
       "Mystery"
     ],
     "updated_at": 1784880083
+  },
+  {
+    "id": 119085,
+    "id_mal": null,
+    "url": "https://anilist.co/anime/119085",
+    "title": {
+      "english": "Quest of the Battling Gods",
+      "romaji": "Kaijuu shinwa",
+      "native": "怪獣神話"
+    },
+    "description": "In the moments before death, one of the Battling Gods recalls his defeat in a magnificent fight. That battle transcended meta worlds, time and parallel universes as the Battling God faced off with another of his kind. All living creatures celebrated their fight with cries of joy.\n<br><br>\nGraduate Work 2018, Tokyo University of the Arts, Graduate School of Film and New Media, Department of Animation.\n<br><br>\n(Source: Geidai Animation)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b119085-MZ59q6DVyup2.jpg",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/119085-lfQIN3N2EyZi.jpg",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 13,
+    "status": "FINISHED",
+    "score": null,
+    "genres": [
+      "Fantasy",
+      "Mystery",
+      "Psychological"
+    ],
+    "updated_at": 1784912586
   },
   {
     "id": 118936,
@@ -18497,6 +18885,62 @@
     "updated_at": 1784894504
   },
   {
+    "id": 116225,
+    "id_mal": 39435,
+    "url": "https://anilist.co/anime/116225",
+    "title": {
+      "english": "",
+      "romaji": "Oshiri Tantei: Curry Naru Jiken",
+      "native": "映画おしりたんてい カレーなる じけん"
+    },
+    "description": "Tidak ada deskripsi.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx116225-ieDziHzmfAKW.jpg",
+    "banner_url": "",
+    "schedule": "Musim: SPRING 2019",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "SPRING",
+    "year": 2019,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 29,
+    "status": "FINISHED",
+    "score": null,
+    "genres": [
+      "Comedy",
+      "Mystery"
+    ],
+    "updated_at": 1784912586
+  },
+  {
+    "id": 116224,
+    "id_mal": 40863,
+    "url": "https://anilist.co/anime/116224",
+    "title": {
+      "english": "",
+      "romaji": "Oshiri Tantei: Tentou Mushi Iseki no Nazo",
+      "native": "映画おしりたんてい テントウムシいせきの なぞ"
+    },
+    "description": "Tidak ada deskripsi.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx116224-Q1KohLIB4449.jpg",
+    "banner_url": "",
+    "schedule": "Musim: SUMMER 2020",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "SUMMER",
+    "year": 2020,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 40,
+    "status": "FINISHED",
+    "score": null,
+    "genres": [
+      "Comedy",
+      "Mystery"
+    ],
+    "updated_at": 1784912586
+  },
+  {
     "id": 116069,
     "id_mal": 41307,
     "url": "https://anilist.co/anime/116069",
@@ -18605,7 +19049,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784804614
+    "updated_at": 1784912586
   },
   {
     "id": 116016,
@@ -22102,7 +22546,7 @@
       "Slice of Life",
       "Sports"
     ],
-    "updated_at": 1784894854
+    "updated_at": 1784912586
   },
   {
     "id": 111128,
@@ -24161,7 +24605,7 @@
       "Slice of Life",
       "Supernatural"
     ],
-    "updated_at": 1784896086
+    "updated_at": 1784912586
   },
   {
     "id": 108553,
@@ -32169,7 +32613,7 @@
       "Action",
       "Fantasy"
     ],
-    "updated_at": 1784468132
+    "updated_at": 1784912586
   },
   {
     "id": 101923,
@@ -32254,7 +32698,7 @@
       "Mahou Shoujo",
       "Supernatural"
     ],
-    "updated_at": 1784563296
+    "updated_at": 1784912586
   },
   {
     "id": 101904,
@@ -32455,7 +32899,7 @@
     "genres": [
       "Drama"
     ],
-    "updated_at": 1784468388
+    "updated_at": 1784912586
   },
   {
     "id": 101635,
@@ -32739,7 +33183,7 @@
       "Psychological",
       "Romance"
     ],
-    "updated_at": 1784880083
+    "updated_at": 1784912586
   },
   {
     "id": 101372,
@@ -33091,7 +33535,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784880083
+    "updated_at": 1784912586
   },
   {
     "id": 101126,
@@ -33122,7 +33566,7 @@
       "Romance",
       "Sci-Fi"
     ],
-    "updated_at": 1784872919
+    "updated_at": 1784912586
   },
   {
     "id": 101102,
@@ -33581,7 +34025,7 @@
       "Drama",
       "Romance"
     ],
-    "updated_at": 1784754196
+    "updated_at": 1784912586
   },
   {
     "id": 100643,
@@ -33755,7 +34199,32 @@
     "status": "FINISHED",
     "score": 44,
     "genres": [],
-    "updated_at": 1783950607
+    "updated_at": 1784912586
+  },
+  {
+    "id": 100360,
+    "id_mal": 35682,
+    "url": "https://anilist.co/anime/100360",
+    "title": {
+      "english": "Milky Panic twelve",
+      "romaji": "Milky Panic twelve",
+      "native": "ミルキーパニック twelve"
+    },
+    "description": "The town of Milky Town has a problem. All of the animals are drinking the milk from the company Milking, and are slowly turning into cats who have lost all motivation. The cat Milking hatched the evil plan in order to take over the world. By chance, Ippon, a tiger cowboy who used to work on the Charmy ranch, returns from his wanderings to Milky Town. There, he realizes the truth of what's happened to Milky Town, and works to save it alongside his friends. \n<br><br>\n(Source:Anime News Network)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx100360-RD8MOg1cP43d.png",
+    "banner_url": "",
+    "schedule": "Musim: WINTER 2018",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "WINTER",
+    "year": 2018,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 30,
+    "status": "FINISHED",
+    "score": null,
+    "genres": [],
+    "updated_at": 1784912586
   },
   {
     "id": 100359,
@@ -33807,7 +34276,7 @@
     "status": "FINISHED",
     "score": 51,
     "genres": [],
-    "updated_at": 1784902189
+    "updated_at": 1784912586
   },
   {
     "id": 100356,
@@ -34820,7 +35289,7 @@
       "Drama",
       "Sports"
     ],
-    "updated_at": 1784880083
+    "updated_at": 1784912586
   },
   {
     "id": 98876,
@@ -35223,7 +35692,7 @@
       "Sci-Fi",
       "Supernatural"
     ],
-    "updated_at": 1784808476
+    "updated_at": 1784912586
   },
   {
     "id": 98516,
@@ -38243,7 +38712,7 @@
       "Drama",
       "Fantasy"
     ],
-    "updated_at": 1784872919
+    "updated_at": 1784912586
   },
   {
     "id": 21324,
@@ -38356,7 +38825,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784840550
+    "updated_at": 1784912586
   },
   {
     "id": 21295,
@@ -38384,7 +38853,7 @@
       "Action",
       "Sci-Fi"
     ],
-    "updated_at": 1784815401
+    "updated_at": 1784912586
   },
   {
     "id": 21289,
@@ -38468,7 +38937,7 @@
       "Comedy",
       "Slice of Life"
     ],
-    "updated_at": 1784664204
+    "updated_at": 1784912586
   },
   {
     "id": 21266,
@@ -38497,7 +38966,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784894504
+    "updated_at": 1784912586
   },
   {
     "id": 21265,
@@ -38558,7 +39027,7 @@
       "Sci-Fi",
       "Supernatural"
     ],
-    "updated_at": 1784890929
+    "updated_at": 1784912586
   },
   {
     "id": 21244,
@@ -39336,7 +39805,7 @@
       "Slice of Life",
       "Supernatural"
     ],
-    "updated_at": 1784872919
+    "updated_at": 1784912586
   },
   {
     "id": 20990,
@@ -39974,7 +40443,7 @@
       "Psychological",
       "Supernatural"
     ],
-    "updated_at": 1784836946
+    "updated_at": 1784912586
   },
   {
     "id": 20786,
@@ -40034,7 +40503,7 @@
       "Comedy",
       "Sci-Fi"
     ],
-    "updated_at": 1784905282
+    "updated_at": 1784912586
   },
   {
     "id": 20768,
@@ -40064,7 +40533,7 @@
       "Slice of Life",
       "Supernatural"
     ],
-    "updated_at": 1784844170
+    "updated_at": 1784912586
   },
   {
     "id": 20766,
@@ -40092,7 +40561,7 @@
       "Music",
       "Slice of Life"
     ],
-    "updated_at": 1784902189
+    "updated_at": 1784912586
   },
   {
     "id": 20764,
@@ -40535,7 +41004,7 @@
       "Sci-Fi",
       "Slice of Life"
     ],
-    "updated_at": 1784613735
+    "updated_at": 1784912586
   },
   {
     "id": 20555,
@@ -41354,7 +41823,32 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784905278
+    "updated_at": 1784912646
+  },
+  {
+    "id": 19433,
+    "id_mal": 19433,
+    "url": "https://anilist.co/anime/19433",
+    "title": {
+      "english": "",
+      "romaji": "Sore Ike! Anpanman: Omusubiman",
+      "native": "それいけ! アンパンマン おむすびまん"
+    },
+    "description": "Tidak ada deskripsi.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx19433-Pr4ofs17Ocli.png",
+    "banner_url": "",
+    "schedule": "Musim: SUMMER 1990",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "SUMMER",
+    "year": 1990,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 30,
+    "status": "FINISHED",
+    "score": 45,
+    "genres": [],
+    "updated_at": 1784912653
   },
   {
     "id": 19271,
@@ -41548,7 +42042,7 @@
       "Psychological",
       "Sci-Fi"
     ],
-    "updated_at": 1784361737
+    "updated_at": 1784912802
   },
   {
     "id": 19193,
@@ -41578,7 +42072,7 @@
       "Romance",
       "Sci-Fi"
     ],
-    "updated_at": 1784808275
+    "updated_at": 1784912803
   },
   {
     "id": 19191,
@@ -41607,7 +42101,7 @@
       "Psychological",
       "Sci-Fi"
     ],
-    "updated_at": 1784581421
+    "updated_at": 1784912804
   },
   {
     "id": 19167,
@@ -41661,7 +42155,7 @@
     "genres": [
       "Comedy"
     ],
-    "updated_at": 1784833321
+    "updated_at": 1784912805
   },
   {
     "id": 19115,
@@ -41688,7 +42182,7 @@
     "genres": [
       "Drama"
     ],
-    "updated_at": 1784307881
+    "updated_at": 1784912817
   },
   {
     "id": 19049,
@@ -41745,7 +42239,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784872919
+    "updated_at": 1784912832
   },
   {
     "id": 18943,
@@ -41774,7 +42268,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784307887
+    "updated_at": 1784912833
   },
   {
     "id": 18907,
@@ -41827,7 +42321,7 @@
       "Action",
       "Sports"
     ],
-    "updated_at": 1784905282
+    "updated_at": 1784912876
   },
   {
     "id": 18591,
@@ -41855,7 +42349,35 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784307926
+    "updated_at": 1784912877
+  },
+  {
+    "id": 18533,
+    "id_mal": 18533,
+    "url": "https://anilist.co/anime/18533",
+    "title": {
+      "english": "",
+      "romaji": "Jungle Taitei Leo: Hon-o-ji",
+      "native": "ジャングル大帝:本能寺の変"
+    },
+    "description": "This is one of a number of original animated short films made for viewing at Tezuka Osamu World's Tezuka Osamu Animation Theater in Kyoto.\n<br><br>\n(Source: Anime News Network)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/18533.jpg",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 9,
+    "status": "FINISHED",
+    "score": 51,
+    "genres": [
+      "Adventure",
+      "Drama"
+    ],
+    "updated_at": 1784912877
   },
   {
     "id": 18489,
@@ -41937,7 +42459,62 @@
       "Comedy",
       "Mystery"
     ],
-    "updated_at": 1784307941
+    "updated_at": 1784912892
+  },
+  {
+    "id": 18357,
+    "id_mal": 18357,
+    "url": "https://anilist.co/anime/18357",
+    "title": {
+      "english": "",
+      "romaji": "Sore Ike! Anpanman: Tobase! Kibou no Handkerchief",
+      "native": "それいけ! アンパンマン とばせ! 希望のハンカチ"
+    },
+    "description": "25th Anpanman movie. Screened simultaneously with <em>Minna de Teasobi: Anpanman to Itazura Obake</em>.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/18357.jpg",
+    "banner_url": "",
+    "schedule": "Musim: SUMMER 2013",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "SUMMER",
+    "year": 2013,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 47,
+    "status": "FINISHED",
+    "score": null,
+    "genres": [
+      "Comedy",
+      "Fantasy"
+    ],
+    "updated_at": 1784912897
+  },
+  {
+    "id": 18355,
+    "id_mal": 18355,
+    "url": "https://anilist.co/anime/18355",
+    "title": {
+      "english": "",
+      "romaji": "Minna de Teasobi: Anpanman to Itazura Obake",
+      "native": "みんなでてあそび アンパンマンといたずらオバケ"
+    },
+    "description": "This short movie will be screened simultaneously with a new Anpanman movie - <em>Sore Ike! Anpanman: Tobase! Kibou no Handkerchief</em>.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/18355.jpg",
+    "banner_url": "",
+    "schedule": "Musim: SUMMER 2013",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "SUMMER",
+    "year": 2013,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 21,
+    "status": "FINISHED",
+    "score": null,
+    "genres": [
+      "Fantasy"
+    ],
+    "updated_at": 1784912898
   },
   {
     "id": 18323,
@@ -42054,6 +42631,34 @@
     "updated_at": 1784581421
   },
   {
+    "id": 18305,
+    "id_mal": 18305,
+    "url": "https://anilist.co/anime/18305",
+    "title": {
+      "english": "",
+      "romaji": "15 Sonyeon Uju Pyoryugi",
+      "native": "15소년 우주 표류기"
+    },
+    "description": "A 1980 film about a group of children saving the galaxy.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/18305.jpg",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 70,
+    "status": "FINISHED",
+    "score": 40,
+    "genres": [
+      "Action",
+      "Sci-Fi"
+    ],
+    "updated_at": 1784912899
+  },
+  {
     "id": 18063,
     "id_mal": 18063,
     "url": "https://anilist.co/anime/18063",
@@ -42074,9 +42679,9 @@
     "episodes": 1,
     "duration": 55,
     "status": "FINISHED",
-    "score": 51,
+    "score": 50,
     "genres": [],
-    "updated_at": 1784307980
+    "updated_at": 1784912925
   },
   {
     "id": 18061,
@@ -42101,7 +42706,7 @@
     "status": "FINISHED",
     "score": 52,
     "genres": [],
-    "updated_at": 1784376216
+    "updated_at": 1784912925
   },
   {
     "id": 17965,
@@ -42246,7 +42851,7 @@
       "Mecha",
       "Sci-Fi"
     ],
-    "updated_at": 1784844170
+    "updated_at": 1784912929
   },
   {
     "id": 17721,
@@ -42276,6 +42881,33 @@
     "updated_at": 1784329393
   },
   {
+    "id": 17719,
+    "id_mal": 17719,
+    "url": "https://anilist.co/anime/17719",
+    "title": {
+      "english": "",
+      "romaji": "Mahoutsukai Sally (Movie)",
+      "native": "魔法使いサリー"
+    },
+    "description": "Sally the Witch movie.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx17719-DJbHvjLoGwyv.png",
+    "banner_url": "",
+    "schedule": "Musim: SPRING 1990",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "SPRING",
+    "year": 1990,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 25,
+    "status": "FINISHED",
+    "score": 50,
+    "genres": [
+      "Comedy"
+    ],
+    "updated_at": 1784912947
+  },
+  {
     "id": 17699,
     "id_mal": 17699,
     "url": "https://anilist.co/anime/17699",
@@ -42302,7 +42934,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784865759
+    "updated_at": 1784912948
   },
   {
     "id": 17689,
@@ -42360,7 +42992,7 @@
       "Romance",
       "Sci-Fi"
     ],
-    "updated_at": 1784872919
+    "updated_at": 1784912949
   },
   {
     "id": 17673,
@@ -42444,7 +43076,7 @@
       "Sci-Fi",
       "Slice of Life"
     ],
-    "updated_at": 1784635298
+    "updated_at": 1784912954
   },
   {
     "id": 17479,
@@ -42500,7 +43132,7 @@
       "Drama",
       "Sports"
     ],
-    "updated_at": 1784376216
+    "updated_at": 1784912971
   },
   {
     "id": 17445,
@@ -42528,7 +43160,7 @@
       "Drama",
       "Sports"
     ],
-    "updated_at": 1784502186
+    "updated_at": 1784912971
   },
   {
     "id": 17443,
@@ -42614,7 +43246,35 @@
       "Music",
       "Slice of Life"
     ],
-    "updated_at": 1784847750
+    "updated_at": 1784912971
+  },
+  {
+    "id": 17357,
+    "id_mal": 17357,
+    "url": "https://anilist.co/anime/17357",
+    "title": {
+      "english": "",
+      "romaji": "Dokidoki! Precure: Mana Kekkon!!? Mirai ni Tsunagu Kibou no Dress",
+      "native": "ドキドキ! プリキュア マナ結婚!!? 未来につなぐ希望のドレス"
+    },
+    "description": "Mana is given a wedding dress which was worn by her mother and grandmother.<br>\r\nAll of sudden a mysterious man named Matthew appears and takes her to the past world.<br>\r\nMana is so glad to meet her grandmother and her beloved dog Maro that she had a long time ago, but she can't find two of her best friends Rikka and Alice. It looks her precious memories have been changed somehow.<br>\r\nIf things continue as is, the future will be ruined, too.<br>\r\nThe Precure girls have to fight to protect their memories and future!!<br><br>\r\n(Source: Crunchyroll)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx17357-psOCHOOkScfh.png",
+    "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/17357-rWXBB3kEzfzQ.jpg",
+    "schedule": "Musim: FALL 2013",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "FALL",
+    "year": 2013,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 70,
+    "status": "FINISHED",
+    "score": 66,
+    "genres": [
+      "Fantasy",
+      "Mahou Shoujo"
+    ],
+    "updated_at": 1784912975
   },
   {
     "id": 17269,
@@ -42643,7 +43303,34 @@
       "Drama",
       "Sci-Fi"
     ],
-    "updated_at": 1784308050
+    "updated_at": 1784912978
+  },
+  {
+    "id": 17263,
+    "id_mal": 17263,
+    "url": "https://anilist.co/anime/17263",
+    "title": {
+      "english": "",
+      "romaji": "Hanakappa Movie: Hana-sake! Pakkaan Chou no Kuni no Daibouken",
+      "native": "映画はなかっぱ 花さけ! パッカ~ん ♪蝶の国の大冒険"
+    },
+    "description": "In the film, butterfly warriors suddenly appear in Yamabiko and snatch away Hana Kappa's mother and others. Hana Kappa and his friends head out towards the mystery-filled land of butterflies. They overcome obstacles such as mountains and deserts and along the way, encounter a mysterious boy named Poru.\n<br><br>\n(Source: Anime News Network)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx17263-QugbHzramSbO.jpg",
+    "banner_url": "",
+    "schedule": "Musim: SPRING 2013",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "SPRING",
+    "year": 2013,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 50,
+    "status": "FINISHED",
+    "score": null,
+    "genres": [
+      "Comedy"
+    ],
+    "updated_at": 1784912986
   },
   {
     "id": 17219,
@@ -42670,7 +43357,7 @@
     "genres": [
       "Comedy"
     ],
-    "updated_at": 1784390608
+    "updated_at": 1784912992
   },
   {
     "id": 17215,
@@ -42697,7 +43384,7 @@
     "genres": [
       "Comedy"
     ],
-    "updated_at": 1784308063
+    "updated_at": 1784912992
   },
   {
     "id": 17213,
@@ -42724,7 +43411,7 @@
     "genres": [
       "Comedy"
     ],
-    "updated_at": 1784480696
+    "updated_at": 1784912992
   },
   {
     "id": 17187,
@@ -42754,7 +43441,7 @@
       "Sci-Fi",
       "Thriller"
     ],
-    "updated_at": 1784739747
+    "updated_at": 1784912993
   },
   {
     "id": 17165,
@@ -42811,7 +43498,7 @@
       "Drama",
       "Slice of Life"
     ],
-    "updated_at": 1784462595
+    "updated_at": 1784912996
   },
   {
     "id": 17117,
@@ -42866,7 +43553,7 @@
       "Comedy",
       "Ecchi"
     ],
-    "updated_at": 1783948386
+    "updated_at": 1784912996
   },
   {
     "id": 16904,
@@ -42894,7 +43581,7 @@
       "Action",
       "Supernatural"
     ],
-    "updated_at": 1784836946
+    "updated_at": 1784913016
   },
   {
     "id": 16870,
@@ -42926,7 +43613,7 @@
       "Romance",
       "Supernatural"
     ],
-    "updated_at": 1784854846
+    "updated_at": 1784913029
   },
   {
     "id": 16820,
@@ -42954,6 +43641,34 @@
       "Action"
     ],
     "updated_at": 1784308107
+  },
+  {
+    "id": 16812,
+    "id_mal": 16812,
+    "url": "https://anilist.co/anime/16812",
+    "title": {
+      "english": "",
+      "romaji": "77 Danui Bimil",
+      "native": "77단의 비밀"
+    },
+    "description": "A young man is looking for his kidnapped family.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/16812.jpg",
+    "banner_url": "",
+    "schedule": "Jadwal belum diketahui",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "",
+    "year": null,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 69,
+    "status": "FINISHED",
+    "score": 35,
+    "genres": [
+      "Action",
+      "Drama"
+    ],
+    "updated_at": 1784913032
   },
   {
     "id": 16808,
@@ -43040,7 +43755,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784808245
+    "updated_at": 1784913061
   },
   {
     "id": 16754,
@@ -43154,7 +43869,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784840550
+    "updated_at": 1784913095
   },
   {
     "id": 16664,
@@ -43183,7 +43898,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784894504
+    "updated_at": 1784913103
   },
   {
     "id": 16662,
@@ -43211,7 +43926,7 @@
       "Drama",
       "Romance"
     ],
-    "updated_at": 1784880083
+    "updated_at": 1784913130
   },
   {
     "id": 16570,
@@ -43436,7 +44151,7 @@
       "Romance",
       "Sports"
     ],
-    "updated_at": 1784308175
+    "updated_at": 1784913236
   },
   {
     "id": 16528,
@@ -43465,7 +44180,7 @@
       "Romance",
       "Sci-Fi"
     ],
-    "updated_at": 1784790078
+    "updated_at": 1784913247
   },
   {
     "id": 16490,
@@ -43521,7 +44236,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784397736
+    "updated_at": 1784912586
   },
   {
     "id": 16458,
@@ -44136,7 +44851,7 @@
       "Mecha",
       "Sci-Fi"
     ],
-    "updated_at": 1784902189
+    "updated_at": 1784912586
   },
   {
     "id": 15199,
@@ -44625,7 +45340,7 @@
     "genres": [
       "Adventure"
     ],
-    "updated_at": 1784484574
+    "updated_at": 1784912586
   },
   {
     "id": 14353,
@@ -44655,7 +45370,7 @@
       "Psychological",
       "Thriller"
     ],
-    "updated_at": 1784894504
+    "updated_at": 1784912586
   },
   {
     "id": 14349,
@@ -44683,7 +45398,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784905277
+    "updated_at": 1784912586
   },
   {
     "id": 14347,
@@ -45718,7 +46433,7 @@
       "Comedy",
       "Drama"
     ],
-    "updated_at": 1784829621
+    "updated_at": 1784912586
   },
   {
     "id": 12857,
@@ -46094,7 +46809,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784790078
+    "updated_at": 1784912586
   },
   {
     "id": 12295,
@@ -46685,7 +47400,7 @@
     "genres": [
       "Comedy"
     ],
-    "updated_at": 1784779303
+    "updated_at": 1784912586
   },
   {
     "id": 11755,
@@ -48514,6 +49229,118 @@
     "updated_at": 1784577030
   },
   {
+    "id": 10060,
+    "id_mal": 10060,
+    "url": "https://anilist.co/anime/10060",
+    "title": {
+      "english": "",
+      "romaji": "Sore Ike! Anpanman: Sora Tobu Ehon to Glass no Kutsu",
+      "native": "それいけ!アンパンマン 空とぶ絵本とガラスの靴"
+    },
+    "description": "Double feature with <a href=https://anilist.co/anime/145475/Sore-Ike-Anpanman-Baikinman-to-3bai-Punch/>Sore Ike! Anpanman: Baikinman to 3-bai Punch</a>.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx10060-PNSiPgQEV0wr.png",
+    "banner_url": "",
+    "schedule": "Musim: SUMMER 1996",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "SUMMER",
+    "year": 1996,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 60,
+    "status": "FINISHED",
+    "score": 49,
+    "genres": [
+      "Comedy",
+      "Fantasy"
+    ],
+    "updated_at": 1784912586
+  },
+  {
+    "id": 10059,
+    "id_mal": 10059,
+    "url": "https://anilist.co/anime/10059",
+    "title": {
+      "english": "",
+      "romaji": "Sore Ike! Anpanman: Tsumikijou no Himitsu",
+      "native": "それいけ! アンパンマン つみき城のひみつ"
+    },
+    "description": "Tidak ada deskripsi.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/10059.jpg",
+    "banner_url": "",
+    "schedule": "Musim: SPRING 1992",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "SPRING",
+    "year": 1992,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 60,
+    "status": "FINISHED",
+    "score": 48,
+    "genres": [
+      "Comedy",
+      "Fantasy"
+    ],
+    "updated_at": 1784912586
+  },
+  {
+    "id": 10058,
+    "id_mal": 10058,
+    "url": "https://anilist.co/anime/10058",
+    "title": {
+      "english": "",
+      "romaji": "Sore Ike! Anpanman: Yuurei Sen wo Yattsukero!!",
+      "native": "それいけ！アンパンマン ゆうれい船をやっつけろ！！"
+    },
+    "description": "The separated sisters Melonpanna and Rollpanna both befriend a mysterious horse Marin. She shows Rollpanna her treasure, a sunken ship she raises from the depths. Baikinman sees this and is inspired to build a ghost ship of his own with help from Dr. Hiyari. He also plots to turn Rollpanna fully evil in order to use her to defeat Anpanman.\n<br><br>\n(Source: Anime News Network)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b10058-x6U8O2be21hC.png",
+    "banner_url": "",
+    "schedule": "Musim: SUMMER 1995",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "SUMMER",
+    "year": 1995,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 86,
+    "status": "FINISHED",
+    "score": 49,
+    "genres": [
+      "Comedy",
+      "Fantasy"
+    ],
+    "updated_at": 1784912586
+  },
+  {
+    "id": 10056,
+    "id_mal": 10056,
+    "url": "https://anilist.co/anime/10056",
+    "title": {
+      "english": "",
+      "romaji": "Sore Ike! Anpanman: Kyouryuu Nosshii no Daibouken",
+      "native": "それいけ! アンパンマン 恐竜ノッシーの大冒険"
+    },
+    "description": "Tidak ada deskripsi.",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/10056.jpg",
+    "banner_url": "",
+    "schedule": "Musim: SUMMER 1993",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "SUMMER",
+    "year": 1993,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 60,
+    "status": "FINISHED",
+    "score": 46,
+    "genres": [
+      "Comedy",
+      "Fantasy"
+    ],
+    "updated_at": 1784912586
+  },
+  {
     "id": 10055,
     "id_mal": 10055,
     "url": "https://anilist.co/anime/10055",
@@ -48565,7 +49392,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784890929
+    "updated_at": 1784912586
   },
   {
     "id": 10016,
@@ -48679,7 +49506,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784894504
+    "updated_at": 1784912586
   },
   {
     "id": 9990,
@@ -49692,7 +50519,7 @@
       "Comedy",
       "Slice of Life"
     ],
-    "updated_at": 1784577440
+    "updated_at": 1784912586
   },
   {
     "id": 9303,
@@ -49834,7 +50661,7 @@
     "genres": [
       "Drama"
     ],
-    "updated_at": 1784620910
+    "updated_at": 1784912586
   },
   {
     "id": 9260,
@@ -54390,7 +55217,7 @@
       "Fantasy",
       "Supernatural"
     ],
-    "updated_at": 1784880083
+    "updated_at": 1784912586
   },
   {
     "id": 6872,
@@ -58885,7 +59712,7 @@
       "Drama",
       "Fantasy"
     ],
-    "updated_at": 1784865759
+    "updated_at": 1784912586
   },
   {
     "id": 4147,
@@ -60916,7 +61743,7 @@
       "Action",
       "Sci-Fi"
     ],
-    "updated_at": 1784840550
+    "updated_at": 1784912586
   },
   {
     "id": 3072,
@@ -63047,7 +63874,7 @@
     "genres": [
       "Adventure"
     ],
-    "updated_at": 1784894504
+    "updated_at": 1784912586
   },
   {
     "id": 2560,
@@ -63626,7 +64453,7 @@
       "Fantasy",
       "Sci-Fi"
     ],
-    "updated_at": 1784872919
+    "updated_at": 1784912586
   },
   {
     "id": 2393,
@@ -69025,7 +69852,7 @@
       "Adventure",
       "Sci-Fi"
     ],
-    "updated_at": 1784905282
+    "updated_at": 1784912586
   },
   {
     "id": 905,
@@ -69286,7 +70113,7 @@
       "Adventure",
       "Sci-Fi"
     ],
-    "updated_at": 1784847746
+    "updated_at": 1784912586
   },
   {
     "id": 896,
@@ -69373,7 +70200,7 @@
       "Adventure",
       "Sci-Fi"
     ],
-    "updated_at": 1784880083
+    "updated_at": 1784912586
   },
   {
     "id": 893,
@@ -72487,7 +73314,7 @@
       "Psychological",
       "Sci-Fi"
     ],
-    "updated_at": 1784905282
+    "updated_at": 1784912586
   },
   {
     "id": 5,
@@ -72517,6 +73344,6 @@
       "Mystery",
       "Sci-Fi"
     ],
-    "updated_at": 1784894504
+    "updated_at": 1784912586
   }
 ]
