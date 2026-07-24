@@ -1676,21 +1676,21 @@
     "description": "Based on a series of <i>Chiikawa</i> comics posted on X by Nagano from March to November 2023, known as the <i>\"Siren Arc\"</i>.<br><br>\nOne day, while Chiikawa and Hachiware were relaxing in the square, Usagi suddenly appeared with a flyer stuck to its face. When Hachiware checked the flyer, it was an invitation reading “Special Invitation to a Special Island.”<br><br>\n\nLured by promises like “Get 100x rewards for simple island quests!” and “Limited-edition island ramen, exclusive sweets—sweet and spicy treats all practically free!”, Chiikawa and the others decided to go on the island retreat. Boarding the ship alongside Rakko, who was suspicious of the flyer's contents, the group landed on the island... only to find something waiting for them there...!?<br><br>\n(Source: Official Site, translated)",
     "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx202717-kHDn7BRiP9CR.jpg",
     "banner_url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/202717-CuvdrT9VX9Gr.jpg",
-    "schedule": "Episode 1 tayang pada 23/7/2026, 22.00.00 WIB",
-    "next_episode": 1,
-    "next_airing_timestamp": 1784818800,
+    "schedule": "Musim: SUMMER 2026",
+    "next_episode": null,
+    "next_airing_timestamp": null,
     "season": "SUMMER",
     "year": 2026,
     "format": "MOVIE",
     "episodes": 1,
     "duration": null,
-    "status": "NOT_YET_RELEASED",
+    "status": "FINISHED",
     "score": null,
     "genres": [
       "Comedy",
       "Slice of Life"
     ],
-    "updated_at": 1784797876
+    "updated_at": 1784872919
   },
   {
     "id": 202429,
@@ -1946,7 +1946,7 @@
       "Romance",
       "Supernatural"
     ],
-    "updated_at": 1784798066
+    "updated_at": 1784872919
   },
   {
     "id": 199154,
@@ -2465,7 +2465,7 @@
       "Drama",
       "Supernatural"
     ],
-    "updated_at": 1784833315
+    "updated_at": 1784872919
   },
   {
     "id": 194879,
@@ -2829,7 +2829,7 @@
       "Drama",
       "Supernatural"
     ],
-    "updated_at": 1784854841
+    "updated_at": 1784872919
   },
   {
     "id": 192002,
@@ -3139,7 +3139,7 @@
     "genres": [
       "Comedy"
     ],
-    "updated_at": 1784815319
+    "updated_at": 1784872919
   },
   {
     "id": 187892,
@@ -3667,7 +3667,7 @@
       "Music",
       "Slice of Life"
     ],
-    "updated_at": 1784798841
+    "updated_at": 1784872919
   },
   {
     "id": 186603,
@@ -5244,7 +5244,7 @@
       "Drama",
       "Sci-Fi"
     ],
-    "updated_at": 1784854849
+    "updated_at": 1784872919
   },
   {
     "id": 178788,
@@ -5364,7 +5364,7 @@
       "Sci-Fi",
       "Supernatural"
     ],
-    "updated_at": 1784833321
+    "updated_at": 1784872919
   },
   {
     "id": 178436,
@@ -5953,7 +5953,7 @@
       "Music",
       "Romance"
     ],
-    "updated_at": 1784865759
+    "updated_at": 1784872919
   },
   {
     "id": 175138,
@@ -6833,7 +6833,7 @@
       "Adventure",
       "Sci-Fi"
     ],
-    "updated_at": 1784865759
+    "updated_at": 1784872919
   },
   {
     "id": 167984,
@@ -7109,7 +7109,7 @@
       "Music",
       "Slice of Life"
     ],
-    "updated_at": 1784628152
+    "updated_at": 1784872919
   },
   {
     "id": 164293,
@@ -7393,7 +7393,7 @@
       "Drama",
       "Sports"
     ],
-    "updated_at": 1784854842
+    "updated_at": 1784872919
   },
   {
     "id": 163143,
@@ -7792,7 +7792,7 @@
       "Mystery",
       "Sci-Fi"
     ],
-    "updated_at": 1784779303
+    "updated_at": 1784872919
   },
   {
     "id": 159981,
@@ -9139,7 +9139,7 @@
       "Psychological",
       "Supernatural"
     ],
-    "updated_at": 1784836946
+    "updated_at": 1784872919
   },
   {
     "id": 151089,
@@ -10376,7 +10376,7 @@
     "genres": [
       "Fantasy"
     ],
-    "updated_at": 1784716497
+    "updated_at": 1784872919
   },
   {
     "id": 145434,
@@ -11046,7 +11046,7 @@
       "Romance",
       "Supernatural"
     ],
-    "updated_at": 1784716886
+    "updated_at": 1784872919
   },
   {
     "id": 142684,
@@ -13298,7 +13298,7 @@
     "genres": [
       "Mahou Shoujo"
     ],
-    "updated_at": 1784722354
+    "updated_at": 1784872919
   },
   {
     "id": 132776,
@@ -14571,7 +14571,7 @@
     "genres": [
       "Drama"
     ],
-    "updated_at": 1784520159
+    "updated_at": 1784872919
   },
   {
     "id": 126863,
@@ -16606,7 +16606,7 @@
       "Romance",
       "Sci-Fi"
     ],
-    "updated_at": 1784840538
+    "updated_at": 1784872919
   },
   {
     "id": 118110,
@@ -17478,7 +17478,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784865759
+    "updated_at": 1784872919
   },
   {
     "id": 117009,
@@ -21994,7 +21994,7 @@
       "Drama",
       "Fantasy"
     ],
-    "updated_at": 1784805613
+    "updated_at": 1784872919
   },
   {
     "id": 110413,
@@ -26557,7 +26557,7 @@
       "Comedy",
       "Slice of Life"
     ],
-    "updated_at": 1784739742
+    "updated_at": 1784872919
   },
   {
     "id": 104215,
@@ -26806,7 +26806,7 @@
       "Romance",
       "Supernatural"
     ],
-    "updated_at": 1784678672
+    "updated_at": 1784872919
   },
   {
     "id": 104128,
@@ -29234,7 +29234,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784833321
+    "updated_at": 1784872919
   },
   {
     "id": 102715,
@@ -31965,7 +31965,7 @@
       "Sci-Fi",
       "Thriller"
     ],
-    "updated_at": 1784833321
+    "updated_at": 1784872919
   },
   {
     "id": 101704,
@@ -32597,7 +32597,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784840541
+    "updated_at": 1784872919
   },
   {
     "id": 101166,
@@ -32628,7 +32628,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784844170
+    "updated_at": 1784872919
   },
   {
     "id": 101126,
@@ -32659,7 +32659,7 @@
       "Romance",
       "Sci-Fi"
     ],
-    "updated_at": 1784840550
+    "updated_at": 1784872919
   },
   {
     "id": 101102,
@@ -33060,7 +33060,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784865759
+    "updated_at": 1784872919
   },
   {
     "id": 100653,
@@ -33752,7 +33752,7 @@
       "Mecha",
       "Sci-Fi"
     ],
-    "updated_at": 1784844170
+    "updated_at": 1784872919
   },
   {
     "id": 99705,
@@ -34678,7 +34678,7 @@
     "genres": [
       "Sports"
     ],
-    "updated_at": 1784833321
+    "updated_at": 1784872919
   },
   {
     "id": 98576,
@@ -35516,7 +35516,7 @@
       "Mecha",
       "Sci-Fi"
     ],
-    "updated_at": 1784808730
+    "updated_at": 1784872919
   },
   {
     "id": 97860,
@@ -36353,7 +36353,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784833321
+    "updated_at": 1784872919
   },
   {
     "id": 21864,
@@ -37639,7 +37639,7 @@
       "Psychological",
       "Supernatural"
     ],
-    "updated_at": 1784829636
+    "updated_at": 1784872919
   },
   {
     "id": 21377,
@@ -37667,7 +37667,7 @@
       "Comedy",
       "Sports"
     ],
-    "updated_at": 1784840550
+    "updated_at": 1784872919
   },
   {
     "id": 21335,
@@ -37698,7 +37698,7 @@
       "Drama",
       "Fantasy"
     ],
-    "updated_at": 1784844170
+    "updated_at": 1784872919
   },
   {
     "id": 21324,
@@ -38791,7 +38791,7 @@
       "Slice of Life",
       "Supernatural"
     ],
-    "updated_at": 1784840550
+    "updated_at": 1784872919
   },
   {
     "id": 20990,
@@ -40809,7 +40809,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784840550
+    "updated_at": 1784872919
   },
   {
     "id": 19271,
@@ -41200,7 +41200,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784865759
+    "updated_at": 1784872919
   },
   {
     "id": 18943,
@@ -41815,7 +41815,7 @@
       "Romance",
       "Sci-Fi"
     ],
-    "updated_at": 1784761401
+    "updated_at": 1784872919
   },
   {
     "id": 17673,
@@ -44194,7 +44194,7 @@
       "Romance",
       "Sci-Fi"
     ],
-    "updated_at": 1784836944
+    "updated_at": 1784872919
   },
   {
     "id": 14267,
@@ -44505,7 +44505,7 @@
       "Action",
       "Adventure"
     ],
-    "updated_at": 1784854845
+    "updated_at": 1784872919
   },
   {
     "id": 13513,
@@ -47453,7 +47453,7 @@
       "Adventure",
       "Mystery"
     ],
-    "updated_at": 1784854845
+    "updated_at": 1784872919
   },
   {
     "id": 10563,
@@ -47706,7 +47706,7 @@
       "Drama",
       "Supernatural"
     ],
-    "updated_at": 1784840550
+    "updated_at": 1784872919
   },
   {
     "id": 10313,
@@ -47819,7 +47819,7 @@
       "Romance",
       "Supernatural"
     ],
-    "updated_at": 1784844170
+    "updated_at": 1784872919
   },
   {
     "id": 10218,
@@ -48725,7 +48725,7 @@
       "Fantasy",
       "Romance"
     ],
-    "updated_at": 1784833321
+    "updated_at": 1784872919
   },
   {
     "id": 9751,
@@ -51500,6 +51500,35 @@
     "updated_at": 1784312021
   },
   {
+    "id": 7786,
+    "id_mal": 7786,
+    "url": "https://anilist.co/anime/7786",
+    "title": {
+      "english": "Arabian Nights: Sinbad's Adventures",
+      "romaji": "Arabian Nights: Sindbad no Bouken",
+      "native": "アラビアンナイト・シンドバッドの冒険"
+    },
+    "description": "This is a work by Toei Animation Co., Ltd. with screenplay by Tezuka Osamu in cooperation with novelist Kita Morio. Sinbad and a boy, Ali, are stowaways on the transport ship \"Boulder,\" but they win their proper places on the ship after currying the favor of the captain. Then the beautiful princess Samir jumps on board to escape a wicked minister who wants to marry her, and Sinbad goes through a series of adventures to protect the princess. The story unfolds with ups and downs, full of dramatic episodes from the original story such as a rough-and-tumble battle with a strange bird that is guarding diamonds.<br>\n(Source: <a href=\"http://ja.tezuka.co.jp/anime/sakuhin/mv/mv002.html\" target=\"_blank\">http://ja.tezuka.co.jp/anime/sakuhin/mv/mv002.html</a> )",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/7786.jpg",
+    "banner_url": "",
+    "schedule": "Musim: SUMMER 1962",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "SUMMER",
+    "year": 1962,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 81,
+    "status": "FINISHED",
+    "score": 47,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "updated_at": 1784872919
+  },
+  {
     "id": 7781,
     "id_mal": 7781,
     "url": "https://anilist.co/anime/7781",
@@ -53816,7 +53845,7 @@
       "Fantasy",
       "Supernatural"
     ],
-    "updated_at": 1784847750
+    "updated_at": 1784872919
   },
   {
     "id": 6872,
@@ -54834,7 +54863,7 @@
       "Mecha",
       "Sci-Fi"
     ],
-    "updated_at": 1784844170
+    "updated_at": 1784872919
   },
   {
     "id": 6281,
@@ -56073,7 +56102,7 @@
       "Drama",
       "Mystery"
     ],
-    "updated_at": 1784748498
+    "updated_at": 1784872919
   },
   {
     "id": 5421,
@@ -57744,7 +57773,7 @@
       "Action",
       "Supernatural"
     ],
-    "updated_at": 1784847750
+    "updated_at": 1784872919
   },
   {
     "id": 4406,
@@ -58428,7 +58457,7 @@
       "Comedy",
       "Sci-Fi"
     ],
-    "updated_at": 1784847750
+    "updated_at": 1784872919
   },
   {
     "id": 4099,
@@ -59613,7 +59642,7 @@
       "Adventure",
       "Horror"
     ],
-    "updated_at": 1784865759
+    "updated_at": 1784872919
   },
   {
     "id": 3602,
@@ -61150,6 +61179,35 @@
     "updated_at": 1784376216
   },
   {
+    "id": 2770,
+    "id_mal": 2770,
+    "url": "https://anilist.co/anime/2770",
+    "title": {
+      "english": "Lensman",
+      "romaji": "SF Shin Seiki Lensman",
+      "native": "SF新世紀レンズマン"
+    },
+    "description": "Kim is living a peaceful life with his father as a farmer on their planet until one day when a runaway spaceship is detected moving at a high speed towards his father's farm. To rescue his father Kim jumps on board the ship and manages to land it safely before it crashes. <br><br>\nOn board the ship he finds a severely Injured lone survivor whom with his dying words begs Kim to take something of his to the Galactic Fleet. He then transfers something that was attached to his arm onto Kim's arm. The thing was a Lens and its transferring should have been impossible and having it has turned Kim into a Lensman. Other than giving Kim unknown powers it also contains vital information for the victory of the Galactic Fleet over the evil Boskone Empire. <br><br>\nKim must now using the spaceship Britannia bring the Lense to the Galactic Fleet. But this is not an easy task when Lord Helmet of the Boskone Empire is willing to use everything in his power to stop him.\n<br><br>\n(Source: Anime News Network)",
+    "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2770.jpg",
+    "banner_url": "",
+    "schedule": "Musim: SUMMER 1984",
+    "next_episode": null,
+    "next_airing_timestamp": null,
+    "season": "SUMMER",
+    "year": 1984,
+    "format": "MOVIE",
+    "episodes": 1,
+    "duration": 107,
+    "status": "FINISHED",
+    "score": 57,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "updated_at": 1784872919
+  },
+  {
     "id": 2761,
     "id_mal": 2761,
     "url": "https://anilist.co/anime/2761",
@@ -61405,7 +61463,7 @@
     "genres": [
       "Fantasy"
     ],
-    "updated_at": 1784700176
+    "updated_at": 1784872919
   },
   {
     "id": 2675,
@@ -62619,7 +62677,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "updated_at": 1784600387
+    "updated_at": 1784872919
   },
   {
     "id": 2470,
@@ -63023,7 +63081,7 @@
       "Fantasy",
       "Sci-Fi"
     ],
-    "updated_at": 1784847750
+    "updated_at": 1784872919
   },
   {
     "id": 2393,
@@ -63569,7 +63627,7 @@
       "Drama",
       "Fantasy"
     ],
-    "updated_at": 1784687248
+    "updated_at": 1784872919
   },
   {
     "id": 2178,
@@ -65282,7 +65340,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784847750
+    "updated_at": 1784872919
   },
   {
     "id": 1825,
@@ -65756,7 +65814,7 @@
       "Mecha",
       "Sci-Fi"
     ],
-    "updated_at": 1784700176
+    "updated_at": 1784872919
   },
   {
     "id": 1552,
@@ -66045,7 +66103,7 @@
       "Action",
       "Comedy"
     ],
-    "updated_at": 1784751155
+    "updated_at": 1784872919
   },
   {
     "id": 1474,
@@ -66194,7 +66252,7 @@
       "Mystery",
       "Sci-Fi"
     ],
-    "updated_at": 1784751169
+    "updated_at": 1784872919
   },
   {
     "id": 1433,
@@ -67431,7 +67489,7 @@
       "Romance",
       "Sci-Fi"
     ],
-    "updated_at": 1784751272
+    "updated_at": 1784872919
   },
   {
     "id": 1130,
@@ -67647,7 +67705,7 @@
       "Drama",
       "Fantasy"
     ],
-    "updated_at": 1784865759
+    "updated_at": 1784872919
   },
   {
     "id": 1116,
@@ -67708,7 +67766,7 @@
       "Horror",
       "Supernatural"
     ],
-    "updated_at": 1784751290
+    "updated_at": 1784872919
   },
   {
     "id": 1106,
@@ -68180,7 +68238,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "updated_at": 1784854840
+    "updated_at": 1784872919
   },
   {
     "id": 1028,
@@ -68208,7 +68266,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "updated_at": 1784779303
+    "updated_at": 1784872919
   },
   {
     "id": 1010,
@@ -68301,7 +68359,7 @@
       "Mahou Shoujo",
       "Romance"
     ],
-    "updated_at": 1784829631
+    "updated_at": 1784872919
   },
   {
     "id": 974,
@@ -68712,7 +68770,7 @@
       "Adventure",
       "Sci-Fi"
     ],
-    "updated_at": 1784865759
+    "updated_at": 1784872919
   },
   {
     "id": 895,
@@ -71794,7 +71852,7 @@
       "Action",
       "Drama"
     ],
-    "updated_at": 1784844161
+    "updated_at": 1784872919
   },
   {
     "id": 43,
